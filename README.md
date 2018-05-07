@@ -24,7 +24,7 @@ Postalcodes for (currently only) Germany in XML, JSON and CSV format.
 
 ## License
 
-Original creator: Data comes from http://www.geonames.org/
-Modifications: Transformed dataset into JSON, XML, CSV
+- Original creator: Data comes from http://www.geonames.org/
+- Modifications: Transformed dataset into JSON, XML, CSV
 
-Type: This work is licensed under a Creative Commons Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/ 
+- Type: This work is licensed under a Creative Commons Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/ 
