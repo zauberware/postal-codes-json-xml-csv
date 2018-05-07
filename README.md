@@ -1,12 +1,19 @@
 # Postal codes in different formats
 
-Postalcodes for (currently only) Germany in XML, JSON and CSV format. 
+Postal codes for German speaking countries.
+
 
 ## Countries
 
-- Germany (16481 postal codes)
+- Germany (16481 total)
+- Austria (18957 total)
+- Switzerland (4356 total)
+- Liechtenstein (13 total)
+- Luxembourg (4217 total)
 
 ## Format
+
+Ready to go files in XML, JSON and CSV format. 
 
 ### JSON
 ```

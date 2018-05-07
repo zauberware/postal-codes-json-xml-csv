@@ -1,0 +1,14 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+LI,9490,Vaduz,Vaduz,7001,"","","","",47.1431,9.5256
+LI,9495,Triesen,Triesen,7002,"","","","",47.0805,9.5515
+LI,9496,Balzers,Balzers,7003,"","","","",47.067,9.5078
+LI,9497,Triesenberg,Triesenberg,7004,"","","","",47.115,9.5831
+LI,9494,Schaan,Schaan,7005,"","","","",47.1746,9.5247
+LI,9498,Planken,Planken,7006,"","","","",47.1821,9.5574
+LI,9485,Nendeln,Eschen,7007,"","","","",47.1984,9.5501
+LI,9492,Eschen,Eschen,7007,"","","","",47.209,9.5223
+LI,9486,Schaanwald,Mauren,7008,"","","","",47.2151,9.562
+LI,9493,Mauren FL,Mauren,7008,"","","","",47.2191,9.5464
+LI,9487,Gamprin-Bendern,Gamprin,7009,"","","","",47.2249,9.5135
+LI,9491,Ruggell,Ruggell,7010,"","","","",47.2484,9.5345
+LI,9488,Schellenberg,Schellenberg,7011,"","","","",47.2318,9.5478
