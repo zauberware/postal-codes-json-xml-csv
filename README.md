@@ -1,4 +1,4 @@
-# Postal codes in different formats
+# Postal Codes in JSON, XML and CSV format
 
 Postal codes for German speaking countries.
 
