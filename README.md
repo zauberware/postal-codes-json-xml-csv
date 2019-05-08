@@ -68,4 +68,4 @@ Ready to go files in XML, JSON and CSV format.
 - Type: This work is licensed under a Creative Commons Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/ 
 
 ## Do you need a developer who can work with these records?
-Contact us here [www.zauberware.com](zauberware.com)
+Contact us here [www.zauberware.com](https://www.zauberware.com)
