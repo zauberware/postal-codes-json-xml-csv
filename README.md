@@ -1,6 +1,6 @@
 # Postal Codes in JSON, XML and CSV format
 
-Postal codes for German speaking countries.
+Postal codes for German speaking countries. 
 
 
 ## Countries
@@ -59,9 +59,13 @@ Ready to go files in XML, JSON and CSV format.
 
 ```
 
+
 ## License
 
 - Original creator: Data comes from http://www.geonames.org/
 - Modifications: Transformed dataset into JSON, XML, CSV
 
 - Type: This work is licensed under a Creative Commons Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/ 
+
+## You need a developer to work with these data sets?
+Contact us here [www.zauberware.com](zauberware.com)
