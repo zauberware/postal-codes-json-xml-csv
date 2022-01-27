@@ -1,0 +1,113 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+BM,DV 01,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 02,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 03,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 04,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 05,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 06,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 07,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,DV 08,Devonshire,Devonshire Parish,01,"","","","",32.3028,-64.7558
+BM,FL 01,Devonshire,Devonshire Parish,01,"","","","",32.3264,-64.7411
+BM,FL 02,Devonshire,Devonshire Parish,01,"","","","",32.3264,-64.7411
+BM,FL 03,Devonshire,Devonshire Parish,01,"","","","",32.3264,-64.7411
+BM,FL 05,Devonshire,Devonshire Parish,01,"","","","",32.3264,-64.7411
+BM,HM 14,Devonshire,Devonshire Parish,01,"","","","",32.3002,-64.792
+BM,HM 15,Devonshire,Devonshire Parish,01,"","","","",32.3002,-64.792
+BM,HM 16,Devonshire,Devonshire Parish,01,"","","","",32.3002,-64.792
+BM,HM 18,Devonshire,Devonshire Parish,01,"","","","",32.3002,-64.792
+BM,HM 19,Devonshire,Devonshire Parish,01,"","","","",32.2975,-64.7875
+BM,HM 20,Devonshire,Devonshire Parish,01,"","","","",32.3002,-64.792
+BM,CR 01,Hamilton Parish,Hamilton,02,"","","","",32.3264,-64.7411
+BM,CR 02,Hamilton Parish,Hamilton,02,"","","","",32.3264,-64.7411
+BM,CR 03,Hamilton Parish,Hamilton,02,"","","","",32.3264,-64.7411
+BM,CR 04,Hamilton Parish,Hamilton,02,"","","","",32.3264,-64.7411
+BM,FL 04,Hamilton Parish,Hamilton,02,"","","","",32.3264,-64.7411
+BM,HS 02,Hamilton Parish,Hamilton,02,"","","","",32.3264,-64.7411
+BM,HM 08,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,HM 09,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,HM 10,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,HM 11,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,HM 12,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,HM 17,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,HM 19,City of Hamilton,Hamilton,03,"","","","",32.2949,-64.783
+BM,DV 03,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,DV 04,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,PG 01,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,PG 02,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,PG 03,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,PG 04,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,PG 05,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,PG 06,Paget,Paget Parish,04,"","","","",32.2783,-64.7817
+BM,HM 01,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 02,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 03,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 04,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 05,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 06,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 07,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 08,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 09,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 13,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 14,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 15,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 16,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 17,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 18,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 19,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,HM 20,Pembroke,Pembroke Parish,05,"","","","",32.3002,-64.792
+BM,GE 02,Town of St. George,Saint George,06,"","","","",32.3842,-64.6764
+BM,GE 03,Town of St. George,Saint George,06,"","","","",32.3842,-64.6764
+BM,GE 04,Town of St. George,Saint George,06,"","","","",32.3842,-64.6764
+BM,GE 05,Town of St. George,Saint George,06,"","","","",32.3842,-64.6764
+BM,HS 02,St. George,Saint George,06,"","","","",32.3817,-64.6781
+BM,CR 04,St. George's,Saint George’s Parish,07,"","","","",32.3264,-64.7411
+BM,DD 01,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,DD 02,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,DD 03,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,GE 01,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,GE 02,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,GE 03,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,GE 04,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,GE 05,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,GE CX,St. George's,Saint George’s Parish,07,"","","","",32.3726,-64.6944
+BM,HS 02,St. George's,Saint George’s Parish,07,"","","","",32.354,-64.7096
+BM,MA 01,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,MA 02,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,MA 03,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,MA 04,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,MA 05,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,MA 06,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,SB 01,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,SB 02,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,SB 03,Sandys,Sandys Parish,08,"","","","",32.2934,-64.8683
+BM,FL 01,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 02,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 03,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 04,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 05,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 06,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 07,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,FL 08,Smith’s,Smith’s Parish,09,"","","","",32.3264,-64.7411
+BM,HS 01,Smith’s,Smith’s Parish,09,"","","","",32.354,-64.7096
+BM,HS 02,Smith’s,Smith’s Parish,09,"","","","",32.354,-64.7096
+BM,SB 02,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,SB 03,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,SB 04,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,SN 01,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,SN 02,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,SN 03,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,SN 04,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,WK 01,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,WK 03,Southampton,Southampton Parish,10,"","","","",32.2508,-64.8564
+BM,PG 01,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,PG 04,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 01,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 02,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 03,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 04,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 05,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 06,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 07,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 08,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 09,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072
+BM,WK 10,Warwick,Warwick Parish,11,"","","","",32.2658,-64.8072

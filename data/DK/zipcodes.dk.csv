@@ -1,0 +1,1472 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+DK,8789,Endelave,Region Midtjylland,18,Horsens Kommune,615,"","",55.7573,10.271
+DK,8799,Tunø,Region Midtjylland,18,Odder Kommune,727,"","",55.9528,10.432
+DK,4305,Orø,Region Sjælland,20,Holbæk Kommune,316,"","",55.7718,11.8163
+DK,4244,Agersø,Region Sjælland,20,Slagelse Kommune,330,"","",55.2149,11.1854
+DK,4245,Omø,Region Sjælland,20,Slagelse Kommune,330,"","",55.162,11.159
+DK,4942,Askø og Lilleø,Region Sjælland,20,Lolland Kommune,360,"","",54.8969,11.495
+DK,4945,Femø,Region Sjælland,20,Lolland Kommune,360,"","",54.9758,11.5352
+DK,5601,Lyø,Region Syddanmark,21,Faaborg-Midtfyn Kommune,430,"","",55.0439,10.1473
+DK,5602,Avernakø,Region Syddanmark,21,Faaborg-Midtfyn Kommune,430,"","",55.0187,10.2845
+DK,5603,Bjørnø,Region Syddanmark,21,Faaborg-Midtfyn Kommune,430,"","",55.0633,10.2482
+DK,5943,Strynø,Region Syddanmark,21,Langeland Kommune,482,"","",54.9008,10.6118
+DK,5965,Birkholm,Region Syddanmark,21,Ærø Kommune,492,"","",54.931,10.503
+DK,6210,Barsø,Region Syddanmark,21,Aabenraa Kommune,580,"","",55.1216,9.5578
+DK,7900,Nykøbing M,Region Nordjylland,81,Morsø Kommune,773,"","",56.7619,8.6836
+DK,7950,Erslev,Region Nordjylland,81,Morsø Kommune,773,"","",56.8298,8.7501
+DK,7960,Karby,Region Nordjylland,81,Morsø Kommune,773,"","",56.7536,8.5613
+DK,7970,Redsted M,Region Nordjylland,81,Morsø Kommune,773,"","",56.7619,8.6836
+DK,7980,Vils,Region Nordjylland,81,Morsø Kommune,773,"","",56.7631,8.7286
+DK,7990,Øster Assels,Region Nordjylland,81,Morsø Kommune,773,"","",56.7011,8.6946
+DK,7700,Thisted,Region Nordjylland,81,Thisted Kommune,787,"","",56.9552,8.6949
+DK,7730,Hanstholm,Region Nordjylland,81,Thisted Kommune,787,"","",57.1167,8.6167
+DK,7741,Frøstrup,Region Nordjylland,81,Thisted Kommune,787,"","",57.0867,8.9958
+DK,7742,Vesløs,Region Nordjylland,81,Thisted Kommune,787,"","",57.0383,8.9746
+DK,7752,Snedsted,Region Nordjylland,81,Thisted Kommune,787,"","",56.8924,8.5244
+DK,7755,Bedsted Thy,Region Nordjylland,81,Thisted Kommune,787,"","",56.8924,8.5244
+DK,7760,Hurup Thy,Region Nordjylland,81,Thisted Kommune,787,"","",56.7494,8.4195
+DK,7770,Vestervig,Region Nordjylland,81,Thisted Kommune,787,"","",56.7628,8.3194
+DK,9320,Hjallerup,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.1647,10.1457
+DK,9330,Dronninglund,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.1604,10.2929
+DK,9340,Asaa,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.1487,10.4037
+DK,9352,Dybvad,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.272,10.3595
+DK,9370,Hals,Region Nordjylland,81,Brønderslev Kommune,810,"","",56.9961,10.3081
+DK,9382,Tylstrup,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.1947,9.9531
+DK,9440,Aabybro,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.1584,9.7367
+DK,9480,Løkken,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.3705,9.7147
+DK,9700,Brønderslev,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.2702,9.941
+DK,9740,Jerslev J,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.323,10.0722
+DK,9750,Østervrå,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.3417,10.2401
+DK,9760,Vrå,Region Nordjylland,81,Brønderslev Kommune,810,"","",57.3476,9.9515
+DK,9300,Sæby,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.3319,10.5225
+DK,9330,Dronninglund,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.1604,10.2929
+DK,9340,Asaa,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.1487,10.4037
+DK,9352,Dybvad,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.272,10.3595
+DK,9750,Østervrå,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.3417,10.2401
+DK,9830,Tårs,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.3833,10.1167
+DK,9870,Sindal,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.4712,10.2031
+DK,9881,Bindslev,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.5521,10.2036
+DK,9900,Frederikshavn,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.4407,10.5366
+DK,9970,Strandby,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.4915,10.4961
+DK,9981,Jerup,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.5343,10.4166
+DK,9982,Ålbæk,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.5925,10.4046
+DK,9990,Skagen,Region Nordjylland,81,Frederikshavn Kommune,813,"","",57.7209,10.5839
+DK,9240,Nibe,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.9815,9.6392
+DK,9541,Suldrup,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.8488,9.7006
+DK,9600,Aars,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.804,9.5144
+DK,9610,Nørager,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.7262,9.5971
+DK,9620,Aalestrup,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.6947,9.4934
+DK,9631,Gedsted,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.6892,9.3367
+DK,9640,Farsø,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.7728,9.3393
+DK,9670,Løgstør,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.9625,9.2583
+DK,9681,Ranum,Region Nordjylland,81,Vesthimmerlands Kommune,820,"","",56.8973,9.2287
+DK,9940,Læsø,Region Nordjylland,81,Læsø Kommune,825,"","",57.5448,10.4827
+DK,9230,Svenstrup J,Region Nordjylland,81,Rebild Kommune,840,"","",56.9733,9.9233
+DK,9240,Nibe,Region Nordjylland,81,Rebild Kommune,840,"","",56.9815,9.6392
+DK,9260,Gistrup,Region Nordjylland,81,Rebild Kommune,840,"","",56.9943,9.9909
+DK,9293,Kongerslev,Region Nordjylland,81,Rebild Kommune,840,"","",56.9056,10.1267
+DK,9500,Hobro,Region Nordjylland,81,Rebild Kommune,840,"","",56.6431,9.7903
+DK,9510,Arden,Region Nordjylland,81,Rebild Kommune,840,"","",56.769,9.8618
+DK,9520,Skørping,Region Nordjylland,81,Rebild Kommune,840,"","",56.8363,9.8925
+DK,9530,Støvring,Region Nordjylland,81,Rebild Kommune,840,"","",56.8854,9.8384
+DK,9541,Suldrup,Region Nordjylland,81,Rebild Kommune,840,"","",56.8488,9.7006
+DK,9560,Hadsund,Region Nordjylland,81,Rebild Kommune,840,"","",56.7148,10.1168
+DK,9574,Bælum,Region Nordjylland,81,Rebild Kommune,840,"","",56.83,10.1198
+DK,9575,Terndrup,Region Nordjylland,81,Rebild Kommune,840,"","",56.8139,10.0615
+DK,9600,Aars,Region Nordjylland,81,Rebild Kommune,840,"","",56.804,9.5144
+DK,9610,Nørager,Region Nordjylland,81,Rebild Kommune,840,"","",56.7262,9.5971
+DK,9620,Aalestrup,Region Nordjylland,81,Rebild Kommune,840,"","",56.6947,9.4934
+DK,8970,Havndal,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.6525,10.1967
+DK,8990,Fårup,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.3667,10.2494
+DK,9500,Hobro,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.6431,9.7903
+DK,9510,Arden,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.769,9.8618
+DK,9550,Mariager,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.6499,9.9751
+DK,9560,Hadsund,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.7148,10.1168
+DK,9620,Aalestrup,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.6947,9.4934
+DK,9632,Møldrup,Region Nordjylland,81,Mariagerfjord Kommune,846,"","",56.6167,9.5011
+DK,9381,Sulsted,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.1634,9.9567
+DK,9382,Tylstrup,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.1947,9.9531
+DK,9430,Vadum,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.1179,9.857
+DK,9440,Aabybro,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.1584,9.7367
+DK,9460,Brovst,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.0956,9.528
+DK,9480,Løkken,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.3705,9.7147
+DK,9490,Pandrup,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.2215,9.6757
+DK,9492,Blokhus,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.248,9.5897
+DK,9493,Saltum,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.2719,9.698
+DK,9670,Løgstør,Region Nordjylland,81,Jammerbugt Kommune,849,"","",56.9625,9.2583
+DK,9690,Fjerritslev,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.0813,9.2664
+DK,9700,Brønderslev,Region Nordjylland,81,Jammerbugt Kommune,849,"","",57.2702,9.941
+DK,9000,Aalborg,Region Nordjylland,81,Aalborg Kommune,851,"","",57.048,9.9187
+DK,9100,Aalborg,Region Nordjylland,81,Aalborg Kommune,851,"","",57.048,9.9187
+DK,9200,Aalborg SV,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9733,9.9233
+DK,9210,Aalborg SØ,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9733,9.9233
+DK,9220,Aalborg Øst,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9733,9.9233
+DK,9230,Svenstrup J,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9733,9.9233
+DK,9240,Nibe,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9815,9.6392
+DK,9260,Gistrup,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9943,9.9909
+DK,9270,Klarup,Region Nordjylland,81,Aalborg Kommune,851,"","",57.0119,10.0562
+DK,9280,Storvorde,Region Nordjylland,81,Aalborg Kommune,851,"","",57.0039,10.1013
+DK,9293,Kongerslev,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9056,10.1267
+DK,9310,Vodskov,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1085,10.0222
+DK,9320,Hjallerup,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1647,10.1457
+DK,9362,Gandrup,Region Nordjylland,81,Aalborg Kommune,851,"","",57.0574,10.1814
+DK,9370,Hals,Region Nordjylland,81,Aalborg Kommune,851,"","",56.9961,10.3081
+DK,9380,Vestbjerg,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1317,9.9594
+DK,9381,Sulsted,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1634,9.9567
+DK,9382,Tylstrup,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1947,9.9531
+DK,9400,Nørresundby,Region Nordjylland,81,Aalborg Kommune,851,"","",57.0483,9.9352
+DK,9430,Vadum,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1179,9.857
+DK,9440,Aabybro,Region Nordjylland,81,Aalborg Kommune,851,"","",57.1584,9.7367
+DK,9530,Støvring,Region Nordjylland,81,Aalborg Kommune,851,"","",56.8854,9.8384
+DK,9480,Løkken,Region Nordjylland,81,Hjørring Kommune,860,"","",57.3705,9.7147
+DK,9740,Jerslev J,Region Nordjylland,81,Hjørring Kommune,860,"","",57.323,10.0722
+DK,9750,Østervrå,Region Nordjylland,81,Hjørring Kommune,860,"","",57.3417,10.2401
+DK,9760,Vrå,Region Nordjylland,81,Hjørring Kommune,860,"","",57.3476,9.9515
+DK,9800,Hjørring,Region Nordjylland,81,Hjørring Kommune,860,"","",57.4642,9.9823
+DK,9830,Tårs,Region Nordjylland,81,Hjørring Kommune,860,"","",57.3833,10.1167
+DK,9850,Hirtshals,Region Nordjylland,81,Hjørring Kommune,860,"","",57.5881,9.9592
+DK,9870,Sindal,Region Nordjylland,81,Hjørring Kommune,860,"","",57.4712,10.2031
+DK,9881,Bindslev,Region Nordjylland,81,Hjørring Kommune,860,"","",57.5521,10.2036
+DK,9900,Frederikshavn,Region Nordjylland,81,Hjørring Kommune,860,"","",57.4407,10.5366
+DK,9982,Ålbæk,Region Nordjylland,81,Hjørring Kommune,860,"","",57.5925,10.4046
+DK,8654,Bryrup,Region Midtjylland,82,Horsens Kommune,615,"","",56.0228,9.5183
+DK,8660,Skanderborg,Region Midtjylland,82,Horsens Kommune,615,"","",56.0399,9.9272
+DK,8680,Ry,Region Midtjylland,82,Horsens Kommune,615,"","",56.0904,9.7651
+DK,8700,Horsens,Region Midtjylland,82,Horsens Kommune,615,"","",55.8607,9.8503
+DK,8732,Hovedgård,Region Midtjylland,82,Horsens Kommune,615,"","",55.9417,9.955
+DK,8740,Brædstrup,Region Midtjylland,82,Horsens Kommune,615,"","",55.9715,9.6113
+DK,8751,Gedved,Region Midtjylland,82,Horsens Kommune,615,"","",55.9308,9.846
+DK,8752,Østbirk,Region Midtjylland,82,Horsens Kommune,615,"","",55.9648,9.7556
+DK,8762,Flemming,Region Midtjylland,82,Horsens Kommune,615,"","",55.8687,9.6675
+DK,8765,Klovborg,Region Midtjylland,82,Horsens Kommune,615,"","",55.9319,9.491
+DK,8781,Stenderup,Region Midtjylland,82,Horsens Kommune,615,"","",55.7921,9.8097
+DK,8783,Hornsyld,Region Midtjylland,82,Horsens Kommune,615,"","",55.7526,9.8512
+DK,6933,Kibæk,Region Midtjylland,82,Herning Kommune,657,"","",56.0317,8.857
+DK,6973,Ørnhøj,Region Midtjylland,82,Herning Kommune,657,"","",56.1987,8.5645
+DK,6990,Ulfborg,Region Midtjylland,82,Herning Kommune,657,"","",56.2673,8.3217
+DK,7260,Sønder Omme,Region Midtjylland,82,Herning Kommune,657,"","",55.8398,8.8972
+DK,7270,Stakroge,Region Midtjylland,82,Herning Kommune,657,"","",55.8901,8.8473
+DK,7280,Sønder Felding,Region Midtjylland,82,Herning Kommune,657,"","",55.9376,8.7794
+DK,7330,Brande,Region Midtjylland,82,Herning Kommune,657,"","",55.9381,9.1218
+DK,7400,Herning,Region Midtjylland,82,Herning Kommune,657,"","",56.1393,8.9738
+DK,7451,Sunds,Region Midtjylland,82,Herning Kommune,657,"","",56.2042,9.0127
+DK,7470,Karup J,Region Midtjylland,82,Herning Kommune,657,"","",56.1757,9.0321
+DK,7480,Vildbjerg,Region Midtjylland,82,Herning Kommune,657,"","",56.2,8.7667
+DK,7490,Aulum,Region Midtjylland,82,Herning Kommune,657,"","",56.2654,8.7926
+DK,7500,Holstebro,Region Midtjylland,82,Herning Kommune,657,"","",56.3601,8.6161
+DK,7540,Haderup,Region Midtjylland,82,Herning Kommune,657,"","",56.3896,8.9943
+DK,7550,Sørvad,Region Midtjylland,82,Herning Kommune,657,"","",56.2629,8.6563
+DK,7830,Vinderup,Region Midtjylland,82,Herning Kommune,657,"","",56.4751,8.7908
+DK,6990,Ulfborg,Region Midtjylland,82,Holstebro Kommune,661,"","",56.2673,8.3217
+DK,7500,Holstebro,Region Midtjylland,82,Holstebro Kommune,661,"","",56.3601,8.6161
+DK,7540,Haderup,Region Midtjylland,82,Holstebro Kommune,661,"","",56.3896,8.9943
+DK,7560,Hjerm,Region Midtjylland,82,Holstebro Kommune,661,"","",56.4384,8.6345
+DK,7570,Vemb,Region Midtjylland,82,Holstebro Kommune,661,"","",56.3423,8.3375
+DK,7600,Struer,Region Midtjylland,82,Holstebro Kommune,661,"","",56.4912,8.5838
+DK,7800,Skive,Region Midtjylland,82,Holstebro Kommune,661,"","",56.5638,9.0402
+DK,7830,Vinderup,Region Midtjylland,82,Holstebro Kommune,661,"","",56.4751,8.7908
+DK,6990,Ulfborg,Region Midtjylland,82,Lemvig Kommune,665,"","",56.2673,8.3217
+DK,7570,Vemb,Region Midtjylland,82,Lemvig Kommune,665,"","",56.3423,8.3375
+DK,7600,Struer,Region Midtjylland,82,Lemvig Kommune,665,"","",56.4912,8.5838
+DK,7620,Lemvig,Region Midtjylland,82,Lemvig Kommune,665,"","",56.5486,8.3102
+DK,7650,Bøvlingbjerg,Region Midtjylland,82,Lemvig Kommune,665,"","",56.4353,8.2029
+DK,7660,Bækmarksbro,Region Midtjylland,82,Lemvig Kommune,665,"","",56.4153,8.307
+DK,7673,Harboøre,Region Midtjylland,82,Lemvig Kommune,665,"","",56.6175,8.1807
+DK,7680,Thyborøn,Region Midtjylland,82,Lemvig Kommune,665,"","",56.6985,8.2124
+DK,7500,Holstebro,Region Midtjylland,82,Struer Kommune,671,"","",56.3601,8.6161
+DK,7560,Hjerm,Region Midtjylland,82,Struer Kommune,671,"","",56.4384,8.6345
+DK,7600,Struer,Region Midtjylland,82,Struer Kommune,671,"","",56.4912,8.5838
+DK,7660,Bækmarksbro,Region Midtjylland,82,Struer Kommune,671,"","",56.4153,8.307
+DK,7760,Hurup Thy,Region Midtjylland,82,Struer Kommune,671,"","",56.7494,8.4195
+DK,7790,Thyholm,Region Midtjylland,82,Struer Kommune,671,"","",56.9189,8.6206
+DK,7830,Vinderup,Region Midtjylland,82,Struer Kommune,671,"","",56.4751,8.7908
+DK,8400,Ebeltoft,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.1944,10.6821
+DK,8410,Rønde,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.3015,10.4751
+DK,8420,Knebel,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.2141,10.4886
+DK,8444,Balle,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.2963,10.2589
+DK,8543,Hornslet,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.3155,10.3204
+DK,8544,Mørke,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.3345,10.3819
+DK,8550,Ryomgård,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.3843,10.503
+DK,8560,Kolind,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.3606,10.5836
+DK,8570,Trustrup,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.3493,10.7739
+DK,8581,Nimtofte,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.408,10.5686
+DK,8963,Auning,Region Midtjylland,82,Syddjurs Kommune,706,"","",56.4308,10.3782
+DK,8444,Balle,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.2963,10.2589
+DK,8500,Grenaa,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.4158,10.8782
+DK,8550,Ryomgård,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.3843,10.503
+DK,8560,Kolind,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.3606,10.5836
+DK,8570,Trustrup,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.3493,10.7739
+DK,8581,Nimtofte,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.408,10.5686
+DK,8585,Glesborg,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.4775,10.7233
+DK,8586,Ørum Djurs,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.4312,10.6202
+DK,8592,Anholt,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.7036,11.5455
+DK,8950,Ørsted,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.502,10.3372
+DK,8961,Allingåbro,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.4649,10.3341
+DK,8963,Auning,Region Midtjylland,82,Norddjurs Kommune,707,"","",56.4308,10.3782
+DK,8370,Hadsten,Region Midtjylland,82,Favrskov Kommune,710,"","",56.3282,10.0493
+DK,8380,Trige,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2529,10.1484
+DK,8382,Hinnerup,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2661,10.063
+DK,8450,Hammel,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2576,9.8632
+DK,8471,Sabro,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2133,10.0344
+DK,8472,Sporup,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2133,10.0344
+DK,8641,Sorring,Region Midtjylland,82,Favrskov Kommune,710,"","",56.1769,9.7758
+DK,8850,Bjerringbro,Region Midtjylland,82,Favrskov Kommune,710,"","",56.378,9.6607
+DK,8860,Ulstrup,Region Midtjylland,82,Favrskov Kommune,710,"","",56.3899,9.7935
+DK,8870,Langå,Region Midtjylland,82,Favrskov Kommune,710,"","",56.3903,9.8949
+DK,8881,Thorsø,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2995,9.7892
+DK,8882,Fårvang,Region Midtjylland,82,Favrskov Kommune,710,"","",56.2675,9.7278
+DK,8940,Randers SV,Region Midtjylland,82,Favrskov Kommune,710,"","",56.4893,10.262
+DK,8960,Randers SØ,Region Midtjylland,82,Favrskov Kommune,710,"","",56.4422,10.3635
+DK,8300,Odder,Region Midtjylland,82,Odder Kommune,727,"","",55.9731,10.153
+DK,8340,Malling,Region Midtjylland,82,Odder Kommune,727,"","",56.0363,10.1963
+DK,8350,Hundslund,Region Midtjylland,82,Odder Kommune,727,"","",55.916,10.0521
+DK,8660,Skanderborg,Region Midtjylland,82,Odder Kommune,727,"","",56.0399,9.9272
+DK,8860,Ulstrup,Region Midtjylland,82,Randers Kommune,730,"","",56.3899,9.7935
+DK,8870,Langå,Region Midtjylland,82,Randers Kommune,730,"","",56.3903,9.8949
+DK,8900,Randers C,Region Midtjylland,82,Randers Kommune,730,"","",56.4893,10.262
+DK,8920,Randers NV,Region Midtjylland,82,Randers Kommune,730,"","",56.4893,10.262
+DK,8930,Randers NØ,Region Midtjylland,82,Randers Kommune,730,"","",56.4893,10.262
+DK,8940,Randers SV,Region Midtjylland,82,Randers Kommune,730,"","",56.4893,10.262
+DK,8960,Randers SØ,Region Midtjylland,82,Randers Kommune,730,"","",56.4422,10.3635
+DK,8970,Havndal,Region Midtjylland,82,Randers Kommune,730,"","",56.6525,10.1967
+DK,8981,Spentrup,Region Midtjylland,82,Randers Kommune,730,"","",56.537,10.0379
+DK,8983,Gjerlev J,Region Midtjylland,82,Randers Kommune,730,"","",56.537,10.0379
+DK,8990,Fårup,Region Midtjylland,82,Randers Kommune,730,"","",56.3667,10.2494
+DK,9550,Mariager,Region Midtjylland,82,Randers Kommune,730,"","",56.6499,9.9751
+DK,7362,Hampen,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.019,9.3551
+DK,7441,Bording,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.1441,9.2765
+DK,7442,Engesvang,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.1707,9.3495
+DK,7470,Karup J,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.1757,9.0321
+DK,8450,Hammel,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2576,9.8632
+DK,8472,Sporup,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2133,10.0344
+DK,8600,Silkeborg,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.1697,9.5451
+DK,8620,Kjellerup,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2858,9.4353
+DK,8632,Lemming,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2405,9.5473
+DK,8641,Sorring,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.1769,9.7758
+DK,8643,Ans By,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.1769,9.7758
+DK,8653,Them,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.0943,9.5487
+DK,8654,Bryrup,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.0228,9.5183
+DK,8680,Ry,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.0904,9.7651
+DK,8740,Brædstrup,Region Midtjylland,82,Silkeborg Kommune,740,"","",55.9715,9.6113
+DK,8800,Viborg,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.4532,9.402
+DK,8840,Rødkærsbro,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.3531,9.5051
+DK,8881,Thorsø,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2995,9.7892
+DK,8882,Fårvang,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2675,9.7278
+DK,8883,Gjern,Region Midtjylland,82,Silkeborg Kommune,740,"","",56.2302,9.7391
+DK,8305,Samsø,Region Midtjylland,82,Samsø Kommune,741,"","",55.8796,10.6076
+DK,8362,Hørning,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.087,10.0372
+DK,8464,Galten,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.35,10.05
+DK,8471,Sabro,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.2133,10.0344
+DK,8472,Sporup,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.2133,10.0344
+DK,8600,Silkeborg,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.1697,9.5451
+DK,8660,Skanderborg,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.0399,9.9272
+DK,8670,Låsby,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.1502,9.8068
+DK,8680,Ry,Region Midtjylland,82,Skanderborg Kommune,746,"","",56.0904,9.7651
+DK,8751,Gedved,Region Midtjylland,82,Skanderborg Kommune,746,"","",55.9308,9.846
+DK,8000,Aarhus C,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1567,10.2108
+DK,8100,Aarhus C,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1567,10.2108
+DK,8200,Aarhus N,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1663,10.1987
+DK,8210,Aarhus V,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1663,10.1987
+DK,8220,Brabrand,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1531,10.1057
+DK,8230,Åbyhøj,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1563,10.1653
+DK,8240,Risskov,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1972,10.248
+DK,8245,Risskov Ø,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1972,10.248
+DK,8250,Egå,Region Midtjylland,82,Aarhus Kommune,751,"","",56.2136,10.2644
+DK,8260,Viby J,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1663,10.1987
+DK,8270,Højbjerg,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1112,10.2099
+DK,8300,Odder,Region Midtjylland,82,Aarhus Kommune,751,"","",55.9731,10.153
+DK,8310,Tranbjerg J,Region Midtjylland,82,Aarhus Kommune,751,"","",56.0901,10.1194
+DK,8320,Mårslet,Region Midtjylland,82,Aarhus Kommune,751,"","",56.0636,10.1623
+DK,8330,Beder,Region Midtjylland,82,Aarhus Kommune,751,"","",56.0602,10.2118
+DK,8340,Malling,Region Midtjylland,82,Aarhus Kommune,751,"","",56.0363,10.1963
+DK,8355,Solbjerg,Region Midtjylland,82,Aarhus Kommune,751,"","",56.0427,10.0863
+DK,8361,Hasselager,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1007,10.1065
+DK,8362,Hørning,Region Midtjylland,82,Aarhus Kommune,751,"","",56.087,10.0372
+DK,8380,Trige,Region Midtjylland,82,Aarhus Kommune,751,"","",56.2529,10.1484
+DK,8381,Tilst,Region Midtjylland,82,Aarhus Kommune,751,"","",56.1938,10.1128
+DK,8382,Hinnerup,Region Midtjylland,82,Aarhus Kommune,751,"","",56.2661,10.063
+DK,8462,Harlev J,Region Midtjylland,82,Aarhus Kommune,751,"","",56.35,10.05
+DK,8464,Galten,Region Midtjylland,82,Aarhus Kommune,751,"","",56.35,10.05
+DK,8471,Sabro,Region Midtjylland,82,Aarhus Kommune,751,"","",56.2133,10.0344
+DK,8520,Lystrup,Region Midtjylland,82,Aarhus Kommune,751,"","",56.4984,10.4689
+DK,8530,Hjortshøj,Region Midtjylland,82,Aarhus Kommune,751,"","",56.2481,10.2653
+DK,8541,Skødstrup,Region Midtjylland,82,Aarhus Kommune,751,"","",56.2635,10.3041
+DK,8543,Hornslet,Region Midtjylland,82,Aarhus Kommune,751,"","",56.3155,10.3204
+DK,8660,Skanderborg,Region Midtjylland,82,Aarhus Kommune,751,"","",56.0399,9.9272
+DK,7160,Tørring,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",55.85,9.4833
+DK,7330,Brande,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",55.9381,9.1218
+DK,7361,Ejstrupholm,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",55.9841,9.2818
+DK,7362,Hampen,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.019,9.3551
+DK,7400,Herning,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.1393,8.9738
+DK,7430,Ikast,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.1388,9.1577
+DK,7441,Bording,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.1441,9.2765
+DK,7442,Engesvang,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.1707,9.3495
+DK,7451,Sunds,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.2042,9.0127
+DK,8600,Silkeborg,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.1697,9.5451
+DK,8654,Bryrup,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",56.0228,9.5183
+DK,8765,Klovborg,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",55.9319,9.491
+DK,8766,Nørre Snede,Region Midtjylland,82,Ikast-Brande Kommune,756,"","",55.9644,9.3932
+DK,6830,Nørre Nebel,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.7798,8.2952
+DK,6870,Ølgod,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.8068,8.6286
+DK,6880,Tarm,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.9086,8.5304
+DK,6893,Hemmet,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.8502,8.3756
+DK,6900,Skjern,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.95,8.5
+DK,6920,Videbæk,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.0876,8.6285
+DK,6933,Kibæk,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.0317,8.857
+DK,6940,Lem St,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.1419,8.4606
+DK,6950,Ringkøbing,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.0901,8.244
+DK,6960,Hvide Sande,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.0045,8.1294
+DK,6971,Spjald,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.1286,8.5084
+DK,6973,Ørnhøj,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.1987,8.5645
+DK,6980,Tim,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.1956,8.3079
+DK,6990,Ulfborg,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.2673,8.3217
+DK,7270,Stakroge,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.8901,8.8473
+DK,7280,Sønder Felding,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",55.9376,8.7794
+DK,7400,Herning,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.1393,8.9738
+DK,7480,Vildbjerg,Region Midtjylland,82,Ringkøbing-Skjern Kommune,760,"","",56.2,8.7667
+DK,7100,Vejle,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7093,9.5357
+DK,7120,Vejle Øst,Region Midtjylland,82,Hedensted Kommune,766,"","",55.758,9.4862
+DK,7130,Juelsminde,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7088,10.0167
+DK,7140,Stouby,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7025,9.7938
+DK,7150,Barrit,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7118,9.8904
+DK,7160,Tørring,Region Midtjylland,82,Hedensted Kommune,766,"","",55.85,9.4833
+DK,7171,Uldum,Region Midtjylland,82,Hedensted Kommune,766,"","",55.8471,9.5896
+DK,7323,Give,Region Midtjylland,82,Hedensted Kommune,766,"","",55.8398,9.25
+DK,8700,Horsens,Region Midtjylland,82,Hedensted Kommune,766,"","",55.8607,9.8503
+DK,8721,Daugård,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7351,9.703
+DK,8722,Hedensted,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7704,9.7011
+DK,8723,Løsning,Region Midtjylland,82,Hedensted Kommune,766,"","",55.8024,9.6954
+DK,8762,Flemming,Region Midtjylland,82,Hedensted Kommune,766,"","",55.8687,9.6675
+DK,8763,Rask Mølle,Region Midtjylland,82,Hedensted Kommune,766,"","",55.8721,9.6135
+DK,8766,Nørre Snede,Region Midtjylland,82,Hedensted Kommune,766,"","",55.9644,9.3932
+DK,8781,Stenderup,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7921,9.8097
+DK,8783,Hornsyld,Region Midtjylland,82,Hedensted Kommune,766,"","",55.7526,9.8512
+DK,7800,Skive,Region Midtjylland,82,Skive Kommune,779,"","",56.5638,9.0402
+DK,7830,Vinderup,Region Midtjylland,82,Skive Kommune,779,"","",56.4751,8.7908
+DK,7840,Højslev,Region Midtjylland,82,Skive Kommune,779,"","",56.5856,9.1364
+DK,7860,Spøttrup,Region Midtjylland,82,Skive Kommune,779,"","",56.623,8.7447
+DK,7870,Roslev,Region Midtjylland,82,Skive Kommune,779,"","",56.7039,8.9864
+DK,7884,Fur,Region Midtjylland,82,Skive Kommune,779,"","",56.5537,8.9353
+DK,7470,Karup J,Region Midtjylland,82,Viborg Kommune,791,"","",56.1757,9.0321
+DK,7540,Haderup,Region Midtjylland,82,Viborg Kommune,791,"","",56.3896,8.9943
+DK,7800,Skive,Region Midtjylland,82,Viborg Kommune,791,"","",56.5638,9.0402
+DK,7840,Højslev,Region Midtjylland,82,Viborg Kommune,791,"","",56.5856,9.1364
+DK,7850,Stoholm Jyll,Region Midtjylland,82,Viborg Kommune,791,"","",56.5537,8.9353
+DK,8620,Kjellerup,Region Midtjylland,82,Viborg Kommune,791,"","",56.2858,9.4353
+DK,8643,Ans By,Region Midtjylland,82,Viborg Kommune,791,"","",56.1769,9.7758
+DK,8800,Viborg,Region Midtjylland,82,Viborg Kommune,791,"","",56.4532,9.402
+DK,8830,Tjele,Region Midtjylland,82,Viborg Kommune,791,"","",56.5118,9.6137
+DK,8831,Løgstrup,Region Midtjylland,82,Viborg Kommune,791,"","",56.5103,9.3354
+DK,8832,Skals,Region Midtjylland,82,Viborg Kommune,791,"","",56.5568,9.4038
+DK,8840,Rødkærsbro,Region Midtjylland,82,Viborg Kommune,791,"","",56.3531,9.5051
+DK,8850,Bjerringbro,Region Midtjylland,82,Viborg Kommune,791,"","",56.378,9.6607
+DK,8860,Ulstrup,Region Midtjylland,82,Viborg Kommune,791,"","",56.3899,9.7935
+DK,9500,Hobro,Region Midtjylland,82,Viborg Kommune,791,"","",56.6431,9.7903
+DK,9620,Aalestrup,Region Midtjylland,82,Viborg Kommune,791,"","",56.6947,9.4934
+DK,9631,Gedsted,Region Midtjylland,82,Viborg Kommune,791,"","",56.6892,9.3367
+DK,9632,Møldrup,Region Midtjylland,82,Viborg Kommune,791,"","",56.6167,9.5011
+DK,5463,Harndrup,Region Syddanmark,83,Middelfart Kommune,410,"","",55.4666,10.0216
+DK,5464,Brenderup Fyn,Region Syddanmark,83,Middelfart Kommune,410,"","",55.4663,10.0398
+DK,5466,Asperup,Region Syddanmark,83,Middelfart Kommune,410,"","",55.4843,9.908
+DK,5500,Middelfart,Region Syddanmark,83,Middelfart Kommune,410,"","",55.382,10.2694
+DK,5560,Aarup,Region Syddanmark,83,Middelfart Kommune,410,"","",55.3732,10.0413
+DK,5580,Nørre Aaby,Region Syddanmark,83,Middelfart Kommune,410,"","",55.4611,9.8794
+DK,5591,Gelsted,Region Syddanmark,83,Middelfart Kommune,410,"","",55.3988,9.9731
+DK,5592,Ejby,Region Syddanmark,83,Middelfart Kommune,410,"","",55.4301,9.9297
+DK,5492,Vissenbjerg,Region Syddanmark,83,Assens Kommune,420,"","",55.3848,10.1378
+DK,5560,Aarup,Region Syddanmark,83,Assens Kommune,420,"","",55.3732,10.0413
+DK,5610,Assens,Region Syddanmark,83,Assens Kommune,420,"","",55.2702,9.9008
+DK,5620,Glamsbjerg,Region Syddanmark,83,Assens Kommune,420,"","",55.2724,10.1048
+DK,5631,Ebberup,Region Syddanmark,83,Assens Kommune,420,"","",55.2433,9.9821
+DK,5642,Millinge,Region Syddanmark,83,Assens Kommune,420,"","",55.135,10.1994
+DK,5683,Haarby,Region Syddanmark,83,Assens Kommune,420,"","",55.215,10.1226
+DK,5690,Tommerup,Region Syddanmark,83,Assens Kommune,420,"","",55.3195,10.2066
+DK,5550,Langeskov,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.3565,10.5845
+DK,5600,Faaborg,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.0951,10.2423
+DK,5642,Millinge,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.135,10.1994
+DK,5672,Broby,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.2107,10.1198
+DK,5750,Ringe,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.2451,10.4706
+DK,5762,Vester Skerninge,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.0732,10.4554
+DK,5771,Stenstrup,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.1335,10.5047
+DK,5772,Kværndrup,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.1775,10.5255
+DK,5792,Årslev,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.3035,10.4643
+DK,5853,Ørbæk,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.2585,10.6708
+DK,5854,Gislev,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.2181,10.6022
+DK,5856,Ryslinge,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.2416,10.5367
+DK,5863,Ferritslev Fyn,Region Syddanmark,83,Faaborg-Midtfyn Kommune,430,"","",55.2064,10.6852
+DK,5290,Marslev,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.3902,10.5201
+DK,5300,Kerteminde,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.449,10.6577
+DK,5330,Munkebo,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.4618,10.5558
+DK,5350,Rynkeby,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.4008,10.6137
+DK,5370,Mesinge,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.4986,10.647
+DK,5380,Dalby,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.517,10.6592
+DK,5390,Martofte,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.5464,10.6578
+DK,5540,Ullerslev,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.3617,10.6519
+DK,5550,Langeskov,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.3565,10.5845
+DK,5863,Ferritslev Fyn,Region Syddanmark,83,Kerteminde Kommune,440,"","",55.2064,10.6852
+DK,5540,Ullerslev,Region Syddanmark,83,Nyborg Kommune,450,"","",55.3617,10.6519
+DK,5550,Langeskov,Region Syddanmark,83,Nyborg Kommune,450,"","",55.3565,10.5845
+DK,5800,Nyborg,Region Syddanmark,83,Nyborg Kommune,450,"","",55.3127,10.7896
+DK,5853,Ørbæk,Region Syddanmark,83,Nyborg Kommune,450,"","",55.2585,10.6708
+DK,5871,Frørup,Region Syddanmark,83,Nyborg Kommune,450,"","",55.2424,10.7156
+DK,5874,Hesselager,Region Syddanmark,83,Nyborg Kommune,450,"","",55.1755,10.7452
+DK,5000,Odense C,Region Syddanmark,83,Odense Kommune,461,"","",55.3959,10.3883
+DK,5100,Odense C,Region Syddanmark,83,Odense Kommune,461,"","",55.3959,10.3883
+DK,5200,Odense V,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5210,Odense NV,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5220,Odense SØ,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5230,Odense M,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5240,Odense NØ,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5250,Odense SV,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5260,Odense S,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5270,Odense N,Region Syddanmark,83,Odense Kommune,461,"","",55.3902,10.5201
+DK,5320,Agedrup,Region Syddanmark,83,Odense Kommune,461,"","",55.4324,10.4888
+DK,5330,Munkebo,Region Syddanmark,83,Odense Kommune,461,"","",55.4618,10.5558
+DK,5491,Blommenslyst,Region Syddanmark,83,Odense Kommune,461,"","",55.3895,10.2629
+DK,5492,Vissenbjerg,Region Syddanmark,83,Odense Kommune,461,"","",55.3848,10.1378
+DK,5700,Svendborg,Region Syddanmark,83,Svendborg Kommune,479,"","",55.0598,10.6068
+DK,5762,Vester Skerninge,Region Syddanmark,83,Svendborg Kommune,479,"","",55.0732,10.4554
+DK,5771,Stenstrup,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1335,10.5047
+DK,5772,Kværndrup,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1775,10.5255
+DK,5854,Gislev,Region Syddanmark,83,Svendborg Kommune,479,"","",55.2181,10.6022
+DK,5874,Hesselager,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1755,10.7452
+DK,5881,Skårup Fyn,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1251,10.7146
+DK,5882,Vejstrup,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1059,10.7124
+DK,5883,Oure,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1197,10.7234
+DK,5884,Gudme,Region Syddanmark,83,Svendborg Kommune,479,"","",55.1498,10.708
+DK,5892,Gudbjerg Sydfyn,Region Syddanmark,83,Svendborg Kommune,479,"","",55.2064,10.6852
+DK,5270,Odense N,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.3902,10.5201
+DK,5400,Bogense,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.5669,10.0886
+DK,5450,Otterup,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.5153,10.3976
+DK,5462,Morud,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.4481,10.1896
+DK,5471,Søndersø,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.4853,10.2554
+DK,5474,Veflinge,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.4755,10.1602
+DK,5485,Skamby,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.5208,10.2749
+DK,5491,Blommenslyst,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.3895,10.2629
+DK,5492,Vissenbjerg,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.3848,10.1378
+DK,5560,Aarup,Region Syddanmark,83,Nordfyns Kommune,480,"","",55.3732,10.0413
+DK,5900,Rudkøbing,Region Syddanmark,83,Langeland Kommune,482,"","",54.9364,10.7102
+DK,5932,Humble,Region Syddanmark,83,Langeland Kommune,482,"","",54.8297,10.6996
+DK,5935,Bagenkop,Region Syddanmark,83,Langeland Kommune,482,"","",54.7498,10.676
+DK,5953,Tranekær,Region Syddanmark,83,Langeland Kommune,482,"","",54.9976,10.8438
+DK,5960,Marstal,Region Syddanmark,83,Ærø Kommune,492,"","",54.8562,10.5173
+DK,5970,Ærøskøbing,Region Syddanmark,83,Ærø Kommune,492,"","",54.888,10.4112
+DK,5985,Søby Ærø,Region Syddanmark,83,Ærø Kommune,492,"","",54.8763,10.643
+DK,6070,Christiansfeld,Region Syddanmark,83,Haderslev Kommune,510,"","",55.3582,9.487
+DK,6094,Hejls,Region Syddanmark,83,Haderslev Kommune,510,"","",55.3831,9.5765
+DK,6100,Haderslev,Region Syddanmark,83,Haderslev Kommune,510,"","",55.2538,9.4898
+DK,6500,Vojens,Region Syddanmark,83,Haderslev Kommune,510,"","",55.2464,9.306
+DK,6510,Gram,Region Syddanmark,83,Haderslev Kommune,510,"","",55.2895,9.0491
+DK,6520,Toftlund,Region Syddanmark,83,Haderslev Kommune,510,"","",55.1886,9.0693
+DK,6534,Agerskov,Region Syddanmark,83,Haderslev Kommune,510,"","",55.1289,9.1355
+DK,6541,Bevtoft,Region Syddanmark,83,Haderslev Kommune,510,"","",55.2018,9.2147
+DK,6560,Sommersted,Region Syddanmark,83,Haderslev Kommune,510,"","",55.3187,9.2956
+DK,6630,Rødding,Region Syddanmark,83,Haderslev Kommune,510,"","",55.3657,9.0632
+DK,6623,Vorbasse,Region Syddanmark,83,Billund Kommune,530,"","",55.6299,9.0824
+DK,6682,Hovborg,Region Syddanmark,83,Billund Kommune,530,"","",55.6081,8.9396
+DK,6823,Ansager,Region Syddanmark,83,Billund Kommune,530,"","",55.7031,8.7586
+DK,7190,Billund,Region Syddanmark,83,Billund Kommune,530,"","",55.7335,9.1079
+DK,7200,Grindsted,Region Syddanmark,83,Billund Kommune,530,"","",55.754,8.9123
+DK,7250,Hejnsvig,Region Syddanmark,83,Billund Kommune,530,"","",55.6953,8.9973
+DK,7260,Sønder Omme,Region Syddanmark,83,Billund Kommune,530,"","",55.8398,8.8972
+DK,7270,Stakroge,Region Syddanmark,83,Billund Kommune,530,"","",55.8901,8.8473
+DK,6300,Gråsten,Region Syddanmark,83,Sønderborg Kommune,540,"","",54.9192,9.5952
+DK,6310,Broager,Region Syddanmark,83,Sønderborg Kommune,540,"","",54.8874,9.681
+DK,6320,Egernsund,Region Syddanmark,83,Sønderborg Kommune,540,"","",54.9054,9.6071
+DK,6400,Sønderborg,Region Syddanmark,83,Sønderborg Kommune,540,"","",54.9093,9.8074
+DK,6430,Nordborg,Region Syddanmark,83,Sønderborg Kommune,540,"","",55.0573,9.7408
+DK,6440,Augustenborg,Region Syddanmark,83,Sønderborg Kommune,540,"","",54.952,9.8722
+DK,6470,Sydals,Region Syddanmark,83,Sønderborg Kommune,540,"","",54.994,9.7903
+DK,6240,Løgumkloster,Region Syddanmark,83,Tønder Kommune,550,"","",55.0594,8.9551
+DK,6261,Bredebro,Region Syddanmark,83,Tønder Kommune,550,"","",55.0548,8.8293
+DK,6270,Tønder,Region Syddanmark,83,Tønder Kommune,550,"","",54.9331,8.8667
+DK,6280,Højer,Region Syddanmark,83,Tønder Kommune,550,"","",54.9634,8.6985
+DK,6520,Toftlund,Region Syddanmark,83,Tønder Kommune,550,"","",55.1886,9.0693
+DK,6534,Agerskov,Region Syddanmark,83,Tønder Kommune,550,"","",55.1289,9.1355
+DK,6535,Branderup J,Region Syddanmark,83,Tønder Kommune,550,"","",55.1289,9.1355
+DK,6541,Bevtoft,Region Syddanmark,83,Tønder Kommune,550,"","",55.2018,9.2147
+DK,6780,Skærbæk,Region Syddanmark,83,Tønder Kommune,550,"","",55.1574,8.769
+DK,6792,Rømø,Region Syddanmark,83,Tønder Kommune,550,"","",55.1132,8.5428
+DK,6670,Holsted,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.5109,8.9187
+DK,6683,Føvling,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4521,8.9396
+DK,6690,Gørding,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4746,8.7974
+DK,6700,Esbjerg,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4703,8.4519
+DK,6701,Esbjerg,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4703,8.4519
+DK,6705,Esbjerg Ø,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4703,8.4519
+DK,6710,Esbjerg V,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4187,8.6685
+DK,6715,Esbjerg N,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4187,8.6685
+DK,6731,Tjæreborg,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4646,8.5797
+DK,6740,Bramming,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.4695,8.7001
+DK,6760,Ribe,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.3305,8.7697
+DK,6771,Gredstedbro,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.3983,8.7391
+DK,6818,Årre,Region Syddanmark,83,Esbjerg Kommune,561,"","",55.5725,8.6675
+DK,6720,Fanø,Region Syddanmark,83,Fanø Kommune,563,"","",55.435,8.3679
+DK,6682,Hovborg,Region Syddanmark,83,Varde Kommune,573,"","",55.6081,8.9396
+DK,6753,Agerbæk,Region Syddanmark,83,Varde Kommune,573,"","",55.6,8.8
+DK,6800,Varde,Region Syddanmark,83,Varde Kommune,573,"","",55.6211,8.4807
+DK,6818,Årre,Region Syddanmark,83,Varde Kommune,573,"","",55.5725,8.6675
+DK,6823,Ansager,Region Syddanmark,83,Varde Kommune,573,"","",55.7031,8.7586
+DK,6830,Nørre Nebel,Region Syddanmark,83,Varde Kommune,573,"","",55.7798,8.2952
+DK,6840,Oksbøl,Region Syddanmark,83,Varde Kommune,573,"","",55.6268,8.2876
+DK,6851,Janderup Vestj,Region Syddanmark,83,Varde Kommune,573,"","",55.6336,8.2018
+DK,6852,Billum,Region Syddanmark,83,Varde Kommune,573,"","",55.6167,8.3333
+DK,6853,Vejers Strand,Region Syddanmark,83,Varde Kommune,573,"","",55.6333,8.1333
+DK,6854,Henne,Region Syddanmark,83,Varde Kommune,573,"","",55.7317,8.2209
+DK,6855,Outrup,Region Syddanmark,83,Varde Kommune,573,"","",55.6336,8.2018
+DK,6857,Blåvand,Region Syddanmark,83,Varde Kommune,573,"","",55.5529,8.1198
+DK,6862,Tistrup,Region Syddanmark,83,Varde Kommune,573,"","",55.7172,8.6043
+DK,6870,Ølgod,Region Syddanmark,83,Varde Kommune,573,"","",55.8068,8.6286
+DK,6880,Tarm,Region Syddanmark,83,Varde Kommune,573,"","",55.9086,8.5304
+DK,7200,Grindsted,Region Syddanmark,83,Varde Kommune,573,"","",55.754,8.9123
+DK,6600,Vejen,Region Syddanmark,83,Vejen Kommune,575,"","",55.4812,9.1379
+DK,6621,Gesten,Region Syddanmark,83,Vejen Kommune,575,"","",55.5253,9.2076
+DK,6622,Bække,Region Syddanmark,83,Vejen Kommune,575,"","",55.5703,9.1397
+DK,6623,Vorbasse,Region Syddanmark,83,Vejen Kommune,575,"","",55.6299,9.0824
+DK,6630,Rødding,Region Syddanmark,83,Vejen Kommune,575,"","",55.3657,9.0632
+DK,6650,Brørup,Region Syddanmark,83,Vejen Kommune,575,"","",55.4819,9.0176
+DK,6660,Lintrup,Region Syddanmark,83,Vejen Kommune,575,"","",55.5544,8.9278
+DK,6670,Holsted,Region Syddanmark,83,Vejen Kommune,575,"","",55.5109,8.9187
+DK,6682,Hovborg,Region Syddanmark,83,Vejen Kommune,575,"","",55.6081,8.9396
+DK,6683,Føvling,Region Syddanmark,83,Vejen Kommune,575,"","",55.4521,8.9396
+DK,6690,Gørding,Region Syddanmark,83,Vejen Kommune,575,"","",55.4746,8.7974
+DK,6752,Glejbjerg,Region Syddanmark,83,Vejen Kommune,575,"","",55.5667,8.8333
+DK,6753,Agerbæk,Region Syddanmark,83,Vejen Kommune,575,"","",55.6,8.8
+DK,6200,Aabenraa,Region Syddanmark,83,Aabenraa Kommune,580,"","",55.0443,9.4174
+DK,6230,Rødekro,Region Syddanmark,83,Aabenraa Kommune,580,"","",55.0702,9.3164
+DK,6330,Padborg,Region Syddanmark,83,Aabenraa Kommune,580,"","",54.8266,9.3625
+DK,6340,Kruså,Region Syddanmark,83,Aabenraa Kommune,580,"","",54.851,9.4013
+DK,6360,Tinglev,Region Syddanmark,83,Aabenraa Kommune,580,"","",54.931,9.2524
+DK,6372,Bylderup-Bov,Region Syddanmark,83,Aabenraa Kommune,580,"","",54.9387,9.0857
+DK,6392,Bolderslev,Region Syddanmark,83,Aabenraa Kommune,580,"","",54.9925,9.284
+DK,6534,Agerskov,Region Syddanmark,83,Aabenraa Kommune,580,"","",55.1289,9.1355
+DK,7000,Fredericia,Region Syddanmark,83,Fredericia Kommune,607,"","",55.5657,9.7526
+DK,7007,Fredericia,Region Syddanmark,83,Fredericia Kommune,607,"","",55.5657,9.7526
+DK,6000,Kolding,Region Syddanmark,83,Kolding Kommune,621,"","",55.4904,9.4722
+DK,6040,Egtved,Region Syddanmark,83,Kolding Kommune,621,"","",55.618,9.301
+DK,6051,Almind,Region Syddanmark,83,Kolding Kommune,621,"","",55.5649,9.487
+DK,6052,Viuf,Region Syddanmark,83,Kolding Kommune,621,"","",55.5853,9.4924
+DK,6064,Jordrup,Region Syddanmark,83,Kolding Kommune,621,"","",55.558,9.3122
+DK,6070,Christiansfeld,Region Syddanmark,83,Kolding Kommune,621,"","",55.3582,9.487
+DK,6091,Bjert,Region Syddanmark,83,Kolding Kommune,621,"","",55.4077,9.5738
+DK,6092,Sønder Stenderup,Region Syddanmark,83,Kolding Kommune,621,"","",55.4623,9.6119
+DK,6093,Sjølund,Region Syddanmark,83,Kolding Kommune,621,"","",55.4024,9.5302
+DK,6094,Hejls,Region Syddanmark,83,Kolding Kommune,621,"","",55.3831,9.5765
+DK,6100,Haderslev,Region Syddanmark,83,Kolding Kommune,621,"","",55.2538,9.4898
+DK,6430,Nordborg,Region Syddanmark,83,Kolding Kommune,621,"","",55.0573,9.7408
+DK,6560,Sommersted,Region Syddanmark,83,Kolding Kommune,621,"","",55.3187,9.2956
+DK,6580,Vamdrup,Region Syddanmark,83,Kolding Kommune,621,"","",55.4276,9.2843
+DK,6640,Lunderskov,Region Syddanmark,83,Kolding Kommune,621,"","",55.4838,9.2992
+DK,6040,Egtved,Region Syddanmark,83,Vejle Kommune,630,"","",55.618,9.301
+DK,6052,Viuf,Region Syddanmark,83,Vejle Kommune,630,"","",55.5853,9.4924
+DK,6623,Vorbasse,Region Syddanmark,83,Vejle Kommune,630,"","",55.6299,9.0824
+DK,7000,Fredericia,Region Syddanmark,83,Vejle Kommune,630,"","",55.5657,9.7526
+DK,7080,Børkop,Region Syddanmark,83,Vejle Kommune,630,"","",55.6379,9.6482
+DK,7100,Vejle,Region Syddanmark,83,Vejle Kommune,630,"","",55.7093,9.5357
+DK,7120,Vejle Øst,Region Syddanmark,83,Vejle Kommune,630,"","",55.758,9.4862
+DK,7160,Tørring,Region Syddanmark,83,Vejle Kommune,630,"","",55.85,9.4833
+DK,7173,Vonge,Region Syddanmark,83,Vejle Kommune,630,"","",55.8604,9.4194
+DK,7182,Bredsten,Region Syddanmark,83,Vejle Kommune,630,"","",55.7013,9.385
+DK,7183,Randbøl,Region Syddanmark,83,Vejle Kommune,630,"","",55.6943,9.2475
+DK,7184,Vandel,Region Syddanmark,83,Vejle Kommune,630,"","",55.7085,9.2133
+DK,7190,Billund,Region Syddanmark,83,Vejle Kommune,630,"","",55.7335,9.1079
+DK,7200,Grindsted,Region Syddanmark,83,Vejle Kommune,630,"","",55.754,8.9123
+DK,7300,Jelling,Region Syddanmark,83,Vejle Kommune,630,"","",55.7559,9.4258
+DK,7321,Gadbjerg,Region Syddanmark,83,Vejle Kommune,630,"","",55.7715,9.3248
+DK,7323,Give,Region Syddanmark,83,Vejle Kommune,630,"","",55.8398,9.25
+DK,7330,Brande,Region Syddanmark,83,Vejle Kommune,630,"","",55.9381,9.1218
+DK,7361,Ejstrupholm,Region Syddanmark,83,Vejle Kommune,630,"","",55.9841,9.2818
+DK,0900,København C,Region Hovedstaden,84,Københavns Kommune,101,"","",57.048,9.9187
+DK,0960,Udland,Region Hovedstaden,84,Københavns Kommune,101,"","",56.804,9.5144
+DK,0999,København C,Region Hovedstaden,84,Københavns Kommune,101,"","",57.7209,10.5839
+DK,1001,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1002,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1003,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1004,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1005,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1006,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1007,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1008,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1009,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1010,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1011,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1012,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1013,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1014,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1015,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1016,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1017,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1018,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1019,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1020,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1021,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1022,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1023,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1024,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1025,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1026,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1050,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1051,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1052,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1053,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1054,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1055,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1056,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1057,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1058,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1059,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1060,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1061,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1062,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1063,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1064,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1065,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1066,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1067,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1068,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1069,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1070,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1071,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1072,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1073,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1074,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1092,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1093,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1095,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1098,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1100,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1101,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1102,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1103,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1104,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1105,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1106,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1107,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1110,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1111,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1112,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1113,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1114,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1115,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1116,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1117,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1118,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1119,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1120,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1121,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1122,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1123,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1124,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1125,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1126,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1127,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1128,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1129,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1130,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1131,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1140,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1147,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1148,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1150,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1151,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1152,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1153,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1154,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1155,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1156,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1157,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1158,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1159,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1160,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1161,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1162,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1164,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1165,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1166,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1167,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1168,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1169,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1170,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1171,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1172,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1173,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1174,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1175,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1200,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1201,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1202,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1203,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1204,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1205,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1206,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1207,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1208,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1209,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1210,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1211,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1213,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1214,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1215,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1216,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1217,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1218,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1219,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1220,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1221,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1240,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1250,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1251,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1253,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1254,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1255,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1256,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1257,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1259,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1260,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1261,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1263,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1264,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1265,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1266,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1267,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1268,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1270,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1271,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1291,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1300,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1301,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1302,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1303,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1304,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1306,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1307,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1308,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1309,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1310,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1311,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1312,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1313,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1314,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1315,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1316,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1317,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1318,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1319,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1320,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1321,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1322,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1323,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1324,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1325,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1326,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1327,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1328,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1329,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1350,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1352,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1353,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1354,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1355,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1356,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1357,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1358,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1359,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1360,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1361,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1362,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1363,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1364,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1365,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1366,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1367,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1368,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1369,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1370,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1371,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1400,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1401,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1402,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1403,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1406,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1407,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1408,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1409,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1410,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1411,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1412,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1413,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1414,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1415,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1416,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1417,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1418,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1419,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1420,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1421,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1422,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1423,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1424,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1425,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1426,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1427,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1428,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1429,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1430,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1432,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1433,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1434,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1435,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1436,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1437,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1438,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1439,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1440,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1441,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1448,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1450,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1451,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1452,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1453,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1454,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1455,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1456,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1457,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1458,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1459,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1460,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1462,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1463,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1464,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1466,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1467,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1468,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1470,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1471,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1472,København K,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1500,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1501,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1502,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1503,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1504,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1505,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1506,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1507,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1508,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1509,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1510,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1513,Centraltastning,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6711,12.5653
+DK,1550,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1551,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1552,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1553,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1554,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1555,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1556,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1557,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1558,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1559,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1560,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1561,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1562,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1563,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1564,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1567,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1568,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1569,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1570,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1571,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1572,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1573,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1574,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1575,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1576,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1577,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1592,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1599,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1600,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1601,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1602,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1603,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1604,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1606,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1607,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1608,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1609,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1610,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1611,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1612,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1613,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1614,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1615,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1616,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1617,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1618,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1619,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1620,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1621,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1622,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1623,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1624,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1630,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1631,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1632,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1633,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1634,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1635,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1650,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1651,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1652,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1653,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1654,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1655,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1656,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1657,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1658,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1659,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1660,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1661,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1662,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1663,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1664,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1665,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1666,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1667,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1668,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1669,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1670,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1671,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1672,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1673,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1674,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1675,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1676,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1677,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1699,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1700,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1701,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1702,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1703,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1704,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1705,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1706,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1707,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1708,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1709,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1710,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1711,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1712,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1714,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1715,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1716,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1717,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1718,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1719,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1720,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1721,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1722,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1723,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1724,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1725,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1726,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1727,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1728,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1729,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1730,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1731,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1732,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1733,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1734,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1735,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1736,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1737,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1738,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1739,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1749,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1750,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1751,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1752,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1753,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1754,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1755,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1756,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1757,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1758,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1759,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1760,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1761,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1762,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1763,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1764,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1765,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1766,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1770,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1771,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1772,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1773,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1774,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1775,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1777,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1780,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1785,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1786,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1787,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1790,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1799,København V,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,1810,Frederiksberg C,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6794,12.5346
+DK,2000,Frederiksberg,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6794,12.5346
+DK,2100,København Ø,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,2150,Nordhavn,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,2200,København N,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,2300,København S,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,2400,København NV,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,2450,København SV,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6759,12.5655
+DK,2500,Valby,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6581,12.5241
+DK,2610,Rødovre,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6806,12.4537
+DK,2700,Brønshøj,Region Hovedstaden,84,Københavns Kommune,101,"","",55.7057,12.4964
+DK,2720,Vanløse,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6836,12.4871
+DK,2770,Kastrup,Region Hovedstaden,84,Københavns Kommune,101,"","",55.6352,12.6489
+DK,2860,Søborg,Region Hovedstaden,84,Københavns Kommune,101,"","",55.7302,12.5098
+DK,2900,Hellerup,Region Hovedstaden,84,Københavns Kommune,101,"","",55.732,12.5709
+DK,7480,Vildbjerg,Region Hovedstaden,84,Københavns Kommune,101,"","",56.2,8.7667
+DK,1800,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1801,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1802,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1803,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1804,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1805,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1806,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1807,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1808,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1809,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1810,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1811,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1812,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1813,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1814,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1815,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1816,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1817,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1818,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1819,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1820,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1822,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1823,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1824,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1825,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1826,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1827,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1828,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1829,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1835,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1850,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1851,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1852,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1853,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1854,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1855,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1856,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1857,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1860,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1861,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1862,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1863,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1864,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1865,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1866,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1867,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1868,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1870,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1871,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1872,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1873,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1874,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1875,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1876,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1877,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1878,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1879,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1900,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1901,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1902,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1903,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1904,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1905,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1906,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1908,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1909,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1910,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1911,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1912,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1913,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1914,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1915,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1916,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1917,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1920,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1921,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1922,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1923,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1924,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1925,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1926,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1927,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1928,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1950,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1951,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1952,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1953,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1954,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1955,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1956,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1957,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1958,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1959,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1960,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1961,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1962,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1963,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1964,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1965,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1966,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1967,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1970,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1971,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1972,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1973,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,1974,Frederiksberg C,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,2000,Frederiksberg,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6794,12.5346
+DK,2200,København N,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6759,12.5655
+DK,2500,Valby,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6581,12.5241
+DK,2720,Vanløse,Region Hovedstaden,84,Frederiksberg Kommune,147,"","",55.6836,12.4871
+DK,2730,Herlev,Region Hovedstaden,84,Ballerup Kommune,151,"","",55.7237,12.44
+DK,2740,Skovlunde,Region Hovedstaden,84,Ballerup Kommune,151,"","",55.7157,12.398
+DK,2750,Ballerup,Region Hovedstaden,84,Ballerup Kommune,151,"","",55.7316,12.3633
+DK,2760,Måløv,Region Hovedstaden,84,Ballerup Kommune,151,"","",55.7553,12.3233
+DK,3500,Værløse,Region Hovedstaden,84,Ballerup Kommune,151,"","",55.7825,12.3686
+DK,0917,Københavns Pakkecent,Region Hovedstaden,84,Brøndby Kommune,153,"","",55.6759,12.5655
+DK,2600,Glostrup,Region Hovedstaden,84,Brøndby Kommune,153,"","",55.6666,12.4038
+DK,2605,Brøndby,Region Hovedstaden,84,Brøndby Kommune,153,"","",55.6503,12.41
+DK,2620,Albertslund,Region Hovedstaden,84,Brøndby Kommune,153,"","",55.6569,12.3638
+DK,2650,Hvidovre,Region Hovedstaden,84,Brøndby Kommune,153,"","",55.6572,12.4736
+DK,2660,Brøndby Strand,Region Hovedstaden,84,Brøndby Kommune,153,"","",55.6167,12.35
+DK,2791,Dragør,Region Hovedstaden,84,Dragør Kommune,155,"","",55.5945,12.6664
+DK,2800,Kongens Lyngby,Region Hovedstaden,84,Gentofte Kommune,157,"","",55.7704,12.5038
+DK,2820,Gentofte,Region Hovedstaden,84,Gentofte Kommune,157,"","",55.749,12.546
+DK,2870,Dyssegård,Region Hovedstaden,84,Gentofte Kommune,157,"","",55.7728,12.494
+DK,2900,Hellerup,Region Hovedstaden,84,Gentofte Kommune,157,"","",55.732,12.5709
+DK,2920,Charlottenlund,Region Hovedstaden,84,Gentofte Kommune,157,"","",55.7537,12.5918
+DK,2930,Klampenborg,Region Hovedstaden,84,Gentofte Kommune,157,"","",55.7763,12.5901
+DK,2730,Herlev,Region Hovedstaden,84,Gladsaxe Kommune,159,"","",55.7237,12.44
+DK,2800,Kongens Lyngby,Region Hovedstaden,84,Gladsaxe Kommune,159,"","",55.7704,12.5038
+DK,2820,Gentofte,Region Hovedstaden,84,Gladsaxe Kommune,159,"","",55.749,12.546
+DK,2860,Søborg,Region Hovedstaden,84,Gladsaxe Kommune,159,"","",55.7302,12.5098
+DK,2880,Bagsværd,Region Hovedstaden,84,Gladsaxe Kommune,159,"","",55.7618,12.4679
+DK,3500,Værløse,Region Hovedstaden,84,Gladsaxe Kommune,159,"","",55.7825,12.3686
+DK,2600,Glostrup,Region Hovedstaden,84,Glostrup Kommune,161,"","",55.6666,12.4038
+DK,2730,Herlev,Region Hovedstaden,84,Herlev Kommune,163,"","",55.7237,12.44
+DK,2740,Skovlunde,Region Hovedstaden,84,Herlev Kommune,163,"","",55.7157,12.398
+DK,2880,Bagsværd,Region Hovedstaden,84,Herlev Kommune,163,"","",55.7618,12.4679
+DK,2600,Glostrup,Region Hovedstaden,84,Albertslund Kommune,165,"","",55.6666,12.4038
+DK,2620,Albertslund,Region Hovedstaden,84,Albertslund Kommune,165,"","",55.6569,12.3638
+DK,2750,Ballerup,Region Hovedstaden,84,Albertslund Kommune,165,"","",55.7316,12.3633
+DK,2610,Rødovre,Region Hovedstaden,84,Hvidovre Kommune,167,"","",55.6806,12.4537
+DK,2650,Hvidovre,Region Hovedstaden,84,Hvidovre Kommune,167,"","",55.6572,12.4736
+DK,2660,Brøndby Strand,Region Hovedstaden,84,Hvidovre Kommune,167,"","",55.6167,12.35
+DK,0800,Høje Taastrup,Region Hovedstaden,84,Høje-Taastrup Kommune,169,"","",55.6471,12.2742
+DK,2630,Taastrup,Region Hovedstaden,84,Høje-Taastrup Kommune,169,"","",55.6517,12.2922
+DK,2640,Hedehusene,Region Hovedstaden,84,Høje-Taastrup Kommune,169,"","",55.647,12.1936
+DK,4000,Roskilde,Region Hovedstaden,84,Høje-Taastrup Kommune,169,"","",55.6415,12.0803
+DK,2800,Kongens Lyngby,Region Hovedstaden,84,Lyngby-Taarbæk Kommune,173,"","",55.7704,12.5038
+DK,2830,Virum,Region Hovedstaden,84,Lyngby-Taarbæk Kommune,173,"","",55.7949,12.451
+DK,2840,Holte,Region Hovedstaden,84,Lyngby-Taarbæk Kommune,173,"","",55.8167,12.4667
+DK,2930,Klampenborg,Region Hovedstaden,84,Lyngby-Taarbæk Kommune,173,"","",55.7763,12.5901
+DK,3500,Værløse,Region Hovedstaden,84,Lyngby-Taarbæk Kommune,173,"","",55.7825,12.3686
+DK,2610,Rødovre,Region Hovedstaden,84,Rødovre Kommune,175,"","",55.6806,12.4537
+DK,2730,Herlev,Region Hovedstaden,84,Rødovre Kommune,175,"","",55.7237,12.44
+DK,2635,Ishøj,Region Hovedstaden,84,Ishøj Kommune,183,"","",55.6154,12.3518
+DK,2640,Hedehusene,Region Hovedstaden,84,Ishøj Kommune,183,"","",55.647,12.1936
+DK,1532,København V,Region Hovedstaden,84,Tårnby Kommune,185,"","",55.6759,12.5655
+DK,1533,København V,Region Hovedstaden,84,Tårnby Kommune,185,"","",55.6759,12.5655
+DK,2300,København S,Region Hovedstaden,84,Tårnby Kommune,185,"","",55.6759,12.5655
+DK,2770,Kastrup,Region Hovedstaden,84,Tårnby Kommune,185,"","",55.6352,12.6489
+DK,2791,Dragør,Region Hovedstaden,84,Tårnby Kommune,185,"","",55.5945,12.6664
+DK,2625,Vallensbæk,Region Hovedstaden,84,Vallensbæk Kommune,187,"","",55.6333,12.3667
+DK,2665,Vallensbæk Strand,Region Hovedstaden,84,Vallensbæk Kommune,187,"","",55.6139,12.3895
+DK,2880,Bagsværd,Region Hovedstaden,84,Furesø Kommune,190,"","",55.7618,12.4679
+DK,3460,Birkerød,Region Hovedstaden,84,Furesø Kommune,190,"","",55.8476,12.4279
+DK,3500,Værløse,Region Hovedstaden,84,Furesø Kommune,190,"","",55.7825,12.3686
+DK,3520,Farum,Region Hovedstaden,84,Furesø Kommune,190,"","",55.8086,12.3607
+DK,3540,Lynge,Region Hovedstaden,84,Furesø Kommune,190,"","",55.8394,12.2772
+DK,3400,Hillerød,Region Hovedstaden,84,Allerød Kommune,201,"","",55.9279,12.3008
+DK,3450,Allerød,Region Hovedstaden,84,Allerød Kommune,201,"","",55.8703,12.3574
+DK,3460,Birkerød,Region Hovedstaden,84,Allerød Kommune,201,"","",55.8476,12.4279
+DK,3520,Farum,Region Hovedstaden,84,Allerød Kommune,201,"","",55.8086,12.3607
+DK,3540,Lynge,Region Hovedstaden,84,Allerød Kommune,201,"","",55.8394,12.2772
+DK,3550,Slangerup,Region Hovedstaden,84,Allerød Kommune,201,"","",55.85,12.1833
+DK,2970,Hørsholm,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.881,12.5011
+DK,2980,Kokkedal,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.9118,12.4995
+DK,2990,Nivå,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.9341,12.5048
+DK,3050,Humlebæk,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.9618,12.5341
+DK,3060,Espergærde,Region Hovedstaden,84,Fredensborg Kommune,210,"","",56,12.5667
+DK,3400,Hillerød,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.9279,12.3008
+DK,3450,Allerød,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.8703,12.3574
+DK,3480,Fredensborg,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.9756,12.4031
+DK,3490,Kvistgård,Region Hovedstaden,84,Fredensborg Kommune,210,"","",55.9935,12.5045
+DK,3000,Helsingør,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.0361,12.6136
+DK,3050,Humlebæk,Region Hovedstaden,84,Helsingør Kommune,217,"","",55.9618,12.5341
+DK,3060,Espergærde,Region Hovedstaden,84,Helsingør Kommune,217,"","",56,12.5667
+DK,3070,Snekkersten,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.009,12.586
+DK,3080,Tikøb,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.0206,12.4531
+DK,3100,Hornbæk,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.0854,12.4505
+DK,3140,Ålsgårde,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.0756,12.5399
+DK,3150,Hellebæk,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.0682,12.5578
+DK,3230,Græsted,Region Hovedstaden,84,Helsingør Kommune,217,"","",56.0656,12.2851
+DK,3480,Fredensborg,Region Hovedstaden,84,Helsingør Kommune,217,"","",55.9756,12.4031
+DK,3490,Kvistgård,Region Hovedstaden,84,Helsingør Kommune,217,"","",55.9935,12.5045
+DK,3200,Helsinge,Region Hovedstaden,84,Hillerød Kommune,219,"","",56.0228,12.1975
+DK,3230,Græsted,Region Hovedstaden,84,Hillerød Kommune,219,"","",56.0656,12.2851
+DK,3310,Ølsted,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.9232,12.0707
+DK,3320,Skævinge,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.9079,12.1504
+DK,3330,Gørløse,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.8852,12.1982
+DK,3400,Hillerød,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.9279,12.3008
+DK,3450,Allerød,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.8703,12.3574
+DK,3480,Fredensborg,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.9756,12.4031
+DK,3540,Lynge,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.8394,12.2772
+DK,3550,Slangerup,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.85,12.1833
+DK,3600,Frederikssund,Region Hovedstaden,84,Hillerød Kommune,219,"","",55.8396,12.069
+DK,2950,Vedbæk,Region Hovedstaden,84,Hørsholm Kommune,223,"","",55.8473,12.5689
+DK,2960,Rungsted Kyst,Region Hovedstaden,84,Hørsholm Kommune,223,"","",55.8349,12.5451
+DK,2970,Hørsholm,Region Hovedstaden,84,Hørsholm Kommune,223,"","",55.881,12.5011
+DK,2980,Kokkedal,Region Hovedstaden,84,Hørsholm Kommune,223,"","",55.9118,12.4995
+DK,2800,Kongens Lyngby,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.7704,12.5038
+DK,2830,Virum,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.7949,12.451
+DK,2840,Holte,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.8167,12.4667
+DK,2850,Nærum,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.816,12.5385
+DK,2942,Skodsborg,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.8225,12.5732
+DK,2950,Vedbæk,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.8473,12.5689
+DK,2970,Hørsholm,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.881,12.5011
+DK,3460,Birkerød,Region Hovedstaden,84,Rudersdal Kommune,230,"","",55.8476,12.4279
+DK,2750,Ballerup,Region Hovedstaden,84,Egedal Kommune,240,"","",55.7316,12.3633
+DK,2765,Smørum,Region Hovedstaden,84,Egedal Kommune,240,"","",55.7423,12.3028
+DK,3500,Værløse,Region Hovedstaden,84,Egedal Kommune,240,"","",55.7825,12.3686
+DK,3520,Farum,Region Hovedstaden,84,Egedal Kommune,240,"","",55.8086,12.3607
+DK,3540,Lynge,Region Hovedstaden,84,Egedal Kommune,240,"","",55.8394,12.2772
+DK,3550,Slangerup,Region Hovedstaden,84,Egedal Kommune,240,"","",55.85,12.1833
+DK,3650,Ølstykke,Region Hovedstaden,84,Egedal Kommune,240,"","",55.7916,12.145
+DK,3660,Stenløse,Region Hovedstaden,84,Egedal Kommune,240,"","",55.7683,12.1972
+DK,3670,Veksø Sjælland,Region Hovedstaden,84,Egedal Kommune,240,"","",55.8223,12.0862
+DK,3550,Slangerup,Region Hovedstaden,84,Frederikssund Kommune,250,"","",55.85,12.1833
+DK,3600,Frederikssund,Region Hovedstaden,84,Frederikssund Kommune,250,"","",55.8396,12.069
+DK,3630,Jægerspris,Region Hovedstaden,84,Frederikssund Kommune,250,"","",55.8554,11.9679
+DK,4050,Skibby,Region Hovedstaden,84,Frederikssund Kommune,250,"","",55.7512,11.9608
+DK,3300,Frederiksværk,Region Hovedstaden,84,Halsnæs Kommune,260,"","",55.9707,12.0225
+DK,3310,Ølsted,Region Hovedstaden,84,Halsnæs Kommune,260,"","",55.9232,12.0707
+DK,3320,Skævinge,Region Hovedstaden,84,Halsnæs Kommune,260,"","",55.9079,12.1504
+DK,3360,Liseleje,Region Hovedstaden,84,Halsnæs Kommune,260,"","",56.0053,11.9483
+DK,3370,Melby,Region Hovedstaden,84,Halsnæs Kommune,260,"","",55.9962,11.9676
+DK,3390,Hundested,Region Hovedstaden,84,Halsnæs Kommune,260,"","",55.9667,11.8667
+DK,3600,Frederikssund,Region Hovedstaden,84,Halsnæs Kommune,260,"","",55.8396,12.069
+DK,3100,Hornbæk,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.0854,12.4505
+DK,3120,Dronningmølle,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.0949,12.3852
+DK,3200,Helsinge,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.0228,12.1975
+DK,3210,Vejby,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.0639,12.1419
+DK,3220,Tisvildeleje,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.0598,12.0741
+DK,3230,Græsted,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.0656,12.2851
+DK,3250,Gilleleje,Region Hovedstaden,84,Gribskov Kommune,270,"","",56.122,12.3106
+DK,3300,Frederiksværk,Region Hovedstaden,84,Gribskov Kommune,270,"","",55.9707,12.0225
+DK,3700,Rønne,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.1009,14.7066
+DK,3720,Aakirkeby,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.0708,14.9198
+DK,3730,Nexø,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.0607,15.1306
+DK,3740,Svaneke,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.1357,15.1414
+DK,3751,Østermarie,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.1407,15.0125
+DK,3760,Gudhjem,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.2105,14.9713
+DK,3770,Allinge,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.2759,14.8024
+DK,3782,Klemensker,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.1727,14.8099
+DK,3790,Hasle,Region Hovedstaden,84,Bornholm Kommune,400,"","",55.1821,14.7112
+DK,3760,Gudhjem,Region Hovedstaden,84,Christiansø,411,"","",55.2105,14.9713
+DK,2640,Hedehusene,Region Sjælland,85,Greve Kommune,253,"","",55.647,12.1936
+DK,2670,Greve,Region Sjælland,85,Greve Kommune,253,"","",55.5833,12.3
+DK,2690,Karlslunde,Region Sjælland,85,Greve Kommune,253,"","",55.5726,12.2258
+DK,4030,Tune,Region Sjælland,85,Greve Kommune,253,"","",55.5953,12.1832
+DK,4100,Ringsted,Region Sjælland,85,Køge Kommune,259,"","",55.4426,11.7901
+DK,4130,Viby Sjælland,Region Sjælland,85,Køge Kommune,259,"","",55.5487,12.0239
+DK,4140,Borup,Region Sjælland,85,Køge Kommune,259,"","",55.4947,11.9758
+DK,4174,Jystrup Midtsj,Region Sjælland,85,Køge Kommune,259,"","",55.4082,11.6872
+DK,4320,Lejre,Region Sjælland,85,Køge Kommune,259,"","",55.6046,11.9748
+DK,4600,Køge,Region Sjælland,85,Køge Kommune,259,"","",55.458,12.1821
+DK,4623,Lille Skensved,Region Sjælland,85,Køge Kommune,259,"","",55.5098,12.1351
+DK,4632,Bjæverskov,Region Sjælland,85,Køge Kommune,259,"","",55.4576,12.0365
+DK,4681,Herfølge,Region Sjælland,85,Køge Kommune,259,"","",55.4137,12.1433
+DK,4682,Tureby,Region Sjælland,85,Køge Kommune,259,"","",55.373,12.0769
+DK,2640,Hedehusene,Region Sjælland,85,Roskilde Kommune,265,"","",55.647,12.1936
+DK,3670,Veksø Sjælland,Region Sjælland,85,Roskilde Kommune,265,"","",55.8223,12.0862
+DK,4000,Roskilde,Region Sjælland,85,Roskilde Kommune,265,"","",55.6415,12.0803
+DK,4030,Tune,Region Sjælland,85,Roskilde Kommune,265,"","",55.5953,12.1832
+DK,4040,Jyllinge,Region Sjælland,85,Roskilde Kommune,265,"","",55.7584,12.1123
+DK,4130,Viby Sjælland,Region Sjælland,85,Roskilde Kommune,265,"","",55.5487,12.0239
+DK,4140,Borup,Region Sjælland,85,Roskilde Kommune,265,"","",55.4947,11.9758
+DK,4320,Lejre,Region Sjælland,85,Roskilde Kommune,265,"","",55.6046,11.9748
+DK,4621,Gadstrup,Region Sjælland,85,Roskilde Kommune,265,"","",55.5678,12.0891
+DK,4622,Havdrup,Region Sjælland,85,Roskilde Kommune,265,"","",55.5448,12.1239
+DK,4623,Lille Skensved,Region Sjælland,85,Roskilde Kommune,265,"","",55.5098,12.1351
+DK,2680,Solrød Strand,Region Sjælland,85,Solrød Kommune,269,"","",55.5329,12.2223
+DK,2690,Karlslunde,Region Sjælland,85,Solrød Kommune,269,"","",55.5726,12.2258
+DK,4622,Havdrup,Region Sjælland,85,Solrød Kommune,269,"","",55.5448,12.1239
+DK,4623,Lille Skensved,Region Sjælland,85,Solrød Kommune,269,"","",55.5098,12.1351
+DK,4500,Nykøbing Sj,Region Sjælland,85,Odsherred Kommune,306,"","",55.7951,11.4991
+DK,4534,Hørve,Region Sjælland,85,Odsherred Kommune,306,"","",55.7529,11.453
+DK,4540,Fårevejle,Region Sjælland,85,Odsherred Kommune,306,"","",55.8,11.45
+DK,4550,Asnæs,Region Sjælland,85,Odsherred Kommune,306,"","",55.8123,11.5013
+DK,4560,Vig,Region Sjælland,85,Odsherred Kommune,306,"","",55.8508,11.5856
+DK,4571,Grevinge,Region Sjælland,85,Odsherred Kommune,306,"","",55.8008,11.5516
+DK,4572,Nørre Asmindrup,Region Sjælland,85,Odsherred Kommune,306,"","",55.8872,11.623
+DK,4573,Højby,Region Sjælland,85,Odsherred Kommune,306,"","",55.9115,11.5976
+DK,4581,Rørvig,Region Sjælland,85,Odsherred Kommune,306,"","",55.944,11.7527
+DK,4583,Sjællands Odde,Region Sjælland,85,Odsherred Kommune,306,"","",55.944,11.7527
+DK,4591,Føllenslev,Region Sjælland,85,Odsherred Kommune,306,"","",55.7255,11.3508
+DK,4100,Ringsted,Region Sjælland,85,Holbæk Kommune,316,"","",55.4426,11.7901
+DK,4295,Stenlille,Region Sjælland,85,Holbæk Kommune,316,"","",55.5402,11.5915
+DK,4296,Nyrup,Region Sjælland,85,Holbæk Kommune,316,"","",55.4947,11.3623
+DK,4300,Holbæk,Region Sjælland,85,Holbæk Kommune,316,"","",55.7135,11.7169
+DK,4330,Hvalsø,Region Sjælland,85,Holbæk Kommune,316,"","",55.5917,11.8625
+DK,4340,Tølløse,Region Sjælland,85,Holbæk Kommune,316,"","",55.6125,11.7703
+DK,4350,Ugerløse,Region Sjælland,85,Holbæk Kommune,316,"","",55.5871,11.6541
+DK,4360,Kirke Eskilstrup,Region Sjælland,85,Holbæk Kommune,316,"","",55.5746,11.7672
+DK,4370,Store Merløse,Region Sjælland,85,Holbæk Kommune,316,"","",55.5438,11.713
+DK,4390,Vipperød,Region Sjælland,85,Holbæk Kommune,316,"","",55.6677,11.7397
+DK,4420,Regstrup,Region Sjælland,85,Holbæk Kommune,316,"","",55.6756,11.6157
+DK,4440,Mørkøv,Region Sjælland,85,Holbæk Kommune,316,"","",55.6517,11.5015
+DK,4450,Jyderup,Region Sjælland,85,Holbæk Kommune,316,"","",55.664,11.4203
+DK,4460,Snertinge,Region Sjælland,85,Holbæk Kommune,316,"","",55.7149,11.3833
+DK,4470,Svebølle,Region Sjælland,85,Holbæk Kommune,316,"","",55.6368,11.3172
+DK,4520,Svinninge,Region Sjælland,85,Holbæk Kommune,316,"","",55.7211,11.4655
+DK,4532,Gislinge,Region Sjælland,85,Holbæk Kommune,316,"","",55.7343,11.5484
+DK,4100,Ringsted,Region Sjælland,85,Faxe Kommune,320,"","",55.4426,11.7901
+DK,4160,Herlufmagle,Region Sjælland,85,Faxe Kommune,320,"","",55.3132,11.7523
+DK,4640,Faxe,Region Sjælland,85,Faxe Kommune,320,"","",55.2469,12.1176
+DK,4652,Hårlev,Region Sjælland,85,Faxe Kommune,320,"","",55.3494,12.2338
+DK,4653,Karise,Region Sjælland,85,Faxe Kommune,320,"","",55.3028,12.2086
+DK,4654,Faxe Ladeplads,Region Sjælland,85,Faxe Kommune,320,"","",55.3261,12.2212
+DK,4682,Tureby,Region Sjælland,85,Faxe Kommune,320,"","",55.373,12.0769
+DK,4683,Rønnede,Region Sjælland,85,Faxe Kommune,320,"","",55.2571,12.0212
+DK,4684,Holmegaard,Region Sjælland,85,Faxe Kommune,320,"","",55.3411,12.0694
+DK,4690,Haslev,Region Sjælland,85,Faxe Kommune,320,"","",55.3235,11.9639
+DK,4733,Tappernøje,Region Sjælland,85,Faxe Kommune,320,"","",55.165,11.9787
+DK,4200,Slagelse,Region Sjælland,85,Kalundborg Kommune,326,"","",55.4028,11.3546
+DK,4270,Høng,Region Sjælland,85,Kalundborg Kommune,326,"","",55.5116,11.2903
+DK,4281,Gørlev,Region Sjælland,85,Kalundborg Kommune,326,"","",55.5393,11.2271
+DK,4291,Ruds Vedby,Region Sjælland,85,Kalundborg Kommune,326,"","",55.5409,11.3796
+DK,4293,Dianalund,Region Sjælland,85,Kalundborg Kommune,326,"","",55.5313,11.4925
+DK,4400,Kalundborg,Region Sjælland,85,Kalundborg Kommune,326,"","",55.6795,11.0886
+DK,4450,Jyderup,Region Sjælland,85,Kalundborg Kommune,326,"","",55.664,11.4203
+DK,4460,Snertinge,Region Sjælland,85,Kalundborg Kommune,326,"","",55.7149,11.3833
+DK,4470,Svebølle,Region Sjælland,85,Kalundborg Kommune,326,"","",55.6368,11.3172
+DK,4480,Store Fuglede,Region Sjælland,85,Kalundborg Kommune,326,"","",55.5852,11.2454
+DK,4490,Jerslev Sjælland,Region Sjælland,85,Kalundborg Kommune,326,"","",55.6105,11.2406
+DK,4534,Hørve,Region Sjælland,85,Kalundborg Kommune,326,"","",55.7529,11.453
+DK,4591,Føllenslev,Region Sjælland,85,Kalundborg Kommune,326,"","",55.7255,11.3508
+DK,4592,Sejerø,Region Sjælland,85,Kalundborg Kommune,326,"","",55.7213,11.3354
+DK,4593,Eskebjerg,Region Sjælland,85,Kalundborg Kommune,326,"","",55.713,11.3045
+DK,4100,Ringsted,Region Sjælland,85,Ringsted Kommune,329,"","",55.4426,11.7901
+DK,4140,Borup,Region Sjælland,85,Ringsted Kommune,329,"","",55.4947,11.9758
+DK,4173,Fjenneslev,Region Sjælland,85,Ringsted Kommune,329,"","",55.4339,11.688
+DK,4174,Jystrup Midtsj,Region Sjælland,85,Ringsted Kommune,329,"","",55.4082,11.6872
+DK,4180,Sorø,Region Sjælland,85,Ringsted Kommune,329,"","",55.4318,11.5555
+DK,4330,Hvalsø,Region Sjælland,85,Ringsted Kommune,329,"","",55.5917,11.8625
+DK,4360,Kirke Eskilstrup,Region Sjælland,85,Ringsted Kommune,329,"","",55.5746,11.7672
+DK,4370,Store Merløse,Region Sjælland,85,Ringsted Kommune,329,"","",55.5438,11.713
+DK,4690,Haslev,Region Sjælland,85,Ringsted Kommune,329,"","",55.3235,11.9639
+DK,4180,Sorø,Region Sjælland,85,Slagelse Kommune,330,"","",55.4318,11.5555
+DK,4190,Munke Bjergby,Region Sjælland,85,Slagelse Kommune,330,"","",55.5037,11.5317
+DK,4200,Slagelse,Region Sjælland,85,Slagelse Kommune,330,"","",55.4028,11.3546
+DK,4220,Korsør,Region Sjælland,85,Slagelse Kommune,330,"","",55.3299,11.1386
+DK,4230,Skælskør,Region Sjælland,85,Slagelse Kommune,330,"","",55.2506,11.2935
+DK,4241,Vemmelev,Region Sjælland,85,Slagelse Kommune,330,"","",55.3553,11.2471
+DK,4242,Boeslunde,Region Sjælland,85,Slagelse Kommune,330,"","",55.3008,11.2712
+DK,4243,Rude,Region Sjælland,85,Slagelse Kommune,330,"","",55.2307,11.4692
+DK,4250,Fuglebjerg,Region Sjælland,85,Slagelse Kommune,330,"","",55.306,11.5477
+DK,4261,Dalmose,Region Sjælland,85,Slagelse Kommune,330,"","",55.2942,11.4184
+DK,4262,Sandved,Region Sjælland,85,Slagelse Kommune,330,"","",55.263,11.5217
+DK,4270,Høng,Region Sjælland,85,Slagelse Kommune,330,"","",55.5116,11.2903
+DK,4600,Køge,Region Sjælland,85,Stevns Kommune,336,"","",55.458,12.1821
+DK,4652,Hårlev,Region Sjælland,85,Stevns Kommune,336,"","",55.3494,12.2338
+DK,4653,Karise,Region Sjælland,85,Stevns Kommune,336,"","",55.3028,12.2086
+DK,4660,Store Heddinge,Region Sjælland,85,Stevns Kommune,336,"","",55.3096,12.3888
+DK,4671,Strøby,Region Sjælland,85,Stevns Kommune,336,"","",55.3834,12.2811
+DK,4672,Klippinge,Region Sjælland,85,Stevns Kommune,336,"","",55.3482,12.3258
+DK,4673,Rødvig Stevns,Region Sjælland,85,Stevns Kommune,336,"","",55.2554,12.3794
+DK,4682,Tureby,Region Sjælland,85,Stevns Kommune,336,"","",55.373,12.0769
+DK,4100,Ringsted,Region Sjælland,85,Sorø Kommune,340,"","",55.4426,11.7901
+DK,4173,Fjenneslev,Region Sjælland,85,Sorø Kommune,340,"","",55.4339,11.688
+DK,4180,Sorø,Region Sjælland,85,Sorø Kommune,340,"","",55.4318,11.5555
+DK,4190,Munke Bjergby,Region Sjælland,85,Sorø Kommune,340,"","",55.5037,11.5317
+DK,4200,Slagelse,Region Sjælland,85,Sorø Kommune,340,"","",55.4028,11.3546
+DK,4291,Ruds Vedby,Region Sjælland,85,Sorø Kommune,340,"","",55.5409,11.3796
+DK,4293,Dianalund,Region Sjælland,85,Sorø Kommune,340,"","",55.5313,11.4925
+DK,4295,Stenlille,Region Sjælland,85,Sorø Kommune,340,"","",55.5402,11.5915
+DK,4296,Nyrup,Region Sjælland,85,Sorø Kommune,340,"","",55.4947,11.3623
+DK,4370,Store Merløse,Region Sjælland,85,Sorø Kommune,340,"","",55.5438,11.713
+DK,4000,Roskilde,Region Sjælland,85,Lejre Kommune,350,"","",55.6415,12.0803
+DK,4060,Kirke Såby,Region Sjælland,85,Lejre Kommune,350,"","",55.6339,11.8712
+DK,4070,Kirke Hyllinge,Region Sjælland,85,Lejre Kommune,350,"","",55.7067,11.9002
+DK,4320,Lejre,Region Sjælland,85,Lejre Kommune,350,"","",55.6046,11.9748
+DK,4330,Hvalsø,Region Sjælland,85,Lejre Kommune,350,"","",55.5917,11.8625
+DK,4340,Tølløse,Region Sjælland,85,Lejre Kommune,350,"","",55.6125,11.7703
+DK,4894,Øster Ulslev,Region Sjælland,85,Lolland Kommune,360,"","",54.6984,11.6267
+DK,4895,Errindlev,Region Sjælland,85,Lolland Kommune,360,"","",54.669,11.4951
+DK,4900,Nakskov,Region Sjælland,85,Lolland Kommune,360,"","",54.8373,11.1284
+DK,4912,Harpelunde,Region Sjælland,85,Lolland Kommune,360,"","",54.8865,11.0911
+DK,4913,Horslunde,Region Sjælland,85,Lolland Kommune,360,"","",54.9118,11.2165
+DK,4920,Søllested,Region Sjælland,85,Lolland Kommune,360,"","",54.8102,11.2712
+DK,4930,Maribo,Region Sjælland,85,Lolland Kommune,360,"","",54.7766,11.5002
+DK,4941,Bandholm,Region Sjælland,85,Lolland Kommune,360,"","",54.8365,11.4831
+DK,4943,Torrig L,Region Sjælland,85,Lolland Kommune,360,"","",54.8365,11.4831
+DK,4944,Fejø,Region Sjælland,85,Lolland Kommune,360,"","",54.8365,11.4831
+DK,4951,Nørreballe,Region Sjælland,85,Lolland Kommune,360,"","",54.8059,11.4304
+DK,4952,Stokkemarke,Region Sjælland,85,Lolland Kommune,360,"","",54.8381,11.3603
+DK,4953,Vesterborg,Region Sjælland,85,Lolland Kommune,360,"","",54.8484,11.2796
+DK,4960,Holeby,Region Sjælland,85,Lolland Kommune,360,"","",54.7115,11.4642
+DK,4970,Rødby,Region Sjælland,85,Lolland Kommune,360,"","",54.695,11.3888
+DK,4983,Dannemare,Region Sjælland,85,Lolland Kommune,360,"","",54.7624,11.1873
+DK,4100,Ringsted,Region Sjælland,85,Næstved Kommune,370,"","",55.4426,11.7901
+DK,4160,Herlufmagle,Region Sjælland,85,Næstved Kommune,370,"","",55.3132,11.7523
+DK,4171,Glumsø,Region Sjælland,85,Næstved Kommune,370,"","",55.3568,11.6856
+DK,4200,Slagelse,Region Sjælland,85,Næstved Kommune,370,"","",55.4028,11.3546
+DK,4243,Rude,Region Sjælland,85,Næstved Kommune,370,"","",55.2307,11.4692
+DK,4250,Fuglebjerg,Region Sjælland,85,Næstved Kommune,370,"","",55.306,11.5477
+DK,4261,Dalmose,Region Sjælland,85,Næstved Kommune,370,"","",55.2942,11.4184
+DK,4262,Sandved,Region Sjælland,85,Næstved Kommune,370,"","",55.263,11.5217
+DK,4640,Faxe,Region Sjælland,85,Næstved Kommune,370,"","",55.2469,12.1176
+DK,4683,Rønnede,Region Sjælland,85,Næstved Kommune,370,"","",55.2571,12.0212
+DK,4684,Holmegaard,Region Sjælland,85,Næstved Kommune,370,"","",55.3411,12.0694
+DK,4690,Haslev,Region Sjælland,85,Næstved Kommune,370,"","",55.3235,11.9639
+DK,4700,Næstved,Region Sjælland,85,Næstved Kommune,370,"","",55.2299,11.7609
+DK,4733,Tappernøje,Region Sjælland,85,Næstved Kommune,370,"","",55.165,11.9787
+DK,4736,Karrebæksminde,Region Sjælland,85,Næstved Kommune,370,"","",55.1816,11.647
+DK,4750,Lundby,Region Sjælland,85,Næstved Kommune,370,"","",55.1089,11.8747
+DK,4800,Nykøbing F,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.7533,11.8179
+DK,4840,Nørre Alslev,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.8978,11.8841
+DK,4850,Stubbekøbing,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.8888,12.041
+DK,4862,Guldborg,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.8679,11.7392
+DK,4863,Eskilstrup,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.8557,11.8867
+DK,4871,Horbelev,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.823,12.0584
+DK,4872,Idestrup,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.7431,11.9567
+DK,4873,Væggerløse,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.7124,11.9255
+DK,4874,Gedser,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.5764,11.93
+DK,4880,Nysted,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.6651,11.7343
+DK,4891,Toreby L,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.6906,11.6192
+DK,4892,Kettinge,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.6967,11.7283
+DK,4894,Øster Ulslev,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.6984,11.6267
+DK,4930,Maribo,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.7766,11.5002
+DK,4990,Sakskøbing,Region Sjælland,85,Guldborgsund Kommune,376,"","",54.7997,11.626
+DK,4720,Præstø,Region Sjælland,85,Vordingborg Kommune,390,"","",55.1178,12.0573
+DK,4733,Tappernøje,Region Sjælland,85,Vordingborg Kommune,390,"","",55.165,11.9787
+DK,4735,Mern,Region Sjælland,85,Vordingborg Kommune,390,"","",55.0482,12.0556
+DK,4750,Lundby,Region Sjælland,85,Vordingborg Kommune,390,"","",55.1089,11.8747
+DK,4760,Vordingborg,Region Sjælland,85,Vordingborg Kommune,390,"","",55.008,11.9106
+DK,4771,Kalvehave,Region Sjælland,85,Vordingborg Kommune,390,"","",54.9973,12.1685
+DK,4772,Langebæk,Region Sjælland,85,Vordingborg Kommune,390,"","",54.9965,12.0899
+DK,4773,Stensved,Region Sjælland,85,Vordingborg Kommune,390,"","",54.9971,12.0298
+DK,4780,Stege,Region Sjælland,85,Vordingborg Kommune,390,"","",54.987,12.2846
+DK,4791,Borre,Region Sjælland,85,Vordingborg Kommune,390,"","",54.9959,12.4463
+DK,4792,Askeby,Region Sjælland,85,Vordingborg Kommune,390,"","",54.9239,12.1771
+DK,4793,Bogø By,Region Sjælland,85,Vordingborg Kommune,390,"","",54.923,12.051

@@ -1,0 +1,106 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+GP,97001 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97002 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97003 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97004 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97005 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97006 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97007 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97008 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97009 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97010 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97011 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97019 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97023 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97029 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97082 CEDEX,Petit-Bourg,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.1914,-61.5916
+GP,97084 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97085 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97086 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97100,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97101 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97102 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97103 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97104 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97105 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97106 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97107 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97108 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97109 CEDEX,Basse-Terre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9985,-61.7255
+GP,97110,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97111,Morne-à-l'Eau,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.3334,-61.4588
+GP,97112,Grand-Bourg,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,15.8835,-61.3148
+GP,97113,Gourbeyre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9938,-61.6914
+GP,97114,Trois-Rivières,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9757,-61.6451
+GP,97115,Sainte-Rose,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.3324,-61.6979
+GP,97116,Pointe-Noire,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.2309,-61.7878
+GP,97117,Port-Louis,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.419,-61.5313
+GP,97118,Saint-François,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2526,-61.2741
+GP,97119,Vieux-Habitants,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.0589,-61.766
+GP,97120,Saint-Claude,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.0241,-61.7022
+GP,97121,Anse-Bertrand,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.4721,-61.5078
+GP,97122,Baie-Mahault,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.2674,-61.5854
+GP,97123,Baillif,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.0202,-61.7463
+GP,97125,Bouillante,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.1304,-61.7692
+GP,97126,Deshaies,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.3065,-61.7942
+GP,97127,La Désirade,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.3167,-61.0333
+GP,97128,Goyave,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.1352,-61.574
+GP,97129,Lamentin,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.271,-61.6312
+GP,97130,Capesterre-Belle-Eau,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.0432,-61.566
+GP,97131,Petit-Canal,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.3784,-61.4879
+GP,97134,Saint-Louis,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,15.9549,-61.3178
+GP,97136,Terre-de-Bas,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.8501,-61.6442
+GP,97137,Terre-de-Haut,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.8663,-61.5827
+GP,97139,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97140,Capesterre-de-Marie-Galante,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,15.8833,-61.2167
+GP,97141,Vieux-Fort,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,15.9513,-61.6991
+GP,97142,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97151 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97152 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97153 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97154 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97155 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97156 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97157 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97158 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97159 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97160,Le Moule,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.3332,-61.3473
+GP,97161 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97162 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97163 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97164 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97165 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97166 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97167 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97168 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97169 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97170,Petit-Bourg,Guadeloupe,GP,Guadeloupe,971,Arrondissement de la Basse-Terre,9711,16.1914,-61.5916
+GP,97171 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97172 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97173 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97174 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97175 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97176 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97177 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97178 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97179 CEDEX,Pointe-à-Pitre,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2422,-61.5343
+GP,97180,Sainte-Anne,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2264,-61.3792
+GP,97181 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97182 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97183 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97184 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97185 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97186 CEDEX,Les Abymes,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.271,-61.5045
+GP,97187 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97188 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97189 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97190,Le Gosier,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2069,-61.4933
+GP,97191 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97192 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97193 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97194 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97195 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97196 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97197 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97198 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558
+GP,97199 CEDEX,Jarry,Guadeloupe,GP,Guadeloupe,971,Arrondissement de Pointe-à-Pitre,9712,16.2359,-61.558

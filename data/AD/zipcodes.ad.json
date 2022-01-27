@@ -1,0 +1,93 @@
+[
+  {
+    "country_code": "AD",
+    "zipcode": "AD100",
+    "place": "Canillo",
+    "state": "Canillo",
+    "state_code": "02",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.5833",
+    "longitude": "1.6667"
+  },
+  {
+    "country_code": "AD",
+    "zipcode": "AD200",
+    "place": "Encamp",
+    "state": "Encamp",
+    "state_code": "03",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.5333",
+    "longitude": "1.6333"
+  },
+  {
+    "country_code": "AD",
+    "zipcode": "AD400",
+    "place": "La Massana",
+    "state": "La Massana",
+    "state_code": "04",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.5667",
+    "longitude": "1.4833"
+  },
+  {
+    "country_code": "AD",
+    "zipcode": "AD300",
+    "place": "Ordino",
+    "state": "Ordino",
+    "state_code": "05",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.6",
+    "longitude": "1.55"
+  },
+  {
+    "country_code": "AD",
+    "zipcode": "AD600",
+    "place": "Sant Julià de Lòria",
+    "state": "Sant Julià de Lòria",
+    "state_code": "06",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.4667",
+    "longitude": "1.5"
+  },
+  {
+    "country_code": "AD",
+    "zipcode": "AD500",
+    "place": "Andorra la Vella",
+    "state": "Andorra la Vella",
+    "state_code": "07",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.5",
+    "longitude": "1.5"
+  },
+  {
+    "country_code": "AD",
+    "zipcode": "AD700",
+    "place": "Escaldes-Engordany",
+    "state": "Escaldes-Engordany",
+    "state_code": "08",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "42.5",
+    "longitude": "1.5667"
+  }
+]

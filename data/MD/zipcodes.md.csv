@@ -1,0 +1,1754 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+MD,MD-2000,Chisinau,Mun.Chisinau,"","","","","",47.0056,28.8575
+MD,MD-2003,Durlesti,Mun.Chisinau,"","","","","",47.0178,28.7625
+MD,MD-2011,Codru,Mun.Chisinau,"","","","","",46.9753,28.8194
+MD,MD-2046,Vadul Lui Voda,Mun.Chisinau,"","","","","",47.0917,29.0756
+MD,MD-2055,Vatra,Mun.Chisinau,"","","","","",47.0739,28.735
+MD,MD-2071,Bumbrava,Mun.Chisinau,"","","","","",47.0443,28.7651
+MD,MD-2081,Humulesti,Mun.Chisinau,"","","","","",46.9975,28.9764
+MD,MD-2081,Bic,Mun.Chisinau,"","","","","",46.9567,28.9422
+MD,MD-2081,Bubuieci,Mun.Chisinau,"","","","","",46.985,28.9422
+MD,MD-2082,Colonita,Mun.Chisinau,"","","","","",47.0378,28.9583
+MD,MD-2083,Condrita,Mun.Chisinau,"","","","","",47.0567,28.5686
+MD,MD-2084,Cricova,Mun.Chisinau,"","","","","",47.1389,28.8619
+MD,MD-2085,Cruzesti,Mun.Chisinau,"","","","","",47.0847,28.9736
+MD,MD-2085,Ceroborta,Mun.Chisinau,"","","","","",47.0936,28.9517
+MD,MD-2086,Dobrogea,Mun.Chisinau,"","","","","",46.8844,28.9892
+MD,MD-2088,Ghidighici,Mun.Chisinau,"","","","","",47.0931,28.7686
+MD,MD-2089,Fauresti,Mun.Chisinau,"","","","","",47.145,28.8961
+MD,MD-2089,Ciorescu,Mun.Chisinau,"","","","","",47.1294,28.8856
+MD,MD-2089,Goian,Mun.Chisinau,"","","","","",47.1336,28.9072
+MD,MD-2091,Revaca,Mun.Chisinau,"","","","","",46.9086,28.9447
+MD,MD-2091,Singera,Mun.Chisinau,"","","","","",46.9131,28.9775
+MD,MD-2092,Buneti,Mun.Chisinau,"","","","","",47.0806,28.91
+MD,MD-2092,Cheltuitori,Mun.Chisinau,"","","","","",47.0661,28.9211
+MD,MD-2092,Tohatin,Mun.Chisinau,"","","","","",47.0625,28.9453
+MD,MD-2093,Gratiesti,Mun.Chisinau,"","","","","",47.0992,28.8167
+MD,MD-2093,Hulboaca,Mun.Chisinau,"","","","","",47.1161,28.7972
+MD,MD-3004,Soroca 4,Soroca,"","","","","",48.1558,28.2975
+MD,MD-3005,Soroca 5,Soroca,"","","","","",48.1558,28.2975
+MD,MD-3006,Soroca 6,Soroca,"","","","","",48.1558,28.2975
+MD,MD-3011,Badiceni,Soroca,"","","","","",48.2033,28.0544
+MD,MD-3012,Baxani,Soroca,"","","","","",48.1239,28.0947
+MD,MD-3013,Balintii Noi,Soroca,"","","","","",48.3206,28.0236
+MD,MD-3013,Balinti,Soroca,"","","","","",48.3206,28.0236
+MD,MD-3014,Bulbocii Noi,Soroca,"","","","","",48.0603,28.1186
+MD,MD-3014,Bulboci,Soroca,"","","","","",48.0397,28.0839
+MD,MD-3015,Floriceni,Soroca,"","","","","",48.0208,28.0164
+MD,MD-3015,Cainarii Vechi,Soroca,"","","","","",48.0081,28.125
+MD,MD-3016,Cosauti,Soroca,"","","","","",48.2289,28.2911
+MD,MD-3017,Curesnita,Soroca,"","","","","",48.2278,28.1764
+MD,MD-3018,Darcauti,Soroca,"","","","","",48.2278,27.9808
+MD,MD-3018,Malcauti,Soroca,"","","","","",48.2139,27.9408
+MD,MD-3018,Darcautii Noi,Soroca,"","","","","",48.2097,28.0019
+MD,MD-3019,Dubna,Soroca,"","","","","",48.015,28.3153
+MD,MD-3020,Dumbraveni,Soroca,"","","","","",48.0506,28.2281
+MD,MD-3021,Egoreni,Soroca,"","","","","",48.2016,28.3595
+MD,MD-3022,Grigorauca,Soroca,"","","","","",48.2078,28.0997
+MD,MD-3023,Holosnita,Soroca,"","","","","",48.2475,28.1769
+MD,MD-3024,Hristici,Soroca,"","","","","",48.1208,28.1839
+MD,MD-3025,Iarova,Soroca,"","","","","",48.3197,28.0494
+MD,MD-3026,Iorjnita,Soroca,"","","","","",48.1933,28.2178
+MD,MD-3027,Oclanda,Soroca,"","","","","",48.2892,28.0603
+MD,MD-3028,Ocolina,Soroca,"","","","","",48.1256,28.2631
+MD,MD-3029,Parcani,Soroca,"","","","","",48.0619,28.2903
+MD,MD-3030,Pirlita,Soroca,"","","","","",48.0758,28.21
+MD,MD-3030,Vantina,Soroca,"","","","","",48.0967,28.1914
+MD,MD-3030,Vantina Mica,Soroca,"","","","","",48.0862,28.2007
+MD,MD-3031,Racovat,Soroca,"","","","","",48.0825,28.4061
+MD,MD-3032,Redi-Ceresnovat,Soroca,"","","","","",48.0633,28.3175
+MD,MD-3033,Lugovoe,Soroca,"","","","","",48.0703,28.1783
+MD,MD-3033,Regina Maria,Soroca,"","","","","",48.0586,28.1408
+MD,MD-3034,Rublenita Noua,Soroca,"","","","","",48.1536,28.1347
+MD,MD-3034,Rublenita,Soroca,"","","","","",48.1683,28.2144
+MD,MD-3035,Inundeni,Soroca,"","","","","",48.1247,28.3583
+MD,MD-3035,Ruslanovca,Soroca,"","","","","",48.1172,28.3725
+MD,MD-3036,Schineni,Soroca,"","","","","",48.0944,28.0958
+MD,MD-3036,Schinenii Noi,Soroca,"","","","","",48.0717,28.105
+MD,MD-3037,Slobozia-Cremene,Soroca,"","","","","",48.0406,28.4231
+MD,MD-3038,Slobozia-Varancau,Soroca,"","","","","",48.0664,28.4658
+MD,MD-3039,Valea,Soroca,"","","","","",48.2433,28.0653
+MD,MD-3039,Livezi,Soroca,"","","","","",48.2358,28.0494
+MD,MD-3039,Sobari,Soroca,"","","","","",48.2319,28.0669
+MD,MD-3040,Solonet,Soroca,"","","","","",47.9958,28.4028
+MD,MD-3041,Stoicani,Soroca,"","","","","",48.0267,28.3639
+MD,MD-3042,Septelici,Soroca,"","","","","",48.1997,28.1581
+MD,MD-3043,Curesnita Noua,Soroca,"","","","","",48.1814,28.1225
+MD,MD-3043,Solcani,Soroca,"","","","","",48.1733,28.1106
+MD,MD-3044,Trifauti,Soroca,"","","","","",48.1617,28.3842
+MD,MD-3045,Tepilova,Soroca,"","","","","",48.1253,28.2328
+MD,MD-3046,Vasilcau,Soroca,"","","","","",48.1383,28.4214
+MD,MD-3047,Vadeni,Soroca,"","","","","",48.0108,28.2272
+MD,MD-3048,Varancau,Soroca,"","","","","",48.0653,28.515
+MD,MD-3049,Voloave,Soroca,"","","","","",48.0936,28.2925
+MD,MD-3050,Alexandru Cel Bun,Soroca,"","","","","",48.0969,28.3406
+MD,MD-3050,Volovita,Soroca,"","","","","",48.1031,28.3228
+MD,MD-3051,Zastinca,Soroca,"","","","","",48.1272,28.3061
+MD,MD-3052,Cremenciug,Soroca,"","","","","",48.2769,28.0853
+MD,MD-3100,Balti,Balti,"","","","","",47.7617,27.9289
+MD,MD-3151,Elizaveta,Mun.Balti,"","","","","",47.7842,28.0225
+MD,MD-3200,Bender,Bender Tr.,"","","","","",46.8306,29.4711
+MD,MD-3251,Varnita,Bender Tr.,"","","","","",46.8614,29.4692
+MD,MD-3252,Proteagailovca,Bender Tr.,"","","","","",46.8231,29.4419
+MD,MD-3300,Tiraspol,Tiraspol Tr.,"","","","","",46.8403,29.6433
+MD,MD-3311,Tiraspolul Nou,Tiraspol Tr.,"","","","","",46.8319,29.5767
+MD,MD-3351,Cremenciug,Tiraspol Tr.,"","","","","",46.7086,29.6739
+MD,MD-3352,Dnestrovsc,Tiraspol Tr.,"","","","","",46.6222,29.9133
+MD,MD-3401,Hincesti,Hincesti,"","","","","",46.8258,28.5936
+MD,MD-3411,Anini,Hincesti,"","","","","",46.8892,28.4664
+MD,MD-3411,Rusca,Hincesti,"","","","","",46.8761,28.4764
+MD,MD-3412,Balceana,Hincesti,"","","","","",46.8444,28.4047
+MD,MD-3413,Bobeica,Hincesti,"","","","","",46.985,28.4622
+MD,MD-3413,Dahnovici,Hincesti,"","","","","",46.9764,28.4822
+MD,MD-3414,Boghiceni,Hincesti,"","","","","",46.9489,28.3253
+MD,MD-3415,Bozieni,Hincesti,"","","","","",46.7494,28.6472
+MD,MD-3416,Bujor,Hincesti,"","","","","",46.9225,28.2683
+MD,MD-3417,Buteni,Hincesti,"","","","","",46.8242,28.675
+MD,MD-3418,Calmatui,Hincesti,"","","","","",46.7833,28.2153
+MD,MD-3419,Caracui,Hincesti,"","","","","",46.6986,28.5419
+MD,MD-3420,Carpineni,Hincesti,"","","","","",46.7597,28.3531
+MD,MD-3420,Topor ,Hincesti,"","","","","",46.7597,28.3531
+MD,MD-3421,Cioara,Hincesti,"","","","","",46.7325,28.2247
+MD,MD-3422,Cotul Morii,Hincesti,"","","","","",46.8697,28.1189
+MD,MD-3423,Crasnoarmeiscoe,Hincesti,"","","","","",46.8294,28.2822
+MD,MD-3423,Talaiesti,Hincesti,"","","","","",46.8003,28.2664
+MD,MD-3424,Dancu,Hincesti,"","","","","",46.7628,28.21
+MD,MD-3425,Draguseni,Hincesti,"","","","","",46.9839,28.4503
+MD,MD-3426,Dubovca,Hincesti,"","","","","",46.7486,28.6083
+MD,MD-3427,Firladeni,Hincesti,"","","","","",46.7875,28.6875
+MD,MD-3428,Fundul Galbenei,Hincesti,"","","","","",46.8825,28.6231
+MD,MD-3429,Horjesti,Hincesti,"","","","","",46.7128,28.3494
+MD,MD-3430,Costesti,Hincesti,"","","","","",46.8733,28.2067
+MD,MD-3430,Frasin,Hincesti,"","","","","",46.89,28.195
+MD,MD-3430,Ivanovca,Hincesti,"","","","","",46.8769,28.1964
+MD,MD-3431,Lapusna,Hincesti,"","","","","",46.8842,28.4119
+MD,MD-3432,Leuseni,Hincesti,"","","","","",46.8092,28.1994
+MD,MD-3432,Feteasca,Hincesti,"","","","","",46.7878,28.1922
+MD,MD-3434,Loganesti,Hincesti,"","","","","",46.9039,28.5453
+MD,MD-3435,Mereseni,Hincesti,"","","","","",46.7967,28.5417
+MD,MD-3436,Mingir,Hincesti,"","","","","",46.6667,28.3272
+MD,MD-3437,Miresti,Hincesti,"","","","","",46.9697,28.255
+MD,MD-3437,Chetroseni,Hincesti,"","","","","",46.9631,28.2728
+MD,MD-3438,Negrea,Hincesti,"","","","","",46.8114,28.3981
+MD,MD-3439,Nemteni,Hincesti,"","","","","",46.9086,28.1181
+MD,MD-3440,Obileni,Hincesti,"","","","","",46.8786,28.1606
+MD,MD-3440,Sarateni,Hincesti,"","","","","",46.8567,28.1686
+MD,MD-3441,Strimbeni,Hincesti,"","","","","",46.8672,28.265
+MD,MD-3441,Onesti,Hincesti,"","","","","",46.8603,28.2525
+MD,MD-3442,Pascani,Hincesti,"","","","","",46.9769,28.3678
+MD,MD-3443,Pereni,Hincesti,"","","","","",47.0028,28.3736
+MD,MD-3444,Pervomaiscoe,Hincesti,"","","","","",46.8839,28.3231
+MD,MD-3445,Marchet,Hincesti,"","","","","",46.7081,28.2342
+MD,MD-3445,Poganesti,Hincesti,"","","","","",46.6928,28.2331
+MD,MD-3446,Valea Florii,Hincesti,"","","","","",46.7128,28.4386
+MD,MD-3446,Coroliovca,Hincesti,"","","","","",46.7108,28.4725
+MD,MD-3446,Sarata Galbena,Hincesti,"","","","","",46.7275,28.515
+MD,MD-3446,Carpineanca,Hincesti,"","","","","",46.6961,28.4725
+MD,MD-3446,Bratianovca,Hincesti,"","","","","",46.7406,28.4647
+MD,MD-3447,Sarata-Mereseni,Hincesti,"","","","","",46.8,28.5036
+MD,MD-3448,Secarenii Noi,Hincesti,"","","","","",47.0117,28.331
+MD,MD-3448,Secareni,Hincesti,"","","","","",47.0253,28.3325
+MD,MD-3448,Cornesti,Hincesti,"","","","","",46.9981,28.3294
+MD,MD-3449,Sofia,Hincesti,"","","","","",46.8411,28.3803
+MD,MD-3450,Stolniceni,Hincesti,"","","","","",46.9603,28.5
+MD,MD-3451,Sipoteni,Hincesti,"","","","","",46.9425,28.4564
+MD,MD-3452,Voinescu,Hincesti,"","","","","",46.6494,28.3017
+MD,MD-3452,Cococeni,Hincesti,"","","","","",46.6735,28.3031
+MD,MD-3452,Semionovca,Hincesti,"","","","","",46.6975,28.3044
+MD,MD-3502,Orhei 2,Orhei,"","","","","",47.3831,28.8231
+MD,MD-3503,Orhei 3,Orhei,"","","","","",47.3867,28.785
+MD,MD-3503,Mitoc,Orhei,"","","","","",47.3867,28.785
+MD,MD-3504,Orhei 4,Orhei,"","","","","",47.3831,28.8231
+MD,MD-3505,Orhei 5,Orhei,"","","","","",47.3831,28.8231
+MD,MD-3511,Berezlogi,Orhei,"","","","","",47.4364,28.9339
+MD,MD-3512,Biesti,Orhei,"","","","","",47.5156,28.8614
+MD,MD-3512,Slobozia-Hodorogea,Orhei,"","","","","",47.5083,28.8886
+MD,MD-3512,Cihoreni,Orhei,"","","","","",47.5061,28.8622
+MD,MD-3513,Bolohan,Orhei,"","","","","",47.4319,28.8731
+MD,MD-3514,Braviceni,Orhei,"","","","","",47.4336,28.6578
+MD,MD-3515,Branesti,Orhei,"","","","","",47.3053,28.9267
+MD,MD-3516,Breanova,Orhei,"","","","","",47.4158,28.6497
+MD,MD-3517,Bulaiesti,Orhei,"","","","","",47.4769,28.9786
+MD,MD-3518,Chiperceni,Orhei,"","","","","",47.525,28.8386
+MD,MD-3519,Ciocilteni,Orhei,"","","","","",47.4939,28.6089
+MD,MD-3519,Fedoreuca,Orhei,"","","","","",47.4881,28.6403
+MD,MD-3519,Clisova Noua,Orhei,"","","","","",47.491,28.6246
+MD,MD-3520,Cismea,Orhei,"","","","","",47.4164,28.7533
+MD,MD-3521,Clisova,Orhei,"","","","","",47.4731,28.5736
+MD,MD-3522,Ocnita-Razesi,Orhei,"","","","","",47.4694,28.7203
+MD,MD-3522,Cucuruzeni,Orhei,"","","","","",47.4883,28.7258
+MD,MD-3523,Crihana,Orhei,"","","","","",47.5228,28.7211
+MD,MD-3523,Cucuruzenii De Sus,Orhei,"","","","","",47.5456,28.6989
+MD,MD-3524,Curchi,Orhei,"","","","","",47.3358,28.6539
+MD,MD-3524,Mana,Orhei,"","","","","",47.3389,28.6844
+MD,MD-3525,Discova,Orhei,"","","","","",47.3756,28.5975
+MD,MD-3526,Donici,Orhei,"","","","","",47.2844,28.67
+MD,MD-3526,Camencea,Orhei,"","","","","",47.2808,28.6875
+MD,MD-3527,Furceni,Orhei,"","","","","",47.3364,28.9256
+MD,MD-3528,Noroceni,Orhei,"","","","","",47.3769,28.5181
+MD,MD-3528,Ghetlova,Orhei,"","","","","",47.3719,28.5322
+MD,MD-3529,Hijdieni,Orhei,"","","","","",47.4594,28.9147
+MD,MD-3530,Hulboaca,Orhei,"","","","","",47.3786,28.555
+MD,MD-3531,Isacova,Orhei,"","","","","",47.3703,28.7181
+MD,MD-3532,Ivancea,Orhei,"","","","","",47.2847,28.8569
+MD,MD-3533,Izvoare,Orhei,"","","","","",47.5517,28.9572
+MD,MD-3534,Jora De Mijloc,Orhei,"","","","","",47.4756,29.0961
+MD,MD-3534,Jora De Jos,Orhei,"","","","","",47.465,29.1083
+MD,MD-3535,Jora De Sus,Orhei,"","","","","",47.4867,29.0761
+MD,MD-3535,Lopatna,Orhei,"","","","","",47.495,29.0522
+MD,MD-3536,Tirzieni,Orhei,"","","","","",47.445,28.6236
+MD,MD-3536,Malaiesti,Orhei,"","","","","",47.4631,28.6636
+MD,MD-3537,Mirzaci,Orhei,"","","","","",47.4894,28.9947
+MD,MD-3537,Mirzesti,Orhei,"","","","","",47.4986,28.995
+MD,MD-3538,Morozeni,Orhei,"","","","","",47.3781,28.6342
+MD,MD-3539,Neculaieuca,Orhei,"","","","","",47.3603,28.6922
+MD,MD-3540,Pelivan,Orhei,"","","","","",47.4033,28.7742
+MD,MD-3541,Peresecina,Orhei,"","","","","",47.2522,28.7689
+MD,MD-3542,Pohorniceni,Orhei,"","","","","",47.3736,28.8844
+MD,MD-3542,Jeloboc,Orhei,"","","","","",47.3569,28.9047
+MD,MD-3542,Piatra,Orhei,"","","","","",47.3667,28.8942
+MD,MD-3543,Podgoreni,Orhei,"","","","","",47.5594,28.7825
+MD,MD-3544,Pohrebeni,Orhei,"","","","","",47.5564,28.9092
+MD,MD-3544,Sercani,Orhei,"","","","","",47.5119,28.9322
+MD,MD-3545,Seliste,Orhei,"","","","","",47.3333,28.7844
+MD,MD-3545,Lucaseuca,Orhei,"","","","","",47.335,28.7558
+MD,MD-3546,Sirota,Orhei,"","","","","",47.5278,28.7769
+MD,MD-3547,Budai,Orhei,"","","","","",47.4344,28.8211
+MD,MD-3547,Step-Soci,Orhei,"","","","","",47.4553,28.7897
+MD,MD-3548,Susleni,Orhei,"","","","","",47.4111,28.9864
+MD,MD-3549,Tabara,Orhei,"","","","","",47.33,28.5647
+MD,MD-3550,Teleseu,Orhei,"","","","","",47.2661,28.7081
+MD,MD-3550,Pocsesti,Orhei,"","","","","",47.2492,28.6833
+MD,MD-3550,Samananca,Orhei,"","","","","",47.265,28.7308
+MD,MD-3552,Morovaia,Orhei,"","","","","",47.2992,28.9953
+MD,MD-3552,Butuceni,Orhei,"","","","","",47.3014,28.9725
+MD,MD-3552,Trebujeni,Orhei,"","","","","",47.3139,28.9736
+MD,MD-3553,Vatici,Orhei,"","","","","",47.3408,28.6219
+MD,MD-3554,Putintei,Orhei,"","","","","",47.3739,28.5761
+MD,MD-3554,Viprova,Orhei,"","","","","",47.3833,28.5706
+MD,MD-3555,Viscauti,Orhei,"","","","","",47.4325,29.0756
+MD,MD-3556,Vorotet,Orhei,"","","","","",47.5592,28.8547
+MD,MD-3556,Andreevca,Orhei,"","","","","",47.5389,28.8775
+MD,MD-3557,Zorile,Orhei,"","","","","",47.4567,28.7381
+MD,MD-3557,Inculet,Orhei,"","","","","",47.4489,28.7219
+MD,MD-3557,Ocnita-Tarani,Orhei,"","","","","",47.4572,28.7228
+MD,MD-3601,Ungheni-Gara,Ungheni,"","","","","",47.2042,27.7958
+MD,MD-3602,Ungheni 2,Ungheni,"","","","","",47.2042,27.7958
+MD,MD-3603,Ungheni 3,Ungheni,"","","","","",47.2042,27.7958
+MD,MD-3604,Ungheni 4,Ungheni,"","","","","",47.2042,27.7958
+MD,MD-3606,Novaia Nicolaevca,Ungheni,"","","","","",47.2689,27.8458
+MD,MD-3606,Ungheni 6,Ungheni,"","","","","",47.2563,27.8343
+MD,MD-3606,Elizavetovca,Ungheni,"","","","","",47.2436,27.8228
+MD,MD-3608,Poiana,Ungheni,"","","","","",47.3917,28
+MD,MD-3608,Romanovca,Ungheni,"","","","","",47.3753,27.9739
+MD,MD-3608,Cornesti Oras,Ungheni,"","","","","",47.3835,27.9869
+MD,MD-3611,Agronomova,Ungheni,"","","","","",47.3486,27.8964
+MD,MD-3612,Lidovca,Ungheni,"","","","","",47.2786,27.8944
+MD,MD-3612,Alexeevca,Ungheni,"","","","","",47.2636,27.9297
+MD,MD-3612,Saghieni,Ungheni,"","","","","",47.2461,27.9719
+MD,MD-3613,Boghenii Noi,Ungheni,"","","","","",47.4253,28.0144
+MD,MD-3613,Izvoreni,Uhnheni,"","","","","",47.4308,27.9761
+MD,MD-3613,Mircesti,Ungheni,"","","","","",47.4031,27.9956
+MD,MD-3614,Boghenii Vechi,Ungheni,"","","","","",47.3972,28.0261
+MD,MD-3615,Bumbata,Ungheni,"","","","","",47.3408,27.9744
+MD,MD-3616,Busila,Ungheni,"","","","","",47.3875,27.8117
+MD,MD-3617,Cetireni,Ungheni,"","","","","",47.2242,27.9033
+MD,MD-3618,Chirileni,Ungheni,"","","","","",47.3808,27.7761
+MD,MD-3619,Cioropcani,Ungheni,"","","","","",47.3978,27.6997
+MD,MD-3620,Condratesti,Ungheni,"","","","","",47.4122,28.1122
+MD,MD-3620,Curtoaia,Ungheni,"","","","","",47.3928,28.1047
+MD,MD-3621,Cornesti Sat,Ungheni,"","","","","",47.2042,27.7958
+MD,MD-3622,Cornova,Ungheni,"","","","","",47.3947,28.1717
+MD,MD-3623,Costuleni,Ungheni,"","","","","",47.0781,27.9119
+MD,MD-3624,Tighira,Ungheni,"","","","","",47.4447,27.9019
+MD,MD-3624,Coseni,Ungheni,"","","","","",47.4406,27.9261
+MD,MD-3625,Drujba,Ungheni,"","","","","",47.4328,28.0761
+MD,MD-3626,Grozasca,Ungheni,"","","","","",47.1811,27.8944
+MD,MD-3626,Floritoaia Veche,Ungheni,"","","","","",47.2064,27.9078
+MD,MD-3626,Floritoaia Noua,Ungheni,"","","","","",47.1672,27.9253
+MD,MD-3627,Floresti,Ungheni,"","","","","",47.3706,27.7136
+MD,MD-3627,Buciumeni Loc.C.F.,Ungheni,"","","","","",47.3706,27.7136
+MD,MD-3627,Buciumeni,Ungheni,"","","","","",47.3706,27.7136
+MD,MD-3628,Frasinesti,Ungheni,"","","","","",47.0344,28.0128
+MD,MD-3629,Gherman,Ungheni,"","","","","",47.3594,27.6025
+MD,MD-3630,Graseni,Ungheni,"","","","","",47.3503,27.8353
+MD,MD-3631,Hircesti,Ungheni,"","","","","",47.3953,28.0864
+MD,MD-3631,Leordoaia,Ungheni,"","","","","",47.3367,28.1406
+MD,MD-3631,Veverita,Calarasi,"","","","","",47.3442,28.1056
+MD,MD-3632,Macaresti,Ungheni,"","","","","",47.05,27.9747
+MD,MD-3633,Magurele,Ungheni,"","","","","",47.4608,27.9711
+MD,MD-3634,Vulpesti,Ungheni,"","","","","",47.2358,27.9081
+MD,MD-3634,Manoilesti,Ungheni,"","","","","",47.2367,27.8831
+MD,MD-3635,Medeleni,Ungheni,"","","","","",47.2956,27.6908
+MD,MD-3636,Minzatesti,Ungheni,"","","","","",47.3942,28.065
+MD,MD-3637,Morenii Noi,Ungheni,"","","","","",47.1219,27.9197
+MD,MD-3637,Sicovat,Ungheni,"","","","","",47.1061,27.9086
+MD,MD-3637,Morenii Vechi,Ungheni,"","","","","",47.125,27.8847
+MD,MD-3638,Napadeni,Ungheni,"","","","","",47.4025,28.1506
+MD,MD-3639,Zazulenii Vechi,Ungheni,"","","","","",47.4114,27.8561
+MD,MD-3639,Negurenii Vechi,Ungheni,"","","","","",47.4161,27.8797
+MD,MD-3639,Zazulenii Noi,Ungheni,"","","","","",47.3819,27.8706
+MD,MD-3639,Negurenii Noi,Ungheni,"","","","","",47.4003,27.8886
+MD,MD-3640,Petresti Loc.C.F.,Ungheni,"","","","","",47.3067,27.7453
+MD,MD-3640,Petresti,Ungheni,"","","","","",47.3067,27.7453
+MD,MD-3641,Hristoforovca,Ungheni,"","","","","",47.3547,27.9183
+MD,MD-3641,Pirlita,Ungheni,"","","","","",47.3194,27.8733
+MD,MD-3642,Radenii Vechi,Ungheni,"","","","","",47.2969,28
+MD,MD-3643,Rezina,Ungheni,"","","","","",47.2144,27.8756
+MD,MD-3644,Sculeni,Ungheni,"","","","","",47.3228,27.6314
+MD,MD-3644,Blindesti,Ungheni,"","","","","",47.3131,27.6692
+MD,MD-3644,Floreni,Ungheni,"","","","","",47.3464,27.6639
+MD,MD-3645,Semeni,Ungheni,"","","","","",47.2686,27.7519
+MD,MD-3646,Sinesti,Ungheni,"","","","","",47.3908,28.0489
+MD,MD-3646,Pojarna,Ungheni,"","","","","",47.335,28.0856
+MD,MD-3647,Bulhac,Ungheni,"","","","","",47.4281,27.7425
+MD,MD-3647,Stolniceni,Ungheni,"","","","","",47.4111,27.7139
+MD,MD-3648,Tescureni,Ungheni,"","","","","",47.4117,27.9531
+MD,MD-3649,Todiresti,Ungheni,"","","","","",47.3186,27.82
+MD,MD-3650,Untesti,Ungheni,"","","","","",47.2436,27.8228
+MD,MD-3651,Valea Mare,Ungheni,"","","","","",47.1353,27.8608
+MD,MD-3651,Buzduganii De Jos,Ungheni,"","","","","",47.1436,27.8194
+MD,MD-3651,Buzduganii De Sus,Ungheni,"","","","","",47.1608,27.8625
+MD,MD-3652,Zagarancea,Ungheni,"","","","","",47.2425,27.7611
+MD,MD-3701,Straseni 1,Straseni,"","","","","",47.1414,28.6103
+MD,MD-3702,Straseni 2,Straseni,"","","","","",47.1414,28.6103
+MD,MD-3703,Fagureni,Straseni,"","","","","",47.1453,28.5628
+MD,MD-3711,Bucovat,Straseni,"","","","","",47.1886,28.4569
+MD,MD-3712,Capriana,Straseni,"","","","","",47.1175,28.5044
+MD,MD-3713,Chirianca,Straseni,"","","","","",47.2558,28.5328
+MD,MD-3714,Lupa-Recea,Straseni,"","","","","",47.3128,28.5925
+MD,MD-3714,Codreanca,Straseni,"","","","","",47.2867,28.5897
+MD,MD-3715,Cojusna,Straseni,"","","","","",47.0928,28.6581
+MD,MD-3716,Draguseni,Straseni,"","","","","",47.2142,28.6642
+MD,MD-3717,Galesti,Straseni,"","","","","",47.2281,28.4981
+MD,MD-3717,Galestii Noi,Straseni,"","","","","",47.2075,28.4956
+MD,MD-3718,Saca,Straseni,"","","","","",47.1942,28.6108
+MD,MD-3718,Ghelauza,Straseni,"","","","","",47.1936,28.5967
+MD,MD-3719,Gornoe,Straseni,"","","","","",47.1907,28.7798
+MD,MD-3720,Greblesi,Straseni,"","","","","",47.2353,28.6069
+MD,MD-3720,Martinesti,Straseni,"","","","","",47.2353,28.6069
+MD,MD-3721,Lozova,Straseni,"","","","","",47.1328,28.3858
+MD,MD-3721,Stejareni,Straseni,"","","","","",47.1061,28.4164
+MD,MD-3722,Micauti,Straseni,"","","","","",47.1722,28.7489
+MD,MD-3723,Negresti,Straseni,"","","","","",47.1778,28.6247
+MD,MD-3724,Onesti,Straseni,"","","","","",47.2786,28.5511
+MD,MD-3725,Ciobanca,Straseni,"","","","","",47.145,28.5022
+MD,MD-3725,Panasesti,Straseni,"","","","","",47.1531,28.5186
+MD,MD-3726,Radeni,Straseni,"","","","","",47.2067,28.6992
+MD,MD-3727,Recea,Straseni,"","","","","",47.2217,28.5806
+MD,MD-3728,Romanesti,Straseni,"","","","","",47.2258,28.7111
+MD,MD-3729,Roscani,Straseni,"","","","","",47.1475,28.6778
+MD,MD-3730,Scoreni,Straseni,"","","","","",47.0647,28.6086
+MD,MD-3731,Sireti,Straseni,"","","","","",47.1339,28.7142
+MD,MD-3732,Tataresti,Straseni,"","","","","",47.2044,28.5386
+MD,MD-3733,Truseni,Mun.Chisinau,"","","","","",47.0689,28.6797
+MD,MD-3734,Tiganesti,Straseni,"","","","","",47.2989,28.5522
+MD,MD-3735,Voinova,Straseni,"","","","","",47.2706,28.4872
+MD,MD-3736,Vorniceni,Straseni,"","","","","",47.1497,28.4294
+MD,MD-3737,Vorniceni-1,Straseni,"","","","","",47.1497,28.4294
+MD,MD-3738,Zamciogi,Straseni,"","","","","",47.2044,28.7233
+MD,MD-3739,Zubresti,Straseni,"","","","","",47.2386,28.5258
+MD,MD-3801,Comrat 1,Comrat,"","","","","",46.3003,28.6572
+MD,MD-3802,Comrat 2,Comrat,"","","","","",46.3003,28.6572
+MD,MD-3805,Comrat 5,Comrat,"","","","","",46.3003,28.6572
+MD,MD-3811,Besalma,Comrat,"","","","","",46.1728,28.6483
+MD,MD-3812,Bugeac,Comrat,"","","","","",46.3658,28.6633
+MD,MD-3813,Chirsova,Comrat,"","","","","",46.2339,28.6481
+MD,MD-3814,Chioselia Rusa,Comrat,"","","","","",46.0833,28.5164
+MD,MD-3815,Congaz 1,Comrat,"","","","","",46.1606,28.5136
+MD,MD-3815,Cirlaneni,Comrat,"","","","","",46.1606,28.5136
+MD,MD-3815,Cotovscoe-Cirlaneni,Comrat,"","","","","",46.1606,28.5136
+MD,MD-3816,Congazcic,Comrat,"","","","","",46.3241,28.5506
+MD,MD-3816,Congazcicul De Jos,Comrat,"","","","","",46.3114,28.5714
+MD,MD-3816,Dudulesti,Comrat,"","","","","",46.3275,28.5139
+MD,MD-3816,Congazcicul De Sus,Comrat,"","","","","",46.3333,28.5664
+MD,MD-3817,Avdarma,Comrat,"","","","","",46.2542,28.8394
+MD,MD-3818,Cioc-Maidan,Comrat,"","","","","",46.3581,28.8219
+MD,MD-3819,Congaz,Comrat,"","","","","",46.1092,28.6044
+MD,MD-3820,Dezghingea,Comrat,"","","","","",46.4244,28.6167
+MD,MD-3821,Ferapontievca,Comrat,"","","","","",46.24,28.7744
+MD,MD-3822,Svetlii,Comrat,"","","","","",46.0164,28.5661
+MD,MD-3822,Alexeevca,Comrat,"","","","","",46.0264,28.5675
+MD,MD-3901,Cahul 1,Cahul,"","","","","",45.8881,28.1881
+MD,MD-3905,Cahul 5,Cahul,"","","","","",45.9221,28.2216
+MD,MD-3907,Cahul 7,Cahul,"","","","","",45.9198,28.1933
+MD,MD-3909,Cahul 9,Cahul,"","","","","",45.9066,28.1931
+MD,MD-3911,Andrusul De Jos,Cahul,"","","","","",45.9858,28.2211
+MD,MD-3912,Andrusul De Sus,Cahul,"","","","","",46.0075,28.2461
+MD,MD-3913,Badicul Moldovenesc,Cahul,"","","","","",46.0944,28.2706
+MD,MD-3914,Gibani,Cahul,"","","","","",46.0331,28.2328
+MD,MD-3914,Baurci-Moldoveni,Cahul,"","","","","",46.0331,28.2328
+MD,MD-3915,Bucuria,Cahul,"","","","","",45.9656,28.3489
+MD,MD-3916,Spicoasa,Cahul,"","","","","",46.0344,28.3769
+MD,MD-3916,Alexandresti,Cahul,"","","","","",46.0503,28.4125
+MD,MD-3916,Burlacu,Cahul,"","","","","",46.0447,28.4128
+MD,MD-3917,Cotihana,Cahul,"","","","","",45.9381,28.2436
+MD,MD-3918,Crihana Veche,Cahul,"","","","","",45.8458,28.1947
+MD,MD-3919,Cucoara,Cahul,"","","","","",46.0569,28.1708
+MD,MD-3919,Chircani,Cahul,"","","","","",46.0872,28.1722
+MD,MD-3920,Huluboaia,Cahul,"","","","","",46.0658,28.3333
+MD,MD-3921,Larga Veche,Cahul,"","","","","",46.0708,28.2453
+MD,MD-3921,Larga Noua,Cahul,"","","","","",46.0725,28.2242
+MD,MD-3922,Lebedenco,Cahul,"","","","","",45.8561,28.2917
+MD,MD-3922,Hutulu,Cahul,"","","","","",45.8631,28.3006
+MD,MD-3923,Lopatica,Cahul,"","","","","",45.9294,28.4122
+MD,MD-3924,Lucesti,Cahul,"","","","","",45.9889,28.3364
+MD,MD-3925,Manta,Cahul,"","","","","",45.8061,28.1833
+MD,MD-3926,Moscovei,Cahul,"","","","","",45.9342,28.3556
+MD,MD-3926,Trifestii Noi,Cahul,"","","","","",45.9481,28.355
+MD,MD-3927,Pelinei,Cahul,"","","","","",45.8269,28.3219
+MD,MD-3927,Satuc,Cahul,"","","","","",45.8031,28.3528
+MD,MD-3928,Rosu,Cahul,"","","","","",45.9547,28.1942
+MD,MD-3929,Taraclia De Salcie,Cahul,"","","","","",46.0075,28.4153
+MD,MD-3930,Tartaul De Salcie,Cahul,"","","","","",45.9719,28.4119
+MD,MD-3930,Tudoresti,Cahul,"","","","","",45.9642,28.4028
+MD,MD-3931,Tataresti,Cahul,"","","","","",46.025,28.3453
+MD,MD-3932,Ursoaia,Cahul,"","","","","",45.8531,28.3156
+MD,MD-3933,Tretesti,Cahul,"","","","","",46,28.1667
+MD,MD-3933,Zirnesti,Cahul,"","","","","",46.0111,28.1631
+MD,MD-3933,Paicu,Cahul,"","","","","",46.0378,28.1553
+MD,MD-3934,Frumusica,Cahul,"","","","","",46.0814,28.4831
+MD,MD-3934,Chioselia Mare,Cahul,"","","","","",46.1,28.4903
+MD,MD-3934,Pascani,Cahul,"","","","","",45.825,28.1878
+MD,MD-4001,Grigoriopol,Grigoriopol Tr.,"","","","","",47.1536,29.2964
+MD,MD-4001,Crasnoe,Grigoriopol Tr.,"","","","","",47.1808,29.3583
+MD,MD-4006,Maiac,Grigoriopol Tr.,"","","","","",47.2375,29.3858
+MD,MD-4011,Bicioc,Grigoriopol Tr.,"","","","","",46.925,29.4803
+MD,MD-4012,India,Grigoriopol Tr.,"","","","","",47.0461,29.3872
+MD,MD-4012,Butor,Grigoriopol Tr.,"","","","","",47.0414,29.4044
+MD,MD-4013,Cotovca,Grigoriopol Tr.,"","","","","",47.2853,29.4783
+MD,MD-4013,Carmanova,Grigoriopol Tr.,"","","","","",47.2589,29.5036
+MD,MD-4014,Cernita,Grigoriopol Tr.,"","","","","",47.0306,29.5178
+MD,MD-4015,Pobeda,Grigoriopol Tr.,"","","","","",47.35,29.5
+MD,MD-4015,Crasnaia Bessarabia,Grigoriopol Tr.,"","","","","",47.285,29.5869
+MD,MD-4015,Colosova,Grigoriopol Tr.,"","","","","",47.3258,29.5664
+MD,MD-4016,Crasnaia Gorca,Grigoriopol Tr.,"","","","","",47.1322,29.315
+MD,MD-4017,Crasnogorca,Grigoriopol Tr.,"","","","","",46.9614,29.4653
+MD,MD-4018,Delacau,Grigoriopol Tr.,"","","","","",47.1289,29.2989
+MD,MD-4019,Mocreachi,Grigoriopol Tr.,"","","","","",47.2756,29.3836
+MD,MD-4019,Hirtop,Grigoriopol Tr.,"","","","","",47.2397,29.3614
+MD,MD-4019,Marian,Grigoriopol Tr.,"","","","","",47.2342,29.3319
+MD,MD-4019,Bruslachi,Grigoriopol Tr.,"","","","","",47.2811,29.38
+MD,MD-4020,Hlinaia,Grigoriopol Tr.,"","","","","",47.2281,29.415
+MD,MD-4021,Malaiesti,Grigoriopol Tr.,"","","","","",46.9825,29.5522
+MD,MD-4022,Mocearovca,Grigoriopol Tr.,"","","","","",47.2403,29.5497
+MD,MD-4022,Fedoseevca,Grigoriopol Tr.,"","","","","",47.2333,29.5378
+MD,MD-4023,Novovladimirovca,Grigoriopol Tr.,"","","","","",46.9392,29.52
+MD,MD-4024,Speia,Grigoriopol Tr.,"","","","","",47.0067,29.2972
+MD,MD-4025,Sipca,Grigoriopol Tr.,"","","","","",47.1689,29.5075
+MD,MD-4026,Taslic,Grigoriopol Tr.,"","","","","",47.0722,29.3953
+MD,MD-4027,Teiu,Grigoriopol Tr.,"","","","","",46.9581,29.3956
+MD,MD-4027,Tocmagiu,Grigoriopol Tr.,"","","","","",46.9447,29.375
+MD,MD-4028,Vesioloe,Grigoriopol Tr.,"","","","","",47.2019,29.5536
+MD,MD-4029,Vinogradnoe,Grigoriopol Tr.,"","","","","",47.0833,29.4919
+MD,MD-4101,Cimislia,Cimislia,"","","","","",46.52,28.7842
+MD,MD-4111,Fetita,Cimislia,"","","","","",46.6933,28.6731
+MD,MD-4111,Albina,Cimislia,"","","","","",46.7044,28.6419
+MD,MD-4111,Mereni,Cimislia,"","","","","",46.6747,28.6492
+MD,MD-4112,Bogdanovca Veche,Cimislia,"","","","","",46.4756,28.8256
+MD,MD-4112,Bogdanovca Noua,Cimislia,"","","","","",46.4933,28.8444
+MD,MD-4113,Cenac,Cimislia,"","","","","",46.4753,28.6419
+MD,MD-4114,Ciucur-Mingir,Cimislia,"","","","","",46.4408,28.7558
+MD,MD-4115,Costangalia,Cimislia,"","","","","",46.6167,28.8031
+MD,MD-4116,Ecaterinovca,Cimislia,"","","","","",46.5839,28.7494
+MD,MD-4117,Gradiste,Cimislia,"","","","","",46.6078,28.7589
+MD,MD-4118,Gura Galbenei,Cimislia,"","","","","",46.6981,28.7058
+MD,MD-4119,Prisaca,Cimislia,"","","","","",46.6561,28.6025
+MD,MD-4119,Ialpug,Cimislia,"","","","","",46.6517,28.5897
+MD,MD-4119,Hirtop,Cimislia,"","","","","",46.6522,28.685
+MD,MD-4120,Marienfeld,Cimislia,"","","","","",46.5981,28.6186
+MD,MD-4120,Ialpujeni,Cimislia,"","","","","",46.5981,28.6186
+MD,MD-4121,Iurievca,Cimislia,"","","","","",46.6681,28.7642
+MD,MD-4122,Ivanovca Noua,Cimislia,"","","","","",46.7456,28.6953
+MD,MD-4123,Maximeni,Cimislia,"","","","","",46.5717,28.5969
+MD,MD-4123,Javgur,Cimislia,"","","","","",46.5392,28.6161
+MD,MD-4123,Artimonovca,Cimislia,"","","","","",46.5964,28.5908
+MD,MD-4124,Lipoveni,Cimislia,"","","","","",46.7342,28.7619
+MD,MD-4124,Schinosica,Cimislia,"","","","","",46.7278,28.7875
+MD,MD-4124,Munteni,Cimislia,"","","","","",46.7092,28.7747
+MD,MD-4125,Mihailovca,Cimislia,"","","","","",46.5511,28.9319
+MD,MD-4126,Porumbrei,Cimislia,"","","","","",46.6917,28.8161
+MD,MD-4127,Sagaidac,Cimislia,"","","","","",46.6617,28.8458
+MD,MD-4128,Satul Nou,Cimislia,"","","","","",46.6178,28.9078
+MD,MD-4129,Selemet,Cimislia,"","","","","",46.5778,28.9264
+MD,MD-4130,Suric,Cimislia,"","","","","",46.6303,28.8747
+MD,MD-4131,Topala,Cimislia,"","","","","",46.4619,28.6744
+MD,MD-4131,Dimitrovca,Cimislia,"","","","","",46.4853,28.7181
+MD,MD-4132,Valea Perjei,Cimislia,"","","","","",46.6231,28.7264
+MD,MD-4201,Stefan-Voda,Stefan-Voda,"","","","","",46.5153,29.6631
+MD,MD-4211,Alava,Stefan-Voda,"","","","","",46.5092,29.5678
+MD,MD-4212,Antonesti,Stefan-Voda,"","","","","",46.4961,29.8486
+MD,MD-4213,Brezoaia,Stefan-Voda,"","","","","",46.5208,29.4539
+MD,MD-4214,Carahasani,Stefan-Voda,"","","","","",46.4675,29.8122
+MD,MD-4215,Caplani,Stefan-Voda,"","","","","",46.3872,29.8714
+MD,MD-4216,Cioburciu,Stefan-Voda,"","","","","",46.6003,29.7083
+MD,MD-4217,Copciac,Stefan-Voda,"","","","","",46.5134,29.6677
+MD,MD-4218,Crocmaz,Stefan-Voda,"","","","","",46.4519,29.9825
+MD,MD-4219,Ermoclia,Stefan-Voda,"","","","","",46.5808,29.5097
+MD,MD-4220,Festelita,Stefan-Voda,"","","","","",46.5444,29.5656
+MD,MD-4221,Gradinita,Causeni,"","","","","",46.6531,29.5842
+MD,MD-4222,Lazo,Stefan-Voda,"","","","","",46.4878,29.5764
+MD,MD-4223,Leuntea,Causeni,"","","","","",46.6628,29.5878
+MD,MD-4223,Valea Verde,Causeni,"","","","","",46.6933,29.5883
+MD,MD-4224,Hadjilari ,Stefan-Voda,"","","","","",46.5206,29.6014
+MD,MD-4224,Marianca De Jos,Stefan-Voda,"","","","","",46.5206,29.6014
+MD,MD-4225,Olanesti 1,Stefan-Voda,"","","","","",46.4956,29.9181
+MD,MD-4226,Olanesti 2,Stefan-Voda,"","","","","",46.4956,29.9181
+MD,MD-4227,Palanca,Stefan-Voda,"","","","","",46.4086,30.0961
+MD,MD-4228,Popeasca,Stefan-Voda,"","","","","",46.6025,29.5369
+MD,MD-4229,Purcari,Stefan-Voda,"","","","","",46.5369,29.8603
+MD,MD-4230,Rascaieti,Stefan-Voda,"","","","","",46.5744,29.7761
+MD,MD-4231,Rascaietii Noi,Stefan-Voda,"","","","","",46.5325,29.7733
+MD,MD-4232,Semionovca,Stefan-Voda,"","","","","",46.5167,29.5122
+MD,MD-4233,Slobozia,Stefan-Voda,"","","","","",46.5081,29.7403
+MD,MD-4236,Stefanesti,Stefan-Voda,"","","","","",46.4458,29.6878
+MD,MD-4237,Talmaza 1,Stefan-Voda,"","","","","",46.6358,29.6647
+MD,MD-4238,Talmaza 2,Stefan-Voda,"","","","","",46.6358,29.6647
+MD,MD-4239,Tudora,Stefan-Voda,"","","","","",46.435,30.0425
+MD,MD-4240,Viisoara,Stefan-Voda,"","","","","",46.5469,29.8256
+MD,MD-4241,Volintiri,Stefan-Voda,"","","","","",46.4267,29.6058
+MD,MD-4301,Causeni 1,Causeni,"","","","","",46.6442,29.4139
+MD,MD-4302,Causeni 2,Causeni,"","","","","",46.6442,29.4139
+MD,MD-4303,Causeni 3,Causeni,"","","","","",46.6442,29.4139
+MD,MD-4304,Causeni 4,Causeni,"","","","","",46.6442,29.4139
+MD,MD-4311,Tricolici,Causeni,"","","","","",46.7372,29.2397
+MD,MD-4311,Baccealia,Causeni,"","","","","",46.6911,29.2806
+MD,MD-4312,Chircaesti,Causeni,"","","","","",46.7181,29.5217
+MD,MD-4313,Cirnateni,Causeni,"","","","","",46.6544,29.4919
+MD,MD-4314,Firladeni,Causeni,"","","","","",46.7883,29.3669
+MD,MD-4315,Firladenii Noi,Causeni,"","","","","",46.7525,29.3011
+MD,MD-4316,Gisca 1,Bender Tr.,"","","","","",46.9982,28.8095
+MD,MD-4317,Gisca 2,Bender Tr.,"","","","","",46.9982,28.8095
+MD,MD-4318,Grigorievca,Causeni,"","","","","",46.6897,29.3294
+MD,MD-4319,Hagimus,Causeni,"","","","","",46.7564,29.4797
+MD,MD-4320,Opaci,Causeni,"","","","","",46.5797,29.35
+MD,MD-4321,Plop-Stiubei,Causeni,"","","","","",46.675,29.5144
+MD,MD-4322,Saiti,Causeni,"","","","","",46.4967,29.4075
+MD,MD-4323,Salcuta,Causeni,"","","","","",46.595,29.2444
+MD,MD-4324,Tanatari,Causeni,"","","","","",46.7222,29.4156
+MD,MD-4325,Ursoaia Noua,Causeni,"","","","","",46.7269,29.3389
+MD,MD-4325,Stefanesti,Causeni,"","","","","",46.7067,29.3708
+MD,MD-4325,Tanatarii Noi,Causeni,"","","","","",46.7367,29.3208
+MD,MD-4326,Tocuz,Causeni,"","","","","",46.5239,29.2961
+MD,MD-4327,Zviozdocica,Causeni,"","","","","",46.4797,29.3242
+MD,MD-4327,Ucrainca,Causeni,"","","","","",46.4311,29.2728
+MD,MD-4328,Ursoaia,Causeni,"","","","","",46.7058,29.4456
+MD,MD-4329,Zaim Loc.C.F.,Causeni,"","","","","",46.6339,29.3292
+MD,MD-4329,Marianca De Sus,Causeni,"","","","","",46.6483,29.3119
+MD,MD-4329,Zaim,Causeni,"","","","","",46.6194,29.3464
+MD,MD-4401,Tuzara,Calarasi,"","","","","",47.2417,28.3031
+MD,MD-4401,Selistea Noua,Calarasi,"","","","","",47.2319,28.3128
+MD,MD-4401,Calarasi 1,Calarasi,"","","","","",47.2368,28.3079
+MD,MD-4402,Calarasi 2,Calarasi,"","","","","",47.2544,28.3081
+MD,MD-4403,Vatamaneasca ,Calarasi,"","","","","",47.2994,28.2361
+MD,MD-4403,Oricova,Calarasi,"","","","","",47.2994,28.2361
+MD,MD-4403,Calarasi 4,Calarasi,"","","","","",47.2994,28.2361
+MD,MD-4411,Bahmut,Calarasi,"","","","","",47.3225,28.1158
+MD,MD-4412,Bahmut St.,Calarasi,"","","","","",47.3326,28.0879
+MD,MD-4413,Bahu,Calarasi,"","","","","",47.4225,28.4667
+MD,MD-4414,Bravicea,Calarasi,"","","","","",47.3611,28.4361
+MD,MD-4415,Buda,Calarasi,"","","","","",47.2089,28.2189
+MD,MD-4415,Ursari,Calarasi,"","","","","",47.2214,28.1894
+MD,MD-4416,Cabaiesti,Calarasi,"","","","","",47.2164,28.1467
+MD,MD-4417,Codru (Sanat.),Calarasi,"","","","","",46.9753,28.8194
+MD,MD-4418,Duma,Calarasi,"","","","","",47.3689,28.2324
+MD,MD-4418,Dereneu,Calarasi,"","","","","",47.3817,28.2425
+MD,MD-4418,Bularda,Calarasi,"","","","","",47.3561,28.2222
+MD,MD-4419,Frumoasa,Calarasi,"","","","","",47.3289,28.4028
+MD,MD-4420,Hirova,Calarasi,"","","","","",47.4131,28.2817
+MD,MD-4421,Palanca,Calarasi,"","","","","",47.3333,28.2014
+MD,MD-4421,Leordoaia,Calarasi,"","","","","",47.3456,28.1533
+MD,MD-4421,Hirjauca,Calarasi,"","","","","",47.3242,28.2225
+MD,MD-4422,Sverida,Calarasi,"","","","","",47.3533,28.2928
+MD,MD-4422,Hirbovat,Calarasi,"","","","","",47.3533,28.2928
+MD,MD-4423,Hoginesti,Calarasi,"","","","","",47.3733,28.3208
+MD,MD-4424,Horodiste,Calarasi,"","","","","",47.2086,28.2519
+MD,MD-4425,Meleseni,Calarasi,"","","","","",47.3756,28.3889
+MD,MD-4426,Mindra,Calarasi,"","","","","",47.3194,28.2672
+MD,MD-4427,Niscani,Calarasi,"","","","","",47.2672,28.3444
+MD,MD-4428,Novaci,Calarasi,"","","","","",47.2361,28.2667
+MD,MD-4429,Oniscani,Calarasi,"","","","","",47.3653,28.2881
+MD,MD-4430,Paulesti,Calarasi,"","","","","",47.2681,28.3708
+MD,MD-4431,Peticeni,Calarasi,"","","","","",47.2372,28.2072
+MD,MD-4432,Pitusca,Calarasi,"","","","","",47.2375,28.4197
+MD,MD-4433,Pirjolteni,Calarasi,"","","","","",47.1969,28.2417
+MD,MD-4434,Parcani,Calarasi,"","","","","",47.2944,28.3736
+MD,MD-4435,Radeni,Calarasi,"","","","","",47.3978,28.2167
+MD,MD-4435,Rassvet,Straseni,"","","","","",47.2031,28.4283
+MD,MD-4435,Raciula,Calarasi,"","","","","",47.3025,28.3436
+MD,MD-4436,Sadova,Calarasi,"","","","","",47.1911,28.3447
+MD,MD-4437,Saseni,Calarasi,"","","","","",47.3678,28.5014
+MD,MD-4438,Podul Lung,Calarasi,"","","","","",47.2619,28.2503
+MD,MD-4438,Sipoteni,Calarasi,"","","","","",47.2772,28.1981
+MD,MD-4439,Temeleuti,Calarasi,"","","","","",47.2539,28.0719
+MD,MD-4440,Tibirica,Calarasi,"","","","","",47.3714,28.3689
+MD,MD-4441,Schinoasa ,Calarasi,"","","","","",47.2672,28.1289
+MD,MD-4441,Valcinet,Calarasi,"","","","","",47.2672,28.1289
+MD,MD-4442,Varzarestii Noi,Calarasi,"","","","","",47.2322,28.445
+MD,MD-4501,Corjova,Dubasari Cr.,"","","","","",47.2878,29.1297
+MD,MD-4501,Mahala,Dubasari Tr.,"","","","","",47.2667,29.1497
+MD,MD-4501,Dubasari 1,Dubasari Tr.,"","","","","",47.2772,29.1397
+MD,MD-4502,Dubasari 2,Dubasari Tr.,"","","","","",47.7591,27.932
+MD,MD-4511,Coicova,Dubasari Tr.,"","","","","",47.4117,29.2425
+MD,MD-4512,Cosnita Noua,Dubasari Tr.,"","","","","",47.3133,29.3308
+MD,MD-4512,Vasilievca,Dubasari Tr.,"","","","","",47.3689,29.305
+MD,MD-4512,Comisarovca Noua,Dubasari Tr.,"","","","","",47.3306,29.3472
+MD,MD-4513,Calinovca,Dubasari Tr.,"","","","","",47.3117,29.25
+MD,MD-4513,Alexandrovca Noua,Dubasari Tr.,"","","","","",47.3,29.3025
+MD,MD-4513,Afanasievca,Dubasari Tr.,"","","","","",47.3231,29.2536
+MD,MD-4513,Lunga Noua,Dubasari Tr.,"","","","","",47.2858,29.2747
+MD,MD-4513,Crasnii Vinogradari,Dubasari Tr.,"","","","","",47.2983,29.2781
+MD,MD-4514,Doibani 1,Dubasari Tr.,"","","","","",47.39,29.2064
+MD,MD-4515,Doibani 2,Dubasari Tr.,"","","","","",47.4036,29.2136
+MD,MD-4516,Dubau,Dubasari Tr.,"","","","","",47.4303,29.2792
+MD,MD-4516,Goianul Nou,Dubasari Tr.,"","","","","",47.3853,29.3203
+MD,MD-4517,Dzerjinscoe,Dubasari Tr.,"","","","","",47.2217,29.1811
+MD,MD-4518,Goian,Dubasari Tr.,"","","","","",47.3772,29.16
+MD,MD-4518,Iagorlic,Dubasari Tr.,"","","","","",47.3922,29.1608
+MD,MD-4519,Harmatca,Dubasari Tr.,"","","","","",47.4233,29.0928
+MD,MD-4520,Lunga,Dubasari Tr.,"","","","","",47.2461,29.1667
+MD,MD-4522,Pohrebea Noua,Dubasari Tr.,"","","","","",47.3103,29.3783
+MD,MD-4522,Bosca,Dubasari Tr.,"","","","","",47.3061,29.3644
+MD,MD-4523,Roghi,Dubasari Tr.,"","","","","",47.3203,29.1356
+MD,MD-4524,Tibuleuca,Dubasari Tr.,"","","","","",47.4056,29.1044
+MD,MD-4571,Cocieri,Dubasari Cr.,"","","","","",47.3075,29.1103
+MD,MD-4572,Cosnita,Dubasari Cr.,"","","","","",47.1475,29.1333
+MD,MD-4572,Pohrebea,Criuleni-Dub.,"","","","","",47.1819,29.1661
+MD,MD-4573,Dorotcaia,Dubasari Cr.,"","","","","",47.1722,29.2028
+MD,MD-4574,Holercani,Dubasari Cr.,"","","","","",47.3119,29.0689
+MD,MD-4575,Marcauti,Criuleni- Dub.,"","","","","",47.3553,29.0583
+MD,MD-4576,Molovata Noua,Criuleni-Dub.,"","","","","",47.3469,29.0911
+MD,MD-4577,Molovata,Criuleni- Dub.,"","","","","",47.3489,29.1144
+MD,MD-4578,Oxentea,Criuleni-Dub.,"","","","","",47.3833,29.1186
+MD,MD-4579,Pirita,Criuleni-Dub.,"","","","","",47.1008,29.1192
+MD,MD-4580,Ustia,Criulenii-Dub.,"","","","","",47.2567,29.125
+MD,MD-4601,Edinet,Edinet,"","","","","",48.1681,27.305
+MD,MD-4611,Alexeevca,Edinet,"","","","","",48.0936,27.2608
+MD,MD-4612,Alexandreni,Edinet,"","","","","",48.1472,27.2583
+MD,MD-4613,Badragii Vechi,Edinet,"","","","","",48.0378,27.1064
+MD,MD-4614,Badragii Noi,Edinet,"","","","","",48.0642,27.0747
+MD,MD-4615,Blesteni,Edinet,"","","","","",48.1225,27.2194
+MD,MD-4615,Volodeni,Edinet,"","","","","",48.1142,27.2014
+MD,MD-4617,Bratuseni,Edinet,"","","","","",48.0772,27.3958
+MD,MD-4618,Bratusenii Noi,Edinet,"","","","","",48.0611,27.4839
+MD,MD-4619,Brinzeni,Edinet,"","","","","",48.0842,27.1756
+MD,MD-4620,Burlanesti,Edinet,"","","","","",48.1261,27.1303
+MD,MD-4620,Buzdugeni,Edinet,"","","","","",48.1078,27.1558
+MD,MD-4620,Heredeuca ,Edinet,"","","","","",48.1169,27.1431
+MD,MD-4621,Chetrosica Noua,Edinet,"","","","","",48.1192,27.4717
+MD,MD-4622,Chiurt,Edinet,"","","","","",48.0594,27.3411
+MD,MD-4623,Iachimeni,Edinet,"","","","","",48.2492,27.11
+MD,MD-4623,Constantinovca,Edinet,"","","","","",48.2492,27.11
+MD,MD-4624,Corpaci,Edinet,"","","","","",48.0069,27.1383
+MD,MD-4625,Cuconestii Vechi,Edinet,"","","","","",47.9656,27.1567
+MD,MD-4625,Cuconestii Noi,Edinet,"","","","","",47.9889,27.2075
+MD,MD-4626,Chetrosica Veche,Edinet,"","","","","",48.1108,27.3853
+MD,MD-4626,Cupcini,Edinet,"","","","","",48.1108,27.3853
+MD,MD-4627,Fetesti,Edinet,"","","","","",48.1667,27.0967
+MD,MD-4628,Fintina Alba,Edinet,"","","","","",48.1631,27.4283
+MD,MD-4629,Gaspar,Edinet,"","","","","",48.1569,27.4975
+MD,MD-4630,Goleni,Edinet,"","","","","",48.2106,27.4328
+MD,MD-4631,Gordinestii Noi,Edinet,"","","","","",48.1706,27.2286
+MD,MD-4631,Gordinesti,Edinet,"","","","","",48.1644,27.165
+MD,MD-4632,Hancauti,Edinet,"","","","","",48.0486,27.1889
+MD,MD-4633,Cliscauti,Edinet,"","","","","",48.2844,27.3286
+MD,MD-4633,Hincauti,Edinet,"","","","","",48.2739,27.3106
+MD,MD-4634,Hlinaia,Edinet,"","","","","",48.2233,27.2533
+MD,MD-4635,Lopatnic,Edinet,"","","","","",48.1364,27.0522
+MD,MD-4636,Parcova,Edinet,"","","","","",48.1531,27.4039
+MD,MD-4637,Poiana,Edinet,"","","","","",48.2522,27.3519
+MD,MD-4638,Rotunda,Edinet,"","","","","",48.2442,27.3064
+MD,MD-4638,Hlinaia Mica,Edinet,"","","","","",48.2536,27.2694
+MD,MD-4639,Slobodca,Edinet,"","","","","",48.2075,27.3686
+MD,MD-4639,Ruseni,Edinet,"","","","","",48.2017,27.4158
+MD,MD-4640,Stolniceni,Edinet,"","","","","",48.0381,27.3481
+MD,MD-4641,Sofrincani,Edinet,"","","","","",48.0489,27.4139
+MD,MD-4642,Terebna,Edinet,"","","","","",48.05,27.2514
+MD,MD-4643,Tirnova,Edinet,"","","","","",48.2067,27.1797
+MD,MD-4644,Trinca,Edinet,"","","","","",48.2083,27.1122
+MD,MD-4645,Viisoara,Edinet,"","","","","",48.0947,27.0447
+MD,MD-4646,Zabriceni,Edinet,"","","","","",48.0728,27.2533
+MD,MD-4646,Onesti,Edinet,"","","","","",48.0642,27.2722
+MD,MD-4701,Briceni 1,Briceni,"","","","","",48.3628,27.085
+MD,MD-4706,Lipcani 1,Briceni,"","","","","",48.2653,26.8039
+MD,MD-4707,Lipcani 2,Briceni,"","","","","",48.2653,26.8039
+MD,MD-4708,Lipcani 3,Briceni,"","","","","",48.2653,26.8039
+MD,MD-4711,Balasinesti,Briceni,"","","","","",48.2439,26.9606
+MD,MD-4712,Bocicauti,Briceni,"","","","","",48.2922,27.1747
+MD,MD-4712,Balcauti,Briceni,"","","","","",48.2833,27.2022
+MD,MD-4713,Berlinti,Briceni,"","","","","",48.3119,26.9358
+MD,MD-4714,Bezeda,Briceni,"","","","","",48.1608,27.0011
+MD,MD-4715,Bogdanesti,Briceni,"","","","","",48.1403,27.0019
+MD,MD-4715,Grimesti,Briceni,"","","","","",48.1331,26.9744
+MD,MD-4716,Bulboaca,Briceni,"","","","","",48.3717,27.1983
+MD,MD-4717,Caracusenii Noi,Briceni,"","","","","",48.3253,27.0242
+MD,MD-4718,Caracusenii Vechi,Briceni,"","","","","",48.27,27.0758
+MD,MD-4719,Colicauti,Briceni,"","","","","",48.3089,27.1539
+MD,MD-4720,Corjeuti,Briceni,"","","","","",48.2228,27.0422
+MD,MD-4721,Coteala,Briceni,"","","","","",48.3308,26.8619
+MD,MD-4722,Cotiujeni,Briceni,"","","","","",48.3444,26.9381
+MD,MD-4723,Criva,Briceni,"","","","","",48.2711,26.6722
+MD,MD-4724,Drepcauti,Briceni,"","","","","",48.2717,26.7242
+MD,MD-4725,Beleavinti,Briceni,"","","","","",48.2886,26.9461
+MD,MD-4725,Ghilavat,Briceni,"","","","","",48.2886,26.9461
+MD,MD-4726,Grimancauti,Briceni,"","","","","",48.3894,27.0897
+MD,MD-4727,Groznita,Briceni,"","","","","",48.26,27.2372
+MD,MD-4728,Halahora De Jos,Briceni,"","","","","",48.2314,27.1697
+MD,MD-4729,Chirilovca,Briceni,"","","","","",48.2586,27.1783
+MD,MD-4729,Halahora De Sus,Briceni,"","","","","",48.2586,27.1783
+MD,MD-4730,Hlina,Briceni,"","","","","",48.2911,26.8781
+MD,MD-4731,Pavlovca,Briceni,"","","","","",48.3808,26.8747
+MD,MD-4731,Larga,Briceni,"","","","","",48.3722,26.8433
+MD,MD-4732,Marcautii Noi,Briceni,"","","","","",48.2975,27.2281
+MD,MD-4732,Marcauti,Briceni,"","","","","",48.3139,27.2261
+MD,MD-4733,Slobozia-Medveja,Briceni,"","","","","",48.3806,26.7525
+MD,MD-4733,Medveja,Briceni,"","","","","",48.3619,26.7864
+MD,MD-4734,Mihaileni,Briceni,"","","","","",48.2472,27.2508
+MD,MD-4735,Pererita,Briceni,"","","","","",48.2072,26.9158
+MD,MD-4736,Sirauti,Briceni,"","","","","",48.2372,26.8425
+MD,MD-4737,Slobozia-Sirauti,Briceni,"","","","","",48.2425,26.8725
+MD,MD-4738,Tabani,Briceni,"","","","","",48.3122,27.0975
+MD,MD-4739,Tetcani,Briceni,"","","","","",48.1817,26.9756
+MD,MD-4740,Trebisauti,Briceni,"","","","","",48.3558,27.1908
+MD,MD-4741,Trestieni,Briceni,"","","","","",48.2697,27.1322
+MD,MD-4801,Zolonceni,Criuleni,"","","","","",47.2461,29.1383
+MD,MD-4801,Criuleni,Criuleni,"","","","","",47.2144,29.1614
+MD,MD-4811,Balabanesti,Criuleni,"","","","","",47.0683,29.1319
+MD,MD-4811,Malaiesti,Criuleni,"","","","","",47.0853,29.1333
+MD,MD-4811,Malaiestii Noi,Criuleni,"","","","","",47.0768,29.1326
+MD,MD-4812,Sagaidac,Criuleni,"","","","","",47.0272,29.0239
+MD,MD-4812,Baltata De Sus,Criuleni,"","","","","",47.0664,29.0356
+MD,MD-4812,Sagaidacul De Sus,Criuleni,"","","","","",47.0497,29.0253
+MD,MD-4812,Baltata,Criuleni,"","","","","",47.0514,29.0478
+MD,MD-4813,Boscana,Criuleni,"","","","","",47.1244,29.0072
+MD,MD-4813,Mardareuca,Criuleni,"","","","","",47.1175,29.0022
+MD,MD-4814,Budesti,Mun.Chisinau,"","","","","",47.0653,29.0067
+MD,MD-4814,Vaduleni,Mun.Chisinau,"","","","","",47.0703,29.0836
+MD,MD-4815,Cimiseni,Criuleni,"","","","","",47.0119,29.1294
+MD,MD-4816,Hrusova,Criuleni,"","","","","",47.1367,28.9519
+MD,MD-4816,Chetroasa,Criuleni,"","","","","",47.1222,28.9786
+MD,MD-4816,Ciopleni,Criuleni,"","","","","",47.1303,28.9497
+MD,MD-4817,Corjova,Criuleni,"","","","","",47.0964,29.1717
+MD,MD-4818,Cosernita,Criuleni,"","","","","",47.1192,29.0472
+MD,MD-4819,Cruglic,Criuleni,"","","","","",47.2197,29.0267
+MD,MD-4820,Dolinnoe,Criuleni,"","","","","",47.0222,28.995
+MD,MD-4820,Valea Colonitei,Criuleni,"","","","","",47.01,28.9867
+MD,MD-4820,Valea Satului,Criuleni,"","","","","",47.0353,29.0058
+MD,MD-4821,Drasliceni,Criuleni,"","","","","",47.1556,28.78
+MD,MD-4822,Dubasarii Vechi,Criuleni,"","","","","",47.1339,29.1978
+MD,MD-4823,Goianul Nou,Mun.Chisinau,"","","","","",47.1175,28.9008
+MD,MD-4824,Hirtopul Mare,Criuleni,"","","","","",47.2264,28.9428
+MD,MD-4825,Hirtopul Mic,Criuleni,"","","","","",47.2469,28.9283
+MD,MD-4826,Isnovat,Criuleni,"","","","","",47.2314,28.8636
+MD,MD-4827,Izbiste,Criuleni,"","","","","",47.2206,28.9964
+MD,MD-4828,Jevreni,Criuleni,"","","","","",47.2583,29.0639
+MD,MD-4829,Magdacesti,Criuleni,"","","","","",47.1339,28.8256
+MD,MD-4829,Porumbeni,Criuleni,"","","","","",47.1339,28.8256
+MD,MD-4830,Mascauti,Criuleni,"","","","","",47.2906,29.0039
+MD,MD-4831,Miclesti,Criuleni,"","","","","",47.2386,28.8067
+MD,MD-4832,Ohrincea,Criuleni,"","","","","",47.2208,29.0611
+MD,MD-4833,Onitcani,Criuleni,"","","","","",47.1458,29.0686
+MD,MD-4834,Pascani,Criuleni,"","","","","",47.1672,28.8325
+MD,MD-4835,Ratus,Criuleni,"","","","","",47.165,28.8067
+MD,MD-4835,Loganesti,Criuleni,"","","","","",47.1725,28.7842
+MD,MD-4836,Balasesti,Criuleni,"","","","","",47.2656,29.0425
+MD,MD-4836,Raculesti,Criuleni,"","","","","",47.2706,29.0675
+MD,MD-4837,Riscova,Criuleni,"","","","","",47.2525,28.8461
+MD,MD-4838,Slobozia-Dusca,Criuleni,"","","","","",47.1644,29.12
+MD,MD-4839,Stauceni,Mun.Chisinau,"","","","","",47.0875,28.8703
+MD,MD-4840,Stetcani,Criuleni,"","","","","",47.2364,28.825
+MD,MD-4841,Zaicana,Criuleni,"","","","","",47.1686,28.9522
+MD,MD-4901,Soroca,Glodeni,"","","","","",47.805,27.5625
+MD,MD-4901,Glodeni,Glodeni,"","","","","",47.7708,27.5144
+MD,MD-4901,Stircea,Glodeni,"","","","","",47.7922,27.5275
+MD,MD-4911,Lipovat,Glodeni,"","","","","",47.7275,27.3719
+MD,MD-4911,Clococenii Vechi,Glodeni,"","","","","",47.7164,27.4158
+MD,MD-4911,Balatina,Glodeni,"","","","","",47.6933,27.3472
+MD,MD-4912,Tomestii Vechi,Glodeni,"","","","","",47.6567,27.3422
+MD,MD-4912,Serghieni,Glodeni,"","","","","",47.6467,27.3522
+MD,MD-4912,Bisericani,Glodeni,"","","","","",47.6414,27.3289
+MD,MD-4912,Cot,Glodeni,"","","","","",47.6536,27.34
+MD,MD-4913,Molesti,Glodeni,"","","","","",47.8008,27.3486
+MD,MD-4913,Butesti,Glodeni,"","","","","",47.7953,27.3333
+MD,MD-4914,Cajba,Glodeni,"","","","","",47.7281,27.4397
+MD,MD-4915,Camenca,Glodeni,"","","","","",47.8278,27.3642
+MD,MD-4915,Brinzeni,Glodeni,"","","","","",47.8142,27.3639
+MD,MD-4916,Ciuciulea,Glodeni,"","","","","",47.6578,27.4839
+MD,MD-4918,Cobani,Glodeni,"","","","","",47.7661,27.3208
+MD,MD-4919,Cuhnesti,Glodeni,"","","","","",47.6558,27.3744
+MD,MD-4920,Camencuta,Glodeni,"","","","","",47.8386,27.4458
+MD,MD-4920,Danu,Glodeni,"","","","","",47.8306,27.4961
+MD,MD-4921,Dusmani,Glodeni,"","","","","",47.7169,27.4814
+MD,MD-4922,Fundurii Noi,Glodeni,"","","","","",47.7536,27.6569
+MD,MD-4923,Fundurii Vechi,Glodeni,"","","","","",47.7411,27.7144
+MD,MD-4924,Hijdieni,Glodeni,"","","","","",47.7697,27.4603
+MD,MD-4925,Iabloana,Glodeni,"","","","","",47.8061,27.6239
+MD,MD-4926,Limbenii Noi,Glodeni,"","","","","",47.7239,27.6289
+MD,MD-4927,Limbenii Vechi,Glodeni,"","","","","",47.6892,27.6103
+MD,MD-4928,Nicolaevca,Glodeni,"","","","","",47.8231,27.5536
+MD,MD-4929,Petrunea,Glodeni,"","","","","",47.7475,27.5797
+MD,MD-4930,Sadovoe,Mun.Balti,"","","","","",47.7764,27.7961
+MD,MD-4931,Sturzovca,Glodeni,"","","","","",47.8017,27.7189
+MD,MD-4932,Ustia,Glodeni,"","","","","",47.6619,27.595
+MD,MD-4933,Moara Domneasca,Glodeni,"","","","","",47.6228,27.4167
+MD,MD-4933,Viisoara,Glodeni,"","","","","",47.6158,27.4478
+MD,MD-4934,Tomestii Noi,Glodeni,"","","","","",47.6667,27.35
+MD,MD-5001,Floresti 1,Floresti,"","","","","",47.8933,28.3014
+MD,MD-5002,Floresti 2,Floresti,"","","","","",47.8933,28.3014
+MD,MD-5007,Lunga,Floresti,"","","","","",47.8583,28.2197
+MD,MD-5008,Marculesti(Oras),Floresti,"","","","","",47.8686,28.2475
+MD,MD-5011,Alexeevca,Floresti,"","","","","",47.9439,28.2858
+MD,MD-5011,Radulenii Noi,Floresti,"","","","","",47.9567,28.2464
+MD,MD-5012,Bahrinesti,Floresti,"","","","","",47.8564,28.2422
+MD,MD-5013,Casunca,Floresti,"","","","","",47.785,28.3942
+MD,MD-5014,Cernita,Floresti,"","","","","",47.9658,28.4669
+MD,MD-5015,Ciripcau,Floresti,"","","","","",47.9839,28.3822
+MD,MD-5016,Ciutulesti,Floresti,"","","","","",47.7614,28.3956
+MD,MD-5016,Marinesti,Floresti,"","","","","",47.7314,28.3839
+MD,MD-5017,Cosernita,Floresti,"","","","","",47.9381,28.4644
+MD,MD-5018,Domulgeni,Floresti,"","","","","",47.7936,28.4339
+MD,MD-5019,Dumitreni,Floresti,"","","","","",47.9714,28.3189
+MD,MD-5019,Chirilovca,Floresti,"","","","","",47.9606,28.3292
+MD,MD-5020,Frumusica Noua,Floresti,"","","","","",47.8772,28.0619
+MD,MD-5020,Marasesti,Singerei,"","","","","",47.8642,28.0692
+MD,MD-5020,Frumusica,Floresti,"","","","","",47.9617,28.1181
+MD,MD-5021,Tira Loc.C.F.,Floresti,"","","","","",47.8436,28.4053
+MD,MD-5021,Tira,Floresti,"","","","","",47.8436,28.4053
+MD,MD-5021,Ghindesti Oras,Floresti,"","","","","",47.8436,28.4053
+MD,MD-5022,Ghindesti Sat,Floresti,"","","","","",47.8933,28.3014
+MD,MD-5023,Gura Camencii,Floresti,"","","","","",47.8906,28.3569
+MD,MD-5023,Gvozdova,Floresti,"","","","","",47.9039,28.3536
+MD,MD-5023,Bobulesti,Floresti,"","","","","",47.8794,28.3525
+MD,MD-5023,Stirceni,Floresti,"","","","","",47.8756,28.3642
+MD,MD-5024,Gura Cainarului,Floresti,"","","","","",47.8669,28.1839
+MD,MD-5024,Zarojeni,Floresti,"","","","","",47.8669,28.1611
+MD,MD-5025,Hirtop,Floresti,"","","","","",47.8828,28.46
+MD,MD-5026,Iliciovca,Floresti,"","","","","",48.1553,27.8794
+MD,MD-5027,Bezeni,Floresti,"","","","","",47.9822,28.1206
+MD,MD-5027,Izvoare,Floresti,"","","","","",47.9772,28.1328
+MD,MD-5027,Scaieni,Floresti,"","","","","",47.9694,28.1261
+MD,MD-5029,Maiscoe,Floresti,"","","","","",47.9111,28.0492
+MD,MD-5030,Marculesti(Sat),Floresti,"","","","","",47.8686,28.2475
+MD,MD-5031,Sirbesti,Floresti,"","","","","",47.8022,28.3247
+MD,MD-5031,Nicolaevca,Floresti,"","","","","",47.7539,28.2969
+MD,MD-5031,Valea Radoaiei,Floresti,"","","","","",47.7556,28.2639
+MD,MD-5031,Ion Voda,Floresti,"","","","","",47.7258,28.3283
+MD,MD-5032,Mihailovca,Floresti,"","","","","",47.8017,28.2625
+MD,MD-5032,Prajila,Floresti,"","","","","",47.8414,28.2039
+MD,MD-5032,Frunzesti,Floresti,"","","","","",47.7847,28.1864
+MD,MD-5032,Antonovca,Floresti,"","","","","",47.7869,28.2142
+MD,MD-5033,Capresti,Floresti,"","","","","",47.7542,28.4633
+MD,MD-5033,Prodanesti,Floresti,"","","","","",47.7431,28.4822
+MD,MD-5034,Putinesti,Floresti,"","","","","",47.835,28.1242
+MD,MD-5035,Radulenii Vechi,Floresti,"","","","","",47.9856,28.2636
+MD,MD-5036,Cenusa,Floresti,"","","","","",47.8475,28.3864
+MD,MD-5036,Rosietici,Floresti,"","","","","",47.8311,28.4031
+MD,MD-5036,Rosieticii Vechi,Floresti,"","","","","",47.8131,28.4
+MD,MD-5037,Ivanovca,Floresti,"","","","","",47.9103,28.1586
+MD,MD-5037,Sevirova,Floresti,"","","","","",47.9272,28.1508
+MD,MD-5038,Stefanesti,Floresti,"","","","","",47.7336,28.4389
+MD,MD-5038,Prodanestii Vechi,Floresti,"","","","","",47.7161,28.4428
+MD,MD-5039,Trifanesti,Floresti,"","","","","",47.7444,28.0983
+MD,MD-5039,Alexandrovca,Floresti,"","","","","",47.9553,28.1289
+MD,MD-5040,Varvareuca,Floresti,"","","","","",47.8789,28.3103
+MD,MD-5101,Donduseni 1,Donduseni,"","","","","",48.2427,27.6101
+MD,MD-5102,Donduseni 2,Donduseni,"","","","","",48.2427,27.6101
+MD,MD-5106,Donduseni,Donduseni,"","","","","",48.2244,27.5853
+MD,MD-5111,Arionesti,Donduseni,"","","","","",48.3753,27.8431
+MD,MD-5112,Baraboi,Donduseni,"","","","","",48.0858,27.6175
+MD,MD-5113,Braicau,Donduseni,"","","","","",48.3039,27.7317
+MD,MD-5114,Briceni,Donduseni,"","","","","",48.3572,27.7036
+MD,MD-5115,Elenovca,Donduseni,"","","","","",48.1247,27.6261
+MD,MD-5115,Briceva,Donduseni,"","","","","",48.1147,27.6486
+MD,MD-5116,Cernoleuca,Donduseni,"","","","","",48.3133,27.5544
+MD,MD-5117,Climauti,Donduseni,"","","","","",48.3108,27.6075
+MD,MD-5118,Codrenii Noi,Donduseni,"","","","","",48.1433,27.5728
+MD,MD-5119,Corbu,Donduseni,"","","","","",48.2672,27.5725
+MD,MD-5120,Criscauti,Donduseni,"","","","","",48.2664,27.8542
+MD,MD-5121,Boroseni,Donduseni,"","","","","",47.9872,27.4725
+MD,MD-5121,Elizavetovca,Donduseni,"","","","","",48.2808,27.7086
+MD,MD-5122,Ghizdita Loc.C.F.,Drochia,"","","","","",48.1075,27.6911
+MD,MD-5122,Fintinita,Drochia,"","","","","",48.1075,27.6911
+MD,MD-5123,Caraiman,Donduseni,"","","","","",48.1067,27.5614
+MD,MD-5123,Frasin,Donduseni,"","","","","",48.1383,27.5444
+MD,MD-5124,Horodiste,Donduseni,"","","","","",48.265,27.7892
+MD,MD-5125,Maramonovca,Drochia,"","","","","",48.2044,27.7958
+MD,MD-5126,Mindic,Drochia,"","","","","",48.1511,27.7928
+MD,MD-5127,Mosana,Donduseni,"","","","","",48.3233,27.6892
+MD,MD-5127,Octeabrscoe,Donduseni,"","","","","",48.3397,27.6683
+MD,MD-5128,Tolocanesti,Soroca,"","","","","",48.3072,27.9083
+MD,MD-5128,Niorcani,Soroca,"","","","","",48.3072,27.9083
+MD,MD-5129,Pivniceni,Donduseni,"","","","","",48.2806,27.5261
+MD,MD-5130,Plop,Donduseni,"","","","","",48.2553,27.7003
+MD,MD-5131,Pocrovca,Donduseni,"","","","","",48.3314,27.8569
+MD,MD-5132,Rediul Mare,Donduseni,"","","","","",48.2286,27.5153
+MD,MD-5133,Rudi,Soroca,"","","","","",48.3344,27.8953
+MD,MD-5134,Scaieni,Donduseni,"","","","","",48.1764,27.5767
+MD,MD-5135,Slobozia-Noua,Soroca,"","","","","",48.2589,27.98
+MD,MD-5136,Sudarca,Donduseni,"","","","","",48.3053,27.7869
+MD,MD-5137,Tatarauca Noua,Soroca,"","","","","",48.3164,27.9739
+MD,MD-5138,Decebal,Soroca,"","","","","",48.2969,27.9761
+MD,MD-5138,Tatarauca Veche,Soroca,"","","","","",48.2969,27.9761
+MD,MD-5139,Teleseuca Noua,Donduseni,"","","","","",48.2814,27.8886
+MD,MD-5139,Teleseuca,Donduseni,"","","","","",48.2789,27.8992
+MD,MD-5140,Tirnova,Donduseni,"","","","","",48.1678,27.6556
+MD,MD-5141,Taul,Donduseni,"","","","","",48.2158,27.6728
+MD,MD-5142,Visoca,Soroca,"","","","","",48.2469,27.9225
+MD,MD-5201,Drochia 1,Drochia,"","","","","",48.0661,27.7994
+MD,MD-5201,Surii Noi,Drochia,"","","","","",48.0661,27.7994
+MD,MD-5202,Baroncea Noua,Drochia,"","","","","",48.0008,27.8583
+MD,MD-5202,Drochia 2,Drochia,"","","","","",48.0008,27.8583
+MD,MD-5211,Antoneuca,Drochia,"","","","","",48.0764,27.6908
+MD,MD-5212,Baroncea,Drochia,"","","","","",48.0364,27.9133
+MD,MD-5213,Chetrosu,Drochia,"","","","","",48.0778,27.8861
+MD,MD-5214,Cotova,Drochia,"","","","","",48.1631,27.9511
+MD,MD-5215,Dominteni,Drochia,"","","","","",47.9572,27.9544
+MD,MD-5216,Drochia Sat,Drochia,"","","","","",48.035,27.8161
+MD,MD-5217,Hasnasenii Mari,Drochia,"","","","","",47.9167,27.9903
+MD,MD-5218,Hasnasenii Noi,Drochia,"","","","","",47.8556,27.9072
+MD,MD-5219,Lazo,Lazo,"","","","","",47.8892,27.925
+MD,MD-5220,Macareuca,Drochia,"","","","","",48.1422,27.9717
+MD,MD-5221,Miciurin,Drochia,"","","","","",47.9861,27.7922
+MD,MD-5222,Stepanovca,Riscani,"","","","","",47.895,28.0069
+MD,MD-5222,Moara De Piatra,Drochia,"","","","","",47.895,28.0069
+MD,MD-5223,Nadusita (Gribova),Drochia,"","","","","",48.0172,27.93
+MD,MD-5223,Gribova (Nadusita),Drochia,"","","","","",48.0172,27.93
+MD,MD-5224,Nicoreni,Drochia,"","","","","",47.9661,27.7
+MD,MD-5225,Ochiul Alb,Drochia,"","","","","",48.0219,27.6717
+MD,MD-5226,Holosnita Noua,Drochia,"","","","","",48.1161,27.9358
+MD,MD-5226,Palanca,Drochia,"","","","","",48.1228,27.9083
+MD,MD-5226,Salvirii Noi,Drochia,"","","","","",48.1447,27.9192
+MD,MD-5227,Pervomaiscoe,Drochia,"","","","","",48.0892,27.7175
+MD,MD-5227,Sergheuca,Drochia,"","","","","",48.0647,27.7269
+MD,MD-5228,Petreni,Drochia,"","","","","",47.9431,27.9567
+MD,MD-5228,Popestii Noi,Drochia,"","","","","",47.9758,27.9897
+MD,MD-5229,Popestii De Jos,Drochia,"","","","","",48.0733,28.0306
+MD,MD-5230,Popestii De Sus,Drochia,"","","","","",48.0881,28.0256
+MD,MD-5231,Salvirii Vechi,Drochia,"","","","","",48.1978,27.8464
+MD,MD-5231,Ceapaevca,Drochia,"","","","","",48.2047,27.8703
+MD,MD-5231,Iliciovca,Drochia,"","","","","",48.1553,27.8794
+MD,MD-5232,Suri,Drochia,"","","","","",48.0964,27.8556
+MD,MD-5233,Tarigrad,Drochia,"","","","","",48.0447,27.7508
+MD,MD-5234,Zgurita,Drochia,"","","","","",48.115,28.0206
+MD,MD-5235,Sofia,Drochia,"","","","","",47.9442,27.8675
+MD,MD-5301,Vulcanesti,Comrat,"","","","","",45.6842,28.4028
+MD,MD-5302,Vulcanesti St,Comrat,"","","","","",45.6842,28.4028
+MD,MD-5311,Alexandru Ioan Cuza,Cahul,"","","","","",45.5992,28.4494
+MD,MD-5312,Brinza,Cahul,"","","","","",45.6778,28.1742
+MD,MD-5313,Greceni,Cahul,"","","","","",45.7217,28.3917
+MD,MD-5313,Burlaceni,Cahul,"","","","","",45.7581,28.5069
+MD,MD-5314,Alexandrfeld (Cimpeni),Cahul,"","","","","",45.8067,28.4278
+MD,MD-5315,Cislita-Prut,Cahul,"","","","","",45.5378,28.17
+MD,MD-5316,Colibasi,Cahul,"","","","","",45.7186,28.1803
+MD,MD-5317,Nicolaevca,Cahul,"","","","","",45.7572,28.3772
+MD,MD-5317,Gavanoasa,Cahul,"","","","","",45.7656,28.3833
+MD,MD-5318,Giurgiulesti,Cahul,"","","","","",45.4817,28.1972
+MD,MD-5319,Iujnoe,Cahul,"","","","","",45.7525,28.4775
+MD,MD-5320,Slobozia Mare,Canul,"","","","","",45.5764,28.1739
+MD,MD-5321,Vadul Lui Isac,Cahul,"","","","","",45.7611,28.1667
+MD,MD-5322,Valeni,Cahul,"","","","","",45.6406,28.1764
+MD,MD-5323,Vladimirovca,Cahul,"","","","","",45.7881,28.3653
+MD,MD-5351,Cismichioi,Comrat,"","","","","",45.5444,28.3828
+MD,MD-5352,Etulia,Comrat,"","","","","",45.5392,28.4428
+MD,MD-5353,Etulia Noua,Comrat,"","","","","",45.5164,28.4389
+MD,MD-5354,Etulia Loc.C.F.,Comrat,"","","","","",46.3003,28.6572
+MD,MD-5355,Carbalia,Comrat,"","","","","",45.8733,28.4458
+MD,MD-5400,Stohnaia,Rezina,"","","","","",47.6667,28.8333
+MD,MD-5401,Ciorna,Rezina,"","","","","",47.7708,28.9747
+MD,MD-5401,Bosernita,Rezina,"","","","","",47.7844,28.9806
+MD,MD-5401,Rezina 1,Rezina,"","","","","",47.7776,28.9776
+MD,MD-5403,Rezina 3,Rezina,"","","","","",47.6667,28.8333
+MD,MD-5411,Busauca,Rezina,"","","","","",47.5936,28.7886
+MD,MD-5412,Ciniseuti,Rezina,"","","","","",47.6956,28.855
+MD,MD-5414,Cogilniceni,Rezina,"","","","","",47.6347,28.8225
+MD,MD-5415,Cuizauca,Rezina,"","","","","",47.6144,28.8128
+MD,MD-5416,Echimauti,Rezina,"","","","","",47.6942,28.9003
+MD,MD-5417,Roscanii De Jos,Rezina,"","","","","",47.6467,28.7375
+MD,MD-5417,Ghiduleni,Rezina,"","","","","",47.6108,28.7447
+MD,MD-5417,Roscanii De Sus,Rezina,"","","","","",47.6289,28.7689
+MD,MD-5418,Gordinesti,Rezina,"","","","","",47.6967,28.8011
+MD,MD-5419,Slobozia-Horodiste,Rezina,"","","","","",47.5983,28.9356
+MD,MD-5419,Horodiste,Rezina,"","","","","",47.6147,28.9431
+MD,MD-5420,Ignatei,Rezina,"","","","","",47.6825,28.6617
+MD,MD-5421,Tipova,Rezina,"","","","","",47.605,28.9794
+MD,MD-5421,Lalova,Rezina,"","","","","",47.5639,29.0192
+MD,MD-5421,Nistreni,Rezina,"","","","","",47.5411,29.01
+MD,MD-5422,Lipceni,Rezina,"","","","","",47.8064,28.8703
+MD,MD-5423,Mateuti,Rezina,"","","","","",47.8092,28.9328
+MD,MD-5424,Meseni,Rezina,"","","","","",47.6647,28.6381
+MD,MD-5425,Mincenii De Sus,Rezina,"","","","","",47.6494,28.8939
+MD,MD-5425,Mincenii De Jos,Rezina,"","","","","",47.6358,28.8758
+MD,MD-5426,Otac,Rezina,"","","","","",47.5894,28.8297
+MD,MD-5427,Papauti,Rezina,"","","","","",47.7978,28.9233
+MD,MD-5428,Peciste,Rezina,"","","","","",47.7156,28.7108
+MD,MD-5429,Pereni,Rezina,"","","","","",47.6556,28.7767
+MD,MD-5429,Roscani,Rezina,"","","","","",47.6539,28.7408
+MD,MD-5430,Pripiceni-Curchi,Rezina,"","","","","",47.6828,28.7836
+MD,MD-5430,Pripiceni-Razesi,Rezina,"","","","","",47.6858,28.7631
+MD,MD-5431,Saharna,Rezina,"","","","","",47.6936,28.9703
+MD,MD-5432,Buciusca,Rezina,"","","","","",47.6389,28.9869
+MD,MD-5432,Saharna Noua,Rezina,"","","","","",47.6758,28.9561
+MD,MD-5433,Sircova,Rezina,"","","","","",47.7414,28.7836
+MD,MD-5433,Piscaresti,Rezina,"","","","","",47.7592,28.8103
+MD,MD-5434,Solonceni,Rezina,"","","","","",47.8283,29.0039
+MD,MD-5435,Tarasova,Rezina,"","","","","",47.8772,28.9636
+MD,MD-5436,Trifesti,Rezina,"","","","","",47.6764,28.8028
+MD,MD-5437,Tahnauti,Rezina,"","","","","",47.7411,28.8619
+MD,MD-5438,Tareuca,Rezina,"","","","","",47.7514,28.8783
+MD,MD-5439,Zahoreni,Orhei,"","","","","",47.5758,28.7275
+MD,MD-5501,Ribnita 1,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5502,Ribnita 2,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5503,Ribnita 3,Ribnita Tr.,"","","","","",47.7175,29.0778
+MD,MD-5503,Buschi,Ribnita Tr.,"","","","","",47.7175,29.0778
+MD,MD-5504,Ribnita 4,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5505,Ribnita 5,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5506,Ribnita 6,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5507,Ribnita 7,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5508,Ribnita 8,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5509,Ribnita 9,Ribnita Tr.,"","","","","",47.7664,29.0011
+MD,MD-5511,Smalena,Ribnita Tr.,"","","","","",47.7578,29.0758
+MD,MD-5511,Picalova,Ribnita Tr.,"","","","","",47.7628,29.1097
+MD,MD-5511,Andreevca,Ribnita Tr.,"","","","","",47.7631,29.1711
+MD,MD-5512,Beloci,Ribnita Tr.,"","","","","",47.8892,28.9781
+MD,MD-5513,Brosteni,Ribnita Tr.,"","","","","",47.8797,29.2614
+MD,MD-5514,Butuceni,Ribnita Tr.,"","","","","",47.5336,29.0258
+MD,MD-5515,Suhaia Ribnita,Ribnita Tr.,"","","","","",47.7844,29.2061
+MD,MD-5515,Cobasna Loc.C.F.,Ribnita Tr.,"","","","","",47.7844,29.2061
+MD,MD-5515,Cobasna,Ribnita Tr.,"","","","","",47.7844,29.2061
+MD,MD-5516,Crasnencoe,Ribnita Tr.,"","","","","",47.8486,29.1397
+MD,MD-5516,Dimitrova,Ribnita Tr.,"","","","","",47.8769,29.1433
+MD,MD-5517,Ghidirim,Ribnita Tr.,"","","","","",47.715,28.9747
+MD,MD-5518,Haraba,Ribnita Tr.,"","","","","",47.8961,29.0881
+MD,MD-5519,Saratei,Ribnita Tr.,"","","","","",47.8283,29.0208
+MD,MD-5519,Hirjau,Ribnita Tr.,"","","","","",47.8069,29.0081
+MD,MD-5520,Ivanovca,Ribnita Tr.,"","","","","",47.8778,29.1736
+MD,MD-5521,Jura,Ribnita Tr.,"","","","","",47.5178,29.0431
+MD,MD-5522,Pervomaisc,Ribnita Tr.,"","","","","",47.68,29.2114
+MD,MD-5522,Lenin,Ribnita Tr.,"","","","","",47.6656,29.1903
+MD,MD-5522,Stanislavca,Ribnita Tr.,"","","","","",47.6944,29.2069
+MD,MD-5522,Pobeda,Ribnita Tr.,"","","","","",47.6192,29.1942
+MD,MD-5523,Mihailovca Noua,Ribnita Tr.,"","","","","",47.7953,29.1217
+MD,MD-5524,Mihailovca,Ribnita Tr.,"","","","","",47.4847,29.1192
+MD,MD-5525,Sevcenco,Ribnita Tr.,"","","","","",47.5878,29.1839
+MD,MD-5525,Mocra,Ribnita Tr.,"","","","","",47.6303,29.1517
+MD,MD-5525,Basarabca,Ribnita Tr.,"","","","","",47.5764,29.1611
+MD,MD-5525,Zaporojet,Ribnita Tr.,"","","","","",47.5903,29.1372
+MD,MD-5526,Molochisul Mare,Ribnita Tr.,"","","","","",47.8564,29.0558
+MD,MD-5527,Molochisul Mic,Ribnita Tr.,"","","","","",47.9358,29.0342
+MD,MD-5528,Ofatinti,Ribnita Tr.,"","","","","",47.6689,28.9961
+MD,MD-5528,Novaia Jizni,Ribnita Tr.,"","","","","",47.6578,29.0833
+MD,MD-5529,Plopi,Ribnita Tr.,"","","","","",47.9553,29.1639
+MD,MD-5530,Zazuleni,Ribnita Tr.,"","","","","",47.6167,28.9919
+MD,MD-5530,Popencu,Ribnita Tr.,"","","","","",47.5958,29.0136
+MD,MD-5531,Vasilievca,Ribnita Tr.,"","","","","",47.9406,29.1094
+MD,MD-5531,Sovietscoe,Ribnita Tr.,"","","","","",47.9542,29.145
+MD,MD-5532,Stroiesti,Ribnita Tr.,"","","","","",47.8928,28.9325
+MD,MD-5533,Ulmul Mic,Ribnita Tr.,"","","","","",47.7528,29.1219
+MD,MD-5533,Lisaia Gora,Ribnita Tr.,"","","","","",47.7392,29.0686
+MD,MD-5533,Ulmu,Ribnita Tr.,"","","","","",47.7467,29.1044
+MD,MD-5534,Vadul Turcului,Ribnita Tr.,"","","","","",47.9403,28.9883
+MD,MD-5535,Varancau,Ribnita Tr.,"","","","","",47.7056,29.1192
+MD,MD-5535,Ghersunovca,Ribnita Tr.,"","","","","",47.7211,29.1683
+MD,MD-5536,Vladimirovca,Ribnita Tr.,"","","","","",47.6231,29.0961
+MD,MD-5536,Chirov,Ribnita Tr.,"","","","","",47.6511,29.0972
+MD,MD-5601,Riscani,Riscani,"","","","","",47.9572,27.5539
+MD,MD-5603,Balanul Nou,Riscani,"","","","","",47.9606,27.5025
+MD,MD-5611,Alexandresti,Riscani,"","","","","",47.8944,27.4311
+MD,MD-5611,Cucuietii Vechi,Riscani,"","","","","",47.9058,27.4356
+MD,MD-5611,Cucuietii Noi,Riscani,"","","","","",47.8944,27.42
+MD,MD-5612,Alunis,Riscani,"","","","","",47.8486,27.6494
+MD,MD-5613,Borosenii Noi,Riscani,"","","","","",47.9872,27.4725
+MD,MD-5614,Ivanesti,Riscani,"","","","","",47.8878,27.4172
+MD,MD-5614,Reteni,Riscani,"","","","","",47.8117,27.2517
+MD,MD-5614,Avrameni,Riscani,"","","","","",47.7861,27.2625
+MD,MD-5614,Reteni-Vasileuti,Riscani,"","","","","",47.8067,27.2614
+MD,MD-5614,Braniste,Riscani,"","","","","",47.7967,27.2558
+MD,MD-5615,Ciubara,Riscani,"","","","","",48.0778,27.5339
+MD,MD-5616,Corlateni,Riscani,"","","","","",47.8281,27.8392
+MD,MD-5616,Singureni,Riscani,"","","","","",47.8242,27.8544
+MD,MD-5617,Costesti,Riscani,"","","","","",47.8583,27.2586
+MD,MD-5618,Duruitoarea,Riscani,"","","","","",47.8694,27.26
+MD,MD-5618,Proscureni,Riscani,"","","","","",47.8672,27.285
+MD,MD-5618,Damascani,Riscani,"","","","","",47.8669,27.3056
+MD,MD-5619,Dumeni,Riscani,"","","","","",47.9114,27.2031
+MD,MD-5619,Duruitoarea Noua,Riscani,"","","","","",47.8928,27.2475
+MD,MD-5620,Galaseni,Riscani,"","","","","",47.8689,27.3425
+MD,MD-5621,Grinauti,Riscani,"","","","","",47.8811,27.7783
+MD,MD-5621,Ciobanovca,Riscani,"","","","","",47.8906,27.7586
+MD,MD-5622,Hiliuti,Riscani,"","","","","",47.9289,27.3869
+MD,MD-5623,Horodiste,Riscani,"","","","","",47.9539,27.2639
+MD,MD-5624,Malaiesti,Riscani,"","","","","",47.8828,27.3497
+MD,MD-5625,Malinovscoe,Riscani,"","","","","",47.885,27.5075
+MD,MD-5625,Luparia,Riscani,"","","","","",47.8758,27.5539
+MD,MD-5626,Mihaileni,Riscani,"","","","","",48.0408,27.6139
+MD,MD-5626,Nihoreni,Riscani,"","","","","",47.9356,27.5619
+MD,MD-5627,Moseni,Riscani,"","","","","",48.0278,27.4469
+MD,MD-5628,Pascauti,Riscani,"","","","","",47.8353,27.2808
+MD,MD-5629,Pelinia,Drochia,"","","","","",47.8781,27.8344
+MD,MD-5629,Pelinia Loc.C.F.,Drochia,"","","","","",47.8781,27.8344
+MD,MD-5630,Petruseni,Riscani,"","","","","",47.8478,27.3131
+MD,MD-5631,Pirjota,Riscani,"","","","","",47.9572,27.4267
+MD,MD-5632,Pociumbauti,Riscani,"","","","","",47.9958,27.3236
+MD,MD-5633,Druta,Riscani,"","","","","",47.9667,27.2961
+MD,MD-5633,Pociumbeni,Riscani,"","","","","",47.9781,27.3033
+MD,MD-5634,Racaria,Riscani,"","","","","",47.9097,27.6147
+MD,MD-5635,Ramazan,Riscani,"","","","","",47.9847,27.6153
+MD,MD-5636,Recea,Riscani,"","","","","",47.8964,27.6719
+MD,MD-5636,Slobozia-Recea,Riscani,"","","","","",47.8533,27.7019
+MD,MD-5637,Sverdiac,Riscani,"","","","","",47.8958,27.7278
+MD,MD-5638,Saptebani,Riscani,"","","","","",47.8972,27.3517
+MD,MD-5639,Sturzeni,Riscani,"","","","","",47.915,27.4606
+MD,MD-5640,Sumna,Riscani,"","","","","",47.9211,27.7044
+MD,MD-5640,Bulhac,Riscani,"","","","","",47.9233,27.675
+MD,MD-5640,Ceparia,Riscani,"","","","","",47.9322,27.7153
+MD,MD-5641,Usurei,Riscani,"","","","","",47.8908,27.5953
+MD,MD-5642,Armanca,Riscani,"","","","","",47.9869,27.5269
+MD,MD-5642,Stiubeieni,Riscani,"","","","","",48.0317,27.5114
+MD,MD-5642,Vasileuti,Riscani,"","","","","",48.0072,27.5069
+MD,MD-5642,Mihailenii Noi,Riscani,"","","","","",48.0336,27.5325
+MD,MD-5643,Varatic,Riscani,"","","","","",47.9169,27.2633
+MD,MD-5644,Zaicani,Riscani,"","","","","",47.97,27.3678
+MD,MD-5701,Slobozia 1,Slobozia Tr.,"","","","","",46.7281,29.7078
+MD,MD-5702,Slobozia 2,Slobozia Tr.,"","","","","",46.7281,29.7078
+MD,MD-5706,Crasnoe,Slobozia Tr.,"","","","","",46.6514,29.8047
+MD,MD-5711,Andriasevca Veche,Slobozia Tr.,"","","","","",46.8228,29.9706
+MD,MD-5711,Andriasevca Noua,Slobozia Tr.,"","","","","",46.8336,29.9558
+MD,MD-5712,Blijnii Hutor,Slobozia Tr.,"","","","","",46.8842,29.6433
+MD,MD-5713,Caragas,Slobozia Tr.,"","","","","",46.7778,29.6797
+MD,MD-5714,Chitcani,Slobozia Tr.,"","","","","",46.7856,29.6086
+MD,MD-5714,Zahorna,Slobozia Tr.,"","","","","",46.7431,29.5947
+MD,MD-5714,Merenesti,Slobozia Tr.,"","","","","",46.7767,29.5378
+MD,MD-5715,Cioburciu,Slobozia Tr.,"","","","","",46.6831,29.7492
+MD,MD-5716,Copanca,Causeni,"","","","","",46.7169,29.6206
+MD,MD-5717,Corotna,Slobozia Tr.,"","","","","",46.6292,29.8594
+MD,MD-5718,Frunza,Slobozia Tr.,"","","","","",46.8283,29.8803
+MD,MD-5718,Prioziornoe,Slobozia Tr.,"","","","","",46.8,29.9333
+MD,MD-5718,Novosavitcaia Loc.C.F.,Slobozia Tr.,"","","","","",46.8142,29.9068
+MD,MD-5719,Hlinaia,Slobozia Tr.,"","","","","",46.6342,29.8139
+MD,MD-5720,Nezavertailovca,Slobozia Tr.,"","","","","",46.6078,29.9314
+MD,MD-5721,Novocotovsc,Slobozia Tr.,"","","","","",46.7656,29.955
+MD,MD-5722,Parcani,Slobozia Tr.,"","","","","",46.8522,29.5097
+MD,MD-5723,Pervomaisc,Slobozia Tr.,"","","","","",46.7339,29.9586
+MD,MD-5724,Pervomaisc 1,Slobozia Tr.,"","","","","",46.7339,29.9586
+MD,MD-5725,Sucleia,Slobozia Tr.,"","","","","",46.8211,29.6597
+MD,MD-5726,Suсleia 1,Slobozia Tr.,"","","","","",46.8211,29.6597
+MD,MD-5727,Tirnauca,Slobozia Tr.,"","","","","",46.8114,29.5506
+MD,MD-5728,Constantinovca,Slobozia Tr.,"","","","","",46.8522,29.8458
+MD,MD-5728,Vladimirovca,Slobozia Tr.,"","","","","",46.8444,29.8247
+MD,MD-5728,Uiutnoie,Slobozia Tr.,"","","","","",46.8483,29.8353
+MD,MD-5728,Nicolscoie,Slobozia Tr.,"","","","","",46.8483,29.8353
+MD,MD-5801,Izvoras,Telenesti,"","","","","",47.4997,28.3656
+MD,MD-5801,Telenesti,Telenesti,"","","","","",47.4997,28.3656
+MD,MD-5802,Mihalasa,Telenesti,"","","","","",47.495,28.34
+MD,MD-5802,Mihalasa Noua,Telenesti,"","","","","",47.5078,28.3283
+MD,MD-5810,Budai,Telenesti,"","","","","",47.4567,28.3494
+MD,MD-5811,Banestii Noi,Telenesti,"","","","","",47.5867,28.4033
+MD,MD-5811,Banesti,Telenesti,"","","","","",47.5722,28.3783
+MD,MD-5812,Bogzesti,Telenesti,"","","","","",47.4247,28.4283
+MD,MD-5813,Brinzenii Vechi,Telenesti,"","","","","",47.6583,28.4725
+MD,MD-5813,Brinzenii Noi,Telenesti,"","","","","",47.6572,28.4864
+MD,MD-5814,Cazanesti,Telenesti,"","","","","",47.6153,28.4728
+MD,MD-5814,Vadul-Leca Nou,Telenesti,"","","","","",47.6181,28.4361
+MD,MD-5814,Vadul-Leca,Telenesti,"","","","","",47.6242,28.465
+MD,MD-5815,Chistelnita,Telenesti,"","","","","",47.5681,28.6608
+MD,MD-5816,Chitcanii Vechi,Telenesti,"","","","","",47.5928,28.5011
+MD,MD-5816,Chitcanii Noi,Telenesti,"","","","","",47.5653,28.4819
+MD,MD-5817,Cisla,Telenesti,"","","","","",47.4947,28.2269
+MD,MD-5818,Crasnaseni,Telenesti,"","","","","",47.4333,28.3989
+MD,MD-5819,Ghermanesti,Telenesti,"","","","","",47.4403,28.5172
+MD,MD-5820,Ghiliceni,Telenesti,"","","","","",47.4794,28.2067
+MD,MD-5821,Hiriseni,Telenesti,"","","","","",47.4353,28.2867
+MD,MD-5822,Inesti,Telenesti,"","","","","",47.5028,28.3981
+MD,MD-5823,Leuseni,Telenesti,"","","","","",47.4828,28.4353
+MD,MD-5824,Codru,Telenesti,"","","","","",47.4656,28.2692
+MD,MD-5825,Mindresti,Telenesti,"","","","","",47.5072,28.2769
+MD,MD-5826,Negureni,Telenesti,"","","","","",47.6017,28.5111
+MD,MD-5827,Nucareni,Telenesti,"","","","","",47.5936,28.5833
+MD,MD-5827,Dobrusa,Telenesti,"","","","","",47.6144,28.5567
+MD,MD-5827,Chersac,Telenesti,"","","","","",47.6375,28.5842
+MD,MD-5828,Pistruienii Noi,Telenesti,"","","","","",47.6994,28.4178
+MD,MD-5828,Moara ,Telenesti,"","","","","",47.6951,28.4715
+MD,MD-5828,Hirtop,Telenesti,"","","","","",47.7053,28.4839
+MD,MD-5828,Pistruieni,Telenesti,"","","","","",47.6922,28.4881
+MD,MD-5828,Ordasei,Telenesti,"","","","","",47.6833,28.4964
+MD,MD-5829,Zaicani,Telenesti,"","","","","",47.5214,28.5081
+MD,MD-5829,Ratus,Telenesti,"","","","","",47.5369,28.5033
+MD,MD-5829,Zaicanii Noi,Telenesti,"","","","","",47.5311,28.5125
+MD,MD-5829,Mindra,Telenesti,"","","","","",47.535,28.5261
+MD,MD-5830,Saratenii Vechi,Telenesti,"","","","","",47.5261,28.5531
+MD,MD-5830,Zahareuca,Telenesti,"","","","","",47.5317,28.5994
+MD,MD-5831,Scorteni,Telenesti,"","","","","",47.6414,28.6464
+MD,MD-5832,Suhuluceni,Telenesti,"","","","","",47.4664,28.5183
+MD,MD-5832,Saratenii Noi,Telenesti,"","","","","",47.5092,28.5014
+MD,MD-5833,Flutura,Telenesti,"","","","","",47.6883,28.5475
+MD,MD-5833,Tirsitei,Telenesti,"","","","","",47.6922,28.5772
+MD,MD-5834,Codrul Nou,Telenesti,"","","","","",47.5478,28.5772
+MD,MD-5834,Tintareni,Telenesti,"","","","","",47.5703,28.5625
+MD,MD-5835,Vasieni,Telenesti,"","","","","",47.4608,28.4444
+MD,MD-5836,Verejeni,Telenesti,"","","","","",47.5342,28.4706
+MD,MD-5837,Zgardesti,Telenesti,"","","","","",47.5314,28.1944
+MD,MD-5838,Coropceni,Telenesti,"","","","","",47.4761,28.5222
+MD,MD-5839,Ciofu,Telenesti,"","","","","",47.5642,28.2217
+MD,MD-5839,Cozesti,Telenesti,"","","","","",47.5692,28.1817
+MD,MD-5839,Bondareuca,Telenesti,"","","","","",47.5728,28.1658
+MD,MD-5840,Ciulucani,Telenesti,"","","","","",47.5053,28.3431
+MD,MD-5841,Cucioaia Noua,Telenesti,"","","","","",47.4856,28.1667
+MD,MD-5841,Cucioaia,Telenesti,"","","","","",47.4603,28.1858
+MD,MD-5901,Falesti 1,Falesti,"","","","","",47.573,27.7069
+MD,MD-5902,Falesti 2,Falesti,"","","","","",47.573,27.7069
+MD,MD-5903,Falesti 3,Falesti,"","","","","",47.573,27.7069
+MD,MD-5904,Falesti St,Falesti,"","","","","",47.573,27.7069
+MD,MD-5911,Albinetul Vechi,Falesti,"","","","","",47.5564,27.6375
+MD,MD-5911,Rediul De Sus,Falesti,"","","","","",47.5247,27.6081
+MD,MD-5911,Rediul De Jos,Falesti,"","","","","",47.5089,27.6042
+MD,MD-5911,Albinetul Nou,Falesti,"","","","","",47.5806,27.6211
+MD,MD-5912,Bocani,Falesti,"","","","","",47.5183,27.8914
+MD,MD-5913,Hincesti,Falesti,"","","","","",47.5481,27.505
+MD,MD-5913,Calinesti,Falesti,"","","","","",47.5642,27.4864
+MD,MD-5914,Socii Vechi,Falesti,"","","","","",47.5283,27.6747
+MD,MD-5914,Calugar,Falesti,"","","","","",47.5403,27.6864
+MD,MD-5914,Frumusica,Falesti,"","","","","",47.5142,27.6878
+MD,MD-5914,Socii Noi,Falesti,"","","","","",47.5394,27.6439
+MD,MD-5915,Catranic,Falesti,"","","","","",47.6,27.8
+MD,MD-5916,Catranic Loc.C.F.,Falesti,"","","","","",47.6342,27.7911
+MD,MD-5916,Ciuluc,Falesti,"","","","","",47.6342,27.7911
+MD,MD-5917,Chetris,Falesti,"","","","","",47.5958,27.4472
+MD,MD-5917,Chetrisul Nou,Falesti,"","","","","",47.6244,27.5111
+MD,MD-5918,Ciolacu Nou,Falesti,"","","","","",47.4867,27.8267
+MD,MD-5919,Pocrovca,Falesti,"","","","","",47.4653,27.875
+MD,MD-5919,Ciolacu Vechi,Falesti,"","","","","",47.4728,27.8644
+MD,MD-5920,Burghelea,Falesti,"","","","","",47.5386,27.8653
+MD,MD-5920,Doltu,Falesti,"","","","","",47.5372,27.8231
+MD,MD-5921,Egorovca,Falesti,"","","","","",47.6181,27.7556
+MD,MD-5922,Fagadau,Falesti,"","","","","",47.4411,27.8039
+MD,MD-5922,Soltoaia,Falesti,"","","","","",47.4633,27.8147
+MD,MD-5923,Pietrosul Nou,Falesti,"","","","","",47.5814,27.7686
+MD,MD-5923,Falestii Noi,Falesti,"","","","","",47.5719,27.7469
+MD,MD-5924,Glinjeni,Falesti,"","","","","",47.5986,27.89
+MD,MD-5925,Hiliuti,Falesti,"","","","","",47.6667,27.7647
+MD,MD-5925,Rautelul Nou,Falesti,"","","","","",47.7014,27.7464
+MD,MD-5926,Hitresti,Falesti,"","","","","",47.5492,27.7761
+MD,MD-5927,Lucaceni,Falesti,"","","","","",47.4572,27.5964
+MD,MD-5927,Unteni,Falesti,"","","","","",47.4156,27.5825
+MD,MD-5927,Horesti,Falesti,"","","","","",47.4322,27.5806
+MD,MD-5928,Hrubna Noua,Falesti,"","","","","",47.4061,27.615
+MD,MD-5928,Vranesti,Falesti,"","","","","",47.4092,27.6006
+MD,MD-5929,Ilenuta,Falesti,"","","","","",47.6344,27.7131
+MD,MD-5930,Iscalau,Falesti,"","","","","",47.5731,27.8178
+MD,MD-5931,Izvoare,Falesti,"","","","","",47.4333,27.6672
+MD,MD-5932,Logofteni,Falesti,"","","","","",47.6256,27.5681
+MD,MD-5933,Marandeni,Falesti,"","","","","",47.6625,27.8322
+MD,MD-5934,Moldoveanca,Falesti,"","","","","",47.6189,27.6114
+MD,MD-5935,Musteata,Falesti,"","","","","",47.5108,27.6447
+MD,MD-5936,Natalievca,Falesti,"","","","","",47.7006,27.8883
+MD,MD-5936,Ivanovca,Falesti,"","","","","",47.6586,27.8814
+MD,MD-5936,Tapoc,Falesti,"","","","","",47.7067,27.8975
+MD,MD-5936,Comarovca,Falesti,"","","","","",47.6928,27.9044
+MD,MD-5936,Beleuti,Falesti,"","","","","",47.6644,27.9061
+MD,MD-5937,Navirnet,Falesti,"","","","","",47.5892,27.5619
+MD,MD-5938,Obreja Veche,Falesti,"","","","","",47.6747,27.6592
+MD,MD-5938,Obreja Noua,Falesti,"","","","","",47.6742,27.6931
+MD,MD-5939,Pietrosu,Falesti,"","","","","",47.5014,27.9208
+MD,MD-5939,Magura Noua,Falesti,"","","","","",47.5072,27.9531
+MD,MD-5939,Magura,Falesti,"","","","","",47.4872,27.9344
+MD,MD-5940,Pinzareni,Falesti,"","","","","",47.6186,27.6767
+MD,MD-5940,Pinzarenii Noi,Falesti,"","","","","",47.5994,27.6483
+MD,MD-5941,Pirlita,Falesti,"","","","","",47.7403,27.8033
+MD,MD-5942,Suvorovca,Falesti,"","","","","",47.6394,27.89
+MD,MD-5942,Pervomaisc,Falesti,"","","","","",47.6297,27.9783
+MD,MD-5942,Pompa,Falesti,"","","","","",47.6547,27.9425
+MD,MD-5943,Popovca,Falesti,"","","","","",47.7058,27.8656
+MD,MD-5944,Cuzmenii Vechi,Falesti,"","","","","",47.5264,27.5678
+MD,MD-5944,Pruteni,Falesti,"","","","","",47.5028,27.5489
+MD,MD-5944,Drujineni,Falesti,"","","","","",47.5258,27.5358
+MD,MD-5945,Rautel,Falesti,"","","","","",47.7142,27.8258
+MD,MD-5946,Bocsa,Falesti,"","","","","",47.4711,27.6497
+MD,MD-5946,Risipeni,Falesti,"","","","","",47.46,27.6661
+MD,MD-5947,Sarata Veche,Falesti,"","","","","",47.51,27.7389
+MD,MD-5948,Sarata Noua,Falesti,"","","","","",47.4992,27.7914
+MD,MD-5949,Hirtop,Falesti,"","","","","",47.4806,27.7078
+MD,MD-5949,Nicolaevca,Falesti,"","","","","",47.4994,27.7039
+MD,MD-5949,Scumpia,Falesti,"","","","","",47.4675,27.7408
+MD,MD-5949,Magureanca,Falesti,"","","","","",47.4825,27.7175
+MD,MD-5950,Taxobeni,Falesti,"","","","","",47.3903,27.5917
+MD,MD-5951,Valea Rusului,Falesti,"","","","","",47.47,27.5819
+MD,MD-6101,Ceadir-Lunga 1,Comrat,"","","","","",46.055,28.8303
+MD,MD-6102,Ceadir-Lunga 2,Comrat,"","","","","",46.055,28.8303
+MD,MD-6103,Ceadir-Lunga 3,Comrat,"","","","","",46.055,28.8303
+MD,MD-6104,Ceadir-Lunga 4,Comrat,"","","","","",46.055,28.8303
+MD,MD-6111,Baurci,Comrat,"","","","","",46.0939,28.6758
+MD,MD-6112,Besghioz,Comrat,"","","","","",46.1217,28.8722
+MD,MD-6113,Cazaclia,Comrat,"","","","","",46.0103,28.6628
+MD,MD-6114,Gaidar,Comrat,"","","","","",46.1028,28.765
+MD,MD-6115,Joltai,Comrat,"","","","","",46.1825,28.8761
+MD,MD-6116,Tomai,Comrat,"","","","","",46.1817,28.7675
+MD,MD-6117,Chiriet Lunga,Comrat,"","","","","",46.2092,28.9442
+MD,MD-6118,Copceac,Comrat,"","","","","",45.8517,28.6925
+MD,MD-6201,Singerei,Singerei,"","","","","",47.6406,28.1419
+MD,MD-6202,Biruinta,Singerei,"","","","","",47.8161,28.0686
+MD,MD-6203,Vranesti,Singerei,"","","","","",47.6231,28.1019
+MD,MD-6211,Heciul Vechi,Singerei,"","","","","",47.7983,28.1006
+MD,MD-6211,Alexandreni,Singerei,"","","","","",47.8056,28.0758
+MD,MD-6211,Grigoresti,Singerei,"","","","","",47.8003,28.0606
+MD,MD-6212,Balasesti,Singerei,"","","","","",47.6611,28.3525
+MD,MD-6212,Sloveanca,Singerei,"","","","","",47.6589,28.3822
+MD,MD-6213,Lipovanca,Singerei,"","","","","",47.6789,27.9844
+MD,MD-6213,Bilicenii Noi,Singerei,"","","","","",47.6969,28.0367
+MD,MD-6214,Bilicenii Vechi,Singerei,"","","","","",47.6564,28.0472
+MD,MD-6214,Coada Iazului,Singerei,"","","","","",47.6553,27.9936
+MD,MD-6215,Bursuceni,Singerei,"","","","","",47.4897,28.0139
+MD,MD-6215,Slobozia-Magura,Singerei,"","","","","",47.485,27.965
+MD,MD-6216,Chiscareni,Singerei,"","","","","",47.5594,28.0156
+MD,MD-6217,Brejeni,Singerei,"","","","","",47.5817,28.1403
+MD,MD-6217,Ciuciuieni,Singerei,"","","","","",47.5581,28.1281
+MD,MD-6218,Copaceni,Singerei,"","","","","",47.6178,28.2344
+MD,MD-6219,Flaminzeni,Singerei,"","","","","",47.4989,28.09
+MD,MD-6219,Bobletici,Singerei,"","","","","",47.4664,28.0544
+MD,MD-6219,Coscodeni,Singerei,"","","","","",47.4886,28.0536
+MD,MD-6220,Gura-Oituz,Singerei,"","","","","",47.7019,28.3475
+MD,MD-6220,Alexeuca,Singerei,"","","","","",47.6872,28.2936
+MD,MD-6220,Cotiujenii Mici,Singerei,"","","","","",47.7033,28.3081
+MD,MD-6221,Cubolta,Singerei,"","","","","",47.8742,28.0389
+MD,MD-6222,Dobrogea Noua,Singerei,"","","","","",47.8278,27.9483
+MD,MD-6222,Dobrogea Veche,Singerei,"","","","","",47.8417,27.9319
+MD,MD-6222,Cotovca,Singerei,"","","","","",47.8522,27.975
+MD,MD-6223,Sacarovca,Singerei,"","","","","",47.7069,28.2103
+MD,MD-6223,Draganesti,Singerei,"","","","","",47.7214,28.2542
+MD,MD-6224,Valea Lui Vlad,Singerei,"","","","","",47.4828,28.1308
+MD,MD-6224,Bocancea-Schit,Singerei,"","","","","",47.5111,28.1358
+MD,MD-6224,Dumbravita,Singerei,"","","","","",47.4808,28.1106
+MD,MD-6225,Petropavlovca,Singerei,"","","","","",47.5925,28.2108
+MD,MD-6225,Grigorauca,Singerei,"","","","","",47.6214,28.1981
+MD,MD-6226,Heciul Nou,Singerei,"","","","","",47.7742,28.0606
+MD,MD-6227,Iezarenii Noi,Singerei,"","","","","",47.5886,28.0972
+MD,MD-6227,Iezarenii Vechi,Singerei,"","","","","",47.5653,28.0894
+MD,MD-6228,Chirileni,Singerei,"","","","","",47.6911,28.1978
+MD,MD-6228,Izvoare,Singerei,"","","","","",47.7194,28.1967
+MD,MD-6229,Marinesti,Singerei,"","","","","",47.725,28.0589
+MD,MD-6230,Sestaci,Singerei,"","","","","",47.6236,28.2911
+MD,MD-6230,Mihailovca,Singerei,"","","","","",47.5914,28.2603
+MD,MD-6230,Cliscauti,Singerei,"","","","","",47.6097,28.2919
+MD,MD-6231,Mindrestii Noi,Singerei,"","","","","",47.7169,28.0336
+MD,MD-6232,Nicolaevca,Singerei,"","","","","",47.7539,28.2969
+MD,MD-6233,Octeabrscoe,Singerei,"","","","","",47.7128,27.9514
+MD,MD-6234,Romanovca,Singerei,"","","","","",47.6581,28.2961
+MD,MD-6234,Pepeni,Singerei,"","","","","",47.6386,28.3406
+MD,MD-6234,Razalai,Singerei,"","","","","",47.6422,28.3592
+MD,MD-6234,Pepenii Noi,Singerei,"","","","","",47.6525,28.3397
+MD,MD-6235,Petrovca,Singerei,"","","","","",47.6608,28.225
+MD,MD-6235,Gavrilovca,Singerei,"","","","","",47.6439,28.2583
+MD,MD-6235,Antonovca,Singerei,"","","","","",47.6775,28.2383
+MD,MD-6235,Vladimireuca,Singerei,"","","","","",47.6569,28.2322
+MD,MD-6235,Evghenievca,Singerei,"","","","","",47.67,28.2231
+MD,MD-6236,Prepelita,Singerei,"","","","","",47.5897,28.3414
+MD,MD-6237,Radoaia,Singerei,"","","","","",47.7281,28.16
+MD,MD-6238,Singereii Noi,Singerei,"","","","","",47.7208,28.0867
+MD,MD-6238,Trifanesti,Singerei,"","","","","",47.7444,28.0983
+MD,MD-6239,Slobozia-Chiscareni,Singerei,"","","","","",47.5731,28.0097
+MD,MD-6240,Taura Noua,Singerei,"","","","","",47.5483,27.9081
+MD,MD-6240,Taura Veche,Singerei,"","","","","",47.5369,27.9519
+MD,MD-6241,Palaria,Singerei,"","","","","",47.6867,27.9394
+MD,MD-6241,Tambula,Singerei,"","","","","",47.6961,27.9247
+MD,MD-6242,Tipletesti,Singerei,"","","","","",47.8183,28.1236
+MD,MD-6242,Tiplesti,Singerei,"","","","","",47.8233,28.1547
+MD,MD-6243,Valea Norocului,Singerei,"","","","","",47.7656,28.2025
+MD,MD-6301,Leova,Leova,"","","","","",46.4786,28.2553
+MD,MD-6311,Hirtop,Leova,"","","","","",46.6522,28.685
+MD,MD-6311,Baius,Leova,"","","","","",46.4589,28.4825
+MD,MD-6311,Cociulia Noua,Leova,"","","","","",46.4419,28.4733
+MD,MD-6312,Bestemac,Leova,"","","","","",46.5275,28.5275
+MD,MD-6312,Pitesti,Leova,"","","","","",46.5031,28.5458
+MD,MD-6313,Seliste,Leova,"","","","","",46.5264,28.4314
+MD,MD-6313,Frumusica,Leova,"","","","","",46.5569,28.4286
+MD,MD-6313,Cazangic,Leova,"","","","","",46.5094,28.4367
+MD,MD-6314,Ceadir,Leova,"","","","","",46.6717,28.4072
+MD,MD-6315,Cneazevca,Leova,"","","","","",46.6292,28.4878
+MD,MD-6315,Cizlar,Leova,"","","","","",46.6508,28.525
+MD,MD-6316,Colibabovca,Leova,"","","","","",46.6467,28.4311
+MD,MD-6317,Covurlui,Leova,"","","","","",46.5908,28.4028
+MD,MD-6318,Cupcui,Leova,"","","","","",46.5158,28.3578
+MD,MD-6319,Romanovca,Leova,"","","","","",46.4594,28.3531
+MD,MD-6319,Filipeni,Leova,"","","","","",46.44,28.3319
+MD,MD-6320,Hanasenii Noi,Leova,"","","","","",46.4192,28.2558
+MD,MD-6320,Nicolaevca,Leova,"","","","","",46.3906,28.2544
+MD,MD-6321,Meseni,Leova,"","","","","",46.4172,28.4667
+MD,MD-6321,Iargara,Leova,"","","","","",46.4275,28.4367
+MD,MD-6322,Orac,Leova,"","","","","",46.6683,28.4631
+MD,MD-6324,Bulgarica,Leova,"","","","","",46.4908,28.39
+MD,MD-6324,Bertovca,Leova,"","","","","",46.4908,28.39
+MD,MD-6324,Sarata Noua,Leova,"","","","","",46.4908,28.39
+MD,MD-6325,Sarata Razesi,Leova,"","","","","",46.6142,28.2667
+MD,MD-6326,Victoria,Leova,"","","","","",46.6161,28.4156
+MD,MD-6326,Sarateni,Leova,"","","","","",46.6108,28.4675
+MD,MD-6327,Saratica Noua,Leova,"","","","","",46.5725,28.5483
+MD,MD-6327,Cimpul Drept,Leova,"","","","","",46.5644,28.515
+MD,MD-6328,Sirma,Leova,"","","","","",46.5269,28.2525
+MD,MD-6329,Tigheci,Leova,"","","","","",46.3861,28.3764
+MD,MD-6329,Cuporani,Leova,"","","","","",46.3736,28.3597
+MD,MD-6330,Tochile-Raducani,Leova,"","","","","",46.5775,28.2447
+MD,MD-6331,Tomai,Leova,"","","","","",46.6228,28.5528
+MD,MD-6332,Tomaiul Nou,Leova,"","","","","",46.6228,28.5528
+MD,MD-6332,Saratica Veche,Leova,"","","","","",46.6008,28.5333
+MD,MD-6333,Troita,Leova,"","","","","",46.565,28.4661
+MD,MD-6333,Troian,Leova,"","","","","",46.5425,28.4633
+MD,MD-6334,Vozneseni,Leova,"","","","","",46.5844,28.4703
+MD,MD-6335,Borogani,Leova,"","","","","",46.3692,28.5183
+MD,MD-6401,Nisporeni,Nisporeni,"","","","","",47.0814,28.1783
+MD,MD-6411,Bacseni,Nisporeni,"","","","","",47.0842,28.0167
+MD,MD-6412,Balanesti,Nisporeni,"","","","","",47.2061,28.0658
+MD,MD-6413,Balauresti,Nisporeni,"","","","","",46.9392,28.1403
+MD,MD-6414,Barboieni,Nisporeni,"","","","","",47.0197,28.0575
+MD,MD-6415,Chilisoaia,Nisporeni,"","","","","",47.1136,28.0247
+MD,MD-6415,Bolduresti,Nisporeni,"","","","","",47.1353,28.0597
+MD,MD-6416,Boltun,Nisporeni,"","","","","",47.0278,28.29
+MD,MD-6416,Cornesti,Nisporeni,"","","","","",46.9981,28.3294
+MD,MD-6416,Mirzoaia,Nisporeni,"","","","","",47.0322,28.2653
+MD,MD-6417,Bratuleni,Nisporeni,"","","","","",47.1392,27.9756
+MD,MD-6417,Cirnesti,Nisporeni,"","","","","",47.1742,28.0039
+MD,MD-6418,Gaureni,Nisporeni,"","","","","",47.2019,28.0894
+MD,MD-6419,Calimanesti,Nisporeni,"","","","","",46.9444,28.195
+MD,MD-6420,Cateleni,Hincesti,"","","","","",46.9178,28.1894
+MD,MD-6421,Vulcanesti,Nisporeni,"","","","","",47.1525,28.1917
+MD,MD-6421,Cioresti,Nisporeni,"","","","","",47.165,28.2225
+MD,MD-6422,Ciuciuleni,Hincesti,"","","","","",47.0217,28.4133
+MD,MD-6423,Ciutesti,Nisporeni,"","","","","",47.1758,28.1239
+MD,MD-6424,Cristesti,Nisporeni,"","","","","",47.0564,28.2819
+MD,MD-6425,Dolna,Straseni,"","","","","",47.1219,28.2703
+MD,MD-6426,Dragusenii Noi,Hincesti,"","","","","",47.0444,28.4242
+MD,MD-6426,Horodca,Hincesti,"","","","","",47.0561,28.4617
+MD,MD-6427,Grozesti,Nisporeni,"","","","","",46.9986,28.0794
+MD,MD-6428,Isaicani,Nisporeni,"","","","","",47.0664,28.0206
+MD,MD-6429,Iurceni,Nisporeni,"","","","","",47.0811,28.2592
+MD,MD-6430,Marinici,Nisporeni,"","","","","",46.9661,28.1603
+MD,MD-6430,Helesteni,Nisporeni,"","","","","",46.9625,28.1858
+MD,MD-6431,Huzun,Straseni,"","","","","",47.1214,28.3217
+MD,MD-6431,Micleuseni,Straseni,"","","","","",47.1228,28.3081
+MD,MD-6432,Milesti,Nisporeni,"","","","","",47.2233,28.0386
+MD,MD-6433,Paruceni,Nisporeni,"","","","","",47.1494,28.1006
+MD,MD-6433,Valea Nirnovei,Nisporeni,"","","","","",47.1494,28.1006
+MD,MD-6434,Seliste,Nisporeni,"","","","","",47.1689,28.1367
+MD,MD-6435,Soltanesti,Nisporeni,"","","","","",47.0594,28.11
+MD,MD-6436,Sendreni,Nisporeni,"","","","","",47.1258,28.1858
+MD,MD-6437,Drojdieni,Nisporeni,"","","","","",46.9372,28.2272
+MD,MD-6437,Odaia,Nisporeni,"","","","","",46.9558,28.2192
+MD,MD-6437,Siscani,Nisporeni,"","","","","",46.9744,28.2111
+MD,MD-6438,Luminita,Nisporeni,"","","","","",47.0842,28.0744
+MD,MD-6438,Valea-Trestieni,Nisporeni,"","","","","",47.0717,28.0708
+MD,MD-6438,Selisteni,Nisporeni,"","","","","",47.0617,28.0694
+MD,MD-6438,Odobesti,Nisporeni,"","","","","",47.0519,28.0683
+MD,MD-6439,Varzaresti,Nisporeni,"","","","","",47.1086,28.1961
+MD,MD-6440,Vinatori,Nisporeni,"","","","","",47.1858,28.1028
+MD,MD-6441,Zberoaia,Nisporeni,"","","","","",46.9686,28.1069
+MD,MD-6442,Bursuc,Nisporeni,"","","","","",47.0944,28.3025
+MD,MD-6501,Hirbovatul Nou,Anenii Noi,"","","","","",46.8319,29.2775
+MD,MD-6501,Anenii Noi,Anenii Noi,"","","","","",46.8789,29.2247
+MD,MD-6501,Beriozchi,Anenii Noi,"","","","","",46.8733,29.2625
+MD,MD-6511,Salcia,Anenii Noi,"","","","","",46.9425,29.1694
+MD,MD-6511,Botnarestii Noi,Anenii Noi,"","","","","",46.9203,29.1669
+MD,MD-6511,Botnaresti,Anenii Noi,"","","","","",46.9347,29.1622
+MD,MD-6512,Bulboaca,Anenii Noi,"","","","","",46.8831,29.3097
+MD,MD-6513,Calfa Noua,Anenii Noi,"","","","","",46.9125,29.3614
+MD,MD-6513,Calfa,Anenii Noi,"","","","","",46.9042,29.3753
+MD,MD-6514,Chetrosu,Anenii Noi,"","","","","",46.9164,29.0436
+MD,MD-6515,Chirca,Anenii Noi,"","","","","",46.9225,29.1092
+MD,MD-6516,Batic,Anenii Noi,"","","","","",46.7956,29.1914
+MD,MD-6516,Ciobanovca,Anenii Noi,"","","","","",46.8144,29.19
+MD,MD-6517,Cobusca Noua,Anenii Noi,"","","","","",46.9314,29.2069
+MD,MD-6518,Cobusca Veche,Anenii Noi,"","","","","",46.9722,29.1792
+MD,MD-6518,Floresti,Anenii Noi,"","","","","",46.9722,29.1792
+MD,MD-6519,Cretoaia,Anenii Noi,"","","","","",46.8667,29.1347
+MD,MD-6520,Delacau,Anenii Noi,"","","","","",47.0989,29.3031
+MD,MD-6521,Floreni,Anenii Noi,"","","","","",46.9347,28.9928
+MD,MD-6522,Geamana,Anenii Noi,"","","","","",46.8183,29.1389
+MD,MD-6523,Gura Bicului,Anenii Noi,"","","","","",46.9311,29.4586
+MD,MD-6524,Hirbovat,Anenii Noi,"","","","","",46.8425,29.3583
+MD,MD-6525,Maximovca,Anenii Noi,"","","","","",47.01,29.0128
+MD,MD-6526,Petrovca,Anenii Noi,"","","","","",46.9753,29.0858
+MD,MD-6526,Mereni,Anenii Noi,"","","","","",46.9633,29.0533
+MD,MD-6527,Merenii Noi,Anenii Noi,"","","","","",46.9244,29.0564
+MD,MD-6529,Puhaceni,Anenii Noi,"","","","","",47.0889,29.3467
+MD,MD-6530,Roscani,Anenii Noi,"","","","","",46.9006,29.3206
+MD,MD-6530,Varnita-2,Anenii Noi,"","","","","",46.9006,29.3206
+MD,MD-6531,Ruseni,Anenii Noi,"","","","","",46.8853,29.2
+MD,MD-6531,Albinita,Anenii Noi,"","","","","",46.8906,29.1739
+MD,MD-6532,Socoleni,Anenii Noi,"","","","","",46.91,29.19
+MD,MD-6533,Speia,Anenii Noi,"","","","","",46.9817,29.3233
+MD,MD-6534,Serpeni,Anenii Noi,"","","","","",47.0208,29.3497
+MD,MD-6535,Telita,Anenii Noi,"","","","","",46.9569,29.3039
+MD,MD-6535,Telita Noua,Anenii Noi,"","","","","",46.9806,29.2864
+MD,MD-6536,Todiresti,Anenii Noi,"","","","","",46.9072,29.0864
+MD,MD-6537,Balmaz,Anenii Noi,"","","","","",46.7981,29.285
+MD,MD-6537,Mirnoe,Anenii Noi,"","","","","",46.8014,29.2289
+MD,MD-6537,Troita Noua,Anenii Noi,"","","","","",46.7903,29.265
+MD,MD-6538,Tintareni,Anenii Noi,"","","","","",46.9031,29.1389
+MD,MD-6601,Solnecinoe,Camenca Tr.,"","","","","",48.0402,28.6355
+MD,MD-6601,Camenca 1,Camenca Tr.,"","","","","",48.0319,28.6978
+MD,MD-6602,Camenca 2,Camenca Tr.,"","","","","",48.0319,28.6978
+MD,MD-6603,Camenca 3,Camenca Tr.,"","","","","",48.0319,28.6978
+MD,MD-6611,Caterinovca,Camenca Tr.,"","","","","",47.9339,28.8669
+MD,MD-6613,Alexandrovca,Camenca Tr.,"","","","","",48.0297,28.5542
+MD,MD-6613,Crasnii Octeabri,Camenca Tr.,"","","","","",48.0128,28.5486
+MD,MD-6617,Voitovca,Camenca Tr.,"","","","","",48.1061,28.605
+MD,MD-6617,Cuzmin,Camenca Tr.,"","","","","",48.0944,28.6328
+MD,MD-6618,Hristovaia,Camenca Tr.,"","","","","",48.1014,28.7342
+MD,MD-6619,Frunzauca,Camenca Tr.,"","","","","",48.1569,28.5844
+MD,MD-6619,Hrusca,Camenca Tr.,"","","","","",48.1125,28.5717
+MD,MD-6620,Sadchi,Camenca Tr.,"","","","","",47.8989,28.8678
+MD,MD-6620,Iantarnoe,Camenca Tr.,"","","","","",47.9028,28.8367
+MD,MD-6624,Ocnita,Camenca Tr.,"","","","","",48.1336,28.6364
+MD,MD-6625,Podoima,Camenca Tr.,"","","","","",47.995,28.7753
+MD,MD-6626,Podoimita,Camenca Tr.,"","","","","",48.0047,28.7561
+MD,MD-6627,Rascov,Camenca Tr.,"","","","","",47.955,28.8253
+MD,MD-6628,Socolovca,Camenca Tr.,"","","","","",48.0619,28.8383
+MD,MD-6628,Bodeni,Camenca Tr.,"","","","","",48.0819,28.7808
+MD,MD-6628,Rotari,Camenca Tr.,"","","","","",48.1053,28.8161
+MD,MD-6630,Severinovca,Camenca Tr.,"","","","","",48.0664,28.725
+MD,MD-6631,Slobozia-Rascov,Camenca Tr.,"","","","","",47.9517,28.9489
+MD,MD-6635,Constantinovca,Camenca Tr.,"","","","","",47.9881,28.8572
+MD,MD-6635,Valea Adinca,Camenca Tr.,"","","","","",48.0056,28.8406
+MD,MD-6641,Cerlina,Soroca,"","","","","",48.0814,28.6075
+MD,MD-6642,Unchitesti Loc.C.F.,Floresti,"","","","","",47.9231,28.5356
+MD,MD-6642,Cuhurestii De Sus,Floresti,"","","","","",47.9211,28.5536
+MD,MD-6642,Unchitesti,Floresti,"","","","","",47.9292,28.5258
+MD,MD-6642,Nicolaevca,Floresti,"","","","","",47.9192,28.5272
+MD,MD-6643,Cuhurestii De Jos,Floresti,"","","","","",47.9294,28.5919
+MD,MD-6644,Cunicea,Floresti,"","","","","",47.9092,28.6444
+MD,MD-6645,Bursuc,Floresti,"","","","","",47.9733,28.7356
+MD,MD-6645,Japca,Floresti,"","","","","",47.9819,28.7036
+MD,MD-6646,Napadova,Floresti,"","","","","",48.0194,28.5983
+MD,MD-6647,Nimereuca,Soroca,"","","","","",48.1139,28.5356
+MD,MD-6648,Sanatauca,Floresti,"","","","","",48.0122,28.6822
+MD,MD-6649,Temeleuti,Floresti,"","","","","",47.98,28.4972
+MD,MD-6650,Tirgul-Vertiujeni,Floresti,"","","","","",48.0308,28.5347
+MD,MD-6651,Tipordei,Floresti,"","","","","",47.9353,28.6142
+MD,MD-6652,Octeabrscoe,Floresti,"","","","","",47.7128,27.9514
+MD,MD-6652,Fagadau,Floresti,"","","","","",47.9369,28.5253
+MD,MD-6652,Vascauti,Floresti,"","","","","",47.9539,28.5117
+MD,MD-6653,Vertiujeni,Floresti,"","","","","",47.9933,28.54
+MD,MD-6654,Zaluceni,Floresti,"","","","","",48.0494,28.5564
+MD,MD-6701,Basarabeasca 1,Cimislia,"","","","","",46.4167,28.9167
+MD,MD-6711,Abaclia,Cimislia,"","","","","",46.3619,28.9419
+MD,MD-6712,Bascalia,Cimislia,"","","","","",46.3083,28.7844
+MD,MD-6713,Carabetovca,Cimislia,"","","","","",46.4139,28.9128
+MD,MD-6714,Iordanovca,Cimislia,"","","","","",46.3939,28.9092
+MD,MD-6715,Ivanovca,Cimislia,"","","","","",46.5064,28.9492
+MD,MD-6715,Bogdanovca,Cimislia,"","","","","",46.5122,28.9342
+MD,MD-6715,Iserlia,Cimislia,"","","","","",46.4864,28.9539
+MD,MD-6715,Carabiber,Cimislia,"","","","","",46.4722,28.9956
+MD,MD-6716,Sadaclia,Cimislia,"","","","","",46.4492,28.8786
+MD,MD-6717,Troitcoe,Cimislia,"","","","","",46.5128,29.0281
+MD,MD-6801,Ialoveni,Ialoveni,"","","","","",46.9431,28.7778
+MD,MD-6811,Bardar,Ialoveni,"","","","","",46.9019,28.6683
+MD,MD-6812,Straisteni,Mun.Chisinau,"","","","","",46.9061,28.86
+MD,MD-6812,Braila,Mun.Chisinau,"","","","","",46.9156,28.8425
+MD,MD-6812,Frumusica,Mun.Chisinau,"","","","","",46.9008,28.8917
+MD,MD-6812,Bacioi,Mun.Chisinau,"","","","","",46.9122,28.8839
+MD,MD-6813,Costesti,Ialoveni,"","","","","",46.8678,28.7686
+MD,MD-6814,Danceni,Ialoveni,"","","","","",46.9706,28.7078
+MD,MD-6815,Hansca,Ialoveni,"","","","","",46.8314,28.755
+MD,MD-6816,Horesti,Ialoveni,"","","","","",46.8267,28.8719
+MD,MD-6817,Horodca,Ialoveni,"","","","","",47.0456,28.4894
+MD,MD-6818,Malcoci,Ialoveni,"","","","","",47.0261,28.63
+MD,MD-6819,Milestii Mici,Ialoveni,"","","","","",46.8994,28.8047
+MD,MD-6820,Molesti,Ialoveni,"","","","","",46.7858,28.7781
+MD,MD-6821,Nimoreni,Ialoveni,"","","","","",47.0089,28.6664
+MD,MD-6822,Piatra Alba,Ialoveni,"","","","","",46.9333,28.8169
+MD,MD-6823,Pojareni,Ialoveni,"","","","","",46.8858,28.6961
+MD,MD-6824,Puhoi,Ialoveni,"","","","","",46.8225,29.0328
+MD,MD-6825,Rusestii Noi,Ialoveni,"","","","","",46.9297,28.6519
+MD,MD-6825,Rusestii Vechi,Ialoveni,"","","","","",46.9192,28.6261
+MD,MD-6826,Sociteni,Ialoveni,"","","","","",46.9408,28.725
+MD,MD-6827,Suruceni,Ialoveni,"","","","","",46.9825,28.6686
+MD,MD-6828,Baltati,Ialoveni,"","","","","",46.8422,28.9558
+MD,MD-6828,Budai,Ialoveni,"","","","","",46.8125,28.9739
+MD,MD-6828,Tipala,Ialoveni,"","","","","",46.8278,28.9753
+MD,MD-6829,Ulmu,Ialoveni,"","","","","",47.02,28.5458
+MD,MD-6830,Vasieni,Ialoveni,"","","","","",46.9678,28.5914
+MD,MD-6831,Zimbreni,Ialoveni,"","","","","",46.8369,28.8475
+MD,MD-6831,Gaureni,Ialoveni,"","","","","",46.8303,28.8433
+MD,MD-7101,Ocnita 1,Ocnita,"","","","","",48.3853,27.4392
+MD,MD-7102,Ocnita 2,Ocnita,"","","","","",48.3853,27.4392
+MD,MD-7102,Ocnita Gara,Ocnita,"","","","","",48.3853,27.4392
+MD,MD-7106,Otaci,Ocnita,"","","","","",48.43,27.7939
+MD,MD-7108,Frunza,Ocnita,"","","","","",48.4075,27.5986
+MD,MD-7111,Berezovca,Ocnita,"","","","","",48.3814,27.7769
+MD,MD-7112,Birladeni,Ocnita,"","","","","",48.2644,27.4167
+MD,MD-7112,Paladea,Ocnita,"","","","","",48.2464,27.4183
+MD,MD-7113,Birnova,Ocnita,"","","","","",48.4239,27.5267
+MD,MD-7114,Calarasovca,Ocnita,"","","","","",48.4189,27.8156
+MD,MD-7115,Cepeleuti,Edinet,"","","","","",48.3025,27.3072
+MD,MD-7115,Ringaci,Edinet,"","","","","",48.3122,27.3361
+MD,MD-7115,Vancicauti,Edinet,"","","","","",48.3074,27.3217
+MD,MD-7116,Clocusna,Ocnita,"","","","","",48.4314,27.3417
+MD,MD-7117,Codreni,Ocnita,"","","","","",48.4333,27.7167
+MD,MD-7118,Corestauti,Ocnita,"","","","","",48.3528,27.2578
+MD,MD-7118,Stalinesti,Ocnita,"","","","","",48.3386,27.2639
+MD,MD-7119,Dingeni,Ocnita,"","","","","",48.3481,27.4814
+MD,MD-7120,Paustova,Ocnita,"","","","","",45.8208,28.4364
+MD,MD-7121,Girbova,Ocnita,"","","","","",48.3775,27.6219
+MD,MD-7122,Grinauti,Ocnita,"","","","","",48.3131,27.4689
+MD,MD-7123,Grinauti-Moldova,Ocnita,"","","","","",48.2831,27.4489
+MD,MD-7123,Grinauti-Raia,Ocnita,"","","","","",48.2853,27.4239
+MD,MD-7124,Hadarauti,Ocnita,"","","","","",48.3717,27.3358
+MD,MD-7125,Lencauti,Ocnita,"","","","","",48.4353,27.6506
+MD,MD-7126,Lipnic,Ocnita,"","","","","",48.3936,27.5125
+MD,MD-7127,Mereseuca,Ocnita,"","","","","",48.4342,27.6842
+MD,MD-7128,Mihalaseni,Ocnita,"","","","","",48.3258,27.4233
+MD,MD-7129,Naslavcea,Ocnita,"","","","","",48.4672,27.5844
+MD,MD-7130,Ocnita Sat,Ocnita,"","","","","",48.3719,27.3936
+MD,MD-7130,Maiovca,Ocnita,"","","","","",48.3719,27.3936
+MD,MD-7131,Rediul Mare,Ocnita,"","","","","",48.2286,27.5153
+MD,MD-7132,Rujnita,Ocnita,"","","","","",48.2564,27.4325
+MD,MD-7133,Sauca,Ocnita,"","","","","",48.3775,27.7256
+MD,MD-7134,Unguri,Ocnita,"","","","","",48.4011,27.8675
+MD,MD-7135,Valcinet,Ocnita,"","","","","",48.4456,27.7339
+MD,MD-7136,Verejeni,Ocnita,"","","","","",48.44,27.6169
+MD,MD-7201,Soldanesti,Soldanesti,"","","","","",47.8153,28.7967
+MD,MD-7211,Odaia,Soldanesti,"","","","","",47.8567,28.8469
+MD,MD-7211,Alcedar,Soldanesti,"","","","","",47.8681,28.8747
+MD,MD-7212,Chipesca,Soldanesti,"","","","","",47.7622,28.6086
+MD,MD-7213,Climautii De Jos,Soldanesti,"","","","","",47.9486,28.7978
+MD,MD-7214,Cobilea Loc.C.F.,Soldanesti,"","","","","",47.8658,28.6714
+MD,MD-7214,Cobilea,Soldanesti,"","","","","",47.8658,28.6714
+MD,MD-7215,Cot,Soldanesti,"","","","","",47.9789,28.7778
+MD,MD-7216,Cotiujenii Mari,Soldanesti,"","","","","",47.8436,28.5544
+MD,MD-7216,Cuselauca,Soldanesti,"","","","","",47.8769,28.5608
+MD,MD-7217,Curatura,Soldanesti,"","","","","",47.8783,28.9122
+MD,MD-7218,Cusmirca,Soldanesti,"","","","","",47.9064,28.7053
+MD,MD-7219,Dobrusa,Soldanesti,"","","","","",47.7853,28.5939
+MD,MD-7220,Fuzauca,Soldanesti,"","","","","",47.7417,28.7461
+MD,MD-7221,Gauzeni,Soldanesti,"","","","","",47.7544,28.5656
+MD,MD-7222,Glinjeni,Soldanesti,"","","","","",47.5986,27.89
+MD,MD-7223,Mihuleni,Soldanesti,"","","","","",47.8306,28.8369
+MD,MD-7224,Oliscani,Soldanesti,"","","","","",47.7981,28.715
+MD,MD-7225,Parcani,Soldanesti,"","","","","",47.8175,28.8369
+MD,MD-7226,Pohoarna,Soldanesti,"","","","","",47.8294,28.4983
+MD,MD-7227,Poiana,Soldanesti,"","","","","",47.8872,28.8564
+MD,MD-7228,Raspopeni,Soldanesti,"","","","","",47.7456,28.6211
+MD,MD-7229,Recesti,Soldanesti,"","","","","",47.7864,28.5622
+MD,MD-7229,Zahorna,Soldanesti,"","","","","",47.7967,28.5528
+MD,MD-7230,Rogojeni Loc.C.F.,Soldanesti,"","","","","",47.8253,28.4117
+MD,MD-7230,Rogojeni,Soldanesti,"","","","","",47.8253,28.4117
+MD,MD-7231,Lelina,Soldanesti,"","","","","",47.925,28.7472
+MD,MD-7231,Salcia,Soldanesti,"","","","","",47.9506,28.7342
+MD,MD-7232,Socola,Soldanesti,"","","","","",47.9081,28.8133
+MD,MD-7233,Samascani,Soldanesti,"","","","","",47.755,28.6967
+MD,MD-7234,Sestaci,Soldanesti,"","","","","",47.8614,28.7542
+MD,MD-7235,Sipca,Soldanesti,"","","","","",47.8481,28.8061
+MD,MD-7236,Vadul-Rascov,Soldanesti,"","","","","",47.9386,28.8269
+MD,MD-7301,Cantemir 1,Cantemir,"","","","","",46.2781,28.2008
+MD,MD-7311,Acui,Cantemir,"","","","","",46.1867,28.4247
+MD,MD-7312,Antonesti,Cantemir,"","","","","",46.3378,28.2172
+MD,MD-7312,Leca,Cantemir,"","","","","",46.3097,28.205
+MD,MD-7313,Baimaclia,Cantemir,"","","","","",46.1872,28.3869
+MD,MD-7314,Cania,Cantemir,"","","","","",46.2814,28.2286
+MD,MD-7314,Iepureni,Cantemir,"","","","","",46.2633,28.2214
+MD,MD-7315,Capaclia,Cantemir,"","","","","",46.3286,28.3997
+MD,MD-7316,Chioselia,Cantemir,"","","","","",46.1411,28.4039
+MD,MD-7316,Tarancuta,Cantemir,"","","","","",46.1589,28.4681
+MD,MD-7317,Ciietu,Cantrmir,"","","","","",46.1353,28.4817
+MD,MD-7317,Dimitrova,Cantemir,"","","","","",46.1589,28.4681
+MD,MD-7318,Flocoasa,Cantemir,"","","","","",46.1528,28.2514
+MD,MD-7318,Victorovca,Cantemir,"","","","","",46.1783,28.2917
+MD,MD-7318,Ciobalaccia,Cantemir,"","","","","",46.1744,28.2872
+MD,MD-7319,Cirpesti,Cantemir,"","","","","",46.2636,28.3367
+MD,MD-7320,Suhat,Cantemir,"","","","","",46.1625,28.3442
+MD,MD-7320,Cisla,Cantemir,"","","","","",46.1419,28.3333
+MD,MD-7320,Sofranovca,Cantemir,"","","","","",46.1239,28.3594
+MD,MD-7321,Cociulia,Cantemir,"","","","","",46.3578,28.4147
+MD,MD-7322,Costangalia,Cantemir,"","","","","",46.11,28.3872
+MD,MD-7323,Iasnaia Poleana,Cahul,"","","","","",46.1411,28.3044
+MD,MD-7323,Doina,Cahul,"","","","","",46.1119,28.3289
+MD,MD-7324,Tolica,Cantemir,"","","","","",46.2281,28.416
+MD,MD-7324,Floricica,Cantemir,"","","","","",46.2344,28.4119
+MD,MD-7324,Enichioi,Cantemir,"","","","","",46.2217,28.42
+MD,MD-7324,Bobocica,Cantemir,"","","","","",46.2281,28.416
+MD,MD-7325,Ghioltosu,Cantemir,"","","","","",46.1917,28.1603
+MD,MD-7326,Gotesti,Cantemir,"","","","","",46.1478,28.1672
+MD,MD-7327,Haragis,Cantemir,"","","","","",46.2894,28.3783
+MD,MD-7328,Larguta,Cantemir,"","","","","",46.305,28.3192
+MD,MD-7329,Popovca,Cantemir,"","","","","",46.2481,28.3094
+MD,MD-7329,Craciun,Cantemir,"","","","","",46.2328,28.3517
+MD,MD-7329,Lingura,Cantemir,"","","","","",46.2331,28.3225
+MD,MD-7330,Pleseni,Cantemir,"","","","","",46.3567,28.3425
+MD,MD-7331,Plopi,Cantemir,"","","","","",46.2078,28.2142
+MD,MD-7332,Porumbesti,Cantemir,"","","","","",46.3139,28.2775
+MD,MD-7333,Rumeantev,Cahul,"","","","","",46.1136,28.2822
+MD,MD-7333,Constantinesti,Cantemir,"","","","","",46.1114,28.215
+MD,MD-7335,Stoianovca,Cantemir,"","","","","",46.2592,28.1644
+MD,MD-7336,Samalia,Cantemir,"","","","","",46.2733,28.4358
+MD,MD-7337,Hirtop,Cantemir,"","","","","",46.2339,28.2511
+MD,MD-7337,Alexandrovca,Cantemir,"","","","","",46.23,28.2664
+MD,MD-7337,Taraclia,Cantemir,"","","","","",46.22,28.2267
+MD,MD-7338,Tartaul,Cantemir,"","","","","",46.2069,28.3214
+MD,MD-7339,Tataraseni,Cantemir,"","","","","",46.3403,28.3019
+MD,MD-7339,Hanaseni,Cantemir,"","","","","",46.3481,28.3303
+MD,MD-7340,Toceni,Cantemir,"","","","","",46.3669,28.2189
+MD,MD-7341,Tiganca,Cantemir,"","","","","",46.2333,28.1558
+MD,MD-7341,Tiganca Noua,Cantemir,"","","","","",46.2047,28.1736
+MD,MD-7342,Visniovca,Cantemir,"","","","","",46.3333,28.4494
+MD,MD-7343,Vilcele,Cantemir,"","","","","",46.3814,28.2558
+MD,MD-7344,Taraclia,Cantemir,"","","","","",46.22,28.2267
+MD,MD-7344,Sadic,Cantemir,"","","","","",46.2675,28.5128
+MD,MD-7401,Taraclia 1,Taraclia,"","","","","",45.9,28.6689
+MD,MD-7402,Taraclia 2,Taraclia,"","","","","",45.9,28.6689
+MD,MD-7411,Hagichioi,Taraclia,"","","","","",45.9256,28.4622
+MD,MD-7411,Albota De Jos,Taraclia,"","","","","",45.9458,28.4844
+MD,MD-7411,Hirtop,Taraclia,"","","","","",45.9206,28.4928
+MD,MD-7412,Rosita,Taraclia,"","","","","",46.0333,28.4722
+MD,MD-7412,Sofievca,Taraclia,"","","","","",46.0086,28.4717
+MD,MD-7412,Albota De Sus,Taraclia,"","","","","",45.9733,28.4742
+MD,MD-7413,Aluatu,Taraclia,"","","","","",45.8661,28.5858
+MD,MD-7414,Balabanu,Taraclia,"","","","","",45.9319,28.5811
+MD,MD-7415,Borceag,Cahul,"","","","","",46.05,28.525
+MD,MD-7416,Dermengi,Taraclia,"","","","","",45.88,28.4147
+MD,MD-7416,Budai,Taraclia,"","","","","",45.8489,28.4664
+MD,MD-7417,Cairaclia,Taraclia,"","","","","",45.7783,28.6244
+MD,MD-7418,Chirilovca,Taraclia,"","","","","",45.8167,28.5764
+MD,MD-7419,Samurza,Taraclia,"","","","","",45.9769,28.5647
+MD,MD-7419,Cortenul Nou,Taraclia,"","","","","",46.0042,28.5703
+MD,MD-7419,Cealic,Taraclia,"","","","","",45.9956,28.5542
+MD,MD-7420,Ciumai,Taraclia,"","","","","",45.7822,28.5697
+MD,MD-7421,Corten,Taraclia,"","","","","",46.0144,28.7361
+MD,MD-7422,Tvardita,Taraclia,"","","","","",46.1547,28.9656
+MD,MD-7423,Mirnoe,Taraclia,"","","","","",45.7375,28.5811
+MD,MD-7424,Musaitu,Taraclia,"","","","","",45.8206,28.505
+MD,MD-7425,Novosiolovca,Taraclia,"","","","","",45.9006,28.6017
+MD,MD-7426,Orehovca,Taraclia,"","","","","",45.9089,28.5278
+MD,MD-7426,Salcia,Taraclia,"","","","","",45.8758,28.5158
+MD,MD-7426,Vinogradovca,Taraclia,"","","","","",45.8042,28.5347
+MD,MD-7427,Valea Perjei,Taraclia,"","","","","",46.0339,28.925
+MD,MD-7701,Cainari,Causeni,"","","","","",46.6789,29.0461
+MD,MD-7702,Cainari Gara,Causeni,"","","","","",46.6442,29.4139
+MD,MD-7711,Baimaclia,Causeni,"","","","","",46.5908,29.0928
+MD,MD-7712,Batir,Cimislia,"","","","","",46.5775,29.0042
+MD,MD-7713,Carbuna,Ialoveni,"","","","","",46.7122,28.9517
+MD,MD-7714,Chircaestii Noi,Causeni,"","","","","",46.6581,28.9522
+MD,MD-7714,Baurci,Causeni,"","","","","",46.6581,28.9522
+MD,MD-7715,Cigirleni,Ialoveni,"","","","","",46.7553,28.8228
+MD,MD-7716,Ciuflesti,Causeni,"","","","","",46.6242,29.0019
+MD,MD-7717,Cirnatenii Noi,Causeni,"","","","","",46.6494,29.135
+MD,MD-7717,Salcuta Noua,Causeni,"","","","","",46.6322,29.1906
+MD,MD-7718,Codreni,Cimislia,"","","","","",46.6756,28.8836
+MD,MD-7718,Sagaidacul Nou,Cimislia,"","","","","",46.6931,28.8508
+MD,MD-7718,Zloti,Cimislia,"","","","","",46.6939,28.8975
+MD,MD-7719,Constantinovca,Causeni,"","","","","",46.7211,29.1094
+MD,MD-7720,Coscalia,Causeni,"","","","","",46.6856,29.1569
+MD,MD-7721,Homuteanovca,Ialoveni,"","","","","",46.7244,29.0556
+MD,MD-7721,Gangura,Ialoveni,"","","","","",46.73,29.0131
+MD,MD-7721,Misovca,Ialoveni,"","","","","",46.7661,29.0017
+MD,MD-7721,Alexandrovca,Ialoveni,"","","","","",46.7219,29.0231
+MD,MD-7722,Picus,Anenii Noi,"","","","","",46.75,29.0942
+MD,MD-7722,Larga,Anenii Noi,"","","","","",46.7583,29.1608
+MD,MD-7723,Nicolaevca,Anenii Noi,"","","","","",46.7722,29.2106
+MD,MD-7723,Zolotievca,Anenii Noi,"","","","","",46.7364,29.1903
+MD,MD-7724,Ochiul Ros,Anenii Noi,"","","","","",46.7672,29.1106
+MD,MD-7725,Pervomaisc,Causeni,"","","","","",46.7011,29.0892
+MD,MD-7726,Plop,Causeni,"","","","","",46.7108,29.2197
+MD,MD-7726,Florica,Causeni,"","","","","",46.69,29.2222
+MD,MD-7727,Razeni 1,Ialoveni,"","","","","",46.7461,28.9617
+MD,MD-7727,Milestii Noi,Ialoveni,"","","","","",46.7461,28.9617
+MD,MD-7728,Razeni 2,Ialoveni,"","","","","",46.7708,28.9006
+MD,MD-7729,Surchiceni,Causeni,"","","","","",46.6228,29.0536
+MD,MD-7730,Taraclia,Causeni,"","","","","",46.5703,29.1156
+MD,MD-7731,Varatic,Ialoveni,"","","","","",46.8094,29.0633

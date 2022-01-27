@@ -1,0 +1,54 @@
+[
+  {
+    "country_code": "FM",
+    "zipcode": "96944",
+    "place": "Kosrae",
+    "state": "State of Kosrae",
+    "state_code": "01",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "7.1383",
+    "longitude": "151.5031"
+  },
+  {
+    "country_code": "FM",
+    "zipcode": "96941",
+    "place": "Pohnpei",
+    "state": "State of Pohnpei",
+    "state_code": "02",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "7.1383",
+    "longitude": "151.5031"
+  },
+  {
+    "country_code": "FM",
+    "zipcode": "96942",
+    "place": "Chuuk",
+    "state": "State of Chuuk",
+    "state_code": "03",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "7.1383",
+    "longitude": "151.5031"
+  },
+  {
+    "country_code": "FM",
+    "zipcode": "96943",
+    "place": "Yap",
+    "state": "State of Yap",
+    "state_code": "04",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "7.1383",
+    "longitude": "151.5031"
+  }
+]

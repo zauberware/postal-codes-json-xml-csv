@@ -1,0 +1,54 @@
+[
+  {
+    "country_code": "JE",
+    "zipcode": "JE1",
+    "place": "St Helier",
+    "state": "",
+    "state_code": "",
+    "province": "Jersey Channel Islands",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "49.2",
+    "longitude": "-2.1333"
+  },
+  {
+    "country_code": "JE",
+    "zipcode": "JE2",
+    "place": "St Helier",
+    "state": "",
+    "state_code": "",
+    "province": "Jersey Channel Islands",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "49.2",
+    "longitude": "-2.1333"
+  },
+  {
+    "country_code": "JE",
+    "zipcode": "JE3",
+    "place": "St Brelades",
+    "state": "",
+    "state_code": "",
+    "province": "Jersey Channel Islands",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "49.2",
+    "longitude": "-2.1333"
+  },
+  {
+    "country_code": "JE",
+    "zipcode": "JE3",
+    "place": "St Lawrence",
+    "state": "",
+    "state_code": "",
+    "province": "Jersey Channel Islands",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "49.2",
+    "longitude": "-2.1333"
+  }
+]

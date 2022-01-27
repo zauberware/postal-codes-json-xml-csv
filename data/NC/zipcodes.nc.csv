@@ -1,0 +1,53 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+NC,98811,Bélep,Province Nord,01,Bélep,98801,"","",-19.7333,163.6667
+NC,98813,Canala,Province Nord,01,Canala,98804,"","",-21.517,165.9629
+NC,98815,Hienghéne,Province Nord,01,Hienghéne,98807,"","",-20.6874,164.9377
+NC,98816,Houaïlou,Province Nord,01,Houaïlou,98808,"","",-21.2865,165.6343
+NC,98838,Poro,Province Nord,01,Houaïlou,98808,"","",-21.3167,165.6333
+NC,98817,Kaala-Gomén,Province Nord,01,Kaala-Gomén,98810,"","",-20.6694,164.3977
+NC,98859,Koné,Province Nord,01,Koné,98811,"","",-21.0595,164.8658
+NC,98860,Koné,Province Nord,01,Koné,98811,"","",-21.0569,164.8663
+NC,98850,Koumac,Province Nord,01,Koumac,98812,"","",-20.555,164.2717
+NC,98821,Ouégoa,Province Nord,01,Ouégoa,98819,"","",-20.3485,164.4262
+NC,98822,Poindimié,Province Nord,01,Poindimié,98822,"","",-20.9505,165.3415
+NC,98823,Ponérihouen,Province Nord,01,Ponérihouen,98823,"","",-21.0765,165.4005
+NC,98824,Pouébo,Province Nord,01,Pouébo,98824,"","",-20.3929,164.5827
+NC,98825,Pouembout,Province Nord,01,Pouembout,98825,"","",-21.1076,164.9834
+NC,98826,Poum,Province Nord,01,Poum,98826,"","",-20.2368,164.0292
+NC,98827,Poya,Province Nord,01,Poya,98827,"","",-21.3449,165.164
+NC,98877,Népoui,Province Nord,01,Poya,98827,"","",-21.3283,164.9985
+NC,98831,Touho,Province Nord,01,Touho,98830,"","",-20.786,165.2423
+NC,98833,Voh,Province Nord,01,Voh,98831,"","",-20.9467,164.6854
+NC,98883,Ouåco,Province Nord,01,Voh,98831,"","",-20.8353,164.4694
+NC,98818,Kouaoua,Province Nord,01,Kouaoua,98833,"","",-21.3957,165.8283
+NC,98812,Bouloupari,Province Sud,02,Bouloupari,98802,"","",-21.8607,166.0513
+NC,98870,Bourail,Province Sud,02,Bourail,98803,"","",-21.5667,165.4667
+NC,98830,Dumbéa,Province Sud,02,Dumbéa,98805,"","",-22.1496,166.4473
+NC,98835,Dumbéa,Province Sud,02,Dumbéa,98805,"","",-22.1496,166.4473
+NC,98836,Dumbéa,Province Sud,02,Dumbéa,98805,"","",-22.1496,166.4473
+NC,98837,Dumbéa,Province Sud,02,Dumbéa,98805,"","",-22.1496,166.4473
+NC,98839,Dumbéa,Province Sud,02,Dumbéa,98805,"","",-22.1496,166.4473
+NC,98880,Farino,Province Sud,02,Farino,98806,"","",-21.6651,165.776
+NC,98881,Farino,Province Sud,02,Farino,98806,"","",-21.6667,165.7667
+NC,98832,L’Île des Pins,Province Sud,02,L’Île des Pins,98809,"","",-22.6167,167.4833
+NC,98880,La Foa,Province Sud,02,La Foa,98813,"","",-21.7079,165.8252
+NC,98819,Moindou,Province Sud,02,Moindou,98816,"","",-21.6986,165.6804
+NC,98809,Le Mont-Dore,Province Sud,02,Le Mont-Dore,98817,"","",-22.2799,166.5805
+NC,98810,Mont-Dore,Province Sud,02,Le Mont-Dore,98817,"","",-22.2626,166.5662
+NC,98874,Pont des Français,Province Sud,02,Le Mont-Dore,98817,"","",-22.2167,166.4833
+NC,98875,Plum,Province Sud,02,Le Mont-Dore,98817,"","",-22.2723,166.6144
+NC,98876,La Coulée,Province Sud,02,Le Mont-Dore,98817,"","",-22.2313,166.5758
+NC,98800,Nouméa,Province Sud,02,Nouméa,98818,"","",-22.2667,166.4667
+NC,98840,La Tontouta,Province Sud,02,Païta,98821,"","",-22.0128,166.2237
+NC,98889,Païta,Province Sud,02,Païta,98821,"","",-22.131,166.3572
+NC,98890,Païta,Province Sud,02,Païta,98821,"","",-22.1299,166.3639
+NC,98880,Sarraméa,Province Sud,02,Sarraméa,98828,"","",-21.6421,165.8451
+NC,98882,Sarraméa,Province Sud,02,Sarraméa,98828,"","",-21.65,165.85
+NC,98829,Thio,Province Sud,02,Thio,98829,"","",-21.6057,166.2146
+NC,98834,Yaté,Province Sud,02,Yaté,98832,"","",-22.0833,166.75
+NC,98820,Wé,Îles Loyauté,03,Lifou,98814,"","",-20.9169,167.2646
+NC,98884,Chépénéhé,Îles Loyauté,03,Lifou,98814,"","",-20.7833,167.15
+NC,98885,Mou,Îles Loyauté,03,Lifou,98814,"","",-21.0936,167.399
+NC,98828,Tadine,Îles Loyauté,03,Maré,98815,"","",-21.55,167.8833
+NC,98878,La Roche,Îles Loyauté,03,Maré,98815,"","",-21.478,168.0259
+NC,98814,Fayaoué,Îles Loyauté,03,Ouvéa,98820,"","",-20.6528,166.5364

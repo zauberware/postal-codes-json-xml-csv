@@ -1,0 +1,9 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+SJ,9170,Longyearbyen,Svalbard,21,Svalbard,2111,"","",78.2191,15.64
+SJ,9171,Longyearbyen,Svalbard,21,Svalbard,2111,"","",78.2191,15.64
+SJ,9173,Ny-Ålesund,Svalbard,21,Svalbard,2111,"","",78.9237,11.925
+SJ,9175,Sveagruva,Svalbard,21,Svalbard,2111,"","",77.9003,16.7201
+SJ,9178,Barentsburg,Svalbard,21,Svalbard,2111,"","",78.8874,18.5995
+SJ,9176,Bjørnøya,Svalbard,21,Svalbard,2121,"","",78.267,14.8301
+SJ,9174,Hopen,Svalbard,21,Svalbard,2131,"","",78.267,14.8301
+SJ,8099,Jan Mayen,Jan Mayen,22,Jan Mayen,2211,"","",70.9498,-8.638

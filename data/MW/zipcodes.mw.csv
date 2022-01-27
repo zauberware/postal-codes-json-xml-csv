@@ -1,0 +1,492 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+MW,209100,Dedza Township,Central Region,C,Dedza,06,"","",-14.2627,34.1856
+MW,209101,Tambala,Central Region,C,Dedza,06,"","",-14.0333,34.2333
+MW,209102,Chauma,Central Region,C,Dedza,06,"","",-14.2627,34.1856
+MW,209103,Kasumbu,Central Region,C,Dedza,06,"","",-14.3,34.35
+MW,209104,Kachindamoto,Central Region,C,Dedza,06,"","",-14.3606,34.2637
+MW,209105,Kamenya Gwaza,Central Region,C,Dedza,06,"","",-14.3667,34.45
+MW,209106,Kaphuka,Central Region,C,Dedza,06,"","",-14.15,34.1667
+MW,209107,Chilikumwendo,Central Region,C,Dedza,06,"","",-14.2167,33.95
+MW,209108,Kachere,Central Region,C,Dedza,06,"","",-14.4167,34.1167
+MW,204100,Dowa BOMA,Central Region,C,Dowa,07,"","",-13.601,33.8238
+MW,204101,Chakhaza,Central Region,C,Dowa,07,"","",-13.65,33.7333
+MW,204102,Dzoole,Central Region,C,Dowa,07,"","",-13.5791,33.6588
+MW,204103,Kayembe,Central Region,C,Dowa,07,"","",-13.6331,33.6001
+MW,204104,Mponela,Central Region,C,Dowa,07,"","",-13.5319,33.7401
+MW,204105,Mponela Township,Central Region,C,Dowa,07,"","",-13.601,33.8238
+MW,204106,Msakambewa,Central Region,C,Dowa,07,"","",-13.5357,33.9178
+MW,204107,Mkukula,Central Region,C,Dowa,07,"","",-13.7545,33.8265
+MW,204108,Lumbadzi Township,Central Region,C,Dowa,07,"","",-13.601,33.8238
+MW,204109,Chiwere,Central Region,C,Dowa,07,"","",-13.7667,34.1333
+MW,201100,Chisikwa,Central Region,C,Kasungu Rural,09,"","",-14,33.4833
+MW,201101,Kaluluma,Central Region,C,Kasungu Rural,09,"","",-12.5783,33.5196
+MW,201102,Chisinga,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201103,Chisemphere,Central Region,C,Kasungu Rural,09,"","",-13.2333,33.4667
+MW,201104,Chulu,Central Region,C,Kasungu Rural,09,"","",-12.82,33.3086
+MW,201105,M’nyanja,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201106,Simlemba,Central Region,C,Kasungu Rural,09,"","",-12.7444,33.6745
+MW,201107,Mphomwa,Central Region,C,Kasungu Rural,09,"","",-12.8075,33.4334
+MW,201108,Kaphaizi,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201109,Mwase,Central Region,C,Kasungu Rural,09,"","",-13.0667,33.4333
+MW,201110,Kaomba,Central Region,C,Kasungu Rural,09,"","",-13.1,33.5
+MW,201111,Wimbe,Central Region,C,Kasungu Rural,09,"","",-12.9765,33.6837
+MW,201112,Kapelula,Central Region,C,Kasungu Rural,09,"","",-12.9062,33.8019
+MW,201113,Kapichira,Central Region,C,Kasungu Rural,09,"","",-12.8833,33.9333
+MW,201114,Mdunga,Central Region,C,Kasungu Rural,09,"","",-12.9863,33.8332
+MW,201115,Chilowamatambe,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201116,Chambwe,Central Region,C,Kasungu Rural,09,"","",-13.2,33.65
+MW,201117,Mangwazu,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201118,Mawawa,Central Region,C,Kasungu Rural,09,"","",-13.1,33.3833
+MW,201119,Lukwa,Central Region,C,Kasungu Rural,09,"","",-13.1,33.45
+MW,201120,Njombwa,Central Region,C,Kasungu Rural,09,"","",-13.3,33.5167
+MW,201121,Kawamba,Central Region,C,Kasungu Rural,09,"","",-13.2969,33.341
+MW,201122,Nthunduwala,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201123,Chaima,Central Region,C,Kasungu Rural,09,"","",-13.3167,33.4833
+MW,201124,Chidzuma,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201125,Santhe,Central Region,C,Kasungu Rural,09,"","",-13.467,33.3838
+MW,201126,Kasungu National Park,Central Region,C,Kasungu Rural,09,"","",-13,33.4167
+MW,201300,Kasungu Central Township,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201301,Chipala,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201302,Mponda,Central Region,C,Kasungu Municipality,09,"","",-13.6333,33.45
+MW,201303,Bunda,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201304,Belele,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201305,Chankhanga,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201306,Kasalika,Central Region,C,Kasungu Municipality,09,"","",-13.0333,33.5
+MW,201307,Kapalankhwazi,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201308,Chitete,Central Region,C,Kasungu Municipality,09,"","",-13.4167,33.8333
+MW,201309,Kamvunguti,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201310,Chimbuna,Central Region,C,Kasungu Municipality,09,"","",-13,33.4167
+MW,201311,Gundani,Central Region,C,Kasungu Municipality,09,"","",-13.05,33.5
+MW,206101,Khongoni,Central Region,C,Lilongwe Rural,11,"","",-13.8528,33.3737
+MW,206102,Kabudula,Central Region,C,Lilongwe Rural,11,"","",-13.6667,33.4167
+MW,206103,Mtema,Central Region,C,Lilongwe Rural,11,"","",-13.8167,33.6667
+MW,206104,Mbang’ombe,Central Region,C,Lilongwe Rural,11,"","",-14.0196,33.6841
+MW,206105,Chitukula,Central Region,C,Lilongwe Rural,11,"","",-13.7819,33.7493
+MW,206106,Chimutu,Central Region,C,Lilongwe Rural,11,"","",-14.0667,33.8167
+MW,206107,Chitekwele,Central Region,C,Lilongwe Rural,11,"","",-14.0196,33.6841
+MW,206108,Mazengera,Central Region,C,Lilongwe Rural,11,"","",-14.0667,33.9667
+MW,206109,Kalumbu,Central Region,C,Lilongwe Rural,11,"","",-14.1351,33.9471
+MW,206110,Chadza,Central Region,C,Lilongwe Rural,11,"","",-14.157,33.8429
+MW,206111,Kalumba,Central Region,C,Lilongwe Rural,11,"","",-14.0833,33.8167
+MW,206112,Tsabango,Central Region,C,Lilongwe Rural,11,"","",-14.0196,33.6841
+MW,206113,Njewa,Central Region,C,Lilongwe Rural,11,"","",-13.9833,33.7167
+MW,206114,Malili,Central Region,C,Lilongwe Rural,11,"","",-14.0784,33.6959
+MW,206115,Kalolo,Central Region,C,Lilongwe Rural,11,"","",-14,33.3833
+MW,206116,Masumbankhunda,Central Region,C,Lilongwe Rural,11,"","",-14.0196,33.6841
+MW,206117,Chiseka,Central Region,C,Lilongwe Rural,11,"","",-14.0196,33.6841
+MW,206118,Masula,Central Region,C,Lilongwe Rural,11,"","",-14.1597,33.6943
+MW,207201,Area 1,Central Region,C,Lilongwe Urban,11,"","",-14.0012,33.7727
+MW,207202,Area 2,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207203,Area 3,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207204,Area 4,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207205,Area 5,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207206,Area 6,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207207,Area 7,Central Region,C,Lilongwe Urban,11,"","",-13.987,33.798
+MW,207208,Area 8,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207209,Area 9,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207210,Area 10,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207211,Area 11,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207212,Area 12,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207213,Area 13,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207214,Area 14,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207215,Area 15,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207216,Area 16,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207217,Area 17,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207218,Area 18,Central Region,C,Lilongwe Urban,11,"","",-13.9417,33.766
+MW,207219,Area 19,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207220,Area 20,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207221,Area 21,Central Region,C,Lilongwe Urban,11,"","",-13.9937,33.8112
+MW,207222,Area 22,Central Region,C,Lilongwe Urban,11,"","",-14.0116,33.7991
+MW,207223,Area 23,Central Region,C,Lilongwe Urban,11,"","",-14.0168,33.7941
+MW,207224,Area 24,Central Region,C,Lilongwe Urban,11,"","",-14.026,33.7956
+MW,207225,Area 25,Central Region,C,Lilongwe Urban,11,"","",-13.8795,33.7242
+MW,207226,Area 26,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207227,Area 27,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207228,Area 28,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207229,Area 29,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207230,Area 30,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207231,Area 31,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207232,Area 32,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207233,Area 33,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207234,Area 34,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207235,Area 35,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207236,Area 36,Central Region,C,Lilongwe Urban,11,"","",-14.0226,33.7847
+MW,207237,Area 37,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207238,Area 38,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207239,Area 39,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207240,Area 40,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207241,Area 41,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207242,Area 42,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207243,Area 43,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207244,Area 44,Central Region,C,Lilongwe Urban,11,"","",-13.9607,33.8526
+MW,207245,Area 45,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207246,Area 46,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207247,Area 47,Central Region,C,Lilongwe Urban,11,"","",-13.9581,33.7548
+MW,207248,Area 48,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207249,Area 49,Central Region,C,Lilongwe Urban,11,"","",-13.9209,33.7467
+MW,207250,Area 50,Central Region,C,Lilongwe Urban,11,"","",-13.9096,33.7701
+MW,207251,Area 51,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207252,Area 52,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207253,Area 53,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207254,Area 54,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207255,Area 55,Central Region,C,Lilongwe Urban,11,"","",-13.8343,33.7631
+MW,207256,Area 56,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,207257,Area 57,Central Region,C,Lilongwe Urban,11,"","",-14.0106,33.7022
+MW,207258,Area 58,Central Region,C,Lilongwe Urban,11,"","",-14.0196,33.6841
+MW,205100,Mchinji BOMA,Central Region,C,Mchinji,13,"","",-13.7623,33.08
+MW,205101,Gumba,Central Region,C,Mchinji,13,"","",-13.424,33.1102
+MW,205102,Mkanda,Central Region,C,Mchinji,13,"","",-13.5147,32.9597
+MW,205103,Dambe,Central Region,C,Mchinji,13,"","",-13.7623,33.08
+MW,205104,Pitala,Central Region,C,Mchinji,13,"","",-13.7623,33.08
+MW,205105,Kazyozyo,Central Region,C,Mchinji,13,"","",-13.5676,32.8613
+MW,205106,Kapunula,Central Region,C,Mchinji,13,"","",-13.5874,32.7819
+MW,205107,Kapondo,Central Region,C,Mchinji,13,"","",-13.7623,33.08
+MW,205108,Mduwa,Central Region,C,Mchinji,13,"","",-13.7211,33.0853
+MW,205109,Nyoka,Central Region,C,Mchinji,13,"","",-13.7004,32.9056
+MW,205110,Mlonyeni,Central Region,C,Mchinji,13,"","",-13.8582,33.026
+MW,205111,Zulu,Central Region,C,Mchinji,13,"","",-13.8147,32.9688
+MW,205112,Simphasi,Central Region,C,Mchinji,13,"","",-13.7623,33.08
+MW,205113,Mavwere,Central Region,C,Mchinji,13,"","",-13.7623,33.08
+MW,210100,Ntcheu BOMA,Central Region,C,Ntcheu,16,"","",-14.75,34.75
+MW,210101,Masasa,Central Region,C,Ntcheu,16,"","",-14.4359,34.4332
+MW,210102,Chakhumbira,Central Region,C,Ntcheu,16,"","",-14.5667,34.7
+MW,210103,Goodson Ganya,Central Region,C,Ntcheu,16,"","",-14.75,34.75
+MW,210104,Njolomole,Central Region,C,Ntcheu,16,"","",-14.6493,34.5579
+MW,210105,Kwataine,Central Region,C,Ntcheu,16,"","",-14.8333,34.6833
+MW,210106,Makwangwala,Central Region,C,Ntcheu,16,"","",-14.8,34.7667
+MW,210107,Mkutumula,Central Region,C,Ntcheu,16,"","",-14.846,34.8927
+MW,210108,Champiti,Central Region,C,Ntcheu,16,"","",-14.75,34.75
+MW,210109,Mpando,Central Region,C,Ntcheu,16,"","",-13.4333,33.85
+MW,210110,Phambala,Central Region,C,Ntcheu,16,"","",-14.1167,33.9667
+MW,210111,Tsikulamowa,Central Region,C,Ntcheu,16,"","",-14.75,34.75
+MW,202100,Nkhotakota BOMA,Central Region,C,Nkhota Kota,18,"","",-12.8042,34.083
+MW,202101,Kafuzila,Central Region,C,Nkhota Kota,18,"","",-12.3,34.0333
+MW,202102,Kanyenda,Central Region,C,Nkhota Kota,18,"","",-12.4676,34.0893
+MW,202103,Dwangwa Township,Central Region,C,Nkhota Kota,18,"","",-12.8042,34.083
+MW,202104,Mphonde,Central Region,C,Nkhota Kota,18,"","",-12.8011,34.2245
+MW,202105,Malenga Chanzi,Central Region,C,Nkhota Kota,18,"","",-12.8042,34.083
+MW,202106,Kalimanjira,Central Region,C,Nkhota Kota,18,"","",-12.8042,34.083
+MW,202107,Mwadzama,Central Region,C,Nkhota Kota,18,"","",-13.4116,34.2848
+MW,202108,Mwansambo,Central Region,C,Nkhota Kota,18,"","",-13.3093,34.1178
+MW,202109,Nkhotakota Game Reserve,Central Region,C,Nkhota Kota,18,"","",-12.8042,34.083
+MW,203100,Ntchisi BOMA,Central Region,C,Ntchisi,20,"","",-13.5277,33.9149
+MW,203101,Chilooko,Central Region,C,Ntchisi,20,"","",-13.2957,33.908
+MW,203102,Nthondo,Central Region,C,Ntchisi,20,"","",-13.25,34.0167
+MW,203103,Malenga,Central Region,C,Ntchisi,20,"","",-13.3337,33.8904
+MW,203104,Kasakula,Central Region,C,Ntchisi,20,"","",-13.35,34.0833
+MW,203105,Kalumo,Central Region,C,Ntchisi,20,"","",-13.2957,33.908
+MW,203106,Vuso Jere,Central Region,C,Ntchisi,20,"","",-13.2957,33.908
+MW,203107,Chikho,Central Region,C,Ntchisi,20,"","",-13.3839,34.0834
+MW,208100,Salima Township,Central Region,C,Salima,22,"","",-13.7196,34.4018
+MW,208101,Msosa,Central Region,C,Salima,22,"","",-13.7196,34.4018
+MW,208102,Khombedza,Central Region,C,Salima,22,"","",-13.7196,34.4018
+MW,208103,Mwanza,Central Region,C,Salima,22,"","",-13.6,33.4667
+MW,208104,Kuluunda,Central Region,C,Salima,22,"","",-13.7196,34.4018
+MW,208105,Karonga,Central Region,C,Salima,22,"","",-13.7707,34.4405
+MW,208106,Maganga,Central Region,C,Salima,22,"","",-13.875,34.5778
+MW,208107,Kambwiri,Central Region,C,Salima,22,"","",-13.7955,34.4081
+MW,208108,Pemba,Central Region,C,Salima,22,"","",-13.8199,34.5126
+MW,208109,Ndindi,Central Region,C,Salima,22,"","",-13.9725,34.5132
+MW,208110,Chipoka Township,Central Region,C,Salima,22,"","",-13.7196,34.4018
+MW,208111,Kambalame,Central Region,C,Salima,22,"","",-13.7196,34.4018
+MW,101100,Chitipa BOMA,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,101101,Kameme,Northern Region,N,Chitipa,04,"","",-9.5667,33.0833
+MW,101102,Bulambya Songwe,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,101103,Mwabulambya,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,101104,Mwenemisuku,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,101105,Lwangwa,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,101106,Mwenewenya,Northern Region,N,Chitipa,04,"","",-10.1121,33.5742
+MW,101107,Nthengatenga,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,101108,Nthalire,Northern Region,N,Chitipa,04,"","",-10.3349,33.6257
+MW,101109,Wavikaza,Northern Region,N,Chitipa,04,"","",-9.9273,33.4254
+MW,102100,Karonga,Northern Region,N,Karonga,08,"","",-9.9333,33.9333
+MW,102101,Songwe,Northern Region,N,Karonga,08,"","",-10.1115,33.8815
+MW,102102,Mwakaboko,Northern Region,N,Karonga,08,"","",-10.1115,33.8815
+MW,102103,Kilupula,Northern Region,N,Karonga,08,"","",-10.1115,33.8815
+MW,102104,Kyungu,Northern Region,N,Karonga,08,"","",-10.1115,33.8815
+MW,102105,Mwirang’ombe,Northern Region,N,Karonga,08,"","",-10.1115,33.8815
+MW,102106,Wasambo,Northern Region,N,Karonga,08,"","",-10.1115,33.8815
+MW,104100,Mzimba BOMA,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104101,Jaravikuba Munthali,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104102,Mtwalo,Northern Region,N,Mzimba,15,"","",-11.3833,33.75
+MW,104103,Ekwendeni Township,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104104,Mpherembe,Northern Region,N,Mzimba,15,"","",-11.2833,33.6
+MW,104105,Chindi,Northern Region,N,Mzimba,15,"","",-11.45,33.4167
+MW,104106,Kampingo Sibande,Northern Region,N,Mzimba,15,"","",-11.4833,33.8
+MW,104107,M’mbelwa,Northern Region,N,Mzimba,15,"","",-11.6264,33.6159
+MW,104108,Mzukuzuku,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104109,Mzikubola,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104110,Levi Jere,Northern Region,N,Mzimba,15,"","",-12.351,33.5664
+MW,104111,Jenda Township,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104112,Mabulabo,Northern Region,N,Mzimba,15,"","",-12.5954,33.6011
+MW,104113,Khosolo Gwaza Jere,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,104114,Vwaza Marsh Reserve,Northern Region,N,Mzimba,15,"","",-11.8543,33.6078
+MW,105200,Mzuzu CBD,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105201,Khorongo,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105202,Lupaso,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105203,Luwinga,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105204,Mchengautuwa,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105205,Chibanja,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105206,Katoto,Northern Region,N,Mzuzu,15,"","",-11.4592,34.0096
+MW,105207,Zolozolo,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105208,Hilltop,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105209,Chiputula,Northern Region,N,Mzuzu,15,"","",-11.4415,34.0165
+MW,105210,Mzilawaingwe,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105211,Katawa,Northern Region,N,Mzuzu,15,"","",-10.9333,34.0167
+MW,105212,Chasefu,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105213,Lunyangwa,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,105214,Kaningína,Northern Region,N,Mzuzu,15,"","",-11.4656,34.0207
+MW,105215,Masasa,Northern Region,N,Mzuzu,15,"","",-12.0167,34.6167
+MW,105216,Msongwe,Northern Region,N,Mzuzu,15,"","",-11.8543,33.6078
+MW,106100,Nkhata Bay BOMA,Northern Region,N,Nkhata Bay,17,"","",-11.653,34.0532
+MW,106101,Mkondowe,Northern Region,N,Nkhata Bay,17,"","",-11.0417,34.2127
+MW,106102,Boghoyo,Northern Region,N,Nkhata Bay,17,"","",-11.1023,34.2252
+MW,106103,M’bwana,Northern Region,N,Nkhata Bay,17,"","",-11.653,34.0532
+MW,106104,Nyaluwanga,Northern Region,N,Nkhata Bay,17,"","",-11.653,34.0532
+MW,106105,Timbiri,Northern Region,N,Nkhata Bay,17,"","",-11.5428,34.192
+MW,106106,Mkumbira,Northern Region,N,Nkhata Bay,17,"","",-11.653,34.0532
+MW,106107,Mankhambira,Northern Region,N,Nkhata Bay,17,"","",-11.7206,34.2958
+MW,106108,Fukamalaza,Northern Region,N,Nkhata Bay,17,"","",-11.75,34.2333
+MW,106109,Malanda,Northern Region,N,Nkhata Bay,17,"","",-11.8667,34.1667
+MW,106110,Kabunduli,Northern Region,N,Nkhata Bay,17,"","",-11.7333,34.0667
+MW,106111,Malenga Mzoma,Northern Region,N,Nkhata Bay,17,"","",-11.9323,34.1334
+MW,106112,Fukamapiri,Northern Region,N,Nkhata Bay,17,"","",-11.952,34.1163
+MW,106113,Zilakoma,Northern Region,N,Nkhata Bay,17,"","",-12.0905,34.0557
+MW,103100,Rumphi BOMA,Northern Region,N,Rumphi,21,"","",-11.0186,33.8575
+MW,103101,Mwalweni,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103102,Kachulu,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103103,Njikula,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103104,Mwamlowe,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103105,Chapinduka,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103106,Mwankhunikira,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103107,Mwahenga,Northern Region,N,Rumphi,21,"","",-10.9167,33.9833
+MW,103108,Chisovya,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103109,Chikulamayembe,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103110,Katumbi,Northern Region,N,Rumphi,21,"","",-10.8125,33.5227
+MW,103111,Zolekere,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,103112,Nyika National Park,Northern Region,N,Rumphi,21,"","",-10.8029,33.8052
+MW,107100,Likoma BOMA,Northern Region,N,Likoma,27,"","",-12.0607,34.7361
+MW,107101,Mkumpha,Northern Region,N,Likoma,27,"","",-12.0607,34.7361
+MW,315100,Chikwawa BOMA,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315101,Chapananga,Southern Region,S,Chikwawa,02,"","",-16.0528,34.7777
+MW,315102,Kasisi,Southern Region,S,Chikwawa,02,"","",-15.9577,34.7718
+MW,315103,Mlilima,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315104,Katunga,Southern Region,S,Chikwawa,02,"","",-16.073,34.8196
+MW,315105,Maseya,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315106,Ndakwela,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315107,Lundu,Southern Region,S,Chikwawa,02,"","",-15.9841,34.4487
+MW,315108,Nchalo Township,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315109,Makhwira,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315110,Ngabu,Southern Region,S,Chikwawa,02,"","",-16.4943,34.9115
+MW,315111,Ngabu Township,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315112,Ngowe,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315113,Masache,Southern Region,S,Chikwawa,02,"","",-16.5667,34.95
+MW,315114,Lengwe National Park,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,315115,Majete Game Reserve,Southern Region,S,Chikwawa,02,"","",-16.1667,34.75
+MW,306100,Chiradzulu BOMA,Southern Region,S,Chiradzulu,03,"","",-15.6746,35.1407
+MW,306101,Chitera,Southern Region,S,Chiradzulu,03,"","",-15.7527,35.2158
+MW,306102,Mpama,Southern Region,S,Chiradzulu,03,"","",-14.6077,35.469
+MW,306103,Nchema,Southern Region,S,Chiradzulu,03,"","",-15.7527,35.2158
+MW,306104,Sandaraki,Southern Region,S,Chiradzulu,03,"","",-15.7527,35.2158
+MW,306105,Kadewere,Southern Region,S,Chiradzulu,03,"","",-15.5,35.3833
+MW,306106,Onga,Southern Region,S,Chiradzulu,03,"","",-15.35,35.3833
+MW,306107,Likoswe,Southern Region,S,Chiradzulu,03,"","",-15.7527,35.2158
+MW,306108,Mpunga,Southern Region,S,Chiradzulu,03,"","",-14.8,35.5833
+MW,306109,Nkalo,Southern Region,S,Chiradzulu,03,"","",-15.7527,35.2158
+MW,309300,Luchenza Township,Southern Region,S,Luchenza Municipality,05,"","",-16.1058,35.1506
+MW,310100,Thyolo BOMA,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310101,Bvumbwe,Southern Region,S,Thyolo,05,"","",-15.9167,35.0667
+MW,310102,Thomas,Southern Region,S,Thyolo,05,"","",-16.0833,34.55
+MW,310103,Mphuka,Southern Region,S,Thyolo,05,"","",-16.2333,34.6833
+MW,310104,Boyidi,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310105,Chimaliro,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310106,Ngolongoliwa,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310107,Nanseta,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310108,Ndalama,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310109,Nchilamwela,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310110,Kapichi,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310111,Kwethemule,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310112,Changata,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310113,Mbawela,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,310114,Nsabwe,Southern Region,S,Thyolo,05,"","",-16.3333,35.2167
+MW,310115,Thukuta,Southern Region,S,Thyolo,05,"","",-16.1058,35.1506
+MW,301100,Lulanga,Southern Region,S,Mangochi Rural,12,"","",-14.7833,35.6833
+MW,301101,Makanjila,Southern Region,S,Mangochi Rural,12,"","",-13.7088,35.0448
+MW,301102,Namabvi,Southern Region,S,Mangochi Rural,12,"","",-14.393,35.3466
+MW,301103,Katuli,Southern Region,S,Mangochi Rural,12,"","",-14.393,35.3466
+MW,301104,Chowe,Southern Region,S,Mangochi Rural,12,"","",-14.393,35.3466
+MW,301105,Jalasi,Southern Region,S,Mangochi Rural,12,"","",-14.3635,35.4454
+MW,301106,Mbwana Nyambi,Southern Region,S,Mangochi Rural,12,"","",-14.393,35.3466
+MW,301107,Chiunda,Southern Region,S,Mangochi Rural,12,"","",-14.7595,35.3817
+MW,301108,Nankumba,Southern Region,S,Mangochi Rural,12,"","",-14.3645,34.8227
+MW,301109,Monkey Bay Township,Southern Region,S,Mangochi Rural,12,"","",-14.393,35.3466
+MW,301110,Mponda,Southern Region,S,Mangochi Rural,12,"","",-14.4781,35.2645
+MW,301111,Ntonda,Southern Region,S,Mangochi Rural,12,"","",-14.5239,35.3744
+MW,301112,Chilipa,Southern Region,S,Mangochi Rural,12,"","",-14.698,34.9779
+MW,301113,Chimwala,Southern Region,S,Mangochi Rural,12,"","",-14.6386,35.1833
+MW,301114,Lake Malawi National Park,Southern Region,S,Mangochi Rural,12,"","",-14.393,35.3466
+MW,301400,Mangochi Central Township,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301401,Koche,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301402,Thundu,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301403,Chigawe,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301404,Mikomwa,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301405,Nkanamwano,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301406,Kalungu,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301407,Msukamwere,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301408,Mtumbwasi,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301409,Mwasa,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301410,Ndege,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301411,Chikole,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,301412,Msikisi,Southern Region,S,Mangochi Town,12,"","",-14.393,35.3466
+MW,316100,Nsanje BOMA,Southern Region,S,Nsanje,19,"","",-16.75,35.1667
+MW,316101,Mlolo,Southern Region,S,Nsanje,19,"","",-16.75,35.1667
+MW,316102,Mbenje,Southern Region,S,Nsanje,19,"","",-16.9804,35.2135
+MW,316103,Bangula Township,Southern Region,S,Nsanje,19,"","",-16.75,35.1667
+MW,316104,Tengani,Southern Region,S,Nsanje,19,"","",-16.7333,35.2667
+MW,316105,Malemia,Southern Region,S,Nsanje,19,"","",-16.45,34.8833
+MW,316106,Ngabu,Southern Region,S,Nsanje,19,"","",-16.9654,35.2166
+MW,316107,Makoko,Southern Region,S,Nsanje,19,"","",-17.0022,35.1912
+MW,316108,Chimombo,Southern Region,S,Nsanje,19,"","",-17.0167,35.2333
+MW,316109,Nyachikadza,Southern Region,S,Nsanje,19,"","",-17.1167,35.3
+MW,316110,Ndamera,Southern Region,S,Nsanje,19,"","",-17.0958,35.219
+MW,316111,Mwabvi Game Reserve,Southern Region,S,Nsanje,19,"","",-16.75,35.1667
+MW,304101,Nkapita,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304102,Malemia,Southern Region,S,Zomba Rural,23,"","",-15.2667,35.3667
+MW,304103,Kuntumanji,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304104,Mkumbira,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304105,Nkagula,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304106,Mlumbe,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304107,Ntholowa,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304108,Chikowi,Southern Region,S,Zomba Rural,23,"","",-15.4167,35.3
+MW,304109,Mwambo,Southern Region,S,Zomba Rural,23,"","",-15.4356,35.5144
+MW,304110,Ngwelero,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304111,Mbiza,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,304112,Zomba Mountain Reserve,Southern Region,S,Zomba Rural,23,"","",-15.4301,35.4183
+MW,305200,Zomba CBD,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305201,Ndola,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305202,Zakazaka,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305203,St Mary,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305204,Nandolo,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305205,Chirunga,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305206,Masongola,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305207,Mangasanja,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305208,Mulunguzi,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305209,Old Naisi,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305210,Malonje,Southern Region,S,Zomba Urban,23,"","",-15.3667,35.35
+MW,305211,Chinamwali,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305212,Matawale,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305213,Thom Allan,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305214,Mpunga,Southern Region,S,Zomba Urban,23,"","",-14.8,35.5833
+MW,305215,Sadzi,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305216,Mponda Bwino,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305217,Three Miles,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305218,Mtiya,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,305219,Cobbe,Southern Region,S,Zomba Urban,23,"","",-15.4301,35.4183
+MW,311101,Chigaru,Southern Region,S,Blantyre Rural,24,"","",-15.3626,34.9397
+MW,311102,Lundu,Southern Region,S,Blantyre Rural,24,"","",-15.3833,34.9833
+MW,311103,Kunthembwe,Southern Region,S,Blantyre Rural,24,"","",-15.6473,34.9396
+MW,311104,Kuntaja,Southern Region,S,Blantyre Rural,24,"","",-15.513,34.4933
+MW,311105,Chileka,Southern Region,S,Blantyre Rural,24,"","",-15.6679,34.9376
+MW,311106,Kapeni,Southern Region,S,Blantyre Rural,24,"","",-15.785,35.0085
+MW,311107,Lunzu Township,Southern Region,S,Blantyre Rural,24,"","",-15.6473,34.9396
+MW,311108,Makata,Southern Region,S,Blantyre Rural,24,"","",-15.7872,35.0305
+MW,311109,Machinjiri,Southern Region,S,Blantyre Rural,24,"","",-15.2325,35.4146
+MW,311110,Somba,Southern Region,S,Blantyre Rural,24,"","",-15.8667,34.9667
+MW,311111,Mpemba,Southern Region,S,Blantyre Rural,24,"","",-15.8833,34.95
+MW,312200,Blantyre CBD,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312201,Mapanga,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312202,Kachere,Southern Region,S,Blantyre Urban,24,"","",-15.8074,35.0233
+MW,312203,Maone,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312204,Nkolokoti,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312205,Ndirande,Southern Region,S,Blantyre Urban,24,"","",-15.7697,35.0416
+MW,312206,South Lunzu,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312207,Kameza,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312208,Chirimba,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312209,Chemusa,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312210,Mbayani,Southern Region,S,Blantyre Urban,24,"","",-15.7717,35.003
+MW,312211,Nyambadwe,Southern Region,S,Blantyre Urban,24,"","",-15.7737,35.022
+MW,312212,Chilomoni,Southern Region,S,Blantyre Urban,24,"","",-15.7793,34.9824
+MW,312213,Namiwawa,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312214,Sunnyside,Southern Region,S,Blantyre Urban,24,"","",-15.7973,34.9955
+MW,312215,Nancholi,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312216,Zingwangwa,Southern Region,S,Blantyre Urban,24,"","",-15.8186,35.0154
+MW,312217,Chilobwe,Southern Region,S,Blantyre Urban,24,"","",-15.8301,35.0069
+MW,312218,Chimwankhunda,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312219,Manja,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312220,Nkolokosa,Southern Region,S,Blantyre Urban,24,"","",-15.8143,35.0031
+MW,312221,Chitawira,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312222,Naperi,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312223,Mount Pleasant,Southern Region,S,Blantyre Urban,24,"","",-15.7984,35.0149
+MW,312224,Mandala,Southern Region,S,Blantyre Urban,24,"","",-15.7937,35.0059
+MW,312225,Chichiri,Southern Region,S,Blantyre Urban,24,"","",-15.8025,35.0475
+MW,312226,Chinyonga,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312227,Kanjedza,Southern Region,S,Blantyre Urban,24,"","",-15.8175,35.0474
+MW,312228,Mudi,Southern Region,S,Blantyre Urban,24,"","",-15.8012,35.0727
+MW,312229,Limbe,Southern Region,S,Blantyre Urban,24,"","",-15.809,35.0602
+MW,312230,Mpingwe,Southern Region,S,Blantyre Urban,24,"","",-15.8106,35.0713
+MW,312231,Bangwe,Southern Region,S,Blantyre Urban,24,"","",-15.8226,35.1006
+MW,312232,Namiyango,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312233,BCA,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312234,Misesa,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312235,Chiwembe,Southern Region,S,Blantyre Urban,24,"","",-15.8344,35.0509
+MW,312236,Angelogothere,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312237,Che Somba,Southern Region,S,Blantyre Urban,24,"","",-15.6473,34.9396
+MW,312238,Chigumula,Southern Region,S,Blantyre Urban,24,"","",-15.916,35.0554
+MW,314100,Mwanza BOMA,Southern Region,S,Mwanza,25,"","",-15.6334,34.5168
+MW,314101,Kanduku,Southern Region,S,Mwanza,25,"","",-15.5617,34.5026
+MW,314102,Nthache,Southern Region,S,Mwanza,25,"","",-15.6334,34.5168
+MW,314103,Govati,Southern Region,S,Mwanza,25,"","",-15.6334,34.5168
+MW,302100,Balaka,Southern Region,S,Balaka,26,"","",-14.9793,34.9557
+MW,302101,Kachenga,Southern Region,S,Balaka,26,"","",-15.0484,35.0591
+MW,302102,Kalembo,Southern Region,S,Balaka,26,"","",-14.8446,35.1692
+MW,302103,Amidu,Southern Region,S,Balaka,26,"","",-15.0484,35.0591
+MW,302104,Toleza,Southern Region,S,Balaka,26,"","",-14.9319,35.0084
+MW,302105,Matola,Southern Region,S,Balaka,26,"","",-14.9473,34.965
+MW,302106,Sawali,Southern Region,S,Balaka,26,"","",-15.0484,35.0591
+MW,302107,Msamala,Southern Region,S,Balaka,26,"","",-15.0484,35.0591
+MW,302108,Chanthunya,Southern Region,S,Balaka,26,"","",-15.0484,35.0591
+MW,302109,Phalula,Southern Region,S,Balaka,26,"","",-15.2244,34.8903
+MW,302110,Nkaya,Southern Region,S,Balaka,26,"","",-15.1282,35.0298
+MW,303100,Machinja BOMA,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,303101,Liwonde Township,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,303102,Nyambi,Southern Region,S,Machinga,28,"","",-14.6597,35.6276
+MW,303103,Chesale,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,303104,Ngokwe,Southern Region,S,Machinga,28,"","",-14.75,35.6167
+MW,303105,Chikweo,Southern Region,S,Machinga,28,"","",-14.7648,35.6691
+MW,303106,Nchinguza,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,303107,Kapoloma,Southern Region,S,Machinga,28,"","",-14.7333,35.5667
+MW,303108,Nkoola,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,303109,Chiwalo,Southern Region,S,Machinga,28,"","",-14.7333,35.5333
+MW,303110,Liwonde,Southern Region,S,Machinga,28,"","",-15.0667,35.2254
+MW,303111,Kawinga,Southern Region,S,Machinga,28,"","",-14.85,35.55
+MW,303112,Mlomba,Southern Region,S,Machinga,28,"","",-15.0379,35.4639
+MW,303113,Nsanama,Southern Region,S,Machinga,28,"","",-14.9667,35.5167
+MW,303114,Mposa,Southern Region,S,Machinga,28,"","",-15.1667,35.5167
+MW,303115,Chamba,Southern Region,S,Machinga,28,"","",-14.7775,35.3963
+MW,303116,Sitola,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,303117,Mkula,Southern Region,S,Machinga,28,"","",-15.1723,35.3115
+MW,303118,Liwonde National Park,Southern Region,S,Machinga,28,"","",-14.9458,35.5737
+MW,308100,Mulanje BOMA,Southern Region,S,Mulanje,29,"","",-16.0316,35.5
+MW,308101,Juma,Southern Region,S,Mulanje,29,"","",-14.6167,35.6
+MW,308102,Nkanda,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,308103,Nthiramanja,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,308104,Chikumbu,Southern Region,S,Mulanje,29,"","",-15.4667,35.35
+MW,308105,Tombondiya,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,308106,Mabuka,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,308107,Sunganinzeru,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,308108,Laston Njema,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,308109,Mulanje Mountain Reserve,Southern Region,S,Mulanje,29,"","",-15.9344,35.4999
+MW,307100,Phalombe BOMA,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,307101,Migowi Township,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,307102,Chiwalo,Southern Region,S,Phalombe,30,"","",-14.7333,35.5333
+MW,307103,Jenala,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,307104,Mkhumba,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,307105,Kaduya,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,307106,Nazombe,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,307107,Nkhulambe,Southern Region,S,Phalombe,30,"","",-15.6667,35.6667
+MW,313100,Neno BOMA,Southern Region,S,Neno,31,"","",-15.4505,34.7003
+MW,313101,Dambe,Southern Region,S,Neno,31,"","",-15.3819,34.5709
+MW,313102,Chekucheku,Southern Region,S,Neno,31,"","",-15.4505,34.7003
+MW,313103,Symon Likongwe,Southern Region,S,Neno,31,"","",-15.4505,34.7003
+MW,313104,Zalewa Township,Southern Region,S,Neno,31,"","",-15.4505,34.7003
+MW,313105,Mlauli,Southern Region,S,Neno,31,"","",-15.4761,34.6363

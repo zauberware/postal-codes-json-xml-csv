@@ -1,0 +1,74 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+MT,ATD,Attard,Attard,01,"","","","",35.8917,14.4319
+MT,BZN,Balzan,Balzan,02,"","","","",35.8972,14.4528
+MT,BRG,Birgu,Il-Birgu,03,"","","","",35.8861,14.5242
+MT,BKR,Birkirkara,Birkirkara,04,"","","","",35.8972,14.4653
+MT,BBG,Birżebbuġa,Birżebbuġa,05,"","","","",35.8222,14.5228
+MT,BML,Bormla,Bormla,06,"","","","",35.8806,14.5217
+MT,DGL,Dingli,Dingli,07,"","","","",35.8597,14.3833
+MT,FGR,Fgura,Il-Fgura,08,"","","","",35.8728,14.5203
+MT,FRN,Floriana,Il-Furjana,09,"","","","",35.8917,14.5042
+MT,FNT,Fontana,Il-Fontana,10,"","","","",36.0375,14.2361
+MT,GSM,Għajnsielem,Għajnsielem,11,"","","","",36.0267,14.2861
+MT,KMN,Kemmuna,Għajnsielem,11,"","","","",36.0267,14.2861
+MT,GRB,Għarb,L-Għarb,12,"","","","",36.0681,14.2014
+MT,GHR,Għargħur,Ħal Għargħur,13,"","","","",35.9236,14.455
+MT,GSR,Għasri,L-Għasri,14,"","","","",36.0653,14.2217
+MT,GXQ,Għaxaq,Ħal Għaxaq,15,"","","","",35.8458,14.5167
+MT,GDJ,Gudja,Il-Gudja,16,"","","","",35.8514,14.5033
+MT,GZR,Gżira,Il-Gżira,17,"","","","",35.9056,14.4928
+MT,HMR,Ħamrun,Il-Ħamrun,18,"","","","",35.8869,14.4883
+MT,IKL,Iklin,L-Iklin,19,"","","","",35.9097,14.4556
+MT,MDN,Mdina,L-Imdina,20,"","","","",35.8872,14.4053
+MT,MGR,Mġarr,L-Imġarr,21,"","","","",35.9194,14.3639
+MT,MQB,Mqabba,L-Imqabba,22,"","","","",35.845,14.4675
+MT,MSD,Msida,L-Imsida,23,"","","","",35.8986,14.4839
+MT,MTF,Mtarfa,L-Imtarfa,24,"","","","",35.8906,14.3972
+MT,ISL,Isla,L-Isla,25,"","","","",35.8878,14.5169
+MT,KKR,Kalkara,Il-Kalkara,26,"","","","",35.8911,14.5328
+MT,SCM,Smart City,Il-Kalkara,26,"","","","",35.8911,14.5328
+MT,KCM,Kerċem,Ta’ Kerċem,27,"","","","",36.0439,14.2161
+MT,KKP,Kirkop,Kirkop,28,"","","","",35.8442,14.4842
+MT,LJA,Lija,Lija,29,"","","","",35.9014,14.4422
+MT,LQA,Luqa,Luqa,30,"","","","",35.8597,14.4833
+MT,MRS,Marsa,Il-Marsa,31,"","","","",35.8764,14.4922
+MT,MTP,MaltaPost,Il-Marsa,31,"","","","",35.8764,14.4922
+MT,MSK,Marsaskala,Marsaskala,32,"","","","",35.8606,14.5592
+MT,MXK,Marsaxlokk,Marsaxlokk,33,"","","","",35.8417,14.5514
+MT,MLH,Mellieħa,Il-Mellieħa,34,"","","","",35.9583,14.3514
+MT,MST,Mosta,Il-Mosta,35,"","","","",35.9125,14.4208
+MT,MXR,Munxar,Il-Munxar,36,"","","","",36.0292,14.2256
+MT,XLN,Xlendi,Il-Munxar,36,"","","","",36.0292,14.2256
+MT,NDR,Nadur,In-Nadur,37,"","","","",36.0486,14.2944
+MT,NXR,Naxxar,In-Naxxar,38,"","","","",35.9333,14.4375
+MT,PLA,Paola,Paola,39,"","","","",35.8736,14.5061
+MT,PBK,Pembroke,Pembroke,40,"","","","",35.9306,14.4764
+MT,PTA,Pietà,Tal-Pietà,41,"","","","",35.8925,14.4939
+MT,QLA,Qala,Il-Qala,42,"","","","",36.0375,14.3167
+MT,QRM,Qormi,Qormi,43,"","","","",35.8792,14.4667
+MT,QRD,Qrendi,Il-Qrendi,44,"","","","",35.8319,14.4514
+MT,RBT,Rabat,Ir-Rabat,45,"","","","",35.8826,14.3978
+MT,VCT,Victoria,Victoria,46,"","","","",36.0453,14.2417
+MT,SFI,Safi,Safi,47,"","","","",35.8347,14.4917
+MT,SGN,San Ġwann,Saint John,48,"","","","",35.9089,14.475
+MT,STJ,Saint Julians,Saint Julian's,49,"","","","",35.9172,14.4894
+MT,SLZ,San Lawrenz,Saint Lawrence,50,"","","","",36.0486,14.1978
+MT,SLC,Santa Luċija,Saint Lucia,51,"","","","",35.8617,14.5064
+MT,SPB,Saint Paul's Bay,Saint Paul’s Bay,52,"","","","",35.9375,14.3986
+MT,SVR,Santa Venera,Saint Venera,53,"","","","",35.8903,14.4778
+MT,SNT,Sannat,Sannat,54,"","","","",36.0231,14.2514
+MT,SGW,Siġġiewi,Is-Siġġiewi,55,"","","","",35.8486,14.4264
+MT,SLM,Sliema,Tas-Sliema,56,"","","","",35.9125,14.5022
+MT,SWQ,Swieqi,Is-Swieqi,57,"","","","",35.9217,14.4694
+MT,TXN,Tarxien,Tarxien,58,"","","","",35.8667,14.5131
+MT,XBX,Ta' Xbiex,Ta’ Xbiex,59,"","","","",35.8994,14.4961
+MT,VLT,Valletta,Il-Belt Valletta,60,"","","","",35.8983,14.5125
+MT,XRA,Xagħra,Ix-Xagħra,61,"","","","",36.0542,14.2667
+MT,XWK,Xewkija,Ix-Xewkija,62,"","","","",36.0333,14.2611
+MT,XJR,Xgħajra,Ix-Xgħajra,63,"","","","",35.8847,14.5486
+MT,ZBR,Żabbar,Ħaż-Żabbar,64,"","","","",35.875,14.5417
+MT,ZBG,Żebbuġ,Ħaż-Żebbuġ,65,"","","","",35.8736,14.4361
+MT,MFN,Marsalforn,Iż-Żebbuġ,66,"","","","",36.0667,14.2444
+MT,ZBB,Żebbuġ,Iż-Żebbuġ,66,"","","","",36.0667,14.2444
+MT,ZTN,Żejtun,Iż-Żejtun,67,"","","","",35.8578,14.5333
+MT,ZRQ,Żurrieq,Iż-Żurrieq,68,"","","","",35.8222,14.4833

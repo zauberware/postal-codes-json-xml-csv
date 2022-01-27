@@ -1,0 +1,2564 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+PK,80000,Sui Gas Field Sibi,Balochistan,02,"","","","",28.5838,66.829
+PK,80100,Dera Bugti,Balochistan,02,"","","","",29.0362,69.1585
+PK,80200,Manjhi Pur,Balochistan,02,"","","","",28.5838,66.829
+PK,80300,Usta Muhammad,Balochistan,02,"","","","",28.1772,68.0437
+PK,80310,Dr.Azizullah Salakzai,Balochistan,02,"","","","",28.1772,68.0437
+PK,80400,Gandakha,Balochistan,02,"","","","",28.0106,67.8498
+PK,80500,Dera Allayyar,Balochistan,02,"","","","",28.5838,66.829
+PK,80600,Sohbat Pur,Balochistan,02,"","","","",28.5838,66.829
+PK,80700,Dear Murad Jamali,Balochistan,02,"","","","",28.5838,66.829
+PK,80800,Chattar,Balochistan,02,"","","","",28.8951,64.9024
+PK,80810,Sardar Changez Khan,Balochistan,02,"","","","",28.8951,64.9024
+PK,80820,Abdul Ghafoor Lehri,Balochistan,02,"","","","",28.8951,64.9024
+PK,81050,Gandawa,Balochistan,02,"","","","",28.9015,67.3616
+PK,81100,Jhal Magsi,Balochistan,02,"","","","",28.284,67.4562
+PK,81150,Bukhtarabad Domki,Balochistan,02,"","","","",28.284,67.4562
+PK,81200,Lehri,Balochistan,02,"","","","",29.1948,67.6435
+PK,81250,Bhag,Balochistan,02,"","","","",29.0417,67.8239
+PK,81260,Khattan,Balochistan,02,"","","","",29.1506,67.6965
+PK,81270,Manjho Shori,Balochistan,02,"","","","",29.129,67.7213
+PK,81300,Haji Shaher,Balochistan,02,"","","","",28.2114,66.4291
+PK,81350,Mithri Village,Balochistan,02,"","","","",28.2114,66.4291
+PK,81400,Dhadar,Balochistan,02,"","","","",29.4749,67.6517
+PK,81410,Rind Ali,Balochistan,02,"","","","",29.4868,67.6401
+PK,81450,Sanni,Balochistan,02,"","","","",29.1537,67.5622
+PK,81550,Kolpur,Balochistan,02,"","","","",29.1957,66.8301
+PK,82000,Sibi Gpo,Balochistan,02,"","","","",29.5303,68.1354
+PK,82010,Talli,Balochistan,02,"","","","",29.5303,68.1354
+PK,82100,Sibi Railway Colony,Balochistan,02,"","","","",30.4996,68.7498
+PK,82200,Sibi Petrol Pump,Balochistan,02,"","","","",30.4996,68.7498
+PK,82300,Harnai,Balochistan,02,"","","","",30.1008,67.9382
+PK,82310,Khost,Balochistan,02,"","","","",32.837,70.7903
+PK,82400,Sharigh,Balochistan,02,"","","","",30.4996,68.7498
+PK,83000,Kohlu,Balochistan,02,"","","","",29.8965,69.2532
+PK,83100,Maiwand,Balochistan,02,"","","","",29.8965,69.2532
+PK,84100,Chutiali Shafir,Balochistan,02,"","","","",30.0589,69.5253
+PK,84200,Dukki,Balochistan,02,"","","","",28.4625,70.2153
+PK,84300,Sinjawi,Balochistan,02,"","","","",30.2829,68.3436
+PK,84400,Barkhan,Balochistan,02,"","","","",29.8977,69.5256
+PK,84500,Rakhni,Balochistan,02,"","","","",30.0442,69.9258
+PK,84600,Rara Sham,Balochistan,02,"","","","",30.857,70.1875
+PK,84690,Drug,Balochistan,02,"","","","",30.857,70.1875
+PK,84700,Musa Kel,Balochistan,02,"","","","",30.4747,69.3644
+PK,84710,Mekhtar,Balochistan,02,"","","","",30.4747,69.3644
+PK,84800,Loralai Gpo,Balochistan,02,"","","","",29.9123,69.3733
+PK,84810,Mohsinabad,Balochistan,02,"","","","",29.1105,70.905
+PK,84820,Loralai Cantt.,Balochistan,02,"","","","",30.3632,68.5996
+PK,84830,Nahar Kot,Balochistan,02,"","","","",29.7667,69.4661
+PK,84840,Kach Jamal Bagar,Balochistan,02,"","","","",29.9123,69.3733
+PK,84850,Shah Karez,Balochistan,02,"","","","",30.4088,68.5223
+PK,84900,Rar Kan,Balochistan,02,"","","","",30.0589,69.5253
+PK,85100,Murgha,Balochistan,02,"","","","",30.7266,67.8233
+PK,85200,Zhob,Balochistan,02,"","","","",31.3408,69.4493
+PK,85210,Sherani,Balochistan,02,"","","","",28.2664,67.3763
+PK,85220,Sherani Bazar,Balochistan,02,"","","","",29.8036,68.4128
+PK,85230,Ganj Mohalla,Balochistan,02,"","","","",29.8036,68.4128
+PK,85240,Appozai,Balochistan,02,"","","","",29.8036,68.4128
+PK,85300,Qamar-Ud-Din Karez,Balochistan,02,"","","","",31.6591,68.4033
+PK,85400,Killa Saifullah,Balochistan,02,"","","","",30.5249,68.6329
+PK,85500,Muslim Bagh,Balochistan,02,"","","","",32.7956,70.7725
+PK,86000,Chaman,Balochistan,02,"","","","",30.5731,67.1097
+PK,86200,Killa Abadulllah,Balochistan,02,"","","","",28.1813,66.1652
+PK,86210,Killi Abdul Rehmanzai,Balochistan,02,"","","","",28.1813,66.1652
+PK,86220,Habibabad,Balochistan,02,"","","","",28.1813,66.1652
+PK,86400,Saranan,Balochistan,02,"","","","",30.5852,66.8725
+PK,86410,Killi Abdur Rehman Zai,Balochistan,02,"","","","",30.5852,66.8725
+PK,86500,Bostan,Balochistan,02,"","","","",30.428,67.0184
+PK,86600,Khanozai,Balochistan,02,"","","","",30.438,66.6474
+PK,86650,Killi Verchoom,Balochistan,02,"","","","",30.438,66.6474
+PK,86700,Pishin,Balochistan,02,"","","","",30.5818,66.9941
+PK,86710,Hurram Zai,Balochistan,02,"","","","",30.6655,66.9901
+PK,86720,Manzari,Balochistan,02,"","","","",30.7493,66.9861
+PK,86730,Killi Malakyar,Balochistan,02,"","","","",30.6655,66.9901
+PK,86800,Barshore,Balochistan,02,"","","","",30.0195,66.7403
+PK,87000,Kuchlak,Balochistan,02,"","","","",30.3522,66.9402
+PK,87100,Baleli,Balochistan,02,"","","","",30.2781,66.9116
+PK,87110,Killi Minhas,Balochistan,02,"","","","",30.2781,66.9116
+PK,87290,Killi Tirkha,Balochistan,02,"","","","",30.3264,67.1673
+PK,87300,Quetta Gpo,Balochistan,02,"","","","",30.6451,66.5429
+PK,87312,"Jinnah Town, Queeta",Balochistan,02,"","","","",30.6451,66.5429
+PK,87320,Hazar Gangi,Balochistan,02,"","","","",30.6451,66.5429
+PK,87340,Ali Town,Balochistan,02,"","","","",30.6451,66.5429
+PK,87500,Satellite Town Quetta,Balochistan,02,"","","","",30.1615,67.0049
+PK,87550,Sariab Road,Balochistan,02,"","","","",30.1615,67.0049
+PK,87600,Samungali,Balochistan,02,"","","","",30.3264,67.1673
+PK,87650,Quetta Air Port,Balochistan,02,"","","","",30.3264,67.1673
+PK,87710,Nawan Killi,Balochistan,02,"","","","",34.378,71.5886
+PK,87720,Nasirabad,Balochistan,02,"","","","",28.2027,67.9081
+PK,87750,Infantory School,Balochistan,02,"","","","",31.2904,69.7484
+PK,87800,Staff College Quetta,Balochistan,02,"","","","",30.3264,67.1673
+PK,87900,Sariab,Balochistan,02,"","","","",26.5607,62.985
+PK,88050,Sorange,Balochistan,02,"","","","",30.1667,67.2205
+PK,88100,Mastung Road,Balochistan,02,"","","","",29.8802,66.8418
+PK,88150,Digari,Balochistan,02,"","","","",30.0727,67.2122
+PK,88200,Mastung,Balochistan,02,"","","","",28.1202,66.4106
+PK,88210,Khad Kucha,Balochistan,02,"","","","",27.2318,65.6633
+PK,88220,Kirdgap,Balochistan,02,"","","","",28.1202,66.4106
+PK,88230,Dringarh,Balochistan,02,"","","","",28.1202,66.4106
+PK,88240,Kanak,Balochistan,02,"","","","",27.8,66.5969
+PK,88250,Manochar,Balochistan,02,"","","","",28.1202,66.4106
+PK,88260,Johan,Balochistan,02,"","","","",29.3289,66.9716
+PK,88300,Kalat,Balochistan,02,"","","","",29.0266,66.5936
+PK,88310,Kalat Petrol Pump,Balochistan,02,"","","","",28.9437,66.6723
+PK,88320,Moola,Balochistan,02,"","","","",28.9437,66.6723
+PK,88350,Nichara,Balochistan,02,"","","","",28.8607,66.751
+PK,88360,Pidran,Balochistan,02,"","","","",28.9437,66.6723
+PK,88370,Sorab Croos,Balochistan,02,"","","","",28.9437,66.6723
+PK,88400,Sorab,Balochistan,02,"","","","",27.3167,64.75
+PK,88410,Umerabad Gidder,Balochistan,02,"","","","",27.3647,64.941
+PK,88420,Basima,Balochistan,02,"","","","",27.3647,64.941
+PK,88430,Nag,Balochistan,02,"","","","",27.4127,65.132
+PK,88450,Zehri,Balochistan,02,"","","","",27.3647,64.941
+PK,89100,Khuzdar Gpo,Balochistan,02,"","","","",29.1506,67.6965
+PK,89120,Buet,Balochistan,02,"","","","",29.1506,67.6965
+PK,89130,Chamrok,Balochistan,02,"","","","",29.1506,67.6965
+PK,89140,Tootak,Balochistan,02,"","","","",29.1506,67.6965
+PK,89150,Khuzdar Cantt.,Balochistan,02,"","","","",29.1506,67.6965
+PK,89160,Kuzdar Bazar,Balochistan,02,"","","","",29.1506,67.6965
+PK,89170,Khattan,Balochistan,02,"","","","",29.1506,67.6965
+PK,89200,Mashkey,Balochistan,02,"","","","",27.3733,66.3266
+PK,89230,Zeedi,Balochistan,02,"","","","",27.3733,66.3266
+PK,89240,Jinnah Camp,Balochistan,02,"","","","",27.3733,66.3266
+PK,89250,Wadh,Balochistan,02,"","","","",27.449,66.91
+PK,89260,Jibri,Balochistan,02,"","","","",27.2977,65.7432
+PK,89270,Ornach,Balochistan,02,"","","","",27.3733,66.3266
+PK,89300,Kalwan,Balochistan,02,"","","","",34.8851,73.9306
+PK,89350,Karakh,Balochistan,02,"","","","",27.7363,67.1728
+PK,90050,Bela,Balochistan,02,"","","","",26.2272,66.3118
+PK,90150,Uthal,Balochistan,02,"","","","",25.8072,66.6219
+PK,90160,Lakhra,Balochistan,02,"","","","",25.8647,66.4517
+PK,90200,Miani Beach,Balochistan,02,"","","","",25.6273,66.57
+PK,90210,Sommiani (Winder),Balochistan,02,"","","","",25.6273,66.57
+PK,90250,Hub Chowki,Balochistan,02,"","","","",25.6273,66.57
+PK,90260,Civic Centre Hub,Balochistan,02,"","","","",25.6273,66.57
+PK,90300,Gadani,Balochistan,02,"","","","",25.1188,66.7322
+PK,90350,Balicha,Balochistan,02,"","","","",25.1188,66.7322
+PK,91100,Jiwani,Balochistan,02,"","","","",25.0485,61.7457
+PK,91200,Gawadar,Balochistan,02,"","","","",25.1739,63.2837
+PK,91210,Surbandar,Balochistan,02,"","","","",25.1739,63.2837
+PK,91220,Peshkan,Balochistan,02,"","","","",25.1739,63.2837
+PK,91300,Pasni,Balochistan,02,"","","","",25.263,63.4692
+PK,91400,Ormara,Balochistan,02,"","","","",25.2102,64.6363
+PK,92100,Mand,Balochistan,02,"","","","",26.1167,62.0326
+PK,92300,Tump,Balochistan,02,"","","","",26.1014,62.3659
+PK,92400,Kalatuk,Balochistan,02,"","","","",26.0359,62.8952
+PK,92500,Shahi Tump,Balochistan,02,"","","","",26.0035,63.0182
+PK,92600,Turbat Gpo,Balochistan,02,"","","","",25.8998,62.5082
+PK,92610,Asiabad,Balochistan,02,"","","","",26.0887,62.4742
+PK,92650,Kuddan,Balochistan,02,"","","","",25.7109,62.5421
+PK,92800,Buleda,Balochistan,02,"","","","",26.3091,63.1537
+PK,92810,Solo Buleda,Balochistan,02,"","","","",26.3091,63.1537
+PK,92900,Nasirabad,Balochistan,02,"","","","",26.0669,62.7134
+PK,92910,Hoshab,Balochistan,02,"","","","",26.0159,63.8883
+PK,93000,Panjgur,Balochistan,02,"","","","",26.9719,64.0946
+PK,93100,Patak,Balochistan,02,"","","","",27.7538,65.616
+PK,93200,Katagari,Balochistan,02,"","","","",26.7534,64.0285
+PK,93210,Washbood,Balochistan,02,"","","","",26.7534,64.0285
+PK,93220,Khudabandan,Balochistan,02,"","","","",26.7534,64.0285
+PK,93230,Tasap,Balochistan,02,"","","","",26.7534,64.0285
+PK,94050,Basima,Balochistan,02,"","","","",28.2839,65.106
+PK,94100,Kharan,Balochistan,02,"","","","",28.5846,65.415
+PK,94110,Washuk,Balochistan,02,"","","","",27.7273,64.8097
+PK,94150,Ladgasht,Balochistan,02,"","","","",28.5399,65.0934
+PK,95000,Koh Taftan,Balochistan,02,"","","","",29.1046,65.2193
+PK,95040,Yak Mach,Balochistan,02,"","","","",29.1046,65.2193
+PK,95050,Nokundi,Balochistan,02,"","","","",29.1046,65.2193
+PK,95060,Amori,Balochistan,02,"","","","",29.1046,65.2193
+PK,95100,Dalbandin,Balochistan,02,"","","","",28.8885,64.4062
+PK,95110,Padag,Balochistan,02,"","","","",29.0031,65.3154
+PK,95120,Chaghi,Balochistan,02,"","","","",29.1046,65.2193
+PK,95130,Brapcha,Balochistan,02,"","","","",29.1046,65.2193
+PK,95150,Ahmedwal,Balochistan,02,"","","","",29.4222,65.9364
+PK,95200,Nushki Gpo,Balochistan,02,"","","","",29.1046,65.2193
+PK,95210,Sar Mall,Balochistan,02,"","","","",29.1046,65.2193
+PK,96000,Ziarat,Balochistan,02,"","","","",30.3434,67.7422
+PK,96100,Ahmadoon,Balochistan,02,"","","","",30.3434,67.7422
+PK,17000,Mera Gram,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17010,Brep,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17020,Mastaj,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17030,Harichin,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17050,Booni,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17054,Booni Main Bazar,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17060,Darason,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17070,Gohkeer,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17080,Shah Gram,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17090,Shot Khara,Khyber Pakhtunkhwa,03,"","","","",35.9268,71.5265
+PK,17100,Kosht,Khyber Pakhtunkhwa,03,"","","","",36.242,72.1593
+PK,17110,Reshun,Khyber Pakhtunkhwa,03,"","","","",36.1571,72.104
+PK,17120,Kaghuzai,Khyber Pakhtunkhwa,03,"","","","",36.1307,71.9409
+PK,17130,Garam Chashma,Khyber Pakhtunkhwa,03,"","","","",35.993,71.5594
+PK,17140,Para Beg,Khyber Pakhtunkhwa,03,"","","","",36.1307,71.9409
+PK,17200,Chitral Gpo,Khyber Pakhtunkhwa,03,"","","","",34.7902,71.7932
+PK,17210,Ayun,Khyber Pakhtunkhwa,03,"","","","",35.7254,71.7728
+PK,17220,Drosh,Khyber Pakhtunkhwa,03,"","","","",35.5604,71.796
+PK,17230,Broz,Khyber Pakhtunkhwa,03,"","","","",35.3941,71.6781
+PK,17234,Sair Door,Khyber Pakhtunkhwa,03,"","","","",35.3941,71.6781
+PK,17240,Nagar,Khyber Pakhtunkhwa,03,"","","","",34.036,72.949
+PK,17250,Aranda,Khyber Pakhtunkhwa,03,"","","","",34.2243,71.5362
+PK,17260,Ashrit,Khyber Pakhtunkhwa,03,"","","","",34.7902,71.7932
+PK,17290,Daggar,Khyber Pakhtunkhwa,03,"","","","",33.197,71.1424
+PK,18000,Dir,Khyber Pakhtunkhwa,03,"","","","",35.2074,71.8768
+PK,18050,Sharingal,Khyber Pakhtunkhwa,03,"","","","",35.2074,71.8768
+PK,18100,Barawal Bandi,Khyber Pakhtunkhwa,03,"","","","",35.0905,71.7636
+PK,18150,Darora,Khyber Pakhtunkhwa,03,"","","","",35.1025,71.9881
+PK,18200,Wari,Khyber Pakhtunkhwa,03,"","","","",34.7925,71.7967
+PK,18210,Shahibabad,Khyber Pakhtunkhwa,03,"","","","",34.7925,71.7967
+PK,18250,Khall,Khyber Pakhtunkhwa,03,"","","","",34.7925,71.7967
+PK,18300,Timargara,Khyber Pakhtunkhwa,03,"","","","",34.8266,71.8442
+PK,18350,Lal Qilla,Khyber Pakhtunkhwa,03,"","","","",34.8266,71.8442
+PK,18400,Dara Manial,Khyber Pakhtunkhwa,03,"","","","",34.7925,71.7967
+PK,18450,Zaimdara,Khyber Pakhtunkhwa,03,"","","","",34.7925,71.7967
+PK,18500,Munda,Khyber Pakhtunkhwa,03,"","","","",34.8237,71.6856
+PK,18550,Mayar Jandol,Khyber Pakhtunkhwa,03,"","","","",34.8237,71.6856
+PK,18600,Samar Bagh,Khyber Pakhtunkhwa,03,"","","","",34.0501,71.6051
+PK,18650,Khar (Bajaur Agency),Khyber Pakhtunkhwa,03,"","","","",34.7361,71.5274
+PK,18700,Ziarat (Dir),Khyber Pakhtunkhwa,03,"","","","",34.5798,71.808
+PK,18750,Ouch (Dir),Khyber Pakhtunkhwa,03,"","","","",34.5798,71.808
+PK,18760,Pir Khel,Khyber Pakhtunkhwa,03,"","","","",34.5798,71.808
+PK,18800,Chakdara,Khyber Pakhtunkhwa,03,"","","","",34.6616,72.0324
+PK,19010,Bahrain,Khyber Pakhtunkhwa,03,"","","","",35.2093,72.5485
+PK,19020,Madyan,Khyber Pakhtunkhwa,03,"","","","",35.141,72.5382
+PK,19030,Fatehpur,Khyber Pakhtunkhwa,03,"","","","",35.0504,72.5071
+PK,19040,Matta,Khyber Pakhtunkhwa,03,"","","","",34.9292,72.4146
+PK,19044,Chuprial,Khyber Pakhtunkhwa,03,"","","","",34.9811,72.3632
+PK,19050,Bara Darwesh Khela,Khyber Pakhtunkhwa,03,"","","","",35.005,72.5164
+PK,19060,Kabal,Khyber Pakhtunkhwa,03,"","","","",34.7907,72.2824
+PK,19070,Davlai,Khyber Pakhtunkhwa,03,"","","","",35.005,72.5164
+PK,19080,Kana,Khyber Pakhtunkhwa,03,"","","","",34.9333,72.9607
+PK,19090,Chakisar,Khyber Pakhtunkhwa,03,"","","","",35.005,72.5164
+PK,19100,Alpurai,Khyber Pakhtunkhwa,03,"","","","",34.9029,72.6443
+PK,19110,Khawaza Khela,Khyber Pakhtunkhwa,03,"","","","",34.3593,73.1243
+PK,19120,Charbagh,Khyber Pakhtunkhwa,03,"","","","",34.5007,73.028
+PK,19130,Mangora,Khyber Pakhtunkhwa,03,"","","","",33.8753,73.976
+PK,19132,Gulkada (Distt. Court),Khyber Pakhtunkhwa,03,"","","","",33.8753,73.976
+PK,19140,Aman Kot,Khyber Pakhtunkhwa,03,"","","","",34.2624,72.4372
+PK,19150,Aloch,Khyber Pakhtunkhwa,03,"","","","",34.7391,72.6842
+PK,19200,Saidu Sharif Gpo,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,19204,Damori,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,19210,Rahim Abad,Khyber Pakhtunkhwa,03,"","","","",28.4336,67.9158
+PK,19220,Hodigram,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,19230,Ghalegi,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,19240,Barikot,Khyber Pakhtunkhwa,03,"","","","",34.7734,71.9048
+PK,19250,Zara Khela,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,19260,Jewar,Khyber Pakhtunkhwa,03,"","","","",34.4751,72.9311
+PK,19270,Tor Warsak,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,19280,Pipal Bazar,Khyber Pakhtunkhwa,03,"","","","",32.5607,70.9172
+PK,20100,Dassu,Khyber Pakhtunkhwa,03,"","","","",35.72,75.5208
+PK,20200,Pattan,Khyber Pakhtunkhwa,03,"","","","",34.6866,73.4848
+PK,20300,Ranolia,Khyber Pakhtunkhwa,03,"","","","",35.0492,72.8906
+PK,20400,Sholgaraha,Khyber Pakhtunkhwa,03,"","","","",35.0963,73.6938
+PK,20500,Besham,Khyber Pakhtunkhwa,03,"","","","",34.9294,72.8791
+PK,21010,Biari Ayub Khan,Khyber Pakhtunkhwa,03,"","","","",34.6627,72.9425
+PK,21020,Muslim Abad,Khyber Pakhtunkhwa,03,"","","","",34.4002,71.9018
+PK,21030,Thakot,Khyber Pakhtunkhwa,03,"","","","",34.75,72.9167
+PK,21032,Banna,Khyber Pakhtunkhwa,03,"","","","",34.8307,73.0648
+PK,21036,Rashang,Khyber Pakhtunkhwa,03,"","","","",34.8198,73.1196
+PK,21040,Battagram,Khyber Pakhtunkhwa,03,"","","","",34.6772,73.0233
+PK,21042,Peshora,Khyber Pakhtunkhwa,03,"","","","",34.6772,73.0233
+PK,21044,Batamohri,Khyber Pakhtunkhwa,03,"","","","",34.6772,73.0233
+PK,21046,Saden Mira,Khyber Pakhtunkhwa,03,"","","","",34.6772,73.0233
+PK,21050,Bansair,Khyber Pakhtunkhwa,03,"","","","",34.6627,72.9425
+PK,21060,Koza Banda,Khyber Pakhtunkhwa,03,"","","","",34.5962,73.062
+PK,21062,Chohan,Khyber Pakhtunkhwa,03,"","","","",34.5962,73.062
+PK,21070,Chatar Plain,Khyber Pakhtunkhwa,03,"","","","",34.6627,72.9425
+PK,21080,Bali Mang,Khyber Pakhtunkhwa,03,"","","","",34.6627,72.9425
+PK,21090,Battal,Khyber Pakhtunkhwa,03,"","","","",34.5879,73.1478
+PK,21100,Haji Abad,Khyber Pakhtunkhwa,03,"","","","",34.7391,71.473
+PK,21110,Baffa,Khyber Pakhtunkhwa,03,"","","","",34.291,72.888
+PK,21120,Hazara University,Khyber Pakhtunkhwa,03,"","","","",34.5156,72.901
+PK,21130,Dhudial (Mansehra),Khyber Pakhtunkhwa,03,"","","","",34.4352,73.2561
+PK,21140,Shinkiari,Khyber Pakhtunkhwa,03,"","","","",34.4711,73.2707
+PK,21150,Shinkiari Camp,Khyber Pakhtunkhwa,03,"","","","",34.5156,72.901
+PK,21160,Dadar,Khyber Pakhtunkhwa,03,"","","","",34.5523,73.259
+PK,21170,Jabori,Khyber Pakhtunkhwa,03,"","","","",34.6048,73.2592
+PK,21200,Naran,Khyber Pakhtunkhwa,03,"","","","",34.9053,73.6486
+PK,21210,Kaghan,Khyber Pakhtunkhwa,03,"","","","",34.7768,73.5253
+PK,21220,Mohandri Bazar,Khyber Pakhtunkhwa,03,"","","","",34.6374,73.4424
+PK,21230,Balakot,Khyber Pakhtunkhwa,03,"","","","",34.5544,73.3479
+PK,21240,Ghari Habibullah,Khyber Pakhtunkhwa,03,"","","","",34.6374,73.4424
+PK,21250,Batrasi Camp,Khyber Pakhtunkhwa,03,"","","","",34.6374,73.4424
+PK,21270,Chakia,Khyber Pakhtunkhwa,03,"","","","",34.3133,73.2476
+PK,21300,Mansehra Gpo,Khyber Pakhtunkhwa,03,"","","","",34.366,73.2614
+PK,21304,Chitta Batta,Khyber Pakhtunkhwa,03,"","","","",34.366,73.2614
+PK,21310,Mansehra City,Khyber Pakhtunkhwa,03,"","","","",34.3772,73.1524
+PK,21330,Manglore,Khyber Pakhtunkhwa,03,"","","","",34.3772,73.1524
+PK,21340,Bher Kund,Khyber Pakhtunkhwa,03,"","","","",34.3772,73.1524
+PK,21350,Khaki,Khyber Pakhtunkhwa,03,"","","","",34.4081,73.1281
+PK,21360,Muradpur,Khyber Pakhtunkhwa,03,"","","","",34.4389,73.1357
+PK,21370,Parhena,Khyber Pakhtunkhwa,03,"","","","",34.3772,73.1524
+PK,21380,Phulra,Khyber Pakhtunkhwa,03,"","","","",34.3352,73.0556
+PK,21390,Lassan Nawab,Khyber Pakhtunkhwa,03,"","","","",34.3486,73.0723
+PK,21400,Oghi,Khyber Pakhtunkhwa,03,"","","","",34.4985,73.014
+PK,21410,Sham Dhera,Khyber Pakhtunkhwa,03,"","","","",34.452,72.9524
+PK,21420,Qilagay,Khyber Pakhtunkhwa,03,"","","","",34.452,72.9524
+PK,21430,Dilbori,Khyber Pakhtunkhwa,03,"","","","",34.452,72.9524
+PK,21440,Belian,Khyber Pakhtunkhwa,03,"","","","",34.5286,72.9765
+PK,21450,Sher Garh (Mansehra),Khyber Pakhtunkhwa,03,"","","","",34.452,72.9524
+PK,21460,Darband,Khyber Pakhtunkhwa,03,"","","","",34.3289,72.8667
+PK,22000,Qalanderabad,Khyber Pakhtunkhwa,03,"","","","",34.2524,73.2475
+PK,22010,Abbottabad Gpo,Khyber Pakhtunkhwa,03,"","","","",34.2524,73.2475
+PK,22030,Abbottabad Public School,Khyber Pakhtunkhwa,03,"","","","",34.2524,73.2475
+PK,22040,Ayub Medical College Abbottabad,Khyber Pakhtunkhwa,03,"","","","",34.3491,73.2313
+PK,22044,Mandian,Khyber Pakhtunkhwa,03,"","","","",34.3491,73.2313
+PK,22050,Jhangi,Khyber Pakhtunkhwa,03,"","","","",34.1954,73.2267
+PK,22060,Toba Camp,Khyber Pakhtunkhwa,03,"","","","",34.2524,73.2475
+PK,22070,Kakul,Khyber Pakhtunkhwa,03,"","","","",34.2036,73.2827
+PK,22080,Nawan Shahr,Khyber Pakhtunkhwa,03,"","","","",34.1648,73.2655
+PK,22090,Sheikhul Bandi,Khyber Pakhtunkhwa,03,"","","","",34.2524,73.2475
+PK,22100,Kuthiala,Khyber Pakhtunkhwa,03,"","","","",34.2834,73.4308
+PK,22106,Richh Bhan,Khyber Pakhtunkhwa,03,"","","","",34.2834,73.4308
+PK,22110,Pind Kargo Khan,Khyber Pakhtunkhwa,03,"","","","",34.2868,73.3528
+PK,22120,Sherwan,Khyber Pakhtunkhwa,03,"","","","",34.2038,73.0699
+PK,22130,Chamatti,Khyber Pakhtunkhwa,03,"","","","",34.2868,73.3528
+PK,22150,Thandayani,Khyber Pakhtunkhwa,03,"","","","",34.2868,73.3528
+PK,22160,Chamyali,Khyber Pakhtunkhwa,03,"","","","",34.2868,73.3528
+PK,22170,Gamang,Khyber Pakhtunkhwa,03,"","","","",34.2868,73.3528
+PK,22180,Boi,Khyber Pakhtunkhwa,03,"","","","",34.3054,73.4335
+PK,22190,Dalola,Khyber Pakhtunkhwa,03,"","","","",34.3579,73.399
+PK,22200,Dhamtaur,Khyber Pakhtunkhwa,03,"","","","",34.1352,73.2751
+PK,22210,Bagnotar,Khyber Pakhtunkhwa,03,"","","","",34.1258,73.341
+PK,22220,Tharyati,Khyber Pakhtunkhwa,03,"","","","",34.0978,73.347
+PK,22230,Biran Gali,Khyber Pakhtunkhwa,03,"","","","",34.1814,73.362
+PK,22250,Namli Maira,Khyber Pakhtunkhwa,03,"","","","",34.098,73.3768
+PK,22260,Nagri Bala,Khyber Pakhtunkhwa,03,"","","","",34.0476,73.3369
+PK,22270,Kala Bagh (Hazara),Khyber Pakhtunkhwa,03,"","","","",34.0978,73.347
+PK,22280,Nathia Gali,Khyber Pakhtunkhwa,03,"","","","",34.0688,73.3967
+PK,22290,Bagan,Khyber Pakhtunkhwa,03,"","","","",34.0277,73.3405
+PK,22300,Dunga Gali,Khyber Pakhtunkhwa,03,"","","","",34.0547,73.4121
+PK,22310,Ayubia,Khyber Pakhtunkhwa,03,"","","","",34.0287,73.4074
+PK,22320,Changla Gali,Khyber Pakhtunkhwa,03,"","","","",33.9956,73.3767
+PK,22330,Khaira Gali,Khyber Pakhtunkhwa,03,"","","","",33.982,73.3997
+PK,22350,Nagri Totlial,Khyber Pakhtunkhwa,03,"","","","",33.9902,73.3758
+PK,22360,Lora,Khyber Pakhtunkhwa,03,"","","","",33.8901,73.283
+PK,22370,Gambeer,Khyber Pakhtunkhwa,03,"","","","",33.9902,73.3758
+PK,22500,Havelian,Khyber Pakhtunkhwa,03,"","","","",34.0535,73.1599
+PK,22510,Pak Ordinance Factories Havilian,Khyber Pakhtunkhwa,03,"","","","",34.2481,73.0972
+PK,22520,Havelian Ammunation Depot,Khyber Pakhtunkhwa,03,"","","","",34.2481,73.0972
+PK,22530,Rajoya,Khyber Pakhtunkhwa,03,"","","","",34.0779,73.2263
+PK,22540,Chando Maira,Khyber Pakhtunkhwa,03,"","","","",34.0069,73.2064
+PK,22550,Nara,Khyber Pakhtunkhwa,03,"","","","",34.368,72.9118
+PK,22560,Maira Bala,Khyber Pakhtunkhwa,03,"","","","",34.3142,72.9291
+PK,22570,Satura,Khyber Pakhtunkhwa,03,"","","","",33.9567,73.243
+PK,22580,Halli,Khyber Pakhtunkhwa,03,"","","","",35.4624,73.1258
+PK,22584,Baldher,Khyber Pakhtunkhwa,03,"","","","",34.0052,73.0901
+PK,22590,Sarai Saleh,Khyber Pakhtunkhwa,03,"","","","",33.9878,72.9826
+PK,22600,Rehana,Khyber Pakhtunkhwa,03,"","","","",33.9452,73.0255
+PK,22610,Hattar Industrial Estate,Khyber Pakhtunkhwa,03,"","","","",33.9056,72.9514
+PK,22620,Haripur Gpo,Khyber Pakhtunkhwa,03,"","","","",33.9056,72.9514
+PK,22630,Haripur Telephone Factory,Khyber Pakhtunkhwa,03,"","","","",33.9056,72.9514
+PK,22640,Haripur Central Jail,Khyber Pakhtunkhwa,03,"","","","",33.9056,72.9514
+PK,22650,Khanpur (Hazara),Khyber Pakhtunkhwa,03,"","","","",33.804,73.0644
+PK,22652,Baghpur Dheri,Khyber Pakhtunkhwa,03,"","","","",33.804,73.0644
+PK,22660,Kot Najibullah,Khyber Pakhtunkhwa,03,"","","","",33.9339,72.8522
+PK,22680,Kangra Township,Khyber Pakhtunkhwa,03,"","","","",33.9056,72.9514
+PK,22690,Panian,Khyber Pakhtunkhwa,03,"","","","",33.9731,72.8511
+PK,22694,Sarai Gaddai,Khyber Pakhtunkhwa,03,"","","","",33.9731,72.8511
+PK,22700,Mankarai,Khyber Pakhtunkhwa,03,"","","","",34.1266,73.0252
+PK,22710,Pind Hasham Khan,Khyber Pakhtunkhwa,03,"","","","",34.1266,73.0252
+PK,22720,Sarai Niamat Khan,Khyber Pakhtunkhwa,03,"","","","",34.0834,73.0365
+PK,22730,Chamhad,Khyber Pakhtunkhwa,03,"","","","",34.1143,73.075
+PK,22750,Kakotri,Khyber Pakhtunkhwa,03,"","","","",34.1243,73.0116
+PK,22760,Jarral,Khyber Pakhtunkhwa,03,"","","","",34.1488,73.0467
+PK,22770,Bir,Khyber Pakhtunkhwa,03,"","","","",34.1622,72.9563
+PK,22780,Badhora,Khyber Pakhtunkhwa,03,"","","","",34.1266,73.0252
+PK,22800,Khalabat Township,Khyber Pakhtunkhwa,03,"","","","",34.0221,72.9109
+PK,22810,Kalangar,Khyber Pakhtunkhwa,03,"","","","",34.1142,71.9257
+PK,22830,Gudwalian,Khyber Pakhtunkhwa,03,"","","","",34.0481,72.6084
+PK,22840,Sirikot,Khyber Pakhtunkhwa,03,"","","","",34.0428,72.7739
+PK,22844,Kandi Umer Khan,Khyber Pakhtunkhwa,03,"","","","",34.0428,72.7739
+PK,22850,Tarbela Dam Colony,Khyber Pakhtunkhwa,03,"","","","",34.0481,72.6084
+PK,22860,Ghazi,Khyber Pakhtunkhwa,03,"","","","",34.0186,72.6577
+PK,22870,Dewan Suleman Farooq Industrial Area,Khyber Pakhtunkhwa,03,"","","","",34.0481,72.6084
+PK,23000,Thana,Khyber Pakhtunkhwa,03,"","","","",34.6383,72.0734
+PK,23010,Dheri Alla Dhand,Khyber Pakhtunkhwa,03,"","","","",34.582,71.9332
+PK,23020,Batkhela Gpo,Khyber Pakhtunkhwa,03,"","","","",34.582,71.9332
+PK,23030,Totakan,Khyber Pakhtunkhwa,03,"","","","",34.6178,71.8255
+PK,23040,Gamseer,Khyber Pakhtunkhwa,03,"","","","",34.582,71.9332
+PK,23050,Malakand,Khyber Pakhtunkhwa,03,"","","","",34.5656,71.9304
+PK,23060,Dargai,Khyber Pakhtunkhwa,03,"","","","",34.5063,71.9033
+PK,23090,Baizu Kharki,Khyber Pakhtunkhwa,03,"","","","",34.582,71.9332
+PK,23100,Sher Garh,Khyber Pakhtunkhwa,03,"","","","",34.3934,71.8982
+PK,23120,Hathian,Khyber Pakhtunkhwa,03,"","","","",34.3934,71.9156
+PK,23130,Lund Khawar,Khyber Pakhtunkhwa,03,"","","","",34.34,71.9402
+PK,23140,Tazagram,Khyber Pakhtunkhwa,03,"","","","",34.4552,72.0582
+PK,23150,Jalala,Khyber Pakhtunkhwa,03,"","","","",34.3353,71.9024
+PK,23154,Umarabad,Khyber Pakhtunkhwa,03,"","","","",34.3327,71.9539
+PK,23164,Takkar,Khyber Pakhtunkhwa,03,"","","","",34.2883,71.8973
+PK,23166,Gharibabad,Khyber Pakhtunkhwa,03,"","","","",34.2932,71.8799
+PK,23170,Gujar Garhi,Khyber Pakhtunkhwa,03,"","","","",34.2288,72.0159
+PK,23200,Mardan Gpo,Khyber Pakhtunkhwa,03,"","","","",34.2798,71.9493
+PK,23210,Mardan Sugar Research Institute,Khyber Pakhtunkhwa,03,"","","","",34.2798,71.9493
+PK,23220,Bakhshali,Khyber Pakhtunkhwa,03,"","","","",34.2836,72.1504
+PK,23230,Jamal Garhi,Khyber Pakhtunkhwa,03,"","","","",33.9923,71.601
+PK,23240,Katlang,Khyber Pakhtunkhwa,03,"","","","",34.3444,72.0678
+PK,23250,Babu Zai,Khyber Pakhtunkhwa,03,"","","","",34.2798,71.9493
+PK,23260,Kohi Barmol,Khyber Pakhtunkhwa,03,"","","","",34.4879,72.1133
+PK,23270,Plai,Khyber Pakhtunkhwa,03,"","","","",34.4065,71.6789
+PK,23280,Sattar Khan Colony,Khyber Pakhtunkhwa,03,"","","","",34.2798,71.9493
+PK,23290,Mayar,Khyber Pakhtunkhwa,03,"","","","",34.164,72.0843
+PK,23300,Toru,Khyber Pakhtunkhwa,03,"","","","",34.1445,72.0948
+PK,23310,Garhi Kapura,Khyber Pakhtunkhwa,03,"","","","",34.1986,72.1642
+PK,23320,Yar Hussain,Khyber Pakhtunkhwa,03,"","","","",34.1728,72.2728
+PK,23330,Dobian,Khyber Pakhtunkhwa,03,"","","","",34.3096,72.0894
+PK,23340,Dogai,Khyber Pakhtunkhwa,03,"","","","",34.8428,71.9553
+PK,23350,Gujrat (Mardan),Khyber Pakhtunkhwa,03,"","","","",34.287,72.1618
+PK,23360,Sawal Dher,Khyber Pakhtunkhwa,03,"","","","",34.3096,72.0894
+PK,23370,Rustam,Khyber Pakhtunkhwa,03,"","","","",34.3464,72.2789
+PK,23380,Palo Dheri,Khyber Pakhtunkhwa,03,"","","","",34.1752,71.6977
+PK,23390,Shah Baz Garhi,Khyber Pakhtunkhwa,03,"","","","",34.3096,72.0894
+PK,23400,Ismaila,Khyber Pakhtunkhwa,03,"","","","",34.2215,72.2422
+PK,23410,Kalu Khan,Khyber Pakhtunkhwa,03,"","","","",34.2123,72.2962
+PK,23420,Nawan Killi,Khyber Pakhtunkhwa,03,"","","","",34.378,71.5886
+PK,23422,Sheikh Jana,Khyber Pakhtunkhwa,03,"","","","",34.5478,71.8224
+PK,23424,Shewa,Khyber Pakhtunkhwa,03,"","","","",34.7175,72.0562
+PK,23430,Sawabi,Khyber Pakhtunkhwa,03,"","","","",34.1313,72.857
+PK,23434,Totlai,Khyber Pakhtunkhwa,03,"","","","",34.1313,72.857
+PK,23440,Bamkhel,Khyber Pakhtunkhwa,03,"","","","",34.2515,72.386
+PK,23450,Maini,Khyber Pakhtunkhwa,03,"","","","",34.1176,72.6085
+PK,23454,Gadoon Amazai,Khyber Pakhtunkhwa,03,"","","","",34.1176,72.6085
+PK,23460,Topi,Khyber Pakhtunkhwa,03,"","","","",34.0703,72.6215
+PK,23470,Right Bank (Tarbella),Khyber Pakhtunkhwa,03,"","","","",34.2515,72.386
+PK,23480,Gandaf,Khyber Pakhtunkhwa,03,"","","","",34.1209,72.6876
+PK,23490,Deval,Khyber Pakhtunkhwa,03,"","","","",34.2515,72.386
+PK,23500,Kotha,Khyber Pakhtunkhwa,03,"","","","",34.0678,72.5838
+PK,23510,Zarobi,Khyber Pakhtunkhwa,03,"","","","",34.0326,72.5653
+PK,23520,Kalabat,Khyber Pakhtunkhwa,03,"","","","",34.0744,72.5506
+PK,23530,Marghuz,Khyber Pakhtunkhwa,03,"","","","",34.0695,72.5324
+PK,23540,Zaida,Khyber Pakhtunkhwa,03,"","","","",34.0595,72.4669
+PK,23550,Garmanara,Khyber Pakhtunkhwa,03,"","","","",34.0573,72.4944
+PK,23560,Khunda,Khyber Pakhtunkhwa,03,"","","","",34.05,72.4308
+PK,23570,Lahor Chhota (Mardan),Khyber Pakhtunkhwa,03,"","","","",34.0573,72.4944
+PK,23580,Jalsai,Khyber Pakhtunkhwa,03,"","","","",34.0473,72.3312
+PK,23600,Jalbai,Khyber Pakhtunkhwa,03,"","","","",34.0135,72.2656
+PK,23610,Tordher,Khyber Pakhtunkhwa,03,"","","","",33.9905,72.2863
+PK,23620,Jehan Gira,Khyber Pakhtunkhwa,03,"","","","",34.0308,72.3442
+PK,23630,Panjpir,Khyber Pakhtunkhwa,03,"","","","",34.0884,72.4808
+PK,23640,Ghulam Ishaq Khan Institute,Khyber Pakhtunkhwa,03,"","","","",34.0308,72.3442
+PK,23650,Shah Mansoor,Khyber Pakhtunkhwa,03,"","","","",34.0308,72.3442
+PK,23660,Mohabatabad,Khyber Pakhtunkhwa,03,"","","","",34.0308,72.3442
+PK,24000,Khair Abad,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24010,Nizam Pur,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24020,Allah Bakhash Colony,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24030,Shaidu,Khyber Pakhtunkhwa,03,"","","","",33.9769,72.1817
+PK,24040,Akora Khattak,Khyber Pakhtunkhwa,03,"","","","",34.0034,72.1256
+PK,24044,Zara Miana,Khyber Pakhtunkhwa,03,"","","","",34.0215,72.0783
+PK,24050,Pir Sabaq,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24060,Misri Banda,Khyber Pakhtunkhwa,03,"","","","",34.0134,72.1235
+PK,24070,Raskai,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24080,Risal Pur,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24090,Risal Pur P.A.F,Khyber Pakhtunkhwa,03,"","","","",34.0038,72.1273
+PK,24100,Nowshera Gpo,Khyber Pakhtunkhwa,03,"","","","",33.9684,71.9268
+PK,24110,Nowshera City,Khyber Pakhtunkhwa,03,"","","","",33.9684,71.9268
+PK,24120,Kheshki Payan,Khyber Pakhtunkhwa,03,"","","","",33.9684,71.9268
+PK,24130,Ziarat Kaka Sahib,Khyber Pakhtunkhwa,03,"","","","",33.9251,72.0357
+PK,24140,Manki Sharif,Khyber Pakhtunkhwa,03,"","","","",33.9412,71.9747
+PK,24160,Feroz Sons Nowshera,Khyber Pakhtunkhwa,03,"","","","",33.9684,71.9268
+PK,24170,Adamjee Paper Board Mills Nowshera,Khyber Pakhtunkhwa,03,"","","","",33.9684,71.9268
+PK,24180,Pirpai,Khyber Pakhtunkhwa,03,"","","","",33.9897,71.8831
+PK,24182,Aza Khel Payan,Khyber Pakhtunkhwa,03,"","","","",33.9897,71.8831
+PK,24190,Aza Khel Bala,Khyber Pakhtunkhwa,03,"","","","",33.9961,71.8572
+PK,24200,Dagai Banda,Khyber Pakhtunkhwa,03,"","","","",33.8908,71.8286
+PK,24210,Pabbi,Khyber Pakhtunkhwa,03,"","","","",34.0097,71.7945
+PK,24220,Pabbi Railway Station,Khyber Pakhtunkhwa,03,"","","","",33.8908,71.8286
+PK,24230,Banda Mohib,Khyber Pakhtunkhwa,03,"","","","",33.8908,71.8286
+PK,24240,Jallozai,Khyber Pakhtunkhwa,03,"","","","",33.9117,71.8182
+PK,24250,Spin Khak,Khyber Pakhtunkhwa,03,"","","","",33.8654,71.7674
+PK,24260,Dak Ismail Khel,Khyber Pakhtunkhwa,03,"","","","",33.8908,71.8286
+PK,24270,Saleh Khana,Khyber Pakhtunkhwa,03,"","","","",33.8436,71.8701
+PK,24280,Cherat,Khyber Pakhtunkhwa,03,"","","","",33.8234,71.8929
+PK,24300,Urmar Payan,Khyber Pakhtunkhwa,03,"","","","",33.961,71.7296
+PK,24302,Banda Sheikh Ismail,Khyber Pakhtunkhwa,03,"","","","",33.961,71.7296
+PK,24310,Tarru Jabba,Khyber Pakhtunkhwa,03,"","","","",33.988,71.6649
+PK,24320,Akbar Pura,Khyber Pakhtunkhwa,03,"","","","",33.988,71.6649
+PK,24330,Tarnab Farm,Khyber Pakhtunkhwa,03,"","","","",33.988,71.6649
+PK,24350,Chamkani,Khyber Pakhtunkhwa,03,"","","","",34.0066,71.6492
+PK,24360,Musa Zai,Khyber Pakhtunkhwa,03,"","","","",33.9729,71.6078
+PK,24370,Pakha Ghulam,Khyber Pakhtunkhwa,03,"","","","",34.0384,71.6085
+PK,24400,Daud Zai,Khyber Pakhtunkhwa,03,"","","","",34.0879,71.6704
+PK,24420,Charsadda Gpo,Khyber Pakhtunkhwa,03,"","","","",34.0879,71.6704
+PK,24424,Kamran Kalay,Khyber Pakhtunkhwa,03,"","","","",34.0879,71.6704
+PK,24450,Nisatta,Khyber Pakhtunkhwa,03,"","","","",34.0879,71.6704
+PK,24460,Sardheri Bazar,Khyber Pakhtunkhwa,03,"","","","",34.0879,71.6704
+PK,24470,Sheikhabad,Khyber Pakhtunkhwa,03,"","","","",34.0065,71.5866
+PK,24480,Rajjar,Khyber Pakhtunkhwa,03,"","","","",34.1694,71.7542
+PK,24490,Taurangzai,Khyber Pakhtunkhwa,03,"","","","",34.0879,71.6704
+PK,24500,Utmanzai,Khyber Pakhtunkhwa,03,"","","","",33.9406,71.5456
+PK,24502,Amirabad,Khyber Pakhtunkhwa,03,"","","","",34.2291,71.574
+PK,24504,Mandori,Khyber Pakhtunkhwa,03,"","","","",32.9393,70.6456
+PK,24506,Dhakhi,Khyber Pakhtunkhwa,03,"","","","",33.703,71.255
+PK,24508,Shakoor,Khyber Pakhtunkhwa,03,"","","","",33.703,71.255
+PK,24510,Umarzai,Khyber Pakhtunkhwa,03,"","","","",34.2372,71.724
+PK,24520,Hari Chand,Khyber Pakhtunkhwa,03,"","","","",34.3849,71.8057
+PK,24530,Sherpao,Khyber Pakhtunkhwa,03,"","","","",34.2628,71.6975
+PK,24540,Tangi,Khyber Pakhtunkhwa,03,"","","","",33.9469,72.0052
+PK,24550,Abazai,Khyber Pakhtunkhwa,03,"","","","",34.3193,71.5926
+PK,24600,Tarnab Cheena,Khyber Pakhtunkhwa,03,"","","","",34.221,71.5962
+PK,24610,Amba Dher,Khyber Pakhtunkhwa,03,"","","","",34.1877,71.6609
+PK,24620,Kangra,Khyber Pakhtunkhwa,03,"","","","",34.2007,71.6031
+PK,24630,Shabqadar Fort,Khyber Pakhtunkhwa,03,"","","","",34.216,71.5548
+PK,24640,Matta Mughal Khel,Khyber Pakhtunkhwa,03,"","","","",34.2796,71.566
+PK,24650,Ghalnai,Khyber Pakhtunkhwa,03,"","","","",34.221,71.5962
+PK,24680,Warsak Colony,Khyber Pakhtunkhwa,03,"","","","",34.221,71.5962
+PK,24700,Nasir Bagh,Khyber Pakhtunkhwa,03,"","","","",34.0406,71.4326
+PK,24710,Regi,Khyber Pakhtunkhwa,03,"","","","",34.0503,71.4612
+PK,24720,Peshawar Industrial Estate,Khyber Pakhtunkhwa,03,"","","","",34.0478,71.3537
+PK,24730,Jamrud,Khyber Pakhtunkhwa,03,"","","","",34.0015,71.3801
+PK,24740,Landi Kotal,Khyber Pakhtunkhwa,03,"","","","",34.0988,71.1411
+PK,24800,Bara Fort,Khyber Pakhtunkhwa,03,"","","","",33.9086,71.4721
+PK,24810,Mashoo Khel,Khyber Pakhtunkhwa,03,"","","","",32.3356,71.3527
+PK,24820,Pawaka,Khyber Pakhtunkhwa,03,"","","","",32.3356,71.3527
+PK,24830,Badhber Paf Camp,Khyber Pakhtunkhwa,03,"","","","",32.3356,71.3527
+PK,24840,Badbher,Khyber Pakhtunkhwa,03,"","","","",33.9232,71.5608
+PK,24850,Mathani,Khyber Pakhtunkhwa,03,"","","","",29.1749,71.0252
+PK,24860,Sherkira,Khyber Pakhtunkhwa,03,"","","","",32.3356,71.3527
+PK,25000,Peshawar Gpo,Khyber Pakhtunkhwa,03,"","","","",34.1735,71.6831
+PK,25100,Hayatabad (Phase-I),Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25110,Peshawar Education Board,Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25120,Peshawar University,Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25124,Hayatabad Phase-Ii,Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25130,Pak Forest Institute Peshawar,Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25140,Tehkal Bala,Khyber Pakhtunkhwa,03,"","","","",34.0115,71.5073
+PK,25150,Tehkal Payan,Khyber Pakhtunkhwa,03,"","","","",34.0124,71.5219
+PK,25160,Peshawar C.T. Training School,Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25170,Sakhi Chashma,Khyber Pakhtunkhwa,03,"","","","",34.0119,71.5146
+PK,25200,Yaka Toot,Khyber Pakhtunkhwa,03,"","","","",34.5372,72.0622
+PK,25210,Peshawar Poly Technical College,Khyber Pakhtunkhwa,03,"","","","",34.5372,72.0622
+PK,25220,Landi Arbab,Khyber Pakhtunkhwa,03,"","","","",33.9805,71.549
+PK,25230,Sar Band,Khyber Pakhtunkhwa,03,"","","","",35.0938,72.5755
+PK,26000,Kohat Gpo,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26010,Togh Bala,Khyber Pakhtunkhwa,03,"","","","",33.5552,71.5012
+PK,26014,Sher Kot,Khyber Pakhtunkhwa,03,"","","","",35.4465,73.2801
+PK,26020,Kohat Police Recruit Training Centre,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26030,Kohat Cadet College,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26050,Kohat Gunners Line,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26054,Kohat Satellite Town,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26060,Habib Abad,Khyber Pakhtunkhwa,03,"","","","",35.214,72.5433
+PK,26064,Kohat Board Of Education,Khyber Pakhtunkhwa,03,"","","","",35.214,72.5433
+PK,26070,Kohat J.D.M.T.Mills,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26080,Kohat P.A.F.,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26090,Kohat Officers Training School,Khyber Pakhtunkhwa,03,"","","","",34.8574,72.4669
+PK,26100,Dara Adam Khel,Khyber Pakhtunkhwa,03,"","","","",33.5488,71.3161
+PK,26110,Billi Tang,Khyber Pakhtunkhwa,03,"","","","",33.5488,71.3161
+PK,26120,Seni Gumbat,Khyber Pakhtunkhwa,03,"","","","",33.494,71.6752
+PK,26160,Nasrat Khel,Khyber Pakhtunkhwa,03,"","","","",33.596,71.3384
+PK,26170,Uster Zai Payan,Khyber Pakhtunkhwa,03,"","","","",33.5488,71.3161
+PK,26180,Hangu Police Training School,Khyber Pakhtunkhwa,03,"","","","",33.5488,71.3161
+PK,26190,Hangu,Khyber Pakhtunkhwa,03,"","","","",33.532,71.0595
+PK,26196,Raisan,Khyber Pakhtunkhwa,03,"","","","",33.5732,71.1913
+PK,26200,Togh Sarai,Khyber Pakhtunkhwa,03,"","","","",33.4442,70.9755
+PK,26210,Zargeri,Khyber Pakhtunkhwa,03,"","","","",33.4991,70.6876
+PK,26220,Kahi,Khyber Pakhtunkhwa,03,"","","","",33.4752,70.8612
+PK,26230,Naryab,Khyber Pakhtunkhwa,03,"","","","",33.4833,70.7814
+PK,26240,Doaba,Khyber Pakhtunkhwa,03,"","","","",33.4245,70.7368
+PK,26250,Sarozai,Khyber Pakhtunkhwa,03,"","","","",33.4243,70.7838
+PK,26260,Thull Fort,Khyber Pakhtunkhwa,03,"","","","",33.4991,70.6876
+PK,26270,Thull City,Khyber Pakhtunkhwa,03,"","","","",33.4991,70.6876
+PK,26280,Alizai,Khyber Pakhtunkhwa,03,"","","","",33.5361,70.3461
+PK,26290,Sadda,Khyber Pakhtunkhwa,03,"","","","",33.7059,70.3288
+PK,26300,Parachinar,Khyber Pakhtunkhwa,03,"","","","",33.8997,70.1001
+PK,26350,Surgul,Khyber Pakhtunkhwa,03,"","","","",33.51,71.3842
+PK,26352,Gada Khel,Khyber Pakhtunkhwa,03,"","","","",33.4723,71.4057
+PK,26360,Lachi,Khyber Pakhtunkhwa,03,"","","","",33.3829,71.3373
+PK,26380,Shakar Dara,Khyber Pakhtunkhwa,03,"","","","",33.7921,70.3175
+PK,26390,Teri,Khyber Pakhtunkhwa,03,"","","","",33.2945,71.1021
+PK,26400,Banda Daud Shah,Khyber Pakhtunkhwa,03,"","","","",33.2724,71.1821
+PK,26410,Dagar Nari,Khyber Pakhtunkhwa,03,"","","","",33.2724,71.1821
+PK,27000,Sabir Abad,Khyber Pakhtunkhwa,03,"","","","",33.2466,70.8362
+PK,27100,Mitha Khel,Khyber Pakhtunkhwa,03,"","","","",33.0163,70.9032
+PK,27200,Karak Gpo,Khyber Pakhtunkhwa,03,"","","","",33.2466,70.8362
+PK,27210,Mohabati Killa,Khyber Pakhtunkhwa,03,"","","","",33.2466,70.8362
+PK,27220,Ghundi Mir Khan,Khyber Pakhtunkhwa,03,"","","","",33.2466,70.8362
+PK,27300,Chokara,Khyber Pakhtunkhwa,03,"","","","",33.2466,70.8362
+PK,27400,Thatti Nasrati,Khyber Pakhtunkhwa,03,"","","","",33.0049,71.0838
+PK,27410,Bahadur Khel,Khyber Pakhtunkhwa,03,"","","","",33.1819,70.9554
+PK,27500,Inzar Banda,Khyber Pakhtunkhwa,03,"","","","",33.2253,71.1598
+PK,27600,Land Kamar,Khyber Pakhtunkhwa,03,"","","","",33.7367,70.6801
+PK,27800,Latamber,Khyber Pakhtunkhwa,03,"","","","",33.2805,70.5354
+PK,27810,Warana,Khyber Pakhtunkhwa,03,"","","","",33.2805,70.5354
+PK,27900,Dab Begu Khel,Khyber Pakhtunkhwa,03,"","","","",33.2466,70.8362
+PK,28010,Domel (Bannu),Khyber Pakhtunkhwa,03,"","","","",32.9931,70.7802
+PK,28020,Khadar Khan Khel,Khyber Pakhtunkhwa,03,"","","","",32.9931,70.7802
+PK,28030,Nizam Bazar,Khyber Pakhtunkhwa,03,"","","","",33.0047,70.6406
+PK,28040,Torka,Khyber Pakhtunkhwa,03,"","","","",32.9931,70.7802
+PK,28050,Miryan,Khyber Pakhtunkhwa,03,"","","","",32.9815,70.9199
+PK,28100,Bannu Gpo,Khyber Pakhtunkhwa,03,"","","","",34.1566,71.7264
+PK,28106,Skindar Khel Bala,Khyber Pakhtunkhwa,03,"","","","",34.1566,71.7264
+PK,28108,Hussainabad,Khyber Pakhtunkhwa,03,"","","","",34.1566,71.7264
+PK,28120,Shabaz Azmat Khel,Khyber Pakhtunkhwa,03,"","","","",33.5982,71.092
+PK,28122,Awan Ghambeer,Khyber Pakhtunkhwa,03,"","","","",33.5982,71.092
+PK,28140,Mamesh Khel,Khyber Pakhtunkhwa,03,"","","","",32.9726,70.5017
+PK,28142,Baka Khel,Khyber Pakhtunkhwa,03,"","","","",32.9726,70.5017
+PK,28150,Pipal Bazar,Khyber Pakhtunkhwa,03,"","","","",33.5982,71.092
+PK,28170,Mir Ali,Khyber Pakhtunkhwa,03,"","","","",33.1744,70.3692
+PK,28180,Mir Ali Adda,Khyber Pakhtunkhwa,03,"","","","",33.5982,71.092
+PK,28200,Sarai Miranshah,Khyber Pakhtunkhwa,03,"","","","",32.9336,70.0615
+PK,28210,Boya,Khyber Pakhtunkhwa,03,"","","","",32.9606,69.9181
+PK,28220,Data Khel,Khyber Pakhtunkhwa,03,"","","","",33.1509,70.4322
+PK,28250,District Court Lakki,Khyber Pakhtunkhwa,03,"","","","",32.9336,70.0615
+PK,28260,Razkak Cadet College,Khyber Pakhtunkhwa,03,"","","","",32.9336,70.0615
+PK,28270,Razmak,Khyber Pakhtunkhwa,03,"","","","",32.6893,69.8343
+PK,28300,Adda Mir Abbas,Khyber Pakhtunkhwa,03,"","","","",32.788,70.7017
+PK,28310,Bharat,Khyber Pakhtunkhwa,03,"","","","",32.8903,70.6369
+PK,28320,Kakki,Khyber Pakhtunkhwa,03,"","","","",32.8046,70.6478
+PK,28322,Takhti Khel,Khyber Pakhtunkhwa,03,"","","","",32.8046,70.6478
+PK,28330,Ghori Wala,Khyber Pakhtunkhwa,03,"","","","",32.788,70.7017
+PK,28334,Bannu Al.Markaz Islami,Khyber Pakhtunkhwa,03,"","","","",32.788,70.7017
+PK,28340,Nar Muzaffar Khan,Khyber Pakhtunkhwa,03,"","","","",32.788,70.7017
+PK,28350,Sarai Naurang,Khyber Pakhtunkhwa,03,"","","","",32.8258,70.7811
+PK,28352,Sarai Naurang Main Bazar,Khyber Pakhtunkhwa,03,"","","","",32.8286,70.7723
+PK,28354,Sultanabad,Khyber Pakhtunkhwa,03,"","","","",32.8314,70.7635
+PK,28360,Taja Zai,Khyber Pakhtunkhwa,03,"","","","",32.788,70.7017
+PK,28364,Titer Khel,Khyber Pakhtunkhwa,03,"","","","",32.788,70.7017
+PK,28370,Sarai Gambila,Khyber Pakhtunkhwa,03,"","","","",32.6926,70.7819
+PK,28380,Tajori,Khyber Pakhtunkhwa,03,"","","","",32.6262,70.5822
+PK,28410,Lande Wah,Khyber Pakhtunkhwa,03,"","","","",32.7102,70.746
+PK,28420,Lakki Marwat Gpo,Khyber Pakhtunkhwa,03,"","","","",32.6454,70.8314
+PK,28424,Isa Khel,Khyber Pakhtunkhwa,03,"","","","",32.8822,70.9168
+PK,28426,Shahbaz Khel,Khyber Pakhtunkhwa,03,"","","","",32.4086,70.7461
+PK,28440,Abba Khel,Khyber Pakhtunkhwa,03,"","","","",32.5643,70.8266
+PK,28450,Ghazni Khel,Khyber Pakhtunkhwa,03,"","","","",32.5579,70.7406
+PK,28470,Dara Pezu,Khyber Pakhtunkhwa,03,"","","","",32.7102,70.746
+PK,28480,Bakka Khel,Khyber Pakhtunkhwa,03,"","","","",32.9726,70.5017
+PK,28490,Chak Dadan,Khyber Pakhtunkhwa,03,"","","","",32.9406,70.6585
+PK,28500,Lakki Headquarter Complex,Khyber Pakhtunkhwa,03,"","","","",32.6033,70.8607
+PK,28510,Lakki Marwat Main Lorry Adda,Khyber Pakhtunkhwa,03,"","","","",32.6033,70.8607
+PK,28520,Michan Khel Adda Lakki Marwat,Khyber Pakhtunkhwa,03,"","","","",32.6033,70.8607
+PK,28530,Dalu Khel,Khyber Pakhtunkhwa,03,"","","","",32.6033,70.8607
+PK,29000,Paniala,Khyber Pakhtunkhwa,03,"","","","",32.2439,70.8839
+PK,29010,Wanda Khan Muhammad,Khyber Pakhtunkhwa,03,"","","","",32.3146,70.9761
+PK,29012,Rehmani Khel,Khyber Pakhtunkhwa,03,"","","","",32.3816,71.1231
+PK,29020,Yarik,Khyber Pakhtunkhwa,03,"","","","",32.1043,70.7892
+PK,29050,Dera Ismail Khan Gpo,Khyber Pakhtunkhwa,03,"","","","",32.1704,70.9337
+PK,29060,Dera Town Ship,Khyber Pakhtunkhwa,03,"","","","",32.1704,70.9337
+PK,29080,Muryali,Khyber Pakhtunkhwa,03,"","","","",31.8078,70.8961
+PK,29090,D.I Khan Polytechnical Institute,Khyber Pakhtunkhwa,03,"","","","",32.1704,70.9337
+PK,29100,Din Pur,Khyber Pakhtunkhwa,03,"","","","",32.2124,71.086
+PK,29120,D.I Khan Agricultural Research Center,Khyber Pakhtunkhwa,03,"","","","",32.2124,71.086
+PK,29130,Kachi Paind Khan,Khyber Pakhtunkhwa,03,"","","","",32.2124,71.086
+PK,29140,Saddar Bazar Dera Ismail Khan,Khyber Pakhtunkhwa,03,"","","","",32.2124,71.086
+PK,29150,Fort Iqbal Garh,Khyber Pakhtunkhwa,03,"","","","",32.2124,71.086
+PK,29160,Paharpur,Khyber Pakhtunkhwa,03,"","","","",32.105,70.9705
+PK,29162,Band Kurai,Khyber Pakhtunkhwa,03,"","","","",32.0409,70.9034
+PK,29170,Bilot,Khyber Pakhtunkhwa,03,"","","","",32.257,71.1612
+PK,29180,Kirri Khaisor,Khyber Pakhtunkhwa,03,"","","","",32.3297,71.1974
+PK,29184,Kachamali Khel,Khyber Pakhtunkhwa,03,"","","","",32.3297,71.1974
+PK,29190,Chishma Right Bank Canal D.I Khan,Khyber Pakhtunkhwa,03,"","","","",32.2124,71.086
+PK,29200,Mandhara,Khyber Pakhtunkhwa,03,"","","","",31.6217,70.7568
+PK,29206,Rangpur,Khyber Pakhtunkhwa,03,"","","","",31.6217,70.7568
+PK,29210,Kot Jai,Khyber Pakhtunkhwa,03,"","","","",32.1704,71.0932
+PK,29220,Gomal University New Campus,Khyber Pakhtunkhwa,03,"","","","",31.6217,70.7568
+PK,29230,Paroa,Khyber Pakhtunkhwa,03,"","","","",31.5573,70.7601
+PK,29232,Ramak,Khyber Pakhtunkhwa,03,"","","","",31.3519,70.6876
+PK,29240,Kiri Shamozai,Khyber Pakhtunkhwa,03,"","","","",31.4073,70.4862
+PK,29310,Daraban,Khyber Pakhtunkhwa,03,"","","","",31.7325,70.3372
+PK,29320,Musa Zai,Khyber Pakhtunkhwa,03,"","","","",32.1301,70.4569
+PK,29330,Choudhwan,Khyber Pakhtunkhwa,03,"","","","",31.5978,70.3568
+PK,29340,Darazinda,Khyber Pakhtunkhwa,03,"","","","",33.2457,70.5037
+PK,29350,Kulachi,Khyber Pakhtunkhwa,03,"","","","",31.9306,70.4596
+PK,29380,Takwara,Khyber Pakhtunkhwa,03,"","","","",32.1438,70.6274
+PK,29400,Tank Gpo,Khyber Pakhtunkhwa,03,"","","","",32.3741,70.2477
+PK,29410,Gomal Bazar,Khyber Pakhtunkhwa,03,"","","","",32.1151,70.1582
+PK,29420,Gul Imam,Khyber Pakhtunkhwa,03,"","","","",32.2594,70.5318
+PK,29430,Pai,Khyber Pakhtunkhwa,03,"","","","",32.355,70.5567
+PK,29432,Ama Khel,Khyber Pakhtunkhwa,03,"","","","",32.3828,70.5233
+PK,29440,Mullazai,Khyber Pakhtunkhwa,03,"","","","",32.4133,70.4659
+PK,29460,Manzai,Khyber Pakhtunkhwa,03,"","","","",32.5711,69.7852
+PK,29470,Jandola,Khyber Pakhtunkhwa,03,"","","","",32.3355,70.1192
+PK,29480,Sararogha,Khyber Pakhtunkhwa,03,"","","","",32.3741,70.2477
+PK,29490,Ladha,Khyber Pakhtunkhwa,03,"","","","",32.5607,69.8416
+PK,29510,Sarwakai,Khyber Pakhtunkhwa,03,"","","","",34.0109,71.0541
+PK,29540,Wana,Khyber Pakhtunkhwa,03,"","","","",32.2989,69.5725
+PK,22420,Mulaya,Punjab,04,"","","","",34.1256,73.1265
+PK,30000,Bhakkar Gpo,Punjab,04,"","","","",31.5099,71.3752
+PK,30004,Chak-186,Punjab,04,"","","","",31.5099,71.3752
+PK,30010,Sial,Punjab,04,"","","","",31.9111,72.3021
+PK,30020,Sarai Mohajir,Punjab,04,"","","","",31.5099,71.3752
+PK,30030,Haiderabad (Bhakkar),Punjab,04,"","","","",31.657,71.4212
+PK,30040,Behal,Punjab,04,"","","","",31.4133,71.0064
+PK,30046,Yousaf Shah,Punjab,04,"","","","",31.4133,71.0064
+PK,30050,Chak 47/T.D.A.,Punjab,04,"","","","",31.3936,71.2249
+PK,30052,Chak 67 Ml,Punjab,04,"","","","",31.3936,71.2249
+PK,30060,Mankera,Punjab,04,"","","","",31.3877,71.4405
+PK,30100,Darya Khan Railway Station,Punjab,04,"","","","",31.7847,71.6475
+PK,30110,Dullewala,Punjab,04,"","","","",31.8344,71.4364
+PK,30120,Panj Girain,Punjab,04,"","","","",31.561,72.3858
+PK,30130,Tibba Nainam Wala,Punjab,04,"","","","",31.7847,71.6475
+PK,30140,Kallur Kot,Punjab,04,"","","","",32.1551,71.2663
+PK,30150,Jandan Wala,Punjab,04,"","","","",31.7847,71.6475
+PK,30160,Rodi,Punjab,04,"","","","",31.5882,71.5017
+PK,31000,Chak 90/Ml,Punjab,04,"","","","",31.3168,71.0817
+PK,31050,Fateh Pur,Punjab,04,"","","","",28.1494,67.9521
+PK,31100,Karor,Punjab,04,"","","","",31.2246,70.9515
+PK,31150,Shah Pur,Punjab,04,"","","","",29.9132,71.353
+PK,31200,Layyah Gpo,Punjab,04,"","","","",29.9474,70.2753
+PK,31250,Chak No.270 Tda,Punjab,04,"","","","",29.9474,70.2753
+PK,31300,Layyah Sugar Mills,Punjab,04,"","","","",30.8611,71.0746
+PK,31350,Ladhana,Punjab,04,"","","","",30.8611,71.0746
+PK,31400,Chak No.279 Tda,Punjab,04,"","","","",29.9474,70.2753
+PK,31450,Chawk Azam,Punjab,04,"","","","",29.9474,70.2753
+PK,31500,Choubara,Punjab,04,"","","","",29.9474,70.2753
+PK,31600,Juman Shah,Punjab,04,"","","","",27.3598,68.3955
+PK,31650,Kot Sultan,Punjab,04,"","","","",30.7737,70.9313
+PK,31660,Karim Abad,Punjab,04,"","","","",29.0668,69.6634
+PK,32000,Latra,Punjab,04,"","","","",30.9136,70.6946
+PK,32010,Vehoa,Punjab,04,"","","","",31.1283,70.5074
+PK,32020,Nutkani,Punjab,04,"","","","",30.5924,70.8916
+PK,32030,Tibbi Qaisrani,Punjab,04,"","","","",31.0042,70.6782
+PK,32040,Retra,Punjab,04,"","","","",30.9296,70.7013
+PK,32050,Nari,Punjab,04,"","","","",30.9136,70.6946
+PK,32100,Taunsa Sharif,Punjab,04,"","","","",30.6615,70.5658
+PK,32110,Basti Buzdar,Punjab,04,"","","","",30.7702,70.5419
+PK,32120,Mangrotha,Punjab,04,"","","","",30.7102,70.5915
+PK,32124,Barthi,Punjab,04,"","","","",30.5707,70.372
+PK,32130,Kot Qaisrani,Punjab,04,"","","","",30.7935,70.5511
+PK,32140,Sokar,Punjab,04,"","","","",30.6542,70.6085
+PK,32150,Shadan Lund,Punjab,04,"","","","",30.4704,70.7297
+PK,32160,Kala,Punjab,04,"","","","",30.6615,70.5658
+PK,32170,Shah Saddar Din,Punjab,04,"","","","",30.6615,70.5658
+PK,32200,Dera Ghazi Khan Gpo,Punjab,04,"","","","",30.0013,70.7606
+PK,32210,Khyaban-E-Sarwar,Punjab,04,"","","","",30.0013,70.7606
+PK,32230,Samina,Punjab,04,"","","","",30.0013,70.7606
+PK,32250,D.G.Khan Cement Factory,Punjab,04,"","","","",30.0013,70.7606
+PK,32260,D.G Khan Secondary Board,Punjab,04,"","","","",30.0013,70.7606
+PK,32300,Sakhi Sarwar,Punjab,04,"","","","",29.9803,70.3061
+PK,32310,Bughal Char,Punjab,04,"","","","",29.9031,70.4825
+PK,32320,Fort Munroo,Punjab,04,"","","","",29.9031,70.4825
+PK,32350,Kot Chutta,Punjab,04,"","","","",29.8863,70.6494
+PK,32380,Choti,Punjab,04,"","","","",29.8425,70.4919
+PK,32400,Mana,Punjab,04,"","","","",29.8018,70.6203
+PK,32410,Basti Malana,Punjab,04,"","","","",29.8658,70.6407
+PK,32420,Jalbani,Punjab,04,"","","","",29.8432,70.6946
+PK,32430,Jhoke Utra,Punjab,04,"","","","",29.8434,70.7257
+PK,33000,Jam Pur,Punjab,04,"","","","",29.1275,70.968
+PK,33100,Dajal,Punjab,04,"","","","",29.5577,70.3761
+PK,33300,Muhammad Pur,Punjab,04,"","","","",29.708,71.8825
+PK,33500,Rajan Pur,Punjab,04,"","","","",28.1445,69.6958
+PK,33600,Mithan Kot,Punjab,04,"","","","",29.54,72.9319
+PK,33700,Rojhan,Punjab,04,"","","","",28.6873,69.9535
+PK,34000,Ahsan Pur,Punjab,04,"","","","",30.6447,70.9575
+PK,34010,Dera Din Panah,Punjab,04,"","","","",30.6761,70.7302
+PK,34030,Ch0wk Sarwar Shaheed,Punjab,04,"","","","",30.5966,70.8849
+PK,34050,Kot Adu,Punjab,04,"","","","",30.4691,70.967
+PK,34060,Gas Tarbine Power Muzaffargarh,Punjab,04,"","","","",30.5966,70.8849
+PK,34100,Sinawan,Punjab,04,"","","","",30.1638,70.9562
+PK,34110,Mehmood Kot,Punjab,04,"","","","",30.1638,70.9562
+PK,34114,Tharmal Power Station Muzaffargarh,Punjab,04,"","","","",30.1638,70.9562
+PK,34120,Gujrat (Muzaffargarh),Punjab,04,"","","","",30.1638,70.9562
+PK,34130,Fazal Garh,Punjab,04,"","","","",30.1638,70.9562
+PK,34200,Muzaffargarh Gpo,Punjab,04,"","","","",29.9205,70.9107
+PK,34210,Fazal Nagar,Punjab,04,"","","","",29.9205,70.9107
+PK,34220,Misali Middle Public School Pir Jihania,Punjab,04,"","","","",29.9205,70.9107
+PK,34300,Basira,Punjab,04,"","","","",30.0801,71.059
+PK,34310,Qureshi,Punjab,04,"","","","",30.0208,71.0968
+PK,34350,Khan Garh,Punjab,04,"","","","",30.0208,71.0968
+PK,34370,Shah Jamal,Punjab,04,"","","","",29.9206,70.9655
+PK,34380,Darain,Punjab,04,"","","","",30.0344,71.1532
+PK,34382,Doaba,Punjab,04,"","","","",30.1071,71.2491
+PK,34384,Mondka,Punjab,04,"","","","",29.9618,71.0572
+PK,34400,Rohilan Wali,Punjab,04,"","","","",29.2622,70.6446
+PK,34410,Shehar Sultan,Punjab,04,"","","","",29.2622,70.6446
+PK,34430,Jatoi,Punjab,04,"","","","",29.511,70.8453
+PK,34440,Bet Mir Hazar Khan,Punjab,04,"","","","",29.6902,70.8004
+PK,34450,Ali Pur,Punjab,04,"","","","",28.5158,70.1228
+PK,34470,Khairpur Sadat,Punjab,04,"","","","",29.3318,70.81
+PK,34480,Sit Pur,Punjab,04,"","","","",29.2622,70.6446
+PK,34500,Bhutta Pur,Punjab,04,"","","","",29.7502,70.5677
+PK,34550,Khanpur Shumali,Punjab,04,"","","","",29.7502,70.5677
+PK,34600,Sultan Colony,Punjab,04,"","","","",30.1569,71.4732
+PK,34650,Rang Pur,Punjab,04,"","","","",29.333,71.4968
+PK,35010,Shor Kot Cantt.,Punjab,04,"","","","",31.4002,72.3017
+PK,35012,Chak 327 Gb,Punjab,04,"","","","",31.4002,72.3017
+PK,35020,P.A.F. Colony Shor Kot,Punjab,04,"","","","",31.4002,72.3017
+PK,35030,P.A.F. Base Rafiqi Shor Kot,Punjab,04,"","","","",31.4002,72.3017
+PK,35050,Shor Kot City,Punjab,04,"","","","",31.4002,72.3017
+PK,35060,Kaki Nao,Punjab,04,"","","","",31.4002,72.3017
+PK,35080,Garh Maha Raja,Punjab,04,"","","","",31.4002,72.3017
+PK,35090,Ahamed Pur Sial,Punjab,04,"","","","",31.4002,72.3017
+PK,35100,Waryam,Punjab,04,"","","","",30.9628,72.2582
+PK,35110,Chak 490,Punjab,04,"","","","",30.7348,71.4617
+PK,35150,Haveli Bahadur Shah,Punjab,04,"","","","",31.0773,72.1865
+PK,35152,Kot Umardraz Khan,Punjab,04,"","","","",31.0773,72.1865
+PK,35160,Rudo Sultan,Punjab,04,"","","","",31.0034,72.0383
+PK,35170,Nawazish Naghar,Punjab,04,"","","","",31.0034,72.0383
+PK,35180,Atharan Hazari,Punjab,04,"","","","",31.1645,72.0985
+PK,35200,Jhang Gpo,Punjab,04,"","","","",31.4002,72.3017
+PK,35210,"Aliabad, Jhang",Punjab,04,"","","","",31.4002,72.3017
+PK,35300,Dhill Bagh,Punjab,04,"","","","",31.6453,72.4222
+PK,35310,Chak 175 /Jb,Punjab,04,"","","","",31.6453,72.4222
+PK,35350,Bhawana,Punjab,04,"","","","",31.6453,72.4222
+PK,35360,Jamia Ashrafia,Punjab,04,"","","","",31.6453,72.4222
+PK,35400,Chiniot,Punjab,04,"","","","",31.7209,72.9784
+PK,35460,Chenab Nagar,Punjab,04,"","","","",31.7551,72.914
+PK,35470,Lalian,Punjab,04,"","","","",31.8246,72.8012
+PK,35480,Pir Punja,Punjab,04,"","","","",31.7669,72.8979
+PK,35500,Chund Bharwana,Punjab,04,"","","","",31.4176,72.263
+PK,35510,Kot Shakir,Punjab,04,"","","","",31.4815,72.088
+PK,35520,Pirkot Sadhana,Punjab,04,"","","","",31.2721,72.1604
+PK,35550,Shah Jewana Mandi,Punjab,04,"","","","",31.4474,72.1556
+PK,35560,Shah Jewna City,Punjab,04,"","","","",31.4474,72.1556
+PK,35570,Kot Essa Shah,Punjab,04,"","","","",31.4474,72.1556
+PK,35580,Mari Shah Sakhira,Punjab,04,"","","","",31.6186,72.111
+PK,36000,Chak 316 Gb Qadir Abad,Punjab,04,"","","","",31.0009,72.6394
+PK,36050,Toba Take Singh Gpo,Punjab,04,"","","","",31.0009,72.6394
+PK,36070,Rajana Road,Punjab,04,"","","","",31.0009,72.6394
+PK,36080,Chak 256 Gb,Punjab,04,"","","","",31.0009,72.6394
+PK,36100,Jani Wala,Punjab,04,"","","","",31.1493,72.6832
+PK,36120,Gojra,Punjab,04,"","","","",31.1493,72.6832
+PK,36150,Chak 159 Gb,Punjab,04,"","","","",31.1493,72.6832
+PK,36160,Chak 424/Jb,Punjab,04,"","","","",31.1493,72.6832
+PK,36200,Pacca Anna,Punjab,04,"","","","",31.235,72.7931
+PK,36260,Chak 387 Gb,Punjab,04,"","","","",31.2947,72.7498
+PK,36270,Gil Acri,Punjab,04,"","","","",31.2947,72.7498
+PK,36280,Nawan Lahore,Punjab,04,"","","","",31.3245,72.7282
+PK,36282,Gojra More,Punjab,04,"","","","",31.3245,72.7282
+PK,36300,Pir Mahal,Punjab,04,"","","","",30.7666,72.4345
+PK,36320,Sandhlian Wali,Punjab,04,"","","","",30.7063,72.5356
+PK,36330,Chak 333 Gb,Punjab,04,"","","","",30.7063,72.5356
+PK,36350,Kamalia Gpo,Punjab,04,"","","","",30.7063,72.5356
+PK,36360,Malfatyana,Punjab,04,"","","","",30.7063,72.5356
+PK,36380,Kamalia Sugar Mills,Punjab,04,"","","","",30.7063,72.5356
+PK,36390,Jakhar,Punjab,04,"","","","",30.646,72.6366
+PK,37000,Mamu Kanjan,Punjab,04,"","","","",30.8304,72.7994
+PK,37020,Murid Wala,Punjab,04,"","","","",30.8304,72.7994
+PK,37040,Chak 206 Gb,Punjab,04,"","","","",30.8304,72.7994
+PK,37050,Chak 207 Gb,Punjab,04,"","","","",30.8304,72.7994
+PK,37060,Chak 482 Gb (Jagranwan),Punjab,04,"","","","",30.8304,72.7994
+PK,37100,Kanjwani,Punjab,04,"","","","",30.9278,72.975
+PK,37110,Garh,Punjab,04,"","","","",30.8614,73.0295
+PK,37130,Chak 447 Gb,Punjab,04,"","","","",30.8946,73.0022
+PK,37140,Pindi Shiekh Musa,Punjab,04,"","","","",30.8946,73.0022
+PK,37150,Tandlian Wala,Punjab,04,"","","","",30.8946,73.0022
+PK,37180,Chak 433 Gb,Punjab,04,"","","","",30.8946,73.0022
+PK,37200,Rorala Road,Punjab,04,"","","","",31.3875,73.4818
+PK,37220,Chak 128 Gb,Punjab,04,"","","","",31.3875,73.4818
+PK,37224,Chak 353 Gb,Punjab,04,"","","","",31.3875,73.4818
+PK,37230,Chak 66 Gb,Punjab,04,"","","","",31.3875,73.4818
+PK,37250,Jaranwala,Punjab,04,"","","","",31.3333,73.4458
+PK,37260,Buchiana,Punjab,04,"","","","",31.4416,73.5178
+PK,37280,Ganga Pur,Punjab,04,"","","","",31.3875,73.4818
+PK,37290,Chak 98/Gb,Punjab,04,"","","","",31.3875,73.4818
+PK,37300,Samundri,Punjab,04,"","","","",31.0612,72.9586
+PK,37340,Chak 45 Gb,Punjab,04,"","","","",31.0612,72.9586
+PK,37360,Chak 267 Rb,Punjab,04,"","","","",31.0612,72.9586
+PK,37370,Dich Kot,Punjab,04,"","","","",31.0612,72.9586
+PK,37400,Chak 253 Rb,Punjab,04,"","","","",31.3155,73.0255
+PK,37410,Chak 257 Rb,Punjab,04,"","","","",31.3155,73.0255
+PK,37420,Chak 248 Rb,Punjab,04,"","","","",31.3155,73.0255
+PK,37430,Dasuha,Punjab,04,"","","","",31.3155,73.0255
+PK,37450,Satiana Banglow,Punjab,04,"","","","",31.3155,73.0255
+PK,37510,P.A.F. Risalay Wala,Punjab,04,"","","","",31.1971,73.107
+PK,37520,Thjkri Wala,Punjab,04,"","","","",31.1971,73.107
+PK,37530,Chak 275 J.B,Punjab,04,"","","","",31.1971,73.107
+PK,37540,Chak 67 Jb,Punjab,04,"","","","",31.1971,73.107
+PK,37570,Chak 113 Gb,Punjab,04,"","","","",31.1971,73.107
+PK,37600,Chak 117 Jb,Punjab,04,"","","","",31.1971,73.107
+PK,37610,Chak 203 Rb,Punjab,04,"","","","",31.1971,73.107
+PK,37620,Chak 199 Rb,Punjab,04,"","","","",31.1971,73.107
+PK,37630,Khurrian Wala,Punjab,04,"","","","",31.1971,73.107
+PK,37660,Chak 103 Rb,Punjab,04,"","","","",31.1971,73.107
+PK,37690,Chak 189 Rb (Rasulpur),Punjab,04,"","","","",31.1971,73.107
+PK,37700,Chak Jhumra,Punjab,04,"","","","",31.5681,73.1832
+PK,37720,Chak 103 Jb,Punjab,04,"","","","",31.6122,73.1407
+PK,37730,Burj Mandi,Punjab,04,"","","","",31.6564,73.0982
+PK,37740,Chak 16 Jb,Punjab,04,"","","","",31.6122,73.1407
+PK,37750,Sahuwala (Chak 132/Rb),Punjab,04,"","","","",31.6122,73.1407
+PK,38000,Faisalabad Gpo,Punjab,04,"","","","",31.3728,73.0365
+PK,38004,Faisalabad Board Of Education,Punjab,04,"","","","",31.3728,73.0365
+PK,38070,Faisalabad Millat Town,Punjab,04,"","","","",31.3728,73.0365
+PK,38080,Faisalabad Millat Colony,Punjab,04,"","","","",31.3728,73.0365
+PK,38086,Faisalabad Sitara Colony,Punjab,04,"","","","",31.3728,73.0365
+PK,38090,Faisalabad Peoples Colony No.2,Punjab,04,"","","","",31.3728,73.0365
+PK,38200,Faisalabad Amin Pur Banglow,Punjab,04,"","","","",31.4361,73.0201
+PK,38210,Chak 59 Jb,Punjab,04,"","","","",31.4361,73.0201
+PK,38220,Chak 229 Rb,Punjab,04,"","","","",31.4361,73.0201
+PK,38230,Chak 271 Rb,Punjab,04,"","","","",31.4361,73.0201
+PK,38240,Chak 583 Gb,Punjab,04,"","","","",31.4361,73.0201
+PK,38600,Faisalabad Nishat Abad,Punjab,04,"","","","",31.4361,73.0201
+PK,38610,"Gulistan Colony, Faisalabad",Punjab,04,"","","","",31.4361,73.0201
+PK,38700,Faisalabad Noor Pur,Punjab,04,"","","","",31.4361,73.0201
+PK,38800,Faisalabad Punjab Medical College,Punjab,04,"","","","",31.4361,73.0201
+PK,38850,Ayub Agricultural Research Institute,Punjab,04,"","","","",31.4361,73.0201
+PK,38860,Faisalabad Madina Town,Punjab,04,"","","","",31.4361,73.0201
+PK,38900,Ghulam Muhammad Abad,Punjab,04,"","","","",31.8164,72.9223
+PK,39000,Muridke,Punjab,04,"","","","",31.8026,74.2577
+PK,39010,Mannoo Abad,Punjab,04,"","","","",32.0813,74.1083
+PK,39018,Rayyanpura,Punjab,04,"","","","",32.0813,74.1083
+PK,39040,Sheikhupura Service Industry,Punjab,04,"","","","",32.0813,74.1083
+PK,39050,Narang Mandi,Punjab,04,"","","","",31.9038,74.5159
+PK,39060,Adhian,Punjab,04,"","","","",32.5375,73.5513
+PK,39100,Nankana Sahib,Punjab,04,"","","","",31.4501,73.7065
+PK,39120,More Khunda,Punjab,04,"","","","",31.4346,73.7318
+PK,39130,Bucheki,Punjab,04,"","","","",31.3086,73.66
+PK,39150,Sayyed Wala,Punjab,04,"","","","",31.4346,73.7318
+PK,39160,Martin Pur,Punjab,04,"","","","",31.4346,73.7318
+PK,39170,Manan Wala,Punjab,04,"","","","",31.4346,73.7318
+PK,39172,Feroz Wattan,Punjab,04,"","","","",31.4346,73.7318
+PK,39180,Warburton,Punjab,04,"","","","",31.5451,73.8289
+PK,39250,Kot Abdul Malik,Punjab,04,"","","","",31.6182,74.2461
+PK,39320,Monoo Pur,Punjab,04,"","","","",31.706,74.1829
+PK,39330,Kot Pindi Das,Punjab,04,"","","","",31.706,74.1829
+PK,39350,Qila Sheikhupura Gpo,Punjab,04,"","","","",31.706,74.1829
+PK,39424,Koryal Kalan,Punjab,04,"","","","",31.7806,73.7236
+PK,39450,Ajnian Wala,Punjab,04,"","","","",31.7806,73.7236
+PK,39460,Sharaq Pur,Punjab,04,"","","","",31.7806,73.7236
+PK,39470,Mandi Faiz Abad,Punjab,04,"","","","",31.7806,73.7236
+PK,39500,Farooqabad Mandi,Punjab,04,"","","","",32.103,73.2789
+PK,39510,Canal Colony Farooq Abad,Punjab,04,"","","","",32.103,73.2789
+PK,39520,Farooqabad,Punjab,04,"","","","",32.7917,72.7005
+PK,39530,Bahalike,Punjab,04,"","","","",31.7342,73.6972
+PK,39540,Safdar Abad,Punjab,04,"","","","",32.103,73.2789
+PK,39560,Khan Gah Dogran,Punjab,04,"","","","",32.103,73.2789
+PK,39570,Marh Balochan,Punjab,04,"","","","",31.7831,73.4388
+PK,39600,Sangla Hill,Punjab,04,"","","","",31.7167,73.3833
+PK,39610,Bhuleer Chak 119,Punjab,04,"","","","",31.5994,73.4913
+PK,39630,Shah Kot,Punjab,04,"","","","",31.5709,73.4853
+PK,39650,Panwan,Punjab,04,"","","","",31.5889,73.5969
+PK,39660,Kot Nizamdin,Punjab,04,"","","","",31.5212,73.4998
+PK,40000,Shah Nikdar,Punjab,04,"","","","",31.8864,72.4136
+PK,40010,Sillan Wali,Punjab,04,"","","","",31.8864,72.4136
+PK,40040,Farooka,Punjab,04,"","","","",31.8864,72.4136
+PK,40050,Chak 46 S.B.,Punjab,04,"","","","",31.8864,72.4136
+PK,40060,Chak 36 S.B.,Punjab,04,"","","","",31.8864,72.4136
+PK,40080,Bulland Hill,Punjab,04,"","","","",31.8864,72.4136
+PK,40100,Sargodha Gpo,Punjab,04,"","","","",30.6624,71.2275
+PK,40110,Wijh,Punjab,04,"","","","",32.0683,72.4246
+PK,40120,Ahmed Pur,Punjab,04,"","","","",27.9989,68.6242
+PK,40130,Shaheenabad,Punjab,04,"","","","",31.92,72.6337
+PK,40140,Chak 64 S.B,Punjab,04,"","","","",30.6624,71.2275
+PK,40160,Sargodha Secondary Board,Punjab,04,"","","","",30.6624,71.2275
+PK,40162,University Of Sargodha,Punjab,04,"","","","",30.6624,71.2275
+PK,40170,Sargodha Taxtile Mills,Punjab,04,"","","","",30.6624,71.2275
+PK,40180,Sargodha P.A.F Base,Punjab,04,"","","","",30.6624,71.2275
+PK,40184,Astana-E-Fazal,Punjab,04,"","","","",30.6624,71.2275
+PK,40190,Sargodha Cantt,Punjab,04,"","","","",30.6624,71.2275
+PK,40210,Sahiwal (Sargodha),Punjab,04,"","","","",31.9739,72.3311
+PK,40216,Gondal (Sargodha),Punjab,04,"","","","",31.9739,72.3311
+PK,40220,Sail Sharif,Punjab,04,"","","","",31.9277,72.3163
+PK,40222,Sial Chowk,Punjab,04,"","","","",31.9277,72.3163
+PK,40230,Nihang,Punjab,04,"","","","",31.8355,72.2867
+PK,40250,Kirana Hill,Punjab,04,"","","","",31.9277,72.3163
+PK,40260,Chak 111 Sb,Punjab,04,"","","","",31.9277,72.3163
+PK,40270,Chak 88 S.B.,Punjab,04,"","","","",31.9277,72.3163
+PK,40280,Bhagtan Wala,Punjab,04,"","","","",31.9277,72.3163
+PK,40290,Kallas Sharif,Punjab,04,"","","","",31.9277,72.3163
+PK,40300,Chak 86 S.B.,Punjab,04,"","","","",32.288,72.7048
+PK,40310,Chak 29 S.B.,Punjab,04,"","","","",32.288,72.7048
+PK,40330,Chak 34 N.B.,Punjab,04,"","","","",32.288,72.7048
+PK,40340,Hyderabad Town Sargodha,Punjab,04,"","","","",32.288,72.7048
+PK,40342,Mori,Punjab,04,"","","","",32.288,72.7048
+PK,40350,Jhawrian,Punjab,04,"","","","",32.288,72.7048
+PK,40360,Uttian,Punjab,04,"","","","",32.288,72.7048
+PK,40370,Dharima,Punjab,04,"","","","",32.288,72.7048
+PK,40400,Noon Sugar Mills Bhalwal,Punjab,04,"","","","",32.2156,73.0184
+PK,40410,Bhalwal,Punjab,04,"","","","",32.2658,72.8981
+PK,40412,"Attabad, Sargodha",Punjab,04,"","","","",32.3412,72.9801
+PK,40418,Alamabad,Punjab,04,"","","","",32.4165,73.0622
+PK,40420,Manzoor Hayat Colony Bhalwal,Punjab,04,"","","","",32.2156,73.0184
+PK,40430,Moazam Abad,Punjab,04,"","","","",32.2156,73.0184
+PK,40440,Lalliani,Punjab,04,"","","","",32.2039,72.9512
+PK,40450,Kot Moman,Punjab,04,"","","","",32.1884,73.0299
+PK,40460,Midh Ranjha,Punjab,04,"","","","",32.0567,73.1711
+PK,40462,Tangowali,Punjab,04,"","","","",32.1417,72.8467
+PK,40464,Punja,Punjab,04,"","","","",32.0992,73.0089
+PK,40470,Bhabra,Punjab,04,"","","","",32.2273,73.2172
+PK,40500,Alipur Noon,Punjab,04,"","","","",32.3067,72.9758
+PK,40520,Chak Ram Das,Punjab,04,"","","","",32.1223,74.3479
+PK,40520,Chak Mubarak,Punjab,04,"","","","",32.6229,74.0908
+PK,40530,Chak 10 M.L.,Punjab,04,"","","","",32.2587,73.2804
+PK,40540,Bhera,Punjab,04,"","","","",32.4821,72.9086
+PK,40542,Hazoorpur,Punjab,04,"","","","",32.474,72.9028
+PK,40544,Alipur Saidan,Punjab,04,"","","","",32.466,72.897
+PK,40550,Miani,Punjab,04,"","","","",31.3219,73
+PK,40560,Hujjan,Punjab,04,"","","","",32.2734,73.1203
+PK,40570,Phular Wan,Punjab,04,"","","","",32.2587,73.2804
+PK,40600,Shah Pur Sadar,Punjab,04,"","","","",32.1954,72.4418
+PK,40610,Shah Pur City,Punjab,04,"","","","",32.1761,72.4816
+PK,40614,Jahanabad,Punjab,04,"","","","",32.1761,72.4816
+PK,40620,Kandan,Punjab,04,"","","","",32.234,72.3623
+PK,41000,Khushab Gpo,Punjab,04,"","","","",32.5284,71.9884
+PK,41010,Hussain Abad,Punjab,04,"","","","",32.9553,70.6415
+PK,41020,Girote,Punjab,04,"","","","",32.0858,72.2741
+PK,41022,Khura,Punjab,04,"","","","",32.5268,72.2221
+PK,41024,Chowk Girote,Punjab,04,"","","","",32.3063,72.2481
+PK,41030,Roda,Punjab,04,"","","","",32.5368,71.5791
+PK,41050,Pail,Punjab,04,"","","","",32.634,72.4613
+PK,41060,Padhrar,Punjab,04,"","","","",32.6536,72.4929
+PK,41100,Nawshera (Khushab),Punjab,04,"","","","",32.5748,72.0362
+PK,41102,Surraki,Punjab,04,"","","","",32.5748,72.0362
+PK,41104,Ugali,Punjab,04,"","","","",32.5748,72.0362
+PK,41110,Sodhi,Punjab,04,"","","","",32.5828,72.2683
+PK,41120,Khabbekki,Punjab,04,"","","","",33.4447,73.143
+PK,41122,Dhadhar,Punjab,04,"","","","",33.4447,73.143
+PK,41124,Jabba,Punjab,04,"","","","",33.4447,73.143
+PK,41130,Mardwal,Punjab,04,"","","","",32.6071,72.1634
+PK,41140,Angah,Punjab,04,"","","","",32.5974,72.0877
+PK,41150,Uchhali,Punjab,04,"","","","",32.5383,72.0163
+PK,41160,P. A. F. Sakesar,Punjab,04,"","","","",32.5454,72.0925
+PK,41162,Kufri,Punjab,04,"","","","",32.5454,72.0925
+PK,41170,Jahlar,Punjab,04,"","","","",32.4986,72.097
+PK,41200,Jauhar Abad,Punjab,04,"","","","",32.1253,72.0411
+PK,41210,Hadali,Punjab,04,"","","","",32.2926,72.1908
+PK,41220,Jabbi,Punjab,04,"","","","",32.3917,72.0943
+PK,41250,Mitha Tiwana,Punjab,04,"","","","",32.2454,72.1061
+PK,41260,Adhi Kot,Punjab,04,"","","","",32.1054,71.806
+PK,41264,Khushab Atomic Energy Commission,Punjab,04,"","","","",32.1054,71.806
+PK,41270,Nur Pur Thal,Punjab,04,"","","","",32.1253,72.0411
+PK,41280,Jamali,Punjab,04,"","","","",31.8448,72.057
+PK,41282,Jaura Kalan,Punjab,04,"","","","",31.8922,72.2275
+PK,41300,Qaid Abad,Punjab,04,"","","","",32.3732,72.1547
+PK,41310,Bandial,Punjab,04,"","","","",32.3552,71.8247
+PK,41320,Rangpur Baghor,Punjab,04,"","","","",32.3732,72.1547
+PK,41330,Warchha Mandi,Punjab,04,"","","","",32.3732,72.1547
+PK,41340,Rajar,Punjab,04,"","","","",32.3912,72.4846
+PK,42000,Liaqat Abad,Punjab,04,"","","","",32.3675,71.463
+PK,42010,Alluwali,Punjab,04,"","","","",32.3668,71.4094
+PK,42012,Dubb,Punjab,04,"","","","",32.3668,71.4094
+PK,42020,Harnoli,Punjab,04,"","","","",32.2787,71.5543
+PK,42030,Chashma Barrage Colony Mianwali,Punjab,04,"","","","",32.3675,71.463
+PK,42050,Kundian,Punjab,04,"","","","",32.4577,71.4789
+PK,42060,Chak 4/Db,Punjab,04,"","","","",32.3675,71.463
+PK,42100,Wan Bhachran,Punjab,04,"","","","",32.419,71.6983
+PK,42110,Chapri,Punjab,04,"","","","",32.498,71.919
+PK,42120,Shadia,Punjab,04,"","","","",32.3786,71.7593
+PK,42200,Mianwali Gpo,Punjab,04,"","","","",32.4316,72.2894
+PK,42204,Pakki Shah Mardan,Punjab,04,"","","","",32.9207,71.5532
+PK,42206,Mianwali P.A.F Colony,Punjab,04,"","","","",32.4316,72.2894
+PK,42208,Kallor,Punjab,04,"","","","",31.9425,73.0256
+PK,42210,Musa Khel,Punjab,04,"","","","",32.6404,71.7409
+PK,42220,Kalri,Punjab,04,"","","","",32.6729,71.8901
+PK,42230,Chakrala,Punjab,04,"","","","",32.8243,71.8825
+PK,42232,Dhiba Kar Sial,Punjab,04,"","","","",32.8243,71.8825
+PK,42240,Dhurnaka,Punjab,04,"","","","",32.5989,72.0378
+PK,42250,Rikhi,Punjab,04,"","","","",32.7023,71.7868
+PK,42260,Chhidroo,Punjab,04,"","","","",32.5989,72.0378
+PK,42300,Pai Khel,Punjab,04,"","","","",32.7885,71.5858
+PK,42302,Ghundi,Punjab,04,"","","","",32.8068,71.6061
+PK,42304,Swance,Punjab,04,"","","","",32.7976,71.5959
+PK,42310,Mochh,Punjab,04,"","","","",32.7474,71.5148
+PK,42312,Dillewali,Punjab,04,"","","","",32.7098,71.5325
+PK,42320,Daud Khel,Punjab,04,"","","","",32.8753,71.5712
+PK,42340,Iskandar Abad,Punjab,04,"","","","",32.8544,71.5648
+PK,42350,Mari Indus,Punjab,04,"","","","",32.8544,71.5648
+PK,42360,Kalabagh,Punjab,04,"","","","",32.9616,71.5464
+PK,42370,Tabisar,Punjab,04,"","","","",33.148,71.5659
+PK,42380,Tola Bangi Khel,Punjab,04,"","","","",32.8544,71.5648
+PK,42400,Kamar Mashani,Punjab,04,"","","","",32.7029,71.4416
+PK,42410,Makerwal,Punjab,04,"","","","",32.8552,71.1943
+PK,42420,Trag,Punjab,04,"","","","",32.7856,71.2942
+PK,42430,Isa Khel,Punjab,04,"","","","",32.468,71.8362
+PK,43000,Makhad Road,Punjab,04,"","","","",33.0448,71.7627
+PK,43002,Kani,Punjab,04,"","","","",33.0448,71.7627
+PK,43010,Makhad Sharif,Punjab,04,"","","","",33.1304,71.7368
+PK,43020,Injra,Punjab,04,"","","","",33.1258,71.8517
+PK,43030,Naka Afghanan,Punjab,04,"","","","",33.1769,71.8412
+PK,43040,Hadowali,Punjab,04,"","","","",33.1769,71.8412
+PK,43050,Chabchhab,Punjab,04,"","","","",33.2332,71.9321
+PK,43052,Nandrakabad,Punjab,04,"","","","",33.2332,71.9321
+PK,43060,Lakarmar,Punjab,04,"","","","",33.1769,71.8412
+PK,43070,Jhamat,Punjab,04,"","","","",33.2923,71.9192
+PK,43080,Dakhnair,Punjab,04,"","","","",33.3109,71.8322
+PK,43090,Malhowali,Punjab,04,"","","","",33.1769,71.8412
+PK,43100,Jand,Punjab,04,"","","","",33.433,72.0188
+PK,43110,Kot Chhaji,Punjab,04,"","","","",33.5348,72.0808
+PK,43112,Jalwal,Punjab,04,"","","","",33.536,72.0231
+PK,43114,Kandrala,Punjab,04,"","","","",33.5354,72.0519
+PK,43120,Nara,Punjab,04,"","","","",33.639,72.0534
+PK,43122,Pindi Sarhal,Punjab,04,"","","","",33.5814,72.1702
+PK,43130,Thatta,Punjab,04,"","","","",33.5792,72.2216
+PK,43140,Basal,Punjab,04,"","","","",33.555,72.2569
+PK,43200,Kisran,Punjab,04,"","","","",33.23,72.2502
+PK,43210,Mithal,Punjab,04,"","","","",33.5247,72.2422
+PK,43220,Domel,Punjab,04,"","","","",33.5392,72.1945
+PK,43222,Maryala,Punjab,04,"","","","",32.3319,72.7485
+PK,43230,Pind Sultani,Punjab,04,"","","","",33.5103,72.182
+PK,43232,Rangli,Punjab,04,"","","","",33.4903,72.1211
+PK,43240,Ikhlas,Punjab,04,"","","","",33.2649,72.2959
+PK,43244,Mianwala,Punjab,04,"","","","",32.496,71.8022
+PK,43250,Dhok Lahm,Punjab,04,"","","","",33.3177,72.1866
+PK,43252,Surg,Punjab,04,"","","","",33.7067,72.2597
+PK,43260,Pindi Gheb,Punjab,04,"","","","",33.241,72.2648
+PK,43270,Chhab,Punjab,04,"","","","",33.1079,72.4549
+PK,43280,Nilhad,Punjab,04,"","","","",33.23,72.2502
+PK,43300,Khunda,Punjab,04,"","","","",33.4621,72.3949
+PK,43320,Mirjal,Punjab,04,"","","","",33.5137,72.4408
+PK,43322,Kahal,Punjab,04,"","","","",33.5363,72.34
+PK,43330,Gaggon,Punjab,04,"","","","",33.2829,72.6521
+PK,43340,Kot Fateh Khan,Punjab,04,"","","","",33.4624,72.508
+PK,43350,Fateh Jang,Punjab,04,"","","","",33.5802,71.4723
+PK,43360,Kamrial,Punjab,04,"","","","",33.287,72.5766
+PK,43364,Kanjur,Punjab,04,"","","","",33.3519,71.9207
+PK,43366,Dhurnal,Punjab,04,"","","","",33.3544,72.6112
+PK,43370,Ganda Kas,Punjab,04,"","","","",33.2272,72.6202
+PK,43380,Khaur,Punjab,04,"","","","",33.2499,72.4573
+PK,43382,Khaur Village,Punjab,04,"","","","",33.2499,72.4573
+PK,43390,Kutbal,Punjab,04,"","","","",33.1514,73.1934
+PK,43394,Hattar,Punjab,04,"","","","",32.6388,74.3601
+PK,43396,Moorat,Punjab,04,"","","","",32.8951,73.7768
+PK,43400,Jalalia,Punjab,04,"","","","",33.9584,72.5412
+PK,43410,Gurgushti,Punjab,04,"","","","",33.9312,72.5358
+PK,43412,Malak Mala,Punjab,04,"","","","",33.9312,72.5358
+PK,43414,Behboodi,Punjab,04,"","","","",33.9312,72.5358
+PK,43420,Shinka,Punjab,04,"","","","",33.9469,72.5316
+PK,43422,Yasin Kalan,Punjab,04,"","","","",33.9514,72.5008
+PK,43430,Barazai,Punjab,04,"","","","",33.9189,72.5425
+PK,43440,Hazro,Punjab,04,"","","","",33.9099,72.4918
+PK,43442,Kamalpur Musa,Punjab,04,"","","","",33.9099,72.4918
+PK,43444,Raitla Mandi,Punjab,04,"","","","",33.9099,72.4918
+PK,43450,Nartopa,Punjab,04,"","","","",33.9137,72.5184
+PK,43460,Musa,Punjab,04,"","","","",33.8821,72.4925
+PK,43470,Hameed,Punjab,04,"","","","",32.6375,73.2087
+PK,43480,Saman,Punjab,04,"","","","",33.8963,72.4478
+PK,43490,Shams Abad,Punjab,04,"","","","",33.8306,72.5619
+PK,43500,Rangoo,Punjab,04,"","","","",33.908,72.3724
+PK,43510,Waisa,Punjab,04,"","","","",33.9224,72.4024
+PK,43520,Sirka,Punjab,04,"","","","",33.9392,72.3915
+PK,43530,Shadi Khan,Punjab,04,"","","","",33.9227,72.3776
+PK,43540,Furmali,Punjab,04,"","","","",33.908,72.3724
+PK,43550,Mansar Camp,Punjab,04,"","","","",33.908,72.3724
+PK,43560,Attock Khurd,Punjab,04,"","","","",33.8921,72.2386
+PK,43570,P.A.C. Kamra,Punjab,04,"","","","",33.908,72.3724
+PK,43580,Hattian,Punjab,04,"","","","",33.8636,72.4517
+PK,43600,Attock Gpo,Punjab,04,"","","","",32.7503,74.1897
+PK,43660,Barotha Wapda Colony,Punjab,04,"","","","",32.7503,74.1897
+PK,43670,Sanjwal Pakistan Ordnance Factory,Punjab,04,"","","","",32.7503,74.1897
+PK,43680,Mirza,Punjab,04,"","","","",32.7503,74.1897
+PK,43700,Dawoodpur,Punjab,04,"","","","",30.8998,72.5376
+PK,43710,Burhan,Punjab,04,"","","","",31.8518,72.218
+PK,43720,Mono Nagar,Punjab,04,"","","","",30.8998,72.5376
+PK,43730,Hasan Abdal,Punjab,04,"","","","",30.4239,72.6974
+PK,43734,Alro Lab,Punjab,04,"","","","",30.4239,72.6974
+PK,43740,Bahtar,Punjab,04,"","","","",30.8998,72.5376
+PK,43750,Boota,Punjab,04,"","","","",30.8998,72.5376
+PK,46000,Rawalpindi Gpo,Punjab,04,"","","","",33.5999,73.0217
+PK,46010,Rawalpindi Momin Pura,Punjab,04,"","","","",33.5999,73.0217
+PK,46020,Rawalpindi Urdu Bazar,Punjab,04,"","","","",33.5999,73.0217
+PK,46030,Rawalpindi Saidpur Road,Punjab,04,"","","","",33.5999,73.0217
+PK,46040,Rawalpindi Asghar Mall,Punjab,04,"","","","",33.5999,73.0217
+PK,46050,Rawalpindi Allama Iqbal Colony,Punjab,04,"","","","",33.5854,73.0244
+PK,46060,Rawalpindi Westridge,Punjab,04,"","","","",33.6144,73.0189
+PK,46070,Rawalpindi Kohinoor Colony,Punjab,04,"","","","",33.5999,73.0217
+PK,46100,Rawalpindi General Headquarters,Punjab,04,"","","","",33.6127,73.0288
+PK,46120,Murree Brewary Rawalpindi,Punjab,04,"","","","",33.6127,73.0288
+PK,46202,Chaklala Village,Punjab,04,"","","","",33.6127,73.0288
+PK,46210,Rawalpindi Chaklala Air Field,Punjab,04,"","","","",33.6127,73.0288
+PK,46220,"Rawalpindi Bahria Town (Phase 1, 2, 3, 4)",Punjab,04,"","","","",33.6127,73.0288
+PK,46222,Rawalpindi Gulzar-E-Quaid,Punjab,04,"","","","",33.6127,73.0288
+PK,46300,Rawalpindi Satellite Town,Punjab,04,"","","","",33.6332,73.0402
+PK,46310,Rawalpindi Judicial Town,Punjab,04,"","","","",33.6332,73.0402
+PK,46320,Rawalpindi Raja Town,Punjab,04,"","","","",33.6332,73.0402
+PK,46330,Rawalpindi Fizaia Colony,Punjab,04,"","","","",33.6332,73.0402
+PK,46350,Rawalpindi Pir Wadhai,Punjab,04,"","","","",33.6332,73.0402
+PK,46500,Rawalpindi Dhamial Camp,Punjab,04,"","","","",33.6127,73.0288
+PK,46510,Rawalpindi Kutchery,Punjab,04,"","","","",33.6127,73.0288
+PK,46520,Rawalpindi Chak Jalal Din,Punjab,04,"","","","",33.6127,73.0288
+PK,46600,Rawalpindi Attock Oil Company,Punjab,04,"","","","",33.6127,73.0288
+PK,46602,Rawalpindi Bise Morgah,Punjab,04,"","","","",33.6127,73.0288
+PK,46604,"Askari 14, Rawalpindi",Punjab,04,"","","","",33.6127,73.0288
+PK,46606,Rawalpindi Adyala Road,Punjab,04,"","","","",33.6127,73.0288
+PK,46610,Rawalpindi High Court,Punjab,04,"","","","",33.6127,73.0288
+PK,46620,"Safari Valley (Bahria Phase 5, 6, 7, 8)",Punjab,04,"","","","",33.6127,73.0288
+PK,47000,Wah,Punjab,04,"","","","",33.7983,72.6956
+PK,47002,Losar Sharfoo,Punjab,04,"","","","",33.7983,72.6956
+PK,47010,Lala Rukh Wah Cantt,Punjab,04,"","","","",33.7578,72.792
+PK,47020,Wah Cement Works,Punjab,04,"","","","",33.7578,72.792
+PK,47030,Pakistan Ordinance Factory Gudwal,Punjab,04,"","","","",33.7578,72.792
+PK,47040,Wah Cantt. Gpo,Punjab,04,"","","","",33.7578,72.792
+PK,47044,Lalazar Colony Wah,Punjab,04,"","","","",33.7578,72.792
+PK,47046,Wah West Park,Punjab,04,"","","","",33.7578,72.792
+PK,47050,Heavy Mechanical Complex Taxila,Punjab,04,"","","","",33.7578,72.792
+PK,47060,Usman Khatter,Punjab,04,"","","","",33.7578,72.792
+PK,47066,Ahata Farooqia,Punjab,04,"","","","",33.7578,72.792
+PK,47070,Taxila Cantt.,Punjab,04,"","","","",33.7578,72.792
+PK,47080,Taxila,Punjab,04,"","","","",33.7373,72.8006
+PK,47086,Wah P.M.O Complex,Punjab,04,"","","","",33.7373,72.8006
+PK,47090,Saddat Colony,Punjab,04,"","","","",33.7378,72.8797
+PK,47092,Khurram Gujar,Punjab,04,"","","","",33.7378,72.8797
+PK,47100,Tret,Punjab,04,"","","","",33.8357,73.2969
+PK,47104,Samli Sanatorium,Punjab,04,"","","","",33.8357,73.2969
+PK,47110,Ghora Gali,Punjab,04,"","","","",33.8806,73.3417
+PK,47114,Lawrence College,Punjab,04,"","","","",33.8806,73.3417
+PK,47118,Murree Clifdon,Punjab,04,"","","","",33.8806,73.3417
+PK,47120,Chitta More,Punjab,04,"","","","",33.907,73.3734
+PK,47124,Barian Camp,Punjab,04,"","","","",33.907,73.3734
+PK,47130,Kuldana,Punjab,04,"","","","",33.9211,73.3994
+PK,47140,Sunny Bank,Punjab,04,"","","","",33.92,73.401
+PK,47150,Murree Gpo,Punjab,04,"","","","",33.907,73.3734
+PK,47180,Jhika Gali,Punjab,04,"","","","",33.907,73.3734
+PK,47184,Ghariai,Punjab,04,"","","","",33.907,73.3734
+PK,47190,Kashmiri Bazar,Punjab,04,"","","","",34.004,73.4704
+PK,47194,Dewal,Punjab,04,"","","","",34.004,73.4704
+PK,47200,Phagwari,Punjab,04,"","","","",33.9815,73.4984
+PK,47204,Sehr Bagla,Punjab,04,"","","","",33.9815,73.4984
+PK,47210,Upper Topa,Punjab,04,"","","","",33.9123,73.4297
+PK,47214,Lower Topa,Punjab,04,"","","","",33.8977,73.4305
+PK,47216,Phapril,Punjab,04,"","","","",33.905,73.4301
+PK,47220,Gulehra Gali,Punjab,04,"","","","",33.7469,73.3327
+PK,47224,Mohra Sayyedan,Punjab,04,"","","","",33.7469,73.3327
+PK,47230,Ban,Punjab,04,"","","","",33.7097,72.7698
+PK,47232,Biah,Punjab,04,"","","","",33.7466,73.4119
+PK,47234,Dhirkot Sattian,Punjab,04,"","","","",33.7281,73.0908
+PK,47240,Dhanda,Punjab,04,"","","","",33.9076,73.5154
+PK,47250,Mallot Sattian,Punjab,04,"","","","",33.7469,73.3327
+PK,47260,Kotli Sattian,Punjab,04,"","","","",33.8022,73.5295
+PK,47262,Durniyan,Punjab,04,"","","","",33.7841,73.5165
+PK,47266,Kahuti Bazar,Punjab,04,"","","","",33.7659,73.5035
+PK,47270,Lehtrar Bala,Punjab,04,"","","","",33.706,73.4388
+PK,47274,Kalan Basand,Punjab,04,"","","","",33.706,73.4388
+PK,47276,Surba,Punjab,04,"","","","",33.706,73.4388
+PK,47280,Kehrore,Punjab,04,"","","","",33.7469,73.3327
+PK,47290,Sihal,Punjab,04,"","","","",33.3569,72.8307
+PK,47294,Sangral,Punjab,04,"","","","",33.4456,73.2015
+PK,47296,Kolian Hameed,Punjab,04,"","","","",33.4012,73.0161
+PK,47300,Chakri,Punjab,04,"","","","",33.2924,72.7618
+PK,47310,Dahgal,Punjab,04,"","","","",33.4923,73.048
+PK,47320,Sumbalgah,Punjab,04,"","","","",33.62,73.4039
+PK,47324,Khadiot,Punjab,04,"","","","",33.62,73.4039
+PK,47330,Kahuta Gpo,Punjab,04,"","","","",33.5664,73.393
+PK,47340,Hanesar,Punjab,04,"","","","",33.5869,73.4839
+PK,47350,Panjar,Punjab,04,"","","","",33.6439,73.5171
+PK,47360,Narh,Punjab,04,"","","","",33.7308,73.5465
+PK,47364,Sour,Punjab,04,"","","","",33.7308,73.5465
+PK,47370,Mowara,Punjab,04,"","","","",33.531,73.4778
+PK,47374,Matore,Punjab,04,"","","","",33.531,73.4778
+PK,47376,Maira (Rawalpindi),Punjab,04,"","","","",33.531,73.4778
+PK,47380,Thoha Khalsa,Punjab,04,"","","","",33.5093,73.4366
+PK,47384,Nara,Punjab,04,"","","","",33.5433,73.527
+PK,47390,Bagh Jamiri,Punjab,04,"","","","",33.5664,73.393
+PK,47400,Lehri,Punjab,04,"","","","",33.5295,73.5578
+PK,47410,Khalol,Punjab,04,"","","","",33.5659,73.5591
+PK,47420,Jewra,Punjab,04,"","","","",33.609,73.5219
+PK,47430,Nalla Musilmanan,Punjab,04,"","","","",33.4628,73.4945
+PK,47432,Benahal Pattan,Punjab,04,"","","","",33.4628,73.4945
+PK,47440,Doberan Kalan,Punjab,04,"","","","",33.4482,73.5057
+PK,47444,Sakoot,Punjab,04,"","","","",33.4482,73.5057
+PK,47450,Dhamali,Punjab,04,"","","","",33.4353,73.4428
+PK,47460,Bhalakhar,Punjab,04,"","","","",33.4628,73.4945
+PK,47470,Choha Khalsa,Punjab,04,"","","","",33.412,73.4828
+PK,47474,Sohat Bagial,Punjab,04,"","","","",33.3983,73.4465
+PK,47476,Chakrali Budhal,Punjab,04,"","","","",33.3845,73.4102
+PK,47480,Sir Suba Shah,Punjab,04,"","","","",33.3976,73.5122
+PK,47490,Samote,Punjab,04,"","","","",33.4628,73.4945
+PK,47500,Takal,Punjab,04,"","","","",33.3716,73.4613
+PK,47510,Dharyala Sehgal,Punjab,04,"","","","",33.2314,73.2982
+PK,47520,Kallar Sayydan,Punjab,04,"","","","",33.2314,73.2982
+PK,47522,Thal Khalsa,Punjab,04,"","","","",33.2314,73.2982
+PK,47530,Chowk Pindori,Punjab,04,"","","","",33.2314,73.2982
+PK,47540,Sagri,Punjab,04,"","","","",33.4609,73.2638
+PK,47542,Manghota Barahmnan,Punjab,04,"","","","",33.4609,73.2638
+PK,47546,Tareel,Punjab,04,"","","","",33.4609,73.2638
+PK,47550,Jhatta Hathial,Punjab,04,"","","","",33.2314,73.2982
+PK,47560,Banda,Punjab,04,"","","","",33.2314,73.2982
+PK,47570,Bhall,Punjab,04,"","","","",33.2314,73.2982
+PK,47580,Udhowal,Punjab,04,"","","","",32.6009,74.0446
+PK,47590,Chauntra,Punjab,04,"","","","",33.3536,72.9305
+PK,47592,Tatral,Punjab,04,"","","","",32.9108,72.8594
+PK,47600,Chak Beli Khan,Punjab,04,"","","","",33.2375,72.911
+PK,47610,Pindoori (Chak Bali Khan),Punjab,04,"","","","",33.3453,73.1306
+PK,47620,Mahuta Mohra,Punjab,04,"","","","",33.3453,73.1306
+PK,47630,Paryal,Punjab,04,"","","","",33.3453,73.1306
+PK,47640,Ruper Kalan,Punjab,04,"","","","",33.3453,73.1306
+PK,47650,Bassali,Punjab,04,"","","","",33.3453,73.1306
+PK,47652,Haraka,Punjab,04,"","","","",33.3453,73.1306
+PK,47660,Jabbar Darvesh,Punjab,04,"","","","",33.3572,73.1023
+PK,47670,Mandra,Punjab,04,"","","","",33.3662,73.2386
+PK,47680,Kaliam Awan,Punjab,04,"","","","",33.4058,73.2072
+PK,47690,Pothi,Punjab,04,"","","","",33.3596,73.1941
+PK,47700,Sang,Punjab,04,"","","","",33.3151,73.1883
+PK,47710,Mangote,Punjab,04,"","","","",33.2015,73.1481
+PK,47720,Sukho,Punjab,04,"","","","",33.2501,73.1819
+PK,47730,Kanyat Khalil,Punjab,04,"","","","",33.1847,73.2276
+PK,47740,Daultala,Punjab,04,"","","","",33.1928,73.141
+PK,47750,Ahdi,Punjab,04,"","","","",33.1414,73.1264
+PK,47760,Narali,Punjab,04,"","","","",33.1148,73.1624
+PK,47770,Dhong,Punjab,04,"","","","",33.2015,73.1481
+PK,47780,Jatli,Punjab,04,"","","","",33.2044,73.1078
+PK,47784,Devi,Punjab,04,"","","","",33.209,73.0496
+PK,47790,Bhair Kalyal,Punjab,04,"","","","",33.2015,73.1481
+PK,47800,Thekherian,Punjab,04,"","","","",33.1821,73.1929
+PK,47810,Raman,Punjab,04,"","","","",33.1514,73.0669
+PK,47820,Sayyad Kisran,Punjab,04,"","","","",33.1821,73.1929
+PK,47824,Bhawlay Khurd,Punjab,04,"","","","",33.1821,73.1929
+PK,47830,Punjgran Khurd,Punjab,04,"","","","",33.1789,73.0312
+PK,47850,Gujar Khan Gpo,Punjab,04,"","","","",33.1821,73.1929
+PK,47880,Gulyana,Punjab,04,"","","","",33.2025,73.2697
+PK,47882,Chik Budhal,Punjab,04,"","","","",33.2025,73.2697
+PK,47884,Mohra Noori,Punjab,04,"","","","",33.2025,73.2697
+PK,47890,Sasral,Punjab,04,"","","","",33.155,73.2502
+PK,47900,Kuntrilla,Punjab,04,"","","","",32.96,73.6942
+PK,47910,Bewal,Punjab,04,"","","","",33.3378,73.4483
+PK,47920,Mohra Bhuttian,Punjab,04,"","","","",32.9289,73.834
+PK,47930,Kinger,Punjab,04,"","","","",32.9289,73.834
+PK,47940,Thathi,Punjab,04,"","","","",32.7272,74.4428
+PK,47950,Pindori,Punjab,04,"","","","",32.7303,74.0041
+PK,47960,Kazian,Punjab,04,"","","","",32.2137,75.0937
+PK,47970,Jand Mehloo,Punjab,04,"","","","",32.9289,73.834
+PK,47980,Missa Kaswal,Punjab,04,"","","","",33.2057,73.3463
+PK,47990,Jarmot Kalan,Punjab,04,"","","","",33.1281,73.3213
+PK,47994,Khingar Mamdal,Punjab,04,"","","","",33.1281,73.3213
+PK,48000,Trap,Punjab,04,"","","","",33.0535,71.9058
+PK,48020,Jabbi Shah Dilawar,Punjab,04,"","","","",33.0936,71.9907
+PK,48030,Multan Khurd,Punjab,04,"","","","",33.0356,72.0175
+PK,48034,Sang Wala,Punjab,04,"","","","",33.0356,72.0175
+PK,48040,Tamman,Punjab,04,"","","","",33.004,72.1105
+PK,48042,Dandi Surhali,Punjab,04,"","","","",33.004,72.1105
+PK,48050,Budhial,Punjab,04,"","","","",32.9939,72.186
+PK,48052,Patwali,Punjab,04,"","","","",33.0484,72.1807
+PK,48060,Akwal,Punjab,04,"","","","",32.9295,72.3648
+PK,48062,Dhaular,Punjab,04,"","","","",33.042,72.3043
+PK,48070,Tehi,Punjab,04,"","","","",32.9617,72.4089
+PK,48072,Jasial,Punjab,04,"","","","",32.9977,72.3913
+PK,48074,Tatral,Punjab,04,"","","","",32.9108,72.8594
+PK,48080,Kot Sarang,Punjab,04,"","","","",33.0371,72.385
+PK,48090,Talagang City,Punjab,04,"","","","",33.0105,72.2309
+PK,48100,Talagang Gpo,Punjab,04,"","","","",32.9115,72.2064
+PK,48110,Naka Kahut,Punjab,04,"","","","",32.9425,72.4781
+PK,48120,Pira Fathial,Punjab,04,"","","","",32.9115,72.2064
+PK,48122,Moorat,Punjab,04,"","","","",32.9115,72.2064
+PK,48130,Balwal,Punjab,04,"","","","",32.8216,72.0646
+PK,48140,Bilalabad,Punjab,04,"","","","",32.9115,72.2064
+PK,48150,Saghar,Punjab,04,"","","","",32.9417,72.2703
+PK,48154,Darote,Punjab,04,"","","","",32.9417,72.2703
+PK,48160,Wanhar,Punjab,04,"","","","",32.8914,72.1786
+PK,48170,Dhulli,Punjab,04,"","","","",32.8627,72.1943
+PK,48180,Dhermond,Punjab,04,"","","","",32.9453,72.1678
+PK,48182,Dhoke Masahib,Punjab,04,"","","","",32.9453,72.1678
+PK,48190,Leti,Punjab,04,"","","","",32.9113,72.0658
+PK,48200,Pachand,Punjab,04,"","","","",32.7506,72.4205
+PK,48202,Kot Gullah,Punjab,04,"","","","",32.7506,72.4205
+PK,48210,Dhurnal,Punjab,04,"","","","",32.8076,72.1016
+PK,48220,Gatal,Punjab,04,"","","","",32.8012,72.0677
+PK,48222,Kot Qazi,Punjab,04,"","","","",32.8236,72.0086
+PK,48230,Danda Shah Balawal,Punjab,04,"","","","",32.7506,72.4205
+PK,48240,Changa,Punjab,04,"","","","",32.7282,71.9752
+PK,48250,Lawa,Punjab,04,"","","","",32.6968,71.9327
+PK,48260,Jhatla,Punjab,04,"","","","",32.8239,72.3826
+PK,48270,Thoha Mehram Khan,Punjab,04,"","","","",32.7506,72.4205
+PK,48280,Chinji,Punjab,04,"","","","",32.7075,72.364
+PK,48282,Kotera,Punjab,04,"","","","",32.6401,74.5152
+PK,48290,Bhilomar,Punjab,04,"","","","",32.7268,72.4368
+PK,48310,Dandot,Punjab,04,"","","","",32.6589,72.9597
+PK,48312,Dalelpur,Punjab,04,"","","","",32.7304,72.8428
+PK,48320,Choa Saidan Shah,Punjab,04,"","","","",32.7196,72.9862
+PK,48322,Wahalizer,Punjab,04,"","","","",32.7399,73.0982
+PK,48326,Ara,Punjab,04,"","","","",32.7602,73.2101
+PK,48330,Dulmial,Punjab,04,"","","","",32.739,72.9248
+PK,48332,Dheri Sydan,Punjab,04,"","","","",32.739,72.9248
+PK,48340,Dharial Kahoon,Punjab,04,"","","","",32.7247,72.9582
+PK,48350,Wahula,Punjab,04,"","","","",32.7247,72.9582
+PK,48360,Dalwal,Punjab,04,"","","","",32.7024,72.8865
+PK,48370,Arrar,Punjab,04,"","","","",32.7247,72.9582
+PK,48380,Khairpur (Chakwal),Punjab,04,"","","","",32.733,72.7906
+PK,48400,Lehr Sultan Pur,Punjab,04,"","","","",32.7637,73.094
+PK,48410,Basharat,Punjab,04,"","","","",32.782,73.092
+PK,48420,Saloi,Punjab,04,"","","","",32.7453,73.0961
+PK,48430,Lehri Kakan,Punjab,04,"","","","",32.7637,73.094
+PK,48500,Dhidwal,Punjab,04,"","","","",32.86,72.9427
+PK,48510,Karriala,Punjab,04,"","","","",33.6576,73.1512
+PK,48514,Bhallah,Punjab,04,"","","","",34.4553,73.3596
+PK,48516,Dheedwal,Punjab,04,"","","","",32.86,72.9427
+PK,48520,Bhaun,Punjab,04,"","","","",32.8605,72.7568
+PK,48530,Kalar Kahar,Punjab,04,"","","","",32.78,72.6979
+PK,48540,Bharpur,Punjab,04,"","","","",32.8564,72.5688
+PK,48550,Jhamrah,Punjab,04,"","","","",32.7135,72.6141
+PK,48554,Karuli,Punjab,04,"","","","",32.6846,72.7766
+PK,48556,Istqlal Camp,Punjab,04,"","","","",32.699,72.6953
+PK,48560,Bochal Kalan,Punjab,04,"","","","",32.9253,72.7585
+PK,48564,Dharukna,Punjab,04,"","","","",32.9253,72.7585
+PK,48570,Sar Kalan,Punjab,04,"","","","",32.6443,72.6436
+PK,48580,Buchal Khurd,Punjab,04,"","","","",32.7148,72.5465
+PK,48582,Wasnal,Punjab,04,"","","","",32.7148,72.5465
+PK,48584,Manara,Punjab,04,"","","","",32.7148,72.5465
+PK,48590,Nur Pur,Punjab,04,"","","","",32.6636,72.5884
+PK,48600,Sadwal,Punjab,04,"","","","",32.8817,72.8302
+PK,48604,Rehna Sadat,Punjab,04,"","","","",32.8817,72.8302
+PK,48610,Murid,Punjab,04,"","","","",32.9133,72.7547
+PK,48620,Bhatti Gujar,Punjab,04,"","","","",32.8682,72.6421
+PK,48624,Dharabi,Punjab,04,"","","","",32.9452,72.5328
+PK,48630,Balkasar,Punjab,04,"","","","",32.9374,72.6444
+PK,48640,Sidher,Punjab,04,"","","","",32.974,72.7028
+PK,48650,Thoa Bahadur,Punjab,04,"","","","",32.9365,72.7027
+PK,48660,Oudherwal,Punjab,04,"","","","",32.974,72.7028
+PK,48670,Mundey,Punjab,04,"","","","",32.974,72.7028
+PK,48680,Bhagwal,Punjab,04,"","","","",33.076,72.5959
+PK,48682,Chamli,Punjab,04,"","","","",33.076,72.5959
+PK,48684,Roopwal,Punjab,04,"","","","",33.076,72.5959
+PK,48690,Minwal,Punjab,04,"","","","",33.0478,72.8546
+PK,48694,Chak Bhaun,Punjab,04,"","","","",33.0478,72.8546
+PK,48700,Dhudial (Chakwal),Punjab,04,"","","","",33.0676,72.9738
+PK,48704,Sang Kalan,Punjab,04,"","","","",33.0894,73.0142
+PK,48720,Mangwal,Punjab,04,"","","","",33.1086,72.8271
+PK,48730,Nila,Punjab,04,"","","","",33.1684,72.6126
+PK,48740,Hasil,Punjab,04,"","","","",33.0938,72.8624
+PK,48750,Bhin,Punjab,04,"","","","",32.9869,73.0198
+PK,48760,Badshahan,Punjab,04,"","","","",33.0938,72.8624
+PK,48770,Chak Malook,Punjab,04,"","","","",33.0938,72.8624
+PK,48780,Thanil Kamal,Punjab,04,"","","","",33.1419,72.7272
+PK,48800,Chakwal Gpo,Punjab,04,"","","","",32.9158,72.9616
+PK,48802,Thanial Fatohi,Punjab,04,"","","","",32.9158,72.9616
+PK,48808,Ghazi Abad,Punjab,04,"","","","",32.9158,72.9616
+PK,48810,Tatral,Punjab,04,"","","","",32.9108,72.8594
+PK,48812,Janga,Punjab,04,"","","","",32.8662,72.8512
+PK,48820,Dewalian,Punjab,04,"","","","",32.9158,72.9616
+PK,48824,Shahpur Sydan,Punjab,04,"","","","",32.9158,72.9616
+PK,48830,Saigal Abad,Punjab,04,"","","","",32.9158,72.9616
+PK,48840,Chakral,Punjab,04,"","","","",32.9245,72.9483
+PK,48850,Sohawa Village,Punjab,04,"","","","",32.9158,72.9616
+PK,48860,Chak Baqar Shah,Punjab,04,"","","","",32.9176,73.0265
+PK,48870,Khan Pur (Chakwal),Punjab,04,"","","","",32.9158,72.9616
+PK,48880,Dumman,Punjab,04,"","","","",32.9158,72.9616
+PK,48890,Pindi Gujran,Punjab,04,"","","","",32.9597,73.1226
+PK,48900,Nichindi,Punjab,04,"","","","",33.0566,73.1187
+PK,48902,Dharnuggi,Punjab,04,"","","","",33.0566,73.1187
+PK,48910,Malhal Mughlan,Punjab,04,"","","","",33.0024,73.1405
+PK,48912,Dhoda,Punjab,04,"","","","",33.0478,73.111
+PK,48914,Ghazial,Punjab,04,"","","","",32.9571,73.1699
+PK,48920,Chohan,Punjab,04,"","","","",33.2011,72.9879
+PK,48930,Chakora,Punjab,04,"","","","",33.0744,73.1841
+PK,48940,Jand (Chakwal),Punjab,04,"","","","",33.0566,73.1187
+PK,48950,Laugah,Punjab,04,"","","","",33.0566,73.1187
+PK,49000,Dhudhi Thall,Punjab,04,"","","","",32.6049,72.9708
+PK,49010,Kundwal,Punjab,04,"","","","",32.6049,72.9708
+PK,49020,Lilla,Punjab,04,"","","","",32.5658,72.751
+PK,49024,Saroba,Punjab,04,"","","","",32.5669,72.8707
+PK,49030,Tobah,Punjab,04,"","","","",32.5776,72.8183
+PK,49040,Pind Dadan Khan,Punjab,04,"","","","",32.5866,73.0446
+PK,49050,Haran Pur,Punjab,04,"","","","",32.6049,72.9708
+PK,49060,Khewra,Punjab,04,"","","","",32.6491,73.0106
+PK,49064,Dandot Railway Station,Punjab,04,"","","","",32.6491,73.0106
+PK,49070,Sauwal,Punjab,04,"","","","",32.5939,73.0398
+PK,49080,Dhariala Jalap,Punjab,04,"","","","",32.6505,73.2212
+PK,49090,Gharibwal Cement,Punjab,04,"","","","",32.6049,72.9708
+PK,49100,Piananwal,Punjab,04,"","","","",32.6578,73.3045
+PK,49102,Chak Jani,Punjab,04,"","","","",32.6578,73.3045
+PK,49110,Pindi Saidpur,Punjab,04,"","","","",32.671,73.3294
+PK,49120,Jalal Pur Sharif,Punjab,04,"","","","",32.6805,73.3332
+PK,49122,Nagial Chamkown Valley,Punjab,04,"","","","",32.6805,73.3332
+PK,49130,Wagh,Punjab,04,"","","","",32.7356,73.3945
+PK,49200,Dhaiwal,Punjab,04,"","","","",32.5245,72.5349
+PK,49210,Pari Darweza,Punjab,04,"","","","",33.0322,73.2151
+PK,49220,Surg Dhan,Punjab,04,"","","","",33.082,73.053
+PK,49230,Sohawa,Punjab,04,"","","","",33.1331,73.4192
+PK,49232,Pail Mirza,Punjab,04,"","","","",33.2007,73.451
+PK,49234,Miani Bala,Punjab,04,"","","","",32.9058,73.2835
+PK,49240,Diwani Hazoori,Punjab,04,"","","","",33.082,73.053
+PK,49250,Bishan Dore,Punjab,04,"","","","",33.082,73.053
+PK,49260,Bakrala,Punjab,04,"","","","",33.0963,73.4514
+PK,49270,Lehri,Punjab,04,"","","","",32.8117,73.1643
+PK,49280,Tarkai,Punjab,04,"","","","",33.9514,71.9044
+PK,49300,Domeli,Punjab,04,"","","","",33.0121,73.3539
+PK,49304,Adrana,Punjab,04,"","","","",32.9754,73.4247
+PK,49306,Mughalabad,Punjab,04,"","","","",33.4218,73.3894
+PK,49310,Dial,Punjab,04,"","","","",32.853,73.2242
+PK,49320,Baragowah,Punjab,04,"","","","",32.9042,73.3812
+PK,49324,Nagial,Punjab,04,"","","","",32.8954,73.4215
+PK,49326,Kakrala,Punjab,04,"","","","",32.8696,73.3629
+PK,49328,Padhri,Punjab,04,"","","","",32.8766,73.2992
+PK,49330,Bangial,Punjab,04,"","","","",32.9116,73.4669
+PK,49332,Bhogi Chak,Punjab,04,"","","","",32.9487,73.4591
+PK,49340,Jandala,Punjab,04,"","","","",32.9398,73.505
+PK,49350,Bara Gran,Punjab,04,"","","","",33.0031,73.4057
+PK,49360,Garh Mahal,Punjab,04,"","","","",33.0031,73.4057
+PK,49370,Rohtas,Punjab,04,"","","","",32.9669,73.5781
+PK,49380,Khukha,Punjab,04,"","","","",33.007,73.5499
+PK,49390,Sagri,Punjab,04,"","","","",33.4609,73.2638
+PK,49400,Dina,Punjab,04,"","","","",32.9988,73.6676
+PK,49410,Budhair,Punjab,04,"","","","",32.9988,73.6676
+PK,49420,Baral Colony,Punjab,04,"","","","",32.9988,73.6676
+PK,49430,Mangla Cantt,Punjab,04,"","","","",32.9988,73.6676
+PK,49460,Chak Akka,Punjab,04,"","","","",33.0236,73.6373
+PK,49480,Jammu Kashmir Muhajir Colony,Punjab,04,"","","","",32.9988,73.6676
+PK,49490,Kala Gujran,Punjab,04,"","","","",32.974,73.6979
+PK,49500,Kala,Punjab,04,"","","","",32.974,73.6979
+PK,49510,Maira (Jhelum),Punjab,04,"","","","",33.0639,73.7062
+PK,49512,Pind Rajwal,Punjab,04,"","","","",33.0639,73.7062
+PK,49520,Chak Daulat,Punjab,04,"","","","",33.0159,73.7495
+PK,49600,Jhelum Gpo,Punjab,04,"","","","",31.2135,73.9501
+PK,49608,Tahlian Wala,Punjab,04,"","","","",31.2135,73.9501
+PK,49610,Alliance Textile Mills,Punjab,04,"","","","",31.2135,73.9501
+PK,49620,Bilal Town,Punjab,04,"","","","",31.2135,73.9501
+PK,49700,Sanghoi,Punjab,04,"","","","",32.8628,73.6058
+PK,49710,Chotala,Punjab,04,"","","","",32.8186,73.5774
+PK,49712,Toor,Punjab,04,"","","","",31.8549,74.0424
+PK,49720,Dhoke Bidder,Punjab,04,"","","","",32.7301,73.593
+PK,49730,Chakri,Punjab,04,"","","","",32.7757,73.4772
+PK,49740,Khalas Pur,Punjab,04,"","","","",32.7301,73.593
+PK,49750,Jamarghal,Punjab,04,"","","","",32.7377,73.4724
+PK,49764,Changa Bangial,Punjab,04,"","","","",33.3312,73.3827
+PK,50000,Sarai Alamgir,Punjab,04,"","","","",32.905,73.7552
+PK,50006,Khadriala,Punjab,04,"","","","",32.8504,73.6737
+PK,50010,Aurangabad,Punjab,04,"","","","",32.9145,73.76
+PK,50020,Saadat Pur,Punjab,04,"","","","",32.803,73.6279
+PK,50030,Baisa Kalan,Punjab,04,"","","","",32.803,73.6279
+PK,50040,Bulani,Punjab,04,"","","","",32.803,73.6279
+PK,50050,Khohar,Punjab,04,"","","","",32.8067,73.644
+PK,50070,Kharian Cantt,Punjab,04,"","","","",32.803,73.6279
+PK,50090,Kharian City,Punjab,04,"","","","",32.6709,73.4674
+PK,50094,Malakpur,Punjab,04,"","","","",32.6709,73.4674
+PK,50110,Mohri,Punjab,04,"","","","",32.7992,73.7895
+PK,50120,Chak Muhammad,Punjab,04,"","","","",32.7848,73.8233
+PK,50130,Dhoria,Punjab,04,"","","","",32.7672,73.8272
+PK,50140,Barnali,Punjab,04,"","","","",32.7211,73.8354
+PK,50150,Sehna,Punjab,04,"","","","",32.8099,73.9225
+PK,50160,Guliana,Punjab,04,"","","","",32.8015,73.9614
+PK,50170,Malka,Punjab,04,"","","","",32.8101,73.8957
+PK,50172,Randhir Bagrian,Punjab,04,"","","","",32.8101,73.8957
+PK,50180,Thutha Rai Bahadar,Punjab,04,"","","","",32.8868,73.9913
+PK,50182,Gotriala,Punjab,04,"","","","",32.9104,74.0151
+PK,50200,Lala Musa,Punjab,04,"","","","",32.6889,73.9611
+PK,50210,Dullan Wala,Punjab,04,"","","","",32.6418,73.8013
+PK,50220,National Wood Industries Lala Musa,Punjab,04,"","","","",32.6418,73.8013
+PK,50250,Jaurah,Punjab,04,"","","","",32.6637,73.8225
+PK,50260,Sikariali,Punjab,04,"","","","",32.6165,73.8226
+PK,50270,Karariwala Kalan,Punjab,04,"","","","",32.6873,73.7982
+PK,50280,Dinga,Punjab,04,"","","","",32.641,73.7204
+PK,50286,Khori Alam,Punjab,04,"","","","",32.641,73.7204
+PK,50290,Haslanwala,Punjab,04,"","","","",32.554,73.764
+PK,50306,Pindi Kalu,Punjab,04,"","","","",32.4173,73.7259
+PK,50310,Chak Jano Khurd,Punjab,04,"","","","",32.4493,73.7227
+PK,50330,B. G. Pur,Punjab,04,"","","","",32.5654,73.6374
+PK,50340,Amra Kalan,Punjab,04,"","","","",32.6659,73.6705
+PK,50350,Chak No. 1,Punjab,04,"","","","",32.5346,73.6291
+PK,50354,Murala,Punjab,04,"","","","",32.5346,73.6291
+PK,50360,Chellian Wala,Punjab,04,"","","","",32.5654,73.6374
+PK,50370,Rasul,Punjab,04,"","","","",32.7091,73.5755
+PK,50380,Rasul G.C.T.,Punjab,04,"","","","",32.5654,73.6374
+PK,50390,Mong,Punjab,04,"","","","",32.6466,73.5092
+PK,50400,Mandi Bahauddin Gpo,Punjab,04,"","","","",32.4567,73.4802
+PK,50410,Mangat,Punjab,04,"","","","",32.5158,73.5032
+PK,50430,Phalia,Punjab,04,"","","","",32.431,73.579
+PK,50440,Helan,Punjab,04,"","","","",32.4878,73.6589
+PK,50450,Dhrikan Kalan,Punjab,04,"","","","",32.4567,73.4802
+PK,50470,Sohawa Bulani,Punjab,04,"","","","",32.5498,73.4669
+PK,50480,Kathiala Sheikhan,Punjab,04,"","","","",32.4554,73.4135
+PK,50486,Bosal,Punjab,04,"","","","",32.3688,73.2995
+PK,50490,Mianwal,Punjab,04,"","","","",32.3879,73.4404
+PK,50500,Gojra,Punjab,04,"","","","",32.405,73.3189
+PK,50510,Rukkan,Punjab,04,"","","","",32.4242,73.2719
+PK,50520,Matsonabad,Punjab,04,"","","","",32.4724,73.2541
+PK,50530,Malakwal,Punjab,04,"","","","",32.5545,73.2127
+PK,50560,Mona Remount Depot,Punjab,04,"","","","",32.4455,73.2415
+PK,50580,Miana Gondal,Punjab,04,"","","","",32.3717,73.1499
+PK,50600,Devna Mandi (Basco),Punjab,04,"","","","",32.4571,73.7702
+PK,50610,Khokhar Gharbi,Punjab,04,"","","","",32.4571,73.7702
+PK,50620,Kunjah,Punjab,04,"","","","",32.5298,73.9749
+PK,50622,Mand,Punjab,04,"","","","",32.545,74.014
+PK,50624,Langay,Punjab,04,"","","","",32.5374,73.9944
+PK,50640,Mangowal,Punjab,04,"","","","",32.2159,72.8145
+PK,50660,Jokalian,Punjab,04,"","","","",32.4007,73.7872
+PK,50680,Shadiwal,Punjab,04,"","","","",32.5135,74.0361
+PK,50700,Gujrat Gpo,Punjab,04,"","","","",32.391,73.1307
+PK,50730,Adowal,Punjab,04,"","","","",32.6167,73.1832
+PK,50750,Sabowal,Punjab,04,"","","","",32.1659,72.3471
+PK,50760,Moinuddin Pur,Punjab,04,"","","","",32.3067,72.9758
+PK,50764,Sheikh Pur,Punjab,04,"","","","",32.3067,72.9758
+PK,50766,Alipur,Punjab,04,"","","","",32.3067,72.9758
+PK,50780,Jalal Pur Jattan,Punjab,04,"","","","",32.391,73.1307
+PK,50790,Chopala,Punjab,04,"","","","",32.643,74.3263
+PK,50800,Lakhan Wal,Punjab,04,"","","","",32.7422,74.2978
+PK,50810,Tanda,Punjab,04,"","","","",32.7011,74.3704
+PK,50812,Surakhpur,Punjab,04,"","","","",32.7182,74.4477
+PK,50820,Bhagowal Kalan,Punjab,04,"","","","",32.7422,74.2978
+PK,50830,Karianwala,Punjab,04,"","","","",32.752,74.28
+PK,50840,Chak Kamala,Punjab,04,"","","","",32.7155,74.2831
+PK,50870,Awan Sharif,Punjab,04,"","","","",32.8434,74.2335
+PK,50880,Kawankh,Punjab,04,"","","","",32.7422,74.2978
+PK,50890,Hajiwala,Punjab,04,"","","","",32.7325,74.2348
+PK,50892,Dhodha Sharif,Punjab,04,"","","","",32.7325,74.2348
+PK,50900,Fateh Pur,Punjab,04,"","","","",32.7278,74.0653
+PK,50910,Daulat Nagar,Punjab,04,"","","","",32.7451,74.0787
+PK,50920,Makiana,Punjab,04,"","","","",32.6846,74.0595
+PK,50922,Nindowal,Punjab,04,"","","","",32.6846,74.0595
+PK,50930,Buzurang Wal,Punjab,04,"","","","",32.8003,74.0897
+PK,50932,Sabour,Punjab,04,"","","","",32.804,74.0621
+PK,50934,Nagrian,Punjab,04,"","","","",32.7967,74.1173
+PK,50940,Bhakhre Wali,Punjab,04,"","","","",32.7278,74.0653
+PK,50950,Pero Shah,Punjab,04,"","","","",32.7248,74.1591
+PK,50960,Bhota,Punjab,04,"","","","",32.7657,74.0222
+PK,50964,Bhaddar,Punjab,04,"","","","",31.9413,74.0463
+PK,50970,Burch Basuha,Punjab,04,"","","","",32.7929,74.0105
+PK,50972,Sidh,Punjab,04,"","","","",32.7929,74.0105
+PK,50980,Kakrali,Punjab,04,"","","","",32.8366,74.0786
+PK,50982,Samrala,Punjab,04,"","","","",32.8214,74.0736
+PK,50990,Kotla,Punjab,04,"","","","",32.8527,74.0712
+PK,50994,Sariya,Punjab,04,"","","","",32.8738,74.0411
+PK,51010,Daska,Punjab,04,"","","","",32.3242,74.3504
+PK,51020,Jamki,Punjab,04,"","","","",32.3879,74.4016
+PK,51030,Bhopal Wala,Punjab,04,"","","","",32.424,74.3605
+PK,51032,Verowala,Punjab,04,"","","","",32.424,74.3605
+PK,51040,Ghunike,Punjab,04,"","","","",32.424,74.3605
+PK,51050,Ugoke,Punjab,04,"","","","",32.4792,74.449
+PK,51060,Sahowala,Punjab,04,"","","","",32.455,74.4073
+PK,51070,Sambrial,Punjab,04,"","","","",32.4783,74.3534
+PK,51080,Begowala,Punjab,04,"","","","",32.4382,74.2679
+PK,51090,Ghartal,Punjab,04,"","","","",32.4051,74.2942
+PK,51100,Jatheki,Punjab,04,"","","","",32.5348,74.4508
+PK,51120,Mandir Syedan,Punjab,04,"","","","",32.5348,74.4508
+PK,51130,Kullowal,Punjab,04,"","","","",32.5348,74.4508
+PK,51140,Mundeke Goraya,Punjab,04,"","","","",32.5348,74.4508
+PK,51150,Kapurowali,Punjab,04,"","","","",32.5348,74.4508
+PK,51200,Marala,Punjab,04,"","","","",32.65,74.5
+PK,51210,Kotli Loharan East,Punjab,04,"","","","",32.6443,74.5757
+PK,51220,Kotli Loharan West,Punjab,04,"","","","",32.6443,74.5757
+PK,51230,Maraki Wal,Punjab,04,"","","","",32.6443,74.5757
+PK,51240,Kharota Syedan,Punjab,04,"","","","",32.6443,74.5757
+PK,51250,Bhirth,Punjab,04,"","","","",32.6443,74.5757
+PK,51260,Bhoth,Punjab,04,"","","","",32.5411,74.564
+PK,51270,Chaprar,Punjab,04,"","","","",32.6308,74.6154
+PK,51274,Saidpur,Punjab,04,"","","","",32.6607,74.5905
+PK,51280,Phuklian,Punjab,04,"","","","",32.7388,74.6086
+PK,51300,Sialkot Cantt.,Punjab,04,"","","","",32.8218,74.0552
+PK,51310,Sialkot Gpo,Punjab,04,"","","","",32.8218,74.0552
+PK,51320,Dallowali,Punjab,04,"","","","",34.0034,74.0592
+PK,51330,Kotli Behram,Punjab,04,"","","","",33.0115,73.4818
+PK,51340,Small Industries Estate,Punjab,04,"","","","",32.8218,74.0552
+PK,51350,Fateh Garh,Punjab,04,"","","","",31.5674,74.3929
+PK,51360,Gohadapur,Punjab,04,"","","","",32.8218,74.0552
+PK,51370,Gondal,Punjab,04,"","","","",32.7048,74.2871
+PK,51380,Malkey Klan,Punjab,04,"","","","",32.8218,74.0552
+PK,51400,Lengriali,Punjab,04,"","","","",32.4784,74.6954
+PK,51402,Bajra Garhi,Punjab,04,"","","","",32.4784,74.6954
+PK,51410,Badiana,Punjab,04,"","","","",32.3756,74.6162
+PK,51420,Chawinda,Punjab,04,"","","","",32.3443,74.7051
+PK,51430,Mehrajke,Punjab,04,"","","","",32.391,74.6941
+PK,51450,Chobara,Punjab,04,"","","","",32.4065,74.7892
+PK,51460,Khan Pur Syedan,Punjab,04,"","","","",32.391,74.6941
+PK,51480,Pasrur,Punjab,04,"","","","",32.2629,74.6633
+PK,51490,Ban Gajwa,Punjab,04,"","","","",32.391,74.6941
+PK,51500,Satrah,Punjab,04,"","","","",32.1784,74.5099
+PK,51510,Wadala Sandhuan,Punjab,04,"","","","",32.1907,74.3957
+PK,51520,Nowshera Kakezian,Punjab,04,"","","","",32.1722,74.6108
+PK,51530,Kalas Wala,Punjab,04,"","","","",32.1722,74.6108
+PK,51540,Qila Ahmed Abad (Qila Sobha Singh),Punjab,04,"","","","",32.1722,74.6108
+PK,51570,Talwandi Bhindran,Punjab,04,"","","","",32.0995,74.6921
+PK,51580,Nonar,Punjab,04,"","","","",32.2201,74.8455
+PK,51600,Narowal Gpo,Punjab,04,"","","","",32.2478,74.9072
+PK,51650,Sankhatra,Punjab,04,"","","","",32.2252,74.921
+PK,51660,Dhamthal,Punjab,04,"","","","",32.2704,74.8934
+PK,51670,Zafar Wal,Punjab,04,"","","","",32.2478,74.9072
+PK,51700,Badomali,Punjab,04,"","","","",31.7582,73.3883
+PK,51750,Jassar,Punjab,04,"","","","",32.0906,74.9427
+PK,51760,Kanjrur,Punjab,04,"","","","",32.1465,74.9997
+PK,51770,Nurkot,Punjab,04,"","","","",32.2031,75.1227
+PK,51780,Baramanga,Punjab,04,"","","","",32.0496,74.6134
+PK,51800,Shakar Garh,Punjab,04,"","","","",32.3198,75.2578
+PK,51804,Lessar Kalan,Punjab,04,"","","","",32.3198,75.2578
+PK,51820,Naina Kot,Punjab,04,"","","","",32.3198,75.2578
+PK,51830,Ikhlaspur,Punjab,04,"","","","",32.2578,75.311
+PK,51840,Sukho Chak,Punjab,04,"","","","",32.3818,75.2045
+PK,52000,Wazirabad,Punjab,04,"","","","",32.4432,74.12
+PK,52010,Dhonkal,Punjab,04,"","","","",32.136,73.8326
+PK,52020,Nizam Abad,Punjab,04,"","","","",32.136,73.8326
+PK,52030,Sohdra,Punjab,04,"","","","",32.4621,74.1821
+PK,52050,Khanki,Punjab,04,"","","","",32.3997,73.979
+PK,52070,Ahmad Nagar,Punjab,04,"","","","",31.7207,73.7333
+PK,52072,Mohlanke,Punjab,04,"","","","",32.2767,73.957
+PK,52074,Kalaskey,Punjab,04,"","","","",31.9987,73.8452
+PK,52080,Ali Pur Chatha,Punjab,04,"","","","",32.136,73.8326
+PK,52090,Rasul Nagar,Punjab,04,"","","","",31.6511,73.0118
+PK,52100,Qasirabad Colony,Punjab,04,"","","","",31.8253,73.1769
+PK,52104,Wanike Tarar,Punjab,04,"","","","",31.8253,73.1769
+PK,52110,Hafiz Abad,Punjab,04,"","","","",31.8253,73.1769
+PK,52120,Jhallan,Punjab,04,"","","","",31.8253,73.1769
+PK,52130,Kohlowala,Punjab,04,"","","","",31.8253,73.1769
+PK,52132,Wapda Town,Punjab,04,"","","","",31.8253,73.1769
+PK,52140,Kassoki,Punjab,04,"","","","",31.9806,73.7347
+PK,52150,Kaleke,Punjab,04,"","","","",31.3555,72.3162
+PK,52160,Sukhe Ke Mandi,Punjab,04,"","","","",31.8253,73.1769
+PK,52170,Jalalpur Nau,Punjab,04,"","","","",32.0667,73.3833
+PK,52180,Pindi Bhatian,Punjab,04,"","","","",31.8984,73.2734
+PK,52200,Ghakhar,Punjab,04,"","","","",32.3027,74.1472
+PK,52220,Mitran Wali,Punjab,04,"","","","",32.1929,74.1948
+PK,52230,Gujranwala Cantt,Punjab,04,"","","","",32.1929,74.1948
+PK,52240,Zamama,Punjab,04,"","","","",32.1929,74.1948
+PK,52250,Gujranwala Gpo,Punjab,04,"","","","",32.1549,74.2153
+PK,52254,Wahdat Colony,Punjab,04,"","","","",32.1549,74.2153
+PK,52256,Gujranwala Secondary Board,Punjab,04,"","","","",32.1549,74.2153
+PK,52260,Gujranwala Peoples Colony,Punjab,04,"","","","",32.1393,74.2097
+PK,52280,Talwandi Rahwali,Punjab,04,"","","","",32.2506,74.1663
+PK,52290,Gujranwala Climax Abad,Punjab,04,"","","","",32.1929,74.1948
+PK,52300,Gujranwala Anwar Industries,Punjab,04,"","","","",32.0905,74.1969
+PK,52302,Jalil Town,Punjab,04,"","","","",32.0905,74.1969
+PK,52310,Gondalan Wala,Punjab,04,"","","","",31.9552,74.0781
+PK,52320,Ladhe Wala Waraich,Punjab,04,"","","","",32.1696,74.0637
+PK,52326,Papnakha,Punjab,04,"","","","",32.1696,74.0637
+PK,52330,Qila Didar Singh,Punjab,04,"","","","",32.1342,74.0163
+PK,52334,Nithrike,Punjab,04,"","","","",32.1342,74.0163
+PK,52340,Botala Sardar Jhanda Singh,Punjab,04,"","","","",31.9552,74.0781
+PK,52342,Soharan Chatha,Punjab,04,"","","","",31.9552,74.0781
+PK,52356,Budha Goraya,Punjab,04,"","","","",32.0425,74.0559
+PK,52360,Qila Mian Singh,Punjab,04,"","","","",31.3659,73.9227
+PK,52368,Sadhoke,Punjab,04,"","","","",31.3923,74.2771
+PK,52370,Naushera Virkan,Punjab,04,"","","","",31.9626,73.9712
+PK,52380,Tatley Aali,Punjab,04,"","","","",31.9552,74.0781
+PK,52390,Muhaliwala,Punjab,04,"","","","",31.9552,74.0781
+PK,52400,Aroop,Punjab,04,"","","","",32.1569,70.8091
+PK,52404,Vaniawala,Punjab,04,"","","","",32.1569,70.8091
+PK,52410,Nizam Pur Gujranwala,Punjab,04,"","","","",32.1569,70.8091
+PK,52450,Emin Abad More,Punjab,04,"","","","",32.1569,70.8091
+PK,52460,Emin Abad,Punjab,04,"","","","",32.1569,70.8091
+PK,52464,Wando,Punjab,04,"","","","",32.1569,70.8091
+PK,52470,Kamo Ke,Punjab,04,"","","","",32.1569,70.8091
+PK,53100,Lahore Kahna Nau,Punjab,04,"","","","",30.3981,72.3934
+PK,53200,Barki,Punjab,04,"","","","",30.0476,71.7518
+PK,53400,Lahore Bata Pur,Punjab,04,"","","","",30.3981,72.3934
+PK,53500,Jallo,Punjab,04,"","","","",29.5468,70.8784
+PK,53600,Wagha Lahore,Punjab,04,"","","","",31.6,74.55
+PK,53700,Niaz Beg Thokar,Punjab,04,"","","","",30.3981,72.3934
+PK,53710,Lahore E.M.E Society P.O,Punjab,04,"","","","",30.3981,72.3934
+PK,53720,Lahore Bahria Town,Punjab,04,"","","","",30.3981,72.3934
+PK,53800,Chuhang,Punjab,04,"","","","",30.3981,72.3934
+PK,54000,Lahore Gpo,Punjab,04,"","","","",31.5822,74.3292
+PK,54010,Naulakha,Punjab,04,"","","","",31.5822,74.3292
+PK,54020,Lahore Alflah,Punjab,04,"","","","",31.5822,74.3292
+PK,54030,Lahore Aitcheson College,Punjab,04,"","","","",31.5822,74.3292
+PK,54100,Shah Alam Market,Punjab,04,"","","","",30.417,73.105
+PK,54110,Shahi Mohallah,Punjab,04,"","","","",30.417,73.105
+PK,54120,Timber Market,Punjab,04,"","","","",30.417,73.105
+PK,54500,Lahore Multan Road Post Office,Punjab,04,"","","","",31.5242,74.2631
+PK,54510,Rewaz Garden,Punjab,04,"","","","",31.5242,74.2631
+PK,54550,Lahore Pt & T Audit,Punjab,04,"","","","",31.5242,74.2631
+PK,54560,Lahore Pmg Punjab Post Office,Punjab,04,"","","","",31.5242,74.2631
+PK,54570,Lahore Allama Iqbal Town,Punjab,04,"","","","",31.5242,74.2631
+PK,54572,Sabzazar,Punjab,04,"","","","",31.5242,74.2631
+PK,54590,Lahore New University Campus,Punjab,04,"","","","",31.5242,74.2631
+PK,54600,Lahore Ferozepur Road,Punjab,04,"","","","",31.5134,74.3467
+PK,54610,Lahore Shadman Women Model P.O,Punjab,04,"","","","",31.5134,74.3467
+PK,54650,Lahore Secondary Board,Punjab,04,"","","","",31.5134,74.3467
+PK,54660,Lahore Gulberg Colony,Punjab,04,"","","","",31.5134,74.3467
+PK,54700,Lahore Model Town,Punjab,04,"","","","",28.1598,70.6959
+PK,54760,Lahore Ismail Nagar,Punjab,04,"","","","",31.4533,74.3506
+PK,54762,Lahore Nishtar Town,Punjab,04,"","","","",31.4533,74.3506
+PK,54770,Lahore Township Sector A-1,Punjab,04,"","","","",28.1598,70.6959
+PK,54780,Lahore Awan Coloney,Punjab,04,"","","","",28.1598,70.6959
+PK,54782,Lahore Johar Town,Punjab,04,"","","","",28.1598,70.6959
+PK,54784,"River View, Lahore",Punjab,04,"","","","",28.1598,70.6959
+PK,54790,Mansoora,Punjab,04,"","","","",24.8662,67.0413
+PK,54792,Lahore Defence Housing Soicety,Punjab,04,"","","","",24.8662,67.0413
+PK,54800,Lahore C.M.A. Cantt.,Punjab,04,"","","","",30.417,73.105
+PK,54810,Lahore Cantt. Gpo,Punjab,04,"","","","",30.417,73.105
+PK,54840,Moghalpura,Punjab,04,"","","","",30.417,73.105
+PK,54850,Lahore Harbans Pura,Punjab,04,"","","","",30.417,73.105
+PK,54870,Lahore Tajpura,Punjab,04,"","","","",30.417,73.105
+PK,54880,Lahore Punjab Governor House,Punjab,04,"","","","",30.417,73.105
+PK,54890,Lahore Engineering University,Punjab,04,"","","","",30.417,73.105
+PK,54900,Chah Miran,Punjab,04,"","","","",31.59,74.3417
+PK,54920,Lahore Baghbanpura,Punjab,04,"","","","",31.59,74.3417
+PK,54950,Shahdara Bagh,Punjab,04,"","","","",31.59,74.3417
+PK,55000,Kanganpur,Punjab,04,"","","","",30.7647,74.1229
+PK,55010,Usman Wala,Punjab,04,"","","","",30.9429,74.3592
+PK,55020,Talwandi,Punjab,04,"","","","",30.904,74.14
+PK,55030,Khudian,Punjab,04,"","","","",30.9868,74.273
+PK,55050,Kasur Gpo,Punjab,04,"","","","",30.8996,74.2238
+PK,55060,Naseerabad Taxtile Mills,Punjab,04,"","","","",30.8996,74.2238
+PK,55100,Ganda Singh Wala,Punjab,04,"","","","",31.22,74.2306
+PK,55110,Mustafabad Kasur,Punjab,04,"","","","",31.2518,74.4221
+PK,55140,Raja Jang,Punjab,04,"","","","",31.2208,74.2548
+PK,55142,Bhambha,Punjab,04,"","","","",31.2208,74.2548
+PK,55150,Raiwind,Punjab,04,"","","","",31.249,74.2153
+PK,55154,"Kangra, Kasur",Punjab,04,"","","","",31.249,74.2153
+PK,55160,Lahore Kohinoor Energy,Punjab,04,"","","","",31.22,74.2306
+PK,55170,Robby Taxtile Mill Kasur,Punjab,04,"","","","",31.22,74.2306
+PK,55180,Kot Radha Kishan,Punjab,04,"","","","",31.1707,74.1013
+PK,55190,Clarkabad,Punjab,04,"","","","",31.1783,74.1508
+PK,55200,Chhanga Manga,Punjab,04,"","","","",31.0881,73.9664
+PK,55210,Balloki,Punjab,04,"","","","",31.1912,73.8772
+PK,55220,Chunian,Punjab,04,"","","","",30.9662,73.9791
+PK,55230,Ellahabad,Punjab,04,"","","","",31.1494,73.9682
+PK,55250,Jamber Kalan,Punjab,04,"","","","",31.1494,73.9682
+PK,55260,Bhai Pheru,Punjab,04,"","","","",31.2024,73.9486
+PK,55270,Manga Mandi,Punjab,04,"","","","",31.2989,74.07
+PK,55300,Pattoki,Punjab,04,"","","","",31.0267,73.8279
+PK,55360,Wan Radha Ram,Punjab,04,"","","","",30.9541,73.7462
+PK,56000,Mandi Ahmed Abad,Punjab,04,"","","","",30.7841,73.6544
+PK,56010,Basir Pur,Punjab,04,"","","","",30.7841,73.6544
+PK,56020,Haveli Lakkha,Punjab,04,"","","","",30.7841,73.6544
+PK,56030,Sulemanki Head Works,Punjab,04,"","","","",30.7841,73.6544
+PK,56100,Akhtar Abad,Punjab,04,"","","","",30.7417,73.8233
+PK,56130,Renala Khurd,Punjab,04,"","","","",30.7417,73.8233
+PK,56140,Sher Garh,Punjab,04,"","","","",30.7417,73.8233
+PK,56150,Anwar Shaeed Colony Renala Khurd,Punjab,04,"","","","",30.7417,73.8233
+PK,56170,Hujra,Punjab,04,"","","","",30.7417,73.8233
+PK,56180,Depalpur,Punjab,04,"","","","",30.7417,73.8233
+PK,56200,Gogera,Punjab,04,"","","","",30.9607,73.4521
+PK,56290,Jaboka,Punjab,04,"","","","",30.9607,73.4521
+PK,56300,Okara Gpo,Punjab,04,"","","","",30.7841,73.6544
+PK,56316,Chak 53/2-L,Punjab,04,"","","","",30.7841,73.6544
+PK,56320,Okara 49/3 R,Punjab,04,"","","","",30.7841,73.6544
+PK,56320,Chak No.49/3r,Punjab,04,"","","","",30.7841,73.6544
+PK,56330,Chak No.36/2l,Punjab,04,"","","","",30.7841,73.6544
+PK,56350,Military Farms Okara,Punjab,04,"","","","",30.7841,73.6544
+PK,56400,Okara Cantonment,Punjab,04,"","","","",30.7349,73.3503
+PK,56410,Okara Ammunition Depot,Punjab,04,"","","","",30.7349,73.3503
+PK,57000,Sahiwal Gpo,Punjab,04,"","","","",30.7375,73.147
+PK,57030,Chak 90/9-L,Punjab,04,"","","","",30.7375,73.147
+PK,57040,Sahiwal Government College,Punjab,04,"","","","",30.7375,73.147
+PK,57050,Farid Town Sahiwal,Punjab,04,"","","","",30.642,73.0984
+PK,57070,Chak 85/6 R (Kot Khadim Ali Shah),Punjab,04,"","","","",30.7375,73.147
+PK,57080,Noor Shah,Punjab,04,"","","","",30.8329,73.1956
+PK,57100,Chak 91/6-R,Punjab,04,"","","","",31.5302,73.1729
+PK,57110,Malka Hans,Punjab,04,"","","","",30.4243,73.2753
+PK,57130,Chak 120/9-L,Punjab,04,"","","","",31.5302,73.1729
+PK,57150,Chak Shafi,Punjab,04,"","","","",32.636,73.0706
+PK,57160,Harappa Railway Station,Punjab,04,"","","","",31.5302,73.1729
+PK,57170,Harappa City,Punjab,04,"","","","",31.5302,73.1729
+PK,57174,Chak-5/11l,Punjab,04,"","","","",31.5302,73.1729
+PK,57180,Chak 145/9-L,Punjab,04,"","","","",31.5302,73.1729
+PK,57200,Chichawatni,Punjab,04,"","","","",30.5301,72.6916
+PK,57210,Ghazi Abad,Punjab,04,"","","","",29.9667,70.4333
+PK,57214,Sheikh Fazal,Punjab,04,"","","","",30.334,72.7932
+PK,57230,Chak 168/9-L,Punjab,04,"","","","",30.2769,71.9727
+PK,57300,Kassowal,Punjab,04,"","","","",30.5389,72.55
+PK,57330,Chak 120/13-Al,Punjab,04,"","","","",30.9689,72.3135
+PK,57340,Chak 119/13-Al,Punjab,04,"","","","",30.9689,72.3135
+PK,57350,Iqbal Nagar,Punjab,04,"","","","",31.3988,72.0769
+PK,57360,"Ninty (90) More, Sahiwal",Punjab,04,"","","","",30.9689,72.3135
+PK,57400,Pak Pattan Sharif,Punjab,04,"","","","",28.9962,70.953
+PK,57430,Chak No.73/5-L (Moghal),Punjab,04,"","","","",28.9962,70.953
+PK,57440,Chak Bedi,Punjab,04,"","","","",30.4861,73.4979
+PK,57450,Arif Wala,Punjab,04,"","","","",26.3248,66.2959
+PK,57460,Adda Gambeer,Punjab,04,"","","","",28.9962,70.953
+PK,57470,Al-Jamia,Punjab,04,"","","","",28.9962,70.953
+PK,57480,Qabula,Punjab,04,"","","","",30.1778,73.0651
+PK,57490,Chal No.127/Eb,Punjab,04,"","","","",28.9962,70.953
+PK,58000,Mian Channu,Punjab,04,"","","","",30.4407,72.3568
+PK,58030,Mian Channu Railway Station,Punjab,04,"","","","",30.4838,72.2988
+PK,58080,Talamba,Punjab,04,"","","","",30.5269,72.2408
+PK,58100,Kacha Khuh,Punjab,04,"","","","",30.3753,72.1403
+PK,58110,Hanuman Garh,Punjab,04,"","","","",30.5074,72.0788
+PK,58120,Khanewal Ammunition Depot,Punjab,04,"","","","",30.5074,72.0788
+PK,58150,Khanewal Gpo,Punjab,04,"","","","",30.5074,72.0788
+PK,58152,Peerowal,Punjab,04,"","","","",30.5074,72.0788
+PK,58160,Khanewal Railway Station,Punjab,04,"","","","",30.5074,72.0788
+PK,58170,Makhdoompur Phoharan,Punjab,04,"","","","",30.5074,72.0788
+PK,58180,Abdul Hakim,Punjab,04,"","","","",30.5519,72.1262
+PK,58190,Sarai Sidhu,Punjab,04,"","","","",30.5948,71.9699
+PK,58200,Jahania,Punjab,04,"","","","",30.0393,71.8167
+PK,58202,Chak 138/10 R,Punjab,04,"","","","",30.0393,71.8167
+PK,58210,Thatha Sadiqabad,Punjab,04,"","","","",30.2486,71.8038
+PK,58220,Chak 136/10-R,Punjab,04,"","","","",30.2486,71.8038
+PK,58230,Kot Allah Singh,Punjab,04,"","","","",30.2841,71.9089
+PK,58240,Punjab Small Industry,Punjab,04,"","","","",30.2486,71.8038
+PK,58250,Kabir Wala,Punjab,04,"","","","",30.2903,71.7863
+PK,58256,Mahni Sial,Punjab,04,"","","","",30.2903,71.7863
+PK,58258,Punja Kassi,Punjab,04,"","","","",30.2903,71.7863
+PK,58260,Kohiwala,Punjab,04,"","","","",30.3521,71.7719
+PK,58270,Kukkar Hatta,Punjab,04,"","","","",30.4035,71.7572
+PK,59000,Kadirpur Rawan,Punjab,04,"","","","",30.2217,71.5498
+PK,59020,Tatepur,Punjab,04,"","","","",30.2307,71.6617
+PK,59030,Piran Ghaib,Punjab,04,"","","","",30.215,71.5492
+PK,59050,Javed Nagar,Punjab,04,"","","","",30.2217,71.5498
+PK,59060,Multan Fertilizer Project,Punjab,04,"","","","",30.2217,71.5498
+PK,59070,Suraj Miani,Punjab,04,"","","","",30.2193,71.4386
+PK,59100,Makhdum Rashid,Punjab,04,"","","","",30.0877,71.6414
+PK,59110,Kutabpur,Punjab,04,"","","","",29.9106,71.7589
+PK,59120,Dunya Pur,Punjab,04,"","","","",30.0051,71.6316
+PK,59130,Lar,Punjab,04,"","","","",30.0169,71.4944
+PK,59150,Basti Malook,Punjab,04,"","","","",30.0051,71.6316
+PK,59200,Ismailabad,Punjab,04,"","","","",30.1325,71.3648
+PK,59210,Sikandar Abad,Punjab,04,"","","","",29.9175,71.5235
+PK,59220,Shujabad,Punjab,04,"","","","",30.4833,72.5833
+PK,59240,Matotli,Punjab,04,"","","","",29.7683,71.328
+PK,59250,Jalalpur Pirwala,Punjab,04,"","","","",29.5051,71.222
+PK,59260,Khan Bela,Punjab,04,"","","","",29.6985,71.1194
+PK,59300,Bahadar Pur,Punjab,04,"","","","",29.5794,71.7663
+PK,59310,Kotali Nijabat,Punjab,04,"","","","",29.5794,71.7663
+PK,59320,Lodhran,Punjab,04,"","","","",29.5339,71.6324
+PK,59330,Dhanot,Punjab,04,"","","","",29.5799,71.7521
+PK,59340,Kahror Pakka,Punjab,04,"","","","",29.6243,71.9144
+PK,60000,Multan Gpo,Punjab,04,"","","","",30.1604,71.7121
+PK,60010,Galay Wala,Punjab,04,"","","","",30.1604,71.7121
+PK,60030,Chak-379/Wb,Punjab,04,"","","","",30.1604,71.7121
+PK,60050,Multan Army Aviation Base,Punjab,04,"","","","",30.1604,71.7121
+PK,60060,Budhla Sant,Punjab,04,"","","","",30.1604,71.7121
+PK,60600,Mumtaz Abad,Punjab,04,"","","","",28.2279,67.8512
+PK,60650,New Multan,Punjab,04,"","","","",28.2279,67.8512
+PK,60700,Gulgasht Colony,Punjab,04,"","","","",30.2197,71.4711
+PK,60750,Secondary Board,Punjab,04,"","","","",30.2197,71.4711
+PK,60800,Bahauddin Zakaria University,Punjab,04,"","","","",29.7826,70.8591
+PK,60900,Industrial Estate,Punjab,04,"","","","",30.1284,71.3853
+PK,61000,Gaggo,Punjab,04,"","","","",30.2182,72.8263
+PK,61010,Burewala,Punjab,04,"","","","",30.1586,72.6798
+PK,61040,Burewala Katchehry,Punjab,04,"","","","",30.1884,72.7531
+PK,61050,Dawood Abad,Punjab,04,"","","","",30.1884,72.7531
+PK,61070,Machhian Wala,Punjab,04,"","","","",30.1884,72.7531
+PK,61100,Vehari Gpo,Punjab,04,"","","","",29.8043,72.0698
+PK,61110,Luddan,Punjab,04,"","","","",29.8009,72.3997
+PK,61120,Vehari Peoples Colony,Punjab,04,"","","","",29.8043,72.0698
+PK,61150,Garha More,Punjab,04,"","","","",29.5631,71.7841
+PK,61160,Mitru,Punjab,04,"","","","",29.9594,72.0697
+PK,61170,Tiba Sultanpur,Punjab,04,"","","","",29.8043,72.0698
+PK,61172,Chowk Methla,Punjab,04,"","","","",29.8043,72.0698
+PK,61180,Dokota,Punjab,04,"","","","",29.8939,72.0256
+PK,61200,Mailsi,Punjab,04,"","","","",29.8012,72.174
+PK,61202,Dilawar Farm Sargana,Punjab,04,"","","","",29.8012,72.174
+PK,61210,Mailsi Colony,Punjab,04,"","","","",29.8119,72.1667
+PK,61220,Karampur,Punjab,04,"","","","",29.9014,72.3536
+PK,61230,Jalla Jim,Punjab,04,"","","","",29.8289,72.2171
+PK,61240,Sardar Pur Jhandeer,Punjab,04,"","","","",29.8289,72.2171
+PK,62000,Fort Morot,Punjab,04,"","","","",29.6274,72.1799
+PK,62004,Chak 117/M,Punjab,04,"","","","",29.6274,72.1799
+PK,62020,Fort Abbas,Punjab,04,"","","","",29.1934,72.8552
+PK,62024,Chak 297/Hr,Punjab,04,"","","","",29.1934,72.8552
+PK,62030,Chak 227/R-9,Punjab,04,"","","","",29.6274,72.1799
+PK,62040,Khichi Wala,Punjab,04,"","","","",29.6274,72.1799
+PK,62050,Faqir Wali,Punjab,04,"","","","",30.4954,70.8292
+PK,62070,Chak 132/6-R,Punjab,04,"","","","",29.6274,72.1799
+PK,62080,Chak 69/4-R,Punjab,04,"","","","",29.6274,72.1799
+PK,62100,Haroon Abad,Punjab,04,"","","","",29.7497,73.2429
+PK,62110,Dunga Bunga,Punjab,04,"","","","",29.7497,73.2429
+PK,62120,Ram Pura,Punjab,04,"","","","",29.7497,73.2429
+PK,62210,Mandi Sadiq Ganj,Punjab,04,"","","","",29.6989,72.5669
+PK,62230,Minchin Abad,Punjab,04,"","","","",29.6989,72.5669
+PK,62250,Sadiqia,Punjab,04,"","","","",29.6989,72.5669
+PK,62300,Bahawal Nagar Gpo,Punjab,04,"","","","",29.7971,72.8577
+PK,62310,Takht Mahal,Punjab,04,"","","","",29.7971,72.8577
+PK,62320,Madarisa,Punjab,04,"","","","",29.7971,72.8577
+PK,62350,Chishtian,Punjab,04,"","","","",29.7971,72.8577
+PK,62380,Dahran Wala,Punjab,04,"","","","",29.7971,72.8577
+PK,62400,Bakhshan Khan,Punjab,04,"","","","",29.6989,72.5669
+PK,63000,Hasil Pur Mandi,Punjab,04,"","","","",29.6246,72.1702
+PK,63020,Chhonawala,Punjab,04,"","","","",29.6246,72.1702
+PK,63030,Pallah,Punjab,04,"","","","",29.8031,72.555
+PK,63040,Qaim Pur,Punjab,04,"","","","",29.6246,72.1702
+PK,63050,Jamalpur Edso,Punjab,04,"","","","",29.6277,72.1324
+PK,63050,Jamalpur,Punjab,04,"","","","",29.6277,72.1324
+PK,63060,Khairpur Tamiwali,Punjab,04,"","","","",29.6246,72.1702
+PK,63070,Dera Bakha,Punjab,04,"","","","",29.4398,71.8608
+PK,63080,Bahawalpur Cantt,Punjab,04,"","","","",29.6246,72.1702
+PK,63090,Inaiti,Punjab,04,"","","","",29.6246,72.1702
+PK,63100,Bahawalpur Gpo,Punjab,04,"","","","",29.4157,71.6881
+PK,63170,Bahawalpur Intermediate Secondry Board,Punjab,04,"","","","",29.4157,71.6881
+PK,63180,Sadiq Public School Bahawalpur,Punjab,04,"","","","",29.4157,71.6881
+PK,63210,Yazman,Punjab,04,"","","","",29.1212,71.7446
+PK,63230,Chak 117/D.B,Punjab,04,"","","","",29.0816,71.4563
+PK,63236,Head Rajkan,Punjab,04,"","","","",29.1064,71.4933
+PK,63250,Samasatta,Punjab,04,"","","","",29.345,71.5462
+PK,63270,Khanqah Mubarik,Punjab,04,"","","","",29.1819,71.5224
+PK,63274,Ashraf Sugar Mills Bahawalpur,Punjab,04,"","","","",29.1819,71.5224
+PK,63290,Mubarikpur,Punjab,04,"","","","",29.2551,71.3716
+PK,63300,Noorpur Nauranga,Punjab,04,"","","","",29.2252,71.4325
+PK,63320,Hatheji,Punjab,04,"","","","",29.3473,71.2356
+PK,63350,Ahmad Pur East,Punjab,04,"","","","",29.7042,71.5222
+PK,63354,Sahiwala,Punjab,04,"","","","",29.7042,71.5222
+PK,63360,Sadiq Garh Palace,Punjab,04,"","","","",29.4952,71.4281
+PK,63400,Kotla Musa Khan,Punjab,04,"","","","",29.2742,71.2215
+PK,63410,Uch Sharif,Punjab,04,"","","","",29.2387,71.0622
+PK,63420,Panjnad,Punjab,04,"","","","",29.2033,71.098
+PK,63450,Chani Goth,Punjab,04,"","","","",29.0968,71.0103
+PK,64000,Liaqat Pur,Punjab,04,"","","","",28.939,70.9489
+PK,64020,Allah Abad,Punjab,04,"","","","",28.9333,70.9667
+PK,64030,Trinda Muhammad Panah,Punjab,04,"","","","",29.1003,70.9083
+PK,64040,Khan Bela,Punjab,04,"","","","",28.9632,70.7361
+PK,64070,Feroza,Punjab,04,"","","","",28.7668,70.8158
+PK,64080,Hysons Sugar Mills Jetha Bhutta,Punjab,04,"","","","",28.9405,70.8752
+PK,64100,Khan Pur,Punjab,04,"","","","",28.8744,70.4554
+PK,64120,Sohja,Punjab,04,"","","","",28.8744,70.4554
+PK,64130,Zahir Peer,Punjab,04,"","","","",28.8744,70.4554
+PK,64140,Chachran Sharif,Punjab,04,"","","","",28.8744,70.4554
+PK,64160,Bagho Bahr,Punjab,04,"","","","",28.8744,70.4554
+PK,64170,Kot Somaba,Punjab,04,"","","","",28.8744,70.4554
+PK,64180,Tarinda R.S.,Punjab,04,"","","","",28.8744,70.4554
+PK,64200,Rahimyar Khan Gpo,Punjab,04,"","","","",28.6868,70.342
+PK,64220,Chak 102/P,Punjab,04,"","","","",28.6868,70.342
+PK,64230,Pull Sunny,Punjab,04,"","","","",28.6868,70.342
+PK,64300,Wapda Scarp Colony,Punjab,04,"","","","",28.5129,70.1229
+PK,64310,Iqbalabad,Punjab,04,"","","","",28.5441,70.2701
+PK,64320,Mian Wali Qureshian,Punjab,04,"","","","",28.6607,70.3995
+PK,64350,Sadik Abad,Punjab,04,"","","","",28.5129,70.1229
+PK,64370,Jamal Din Wali,Punjab,04,"","","","",28.5129,70.1229
+PK,64380,Ahmadpur Lama,Punjab,04,"","","","",28.4234,69.9111
+PK,64384,Bhong,Punjab,04,"","","","",28.4234,69.9111
+PK,64410,Bangla Manthar,Punjab,04,"","","","",28.2823,69.7271
+PK,64450,Machi Goth,Punjab,04,"","","","",28.2823,69.7271
+PK,64460,Sanjar Pur,Punjab,04,"","","","",28.2823,69.7271
+PK,64470,Kot Subzal,Punjab,04,"","","","",28.2823,69.7271
+PK,65280,Jandraka,Punjab,04,"","","","",31.0724,73.448
+PK,65010,Dharki,Sindh,05,"","","","",28.0184,69.6236
+PK,65020,Fertilizer Factory Dharki,Sindh,05,"","","","",28.0184,69.6236
+PK,65030,Ubauro,Sindh,05,"","","","",28.1643,69.7311
+PK,65034,Khambara,Sindh,05,"","","","",28.2935,69.8109
+PK,65040,Mirpur Mathelo,Sindh,05,"","","","",28.0214,69.5491
+PK,65050,Pak Saudi Fertilizar Mirpur Mathelo,Sindh,05,"","","","",27.9466,69.6701
+PK,65052,Dad Laghari,Sindh,05,"","","","",27.9466,69.6701
+PK,65060,Jarwar,Sindh,05,"","","","",27.9158,69.5207
+PK,65070,Khanpur Mahar,Sindh,05,"","","","",27.8409,69.413
+PK,65080,Adil Pur,Sindh,05,"","","","",28.0184,69.6236
+PK,65100,Sarhad,Sindh,05,"","","","",27.7706,69.1004
+PK,65110,Ghotki,Sindh,05,"","","","",28.0044,69.3157
+PK,65120,Pano Akil,Sindh,05,"","","","",27.8562,69.1111
+PK,65130,Pannu Akil Cantt.,Sindh,05,"","","","",27.7706,69.1004
+PK,65140,Haleji Sharif,Sindh,05,"","","","",27.7805,69.1357
+PK,65150,Saleh Pat,Sindh,05,"","","","",27.5202,69.0446
+PK,65168,Thrachani,Sindh,05,"","","","",27.7706,69.1004
+PK,65170,Rohri,Sindh,05,"","","","",27.692,68.895
+PK,65180,Rohri Cement Works,Sindh,05,"","","","",27.7706,69.1004
+PK,65200,Sukkur Gpo,Sindh,05,"","","","",29.3608,71.1425
+PK,65210,Sukkur Board Of Secondary Education,Sindh,05,"","","","",29.3608,71.1425
+PK,65220,Berrari,Sindh,05,"","","","",29.3608,71.1425
+PK,65270,Babarloi,Sindh,05,"","","","",27.6491,68.837
+PK,65300,Kandira,Sindh,05,"","","","",27.7543,68.7587
+PK,65310,Paf Airport,Sindh,05,"","","","",27.7543,68.7587
+PK,65320,Arain Road,Sindh,05,"","","","",27.7543,68.7587
+PK,65330,Bagarji,Sindh,05,"","","","",27.7543,68.7587
+PK,66000,Piryalo,Sindh,05,"","","","",27.6469,68.7165
+PK,66020,Khair Pur Gpo,Sindh,05,"","","","",27.5873,68.5959
+PK,66030,Pri Jo Goth,Sindh,05,"","","","",27.5873,68.5959
+PK,66040,Ahmed Pur,Sindh,05,"","","","",27.9989,68.6242
+PK,66060,Kot Digi,Sindh,05,"","","","",27.5873,68.5959
+PK,66062,Chundiko,Sindh,05,"","","","",27.5873,68.5959
+PK,66070,Gambat,Sindh,05,"","","","",27.3517,68.5215
+PK,66074,Agra,Sindh,05,"","","","",27.3517,68.5215
+PK,66080,F.S.Mills Gambat,Sindh,05,"","","","",27.5873,68.5959
+PK,66090,Khurra,Sindh,05,"","","","",27.5873,68.5959
+PK,66100,Rani Pur,Sindh,05,"","","","",27.2684,68.7397
+PK,66104,Consolidated Sugar Mills Rani Pur,Sindh,05,"","","","",27.2684,68.7397
+PK,66110,Sobho Dera,Sindh,05,"","","","",27.2684,68.7397
+PK,66120,Kumb,Sindh,05,"","","","",27.3001,68.614
+PK,66130,Buzdar,Sindh,05,"","","","",27.2684,68.7397
+PK,66150,Mirwah,Sindh,05,"","","","",27.0689,68.6143
+PK,66160,Thehri,Sindh,05,"","","","",27.5854,68.7785
+PK,66170,Sorah,Sindh,05,"","","","",27.1193,68.952
+PK,66190,Hingoraja,Sindh,05,"","","","",27.2684,68.7397
+PK,66200,Setharja,Sindh,05,"","","","",27.2007,68.4786
+PK,66300,Chang,Sindh,05,"","","","",26.8678,68.3632
+PK,67000,Mahrabpur,Sindh,05,"","","","",27.1033,68.4196
+PK,67010,Kotri Kabir,Sindh,05,"","","","",27.1445,68.3698
+PK,67020,Tando Mir Ali,Sindh,05,"","","","",27.0872,68.4941
+PK,67030,Khan Wahan,Sindh,05,"","","","",27.1773,68.2942
+PK,67034,Tunia Baga Shah,Sindh,05,"","","","",27.1773,68.2942
+PK,67040,Aqil Shah,Sindh,05,"","","","",27.077,68.2692
+PK,67060,Mohabat Dero,Sindh,05,"","","","",27.077,68.2692
+PK,67070,Darbelo,Sindh,05,"","","","",27.0165,68.126
+PK,67080,Tharu Shah,Sindh,05,"","","","",26.9423,68.1176
+PK,67084,Bhorti,Sindh,05,"","","","",26.9678,68.038
+PK,67100,Mithiani,Sindh,05,"","","","",26.8706,67.9813
+PK,67110,New Jatoi,Sindh,05,"","","","",26.7669,67.9907
+PK,67120,Sadoja,Sindh,05,"","","","",26.7669,67.9907
+PK,67130,Moro,Sindh,05,"","","","",26.6632,68.0002
+PK,67150,Mubbarik Ali Buriro,Sindh,05,"","","","",26.7669,67.9907
+PK,67160,Qamarabad,Sindh,05,"","","","",26.7669,67.9907
+PK,67180,Noor Jhanian,Sindh,05,"","","","",26.7669,67.9907
+PK,67190,Daulatpur,Sindh,05,"","","","",26.7669,67.9907
+PK,67200,Qazi Ahmed,Sindh,05,"","","","",26.2034,68.2458
+PK,67204,Shadi Khan Chandio,Sindh,05,"","","","",26.2034,68.2458
+PK,67210,Sakrand,Sindh,05,"","","","",26.1385,68.2744
+PK,67220,Goth Chaudhary Shah Nawaz,Sindh,05,"","","","",26.1818,68.2553
+PK,67230,Agricultur Institute Nawabshah,Sindh,05,"","","","",26.1818,68.2553
+PK,67300,Lakha Road,Sindh,05,"","","","",27.1323,68.2059
+PK,67310,Bhiria Road,Sindh,05,"","","","",26.8876,68.2806
+PK,67314,Lalbani,Sindh,05,"","","","",26.8876,68.2806
+PK,67320,Bhiria City,Sindh,05,"","","","",27.1323,68.2059
+PK,67322,Allah Ditto Bhambhro,Sindh,05,"","","","",27.1323,68.2059
+PK,67330,Padidan,Sindh,05,"","","","",27.1323,68.2059
+PK,67340,Padidan Town,Sindh,05,"","","","",27.1323,68.2059
+PK,67350,Kalhora,Sindh,05,"","","","",27.5725,68.0645
+PK,67360,Ghargochho,Sindh,05,"","","","",27.1323,68.2059
+PK,67370,Naushero Feroz,Sindh,05,"","","","",27.1323,68.2059
+PK,67380,Phul,Sindh,05,"","","","",27.6362,68.1169
+PK,67390,Darya Khan Mari,Sindh,05,"","","","",26.6776,68.2867
+PK,67400,Bandhi,Sindh,05,"","","","",26.5876,68.3022
+PK,67410,Daur,Sindh,05,"","","","",26.4553,68.3184
+PK,67420,Haberi,Sindh,05,"","","","",26.4667,68.1658
+PK,67430,Nusrat 60 Mile Mori,Sindh,05,"","","","",26.4672,68.2799
+PK,67450,Nawabshah Gpo,Sindh,05,"","","","",26.4672,68.2799
+PK,67470,Buchari,Sindh,05,"","","","",26.3594,68.3334
+PK,67480,Mehran University Of Engineering,Sindh,05,"","","","",26.4672,68.2799
+PK,67500,Jam Sahib,Sindh,05,"","","","",26.2958,68.6292
+PK,67510,Gupchani,Sindh,05,"","","","",26.1957,68.5511
+PK,68010,Sarhari,Sindh,05,"","","","",26.0981,68.4814
+PK,68020,Lundo,Sindh,05,"","","","",26.0271,68.5454
+PK,68030,Shahdadpur,Sindh,05,"","","","",25.9254,68.6228
+PK,68040,Police Training School Shahdadpur,Sindh,05,"","","","",25.8859,68.703
+PK,68050,Tando Adam,Sindh,05,"","","","",25.7682,68.662
+PK,68060,Berani,Sindh,05,"","","","",25.785,68.8075
+PK,68070,Jam Nawaz Ali,Sindh,05,"","","","",25.7838,68.8581
+PK,68080,Nauabad,Sindh,05,"","","","",25.8139,68.9439
+PK,68100,Sanghar Gpo,Sindh,05,"","","","",26.1262,69.0455
+PK,68120,Gujri,Sindh,05,"","","","",26.1911,68.967
+PK,68122,Chak 41,Sindh,05,"","","","",26.1911,68.967
+PK,68140,Tando Mitha Khan,Sindh,05,"","","","",25.9962,69.2025
+PK,68200,Shahpur Chakar,Sindh,05,"","","","",26.1541,68.6501
+PK,68210,Khadro,Sindh,05,"","","","",26.1471,68.7178
+PK,68214,Deh-22 Jamro,Sindh,05,"","","","",26.1471,68.7178
+PK,68220,Sinjhoro,Sindh,05,"","","","",26.0301,68.8087
+PK,68230,Jhol,Sindh,05,"","","","",25.9553,68.8887
+PK,68300,Junejo Model Form Farm,Sindh,05,"","","","",25.8051,69.3003
+PK,68310,Kandiari,Sindh,05,"","","","",25.7983,69.0702
+PK,68330,Khipro,Sindh,05,"","","","",25.8268,69.3753
+PK,68340,Tando Waso,Sindh,05,"","","","",25.8051,69.3003
+PK,68350,Hathungo,Sindh,05,"","","","",25.7903,69.4556
+PK,69000,Mirpur Khas Gpo,Sindh,05,"","","","",25.51,69.7132
+PK,69012,Muhammad Medical College,Sindh,05,"","","","",25.51,69.7132
+PK,69020,Satelitte Town Mirpur Khas,Sindh,05,"","","","",25.51,69.7132
+PK,69050,Shadi Pal,Sindh,05,"","","","",25.51,69.7132
+PK,69060,Pitharo,Sindh,05,"","","","",25.51,69.7132
+PK,69070,Dhoro Naro,Sindh,05,"","","","",25.5048,69.5709
+PK,69080,Muhammad Salam Palli,Sindh,05,"","","","",25.51,69.7132
+PK,69090,Chhor,Sindh,05,"","","","",25.5126,69.7844
+PK,69094,New Chhor,Sindh,05,"","","","",25.5126,69.7844
+PK,69100,Umar Kot,Sindh,05,"","","","",25.2075,69.511
+PK,69120,Khokrapar,Sindh,05,"","","","",25.1658,69.7785
+PK,69150,Samar Road,Sindh,05,"","","","",25.1658,69.7785
+PK,69160,Kunri,Sindh,05,"","","","",25.1787,69.5657
+PK,69170,Chachro,Sindh,05,"","","","",25.1113,70.2587
+PK,69200,Nabi Sir Road,Sindh,05,"","","","",24.6281,69.9215
+PK,69210,Talhi,Sindh,05,"","","","",24.951,69.5531
+PK,69220,Nau Kot,Sindh,05,"","","","",24.6281,69.9215
+PK,69230,Mithi,Sindh,05,"","","","",24.737,69.7971
+PK,69240,Islam Kot,Sindh,05,"","","","",24.6281,69.9215
+PK,69260,Nagar Parkar,Sindh,05,"","","","",24.3573,70.7545
+PK,69280,Diplo,Sindh,05,"","","","",24.4669,69.5811
+PK,69300,Kot Mirjan Muhammad,Sindh,05,"","","","",25.1576,69.2138
+PK,69310,Jhudo,Sindh,05,"","","","",24.9679,69.2973
+PK,69320,Tando Jan Muhammad,Sindh,05,"","","","",25.0724,69.2141
+PK,69330,Digri,Sindh,05,"","","","",25.1566,69.111
+PK,69340,Kot Guhlam Mohammad,Sindh,05,"","","","",25.1576,69.2138
+PK,69350,Samaro,Sindh,05,"","","","",25.2814,69.3962
+PK,69370,Mirwah Gorchani,Sindh,05,"","","","",25.3098,69.0502
+PK,70010,Tando Allahyar,Sindh,05,"","","","",25.4605,68.7175
+PK,70012,Rashidabad,Sindh,05,"","","","",26.08,68.918
+PK,70014,Missan Wadi,Sindh,05,"","","","",25.7703,68.8177
+PK,70020,Mehran Sugar Mills (Tando Allahyar),Sindh,05,"","","","",25.5584,68.6683
+PK,70030,Goth Shahnawaz,Sindh,05,"","","","",25.2582,68.2526
+PK,70040,Nasarpur,Sindh,05,"","","","",25.5199,68.6176
+PK,70050,Tando Jam,Sindh,05,"","","","",25.4281,68.5292
+PK,70060,Sindh Agriculture University Tando Jam,Sindh,05,"","","","",25.5584,68.6683
+PK,70070,Tando Qaiser,Sindh,05,"","","","",25.6569,68.6823
+PK,70080,Chamber,Sindh,05,"","","","",25.2936,68.8118
+PK,70090,Oderolal R.S.,Sindh,05,"","","","",25.5584,68.6683
+PK,70092,Oderolal Village,Sindh,05,"","","","",25.5584,68.6683
+PK,70100,Saeedabad,Sindh,05,"","","","",24.9256,66.9646
+PK,70104,Sikandarabad,Sindh,05,"","","","",27.1929,69.051
+PK,70110,Mansora Hyderabad,Sindh,05,"","","","",25.855,68.2943
+PK,70120,Hala,Sindh,05,"","","","",25.8146,68.422
+PK,70130,Hala Old,Sindh,05,"","","","",25.7942,68.3902
+PK,70140,Bhit Shah,Sindh,05,"","","","",25.8056,68.4914
+PK,70150,Matiari,Sindh,05,"","","","",25.5971,68.4467
+PK,70200,Sheikh Bharkio,Sindh,05,"","","","",25.2187,68.4807
+PK,70210,Husri,Sindh,05,"","","","",25.3136,68.4247
+PK,70220,Tando Mohammad Khan,Sindh,05,"","","","",25.1238,68.5368
+PK,71000,Hyderabad Gpo,Sindh,05,"","","","",25.181,67.8367
+PK,71100,Qasimabad,Sindh,05,"","","","",24.9039,67.0586
+PK,71110,Hyderabad Cantt.,Sindh,05,"","","","",24.9039,67.0586
+PK,71500,Hyderabad City,Sindh,05,"","","","",25.3876,68.3633
+PK,71800,Latifabad,Sindh,05,"","","","",25.3549,68.3514
+PK,71850,Sindh Regimental Centre Hyderabad,Sindh,05,"","","","",25.3549,68.3514
+PK,71900,Sindh Industrial Trading Estate Hyderabad,Sindh,05,"","","","",25.181,67.8367
+PK,72010,Matli,Sindh,05,"","","","",25.0429,68.6559
+PK,72020,Kario Ghanwar,Sindh,05,"","","","",24.8082,68.6048
+PK,72050,Tando Ghulam Ali,Sindh,05,"","","","",25.1247,68.8905
+PK,72052,New Dambalo,Sindh,05,"","","","",25.1247,68.8905
+PK,72060,Badho Kambrani,Sindh,05,"","","","",25.0251,68.7604
+PK,72100,Talhar,Sindh,05,"","","","",24.8845,68.8144
+PK,72110,Rajo Khanani,Sindh,05,"","","","",24.9839,68.8537
+PK,72120,Tando Bago,Sindh,05,"","","","",24.7891,68.9654
+PK,72130,Pangrio,Sindh,05,"","","","",24.7623,69.1963
+PK,72200,Badin,Sindh,05,"","","","",24.656,68.837
+PK,72210,P.A.F. Badin,Sindh,05,"","","","",24.656,68.837
+PK,72220,Tando Ikram,Sindh,05,"","","","",24.656,68.837
+PK,72250,Nando Shahar,Sindh,05,"","","","",24.656,68.837
+PK,72260,Fauji Sugar Mills Khoski,Sindh,05,"","","","",24.656,68.837
+PK,72270,Khadhan,Sindh,05,"","","","",24.656,68.837
+PK,73010,Jhok Sharif,Sindh,05,"","","","",24.8122,68.3171
+PK,73020,Bulri Shah Karim,Sindh,05,"","","","",24.8621,68.3306
+PK,73024,Sindh Abadgar Sugar Mills T.M. Khan,Sindh,05,"","","","",24.8621,68.3306
+PK,73030,Mirpur Bathoro,Sindh,05,"","","","",24.7285,68.2601
+PK,73040,Darro,Sindh,05,"","","","",24.7177,68.12
+PK,73050,Sujawal,Sindh,05,"","","","",24.6036,68.0776
+PK,73052,Dewan Sugar Mills Thatta,Sindh,05,"","","","",24.6036,68.0776
+PK,73060,Jati,Sindh,05,"","","","",24.3549,68.2673
+PK,73070,Chuhar Jamali,Sindh,05,"","","","",24.3944,67.993
+PK,73080,Ladiun,Sindh,05,"","","","",24.323,68.0668
+PK,73090,Nooriabad,Sindh,05,"","","","",25.175,67.7995
+PK,73094,Towler Village Nooriabad,Sindh,05,"","","","",25.175,67.7995
+PK,73100,Jhimpir R.S.,Sindh,05,"","","","",24.6494,67.8839
+PK,73110,Jang Shahi,Sindh,05,"","","","",24.6494,67.8839
+PK,73120,Kinjhar Lake,Sindh,05,"","","","",24.6494,67.8839
+PK,73130,Thatta,Sindh,05,"","","","",24.7474,67.9235
+PK,73150,Hashimabad,Sindh,05,"","","","",24.6494,67.8839
+PK,73170,Vur,Sindh,05,"","","","",24.5514,67.8443
+PK,73200,Dhabeji,Sindh,05,"","","","",24.6769,67.5995
+PK,73210,Gharo,Sindh,05,"","","","",24.7418,67.5853
+PK,73220,Filter Plant Gharo,Sindh,05,"","","","",24.6769,67.5995
+PK,73240,Mirpur Sakro,Sindh,05,"","","","",24.5469,67.628
+PK,73242,Garho,Sindh,05,"","","","",24.7418,67.5853
+PK,73260,Wapda Residency Colony Lakhra,Sindh,05,"","","","",24.6769,67.5995
+PK,74000,Karachi City Gpo,Sindh,05,"","","","",24.8608,67.0104
+PK,74200,Karachi Gpo,Sindh,05,"","","","",24.8608,67.0104
+PK,74400,Karachi Saddar Gpo,Sindh,05,"","","","",24.8608,67.0104
+PK,74600,Karachi Nazimabad,Sindh,05,"","","","",24.8608,67.0104
+PK,74700,Karachi Alhydri Gpo,Sindh,05,"","","","",24.8608,67.0104
+PK,74800,New Town Gpo,Sindh,05,"","","","",24.8608,67.0104
+PK,74900,Korangi Gpo,Sindh,05,"","","","",24.8608,67.0104
+PK,75000,Pak. Steel Mills Karachi,Sindh,05,"","","","",24.8764,67.1927
+PK,75010,Pak. Steel Mills Township Karachi,Sindh,05,"","","","",24.8764,67.1927
+PK,75020,Port Qasim,Sindh,05,"","","","",24.8764,67.1927
+PK,75030,Pak. Machine Tool Factory Karachi,Sindh,05,"","","","",24.8764,67.1927
+PK,75040,Murad Memon Goth (Kp-974),Sindh,05,"","","","",24.8764,67.1927
+PK,75050,Malir City,Sindh,05,"","","","",24.8764,67.1927
+PK,75070,Malir Cantt,Sindh,05,"","","","",24.8764,67.1927
+PK,75080,Malir Colony,Sindh,05,"","","","",24.8764,67.1927
+PK,75100,Model Colony Korangi,Sindh,05,"","","","",24.8343,67.1755
+PK,75120,Quaidabad,Sindh,05,"","","","",24.8582,67.2152
+PK,75150,Export Processing Zone (Kp-1863),Sindh,05,"","","","",24.8343,67.1755
+PK,75160,Landhi Colony,Sindh,05,"","","","",24.8342,67.178
+PK,75180,Karachi Darul Uloom (Kp-683),Sindh,05,"","","","",24.8343,67.1755
+PK,75190,Korangi Creek,Sindh,05,"","","","",24.8104,67.1333
+PK,75200,Karachi Airport,Sindh,05,"","","","",24.9224,67.134
+PK,75210,Rafa-E-Aam Society Karachi,Sindh,05,"","","","",24.9224,67.134
+PK,75230,Drigh Colony,Sindh,05,"","","","",24.882,67.1486
+PK,75260,Karachi Gulshan-E-Jamal,Sindh,05,"","","","",24.9224,67.134
+PK,75270,Karachi University,Sindh,05,"","","","",24.9628,67.1194
+PK,75280,Karachi Mosamiat Chowrangi,Sindh,05,"","","","",24.9224,67.134
+PK,75290,Karachi Gulistan-E-Jouhar (Kp-2023),Sindh,05,"","","","",24.9224,67.134
+PK,75300,Karachi Gulshan-E-Iqbal,Sindh,05,"","","","",24.917,67.0875
+PK,75330,Karachi Gulzar-E-Hijri,Sindh,05,"","","","",24.9576,67.1219
+PK,75340,Karachi New Sabzi Mandi,Sindh,05,"","","","",24.9982,67.1563
+PK,75350,Karachi Shahra-E-Faisal,Sindh,05,"","","","",24.9576,67.1219
+PK,75400,Karachi P.E.C.H.S Bi-2,Sindh,05,"","","","",34.1986,72.0941
+PK,75460,Mehmoodabad,Sindh,05,"","","","",34.1986,72.0941
+PK,75500,Karachi Defence Housing Society,Sindh,05,"","","","",25.33,67.3383
+PK,75510,Karachi J.P.M.C,Sindh,05,"","","","",25.33,67.3383
+PK,75520,Karachi Hotel Metropole,Sindh,05,"","","","",25.33,67.3383
+PK,75530,Karachi Cantt.,Sindh,05,"","","","",25.33,67.3383
+PK,75550,Karachi Nishtar Road,Sindh,05,"","","","",25.33,67.3383
+PK,75580,Karachi Governor House,Sindh,05,"","","","",25.33,67.3383
+PK,75600,Karachi Clifton,Sindh,05,"","","","",24.7961,66.9746
+PK,75620,Kemari,Sindh,05,"","","","",24.7961,66.9746
+PK,75640,Manora,Sindh,05,"","","","",24.7961,66.9746
+PK,75650,Karachi Habib Bank,Sindh,05,"","","","",24.7961,66.9746
+PK,75660,Karachi Lyari,Sindh,05,"","","","",24.7961,66.9746
+PK,75700,Karachi I.T.E,Sindh,05,"","","","",24.8847,66.9955
+PK,75730,Karachi Sher Shah Colony,Sindh,05,"","","","",24.8847,66.9955
+PK,75750,Karachi Mauripur Af,Sindh,05,"","","","",24.8847,66.9955
+PK,75760,Karachi Baldia Town,Sindh,05,"","","","",24.8847,66.9955
+PK,75780,Karachi Mauripur Ce,Sindh,05,"","","","",24.8847,66.9955
+PK,75790,Karachi P.N.A.D.,Sindh,05,"","","","",24.8847,66.9955
+PK,75800,Orangi Town,Sindh,05,"","","","",24.955,66.9949
+PK,75840,Karachi Metroville,Sindh,05,"","","","",24.9671,67.0385
+PK,75850,New Karachi,Sindh,05,"","","","",24.9791,67.0821
+PK,75890,Karachi Manghopir,Sindh,05,"","","","",24.9671,67.0385
+PK,75900,Karachi Liaqatabad,Sindh,05,"","","","",25.33,67.3383
+PK,75950,Karachi Federal B Area,Sindh,05,"","","","",25.33,67.3383
+PK,75990,Karachi Board Of Secondary Education,Sindh,05,"","","","",25.33,67.3383
+PK,76000,Kotri,Sindh,05,"","","","",25.3657,68.3083
+PK,76010,Site Kotri,Sindh,05,"","","","",25.4287,68.2772
+PK,76030,Telegraph Workshop Kotri,Sindh,05,"","","","",25.4287,68.2772
+PK,76040,Behar Colony Kotri,Sindh,05,"","","","",25.4287,68.2772
+PK,76050,Thana Bula Khan,Sindh,05,"","","","",25.4287,68.2772
+PK,76060,Railway Crossing Jamshoro,Sindh,05,"","","","",25.4608,68.2682
+PK,76064,Thermal Power Station,Sindh,05,"","","","",25.4608,68.2682
+PK,76080,University New Campus Jamshoro,Sindh,05,"","","","",25.4287,68.2772
+PK,76090,Liaqat Medical College (Jamshoro),Sindh,05,"","","","",25.4277,68.2642
+PK,76120,Petaro Cadet College,Sindh,05,"","","","",26.4007,67.8336
+PK,76122,Pattaro Cantt.,Sindh,05,"","","","",26.4007,67.8336
+PK,76130,Sann,Sindh,05,"","","","",26.0403,68.1376
+PK,76140,Sehwan,Sindh,05,"","","","",26.4249,67.8613
+PK,76150,Bubak,Sindh,05,"","","","",26.4454,67.7213
+PK,76170,Bhan Saeedabad,Sindh,05,"","","","",26.4007,67.8336
+PK,76172,Panjmoro,Sindh,05,"","","","",26.4007,67.8336
+PK,76190,Johi,Sindh,05,"","","","",26.6923,67.6143
+PK,76200,Dadu Gpo,Sindh,05,"","","","",27.0175,67.7945
+PK,76220,Phulji,Sindh,05,"","","","",26.8629,67.7883
+PK,76230,Dadu Sugar Mill (Piaro Goth),Sindh,05,"","","","",27.0175,67.7945
+PK,76250,Sita,Sindh,05,"","","","",27.0258,67.9199
+PK,76260,Khairpur Nathan Shah,Sindh,05,"","","","",27.0906,67.7349
+PK,76264,Khanpur Junejo,Sindh,05,"","","","",27.0906,67.7349
+PK,76310,Radhan,Sindh,05,"","","","",26.5486,67.7905
+PK,76330,Mehar,Sindh,05,"","","","",27.1803,67.8205
+PK,76340,Khuda Ki Basti,Sindh,05,"","","","",25.7469,68.6613
+PK,76350,Fareedabad,Sindh,05,"","","","",26.4919,68.0908
+PK,77010,Badah,Sindh,05,"","","","",27.3342,68.0157
+PK,77020,Nasirabad Larkana,Sindh,05,"","","","",27.5375,68.1819
+PK,77030,Gaji Khuhawar,Sindh,05,"","","","",27.4136,68.0377
+PK,77040,Warah,Sindh,05,"","","","",27.448,67.7965
+PK,77060,Dokri,Sindh,05,"","","","",27.3742,68.0971
+PK,77062,"Cadit College, Larkana",Sindh,05,"","","","",27.3742,68.0971
+PK,77070,Moenjodara,Sindh,05,"","","","",27.4136,68.0377
+PK,77100,Hayder Jatoi,Sindh,05,"","","","",27.4352,68.0757
+PK,77110,Bakrani Village,Sindh,05,"","","","",27.4352,68.0757
+PK,77120,Garelo,Sindh,05,"","","","",27.4352,68.0757
+PK,77150,Larkana Gpo,Sindh,05,"","","","",27.4352,68.0757
+PK,77170,Chandka Medical College Larkana,Sindh,05,"","","","",27.4352,68.0757
+PK,77200,Bero Chandio,Sindh,05,"","","","",27.5789,68.1173
+PK,77210,Kambar,Sindh,05,"","","","",27.5875,68.0007
+PK,77212,Gather,Sindh,05,"","","","",27.6448,67.9062
+PK,77214,Miran Machi,Sindh,05,"","","","",27.7021,67.8117
+PK,77220,Ber,Sindh,05,"","","","",27.5591,67.9361
+PK,77230,Waggan,Sindh,05,"","","","",27.5902,67.987
+PK,77240,Khairpur Joso,Sindh,05,"","","","",27.5902,67.987
+PK,77250,Lalu Raunk,Sindh,05,"","","","",27.5007,67.9064
+PK,77260,Bahram,Sindh,05,"","","","",27.5902,67.987
+PK,77270,Miro Kahn,Sindh,05,"","","","",27.5902,67.987
+PK,77280,Arzi Bhutto,Sindh,05,"","","","",27.5583,68.2306
+PK,77300,Shahdad Kot,Sindh,05,"","","","",27.8473,67.9068
+PK,77310,Qubo Saeed Khan,Sindh,05,"","","","",27.7666,68.1013
+PK,77320,Chak Yani,Sindh,05,"","","","",27.7666,68.1013
+PK,77340,Ghari Khuda Bux Bhutto,Sindh,05,"","","","",27.7666,68.1013
+PK,77360,Naodero,Sindh,05,"","","","",27.7666,68.1013
+PK,77370,Pir Bux Bhutto,Sindh,05,"","","","",27.7582,68.3342
+PK,77380,Rato Dera,Sindh,05,"","","","",27.7666,68.1013
+PK,77390,Lashari,Sindh,05,"","","","",27.6944,68.0628
+PK,77400,Bangul Dero,Sindh,05,"","","","",24.9565,69.077
+PK,77410,Mena,Sindh,05,"","","","",24.9565,69.077
+PK,78030,Madiji,Sindh,05,"","","","",27.9354,68.9876
+PK,78040,Dakhan,Sindh,05,"","","","",27.9833,68.65
+PK,78050,Chak,Sindh,05,"","","","",27.8584,68.8338
+PK,78060,Lakhi Ghulam Shah,Sindh,05,"","","","",27.95,69.2333
+PK,78064,Ruk,Sindh,05,"","","","",27.95,69.2333
+PK,78100,Shikarpur Gpo,Sindh,05,"","","","",27.9063,68.5121
+PK,78150,Gari Yasin,Sindh,05,"","","","",27.9063,68.5121
+PK,78200,Khan Pur (Shikarpur),Sindh,05,"","","","",28.0715,68.5943
+PK,78220,Karam Pur,Sindh,05,"","","","",28.0715,68.5943
+PK,78250,Sultan Kot,Sindh,05,"","","","",28.0715,68.5943
+PK,79000,Jacobabad Gpo,Sindh,05,"","","","",27.6968,67.8176
+PK,79010,Paf Base Shahbaz,Sindh,05,"","","","",27.6968,67.8176
+PK,79050,Garhi Khairo,Sindh,05,"","","","",27.6968,67.8176
+PK,79100,Thul,Sindh,05,"","","","",28.2333,69.4833
+PK,79120,Mirpur Buriro,Sindh,05,"","","","",28.2699,69.0783
+PK,79130,Ghulam Khan Dhani,Sindh,05,"","","","",28.2699,69.0783
+PK,79150,Tangwani,Sindh,05,"","","","",28.2789,68.9976
+PK,79160,Kandhkot,Sindh,05,"","","","",28.2457,69.1797
+PK,79180,Ghous Pur,Sindh,05,"","","","",28.2546,67.9628
+PK,79190,Buxapur,Sindh,05,"","","","",28.3033,69.4232
+PK,79192,Badani,Sindh,05,"","","","",28.3033,69.4232
+PK,79200,Kashmore,Sindh,05,"","","","",28.1136,68.7345
+PK,79210,Kashmor Colony,Sindh,05,"","","","",28.1136,68.7345
+PK,79212,Ammunition Depot Kashmore,Sindh,05,"","","","",28.1136,68.7345
+PK,79220,Giddu Barrage,Sindh,05,"","","","",28.1136,68.7345
+PK,10010,Watala,Azad Jammu and Kashmir,06,"","","","",32.9023,74.2962
+PK,10012,Moil,Azad Jammu and Kashmir,06,"","","","",32.8403,74.3485
+PK,10020,Barnala,Azad Jammu and Kashmir,06,"","","","",32.8707,74.2466
+PK,10030,Bharing,Azad Jammu and Kashmir,06,"","","","",33.0778,74.1371
+PK,10034,Kadhala,Azad Jammu and Kashmir,06,"","","","",33.0778,74.1371
+PK,10036,Pitho Rani,Azad Jammu and Kashmir,06,"","","","",33.0778,74.1371
+PK,10038,Dhandar Kalan,Azad Jammu and Kashmir,06,"","","","",33.0778,74.1371
+PK,10040,Bhimber Gpo,Azad Jammu and Kashmir,06,"","","","",32.9593,74.0431
+PK,10042,Dheri Wattan,Azad Jammu and Kashmir,06,"","","","",32.992,73.9918
+PK,10044,Barsali,Azad Jammu and Kashmir,06,"","","","",32.9267,74.0944
+PK,10050,Bangla Sadabad,Azad Jammu and Kashmir,06,"","","","",33.0778,74.1371
+PK,10060,Saminani,Azad Jammu and Kashmir,06,"","","","",33.0778,74.1371
+PK,10070,Barjah,Azad Jammu and Kashmir,06,"","","","",33.1617,73.9956
+PK,10080,Chowki,Azad Jammu and Kashmir,06,"","","","",33.9214,74.1728
+PK,10090,Bindi,Azad Jammu and Kashmir,06,"","","","",33.1256,74.0447
+PK,10100,Poona,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10200,Mangla Dam,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10210,Bong Colony,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10230,Chitter Pari,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10232,Jari Kass,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10240,Ajk Board Of Education Mirpur,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10250,Mirpur Gpo,Azad Jammu and Kashmir,06,"","","","",33.357,73.9411
+PK,10300,Siakh,Azad Jammu and Kashmir,06,"","","","",33.2609,73.6723
+PK,10310,Khadimabad,Azad Jammu and Kashmir,06,"","","","",33.3068,73.636
+PK,10320,Chhattroh,Azad Jammu and Kashmir,06,"","","","",33.2956,73.7638
+PK,10350,Chechian,Azad Jammu and Kashmir,06,"","","","",33.2155,73.7435
+PK,10360,Afzal Pur,Azad Jammu and Kashmir,06,"","","","",33.2956,73.7638
+PK,10370,Banni,Azad Jammu and Kashmir,06,"","","","",33.8582,73.7319
+PK,10380,Jatli (Ak),Azad Jammu and Kashmir,06,"","","","",33.0661,73.8995
+PK,10382,Kalri,Azad Jammu and Kashmir,06,"","","","",33.0661,73.8995
+PK,10390,Tariq Abad (Mirpur),Azad Jammu and Kashmir,06,"","","","",33.2956,73.7638
+PK,10400,Panjeri,Azad Jammu and Kashmir,06,"","","","",33.0229,73.9154
+PK,10404,Chhani Reki,Azad Jammu and Kashmir,06,"","","","",33.0229,73.9154
+PK,10450,Potha Bainsi,Azad Jammu and Kashmir,06,"","","","",33.1336,73.8532
+PK,10460,Dhamawa,Azad Jammu and Kashmir,06,"","","","",33.0899,73.8901
+PK,10470,Akal Garh,Azad Jammu and Kashmir,06,"","","","",33.0899,73.8901
+PK,10480,Jatti Dheri,Azad Jammu and Kashmir,06,"","","","",33.1804,73.8767
+PK,10490,Boha Dhangri,Azad Jammu and Kashmir,06,"","","","",33.0899,73.8901
+PK,10500,Chak Sawari,Azad Jammu and Kashmir,06,"","","","",34.1831,73.8176
+PK,10510,Pind Kalan,Azad Jammu and Kashmir,06,"","","","",33.276,73.7616
+PK,10520,Palak,Azad Jammu and Kashmir,06,"","","","",33.3289,73.7667
+PK,10530,Dadyal Khurd,Azad Jammu and Kashmir,06,"","","","",34.7457,73.633
+PK,10534,Behari,Azad Jammu and Kashmir,06,"","","","",34.7457,73.633
+PK,10540,Ratta,Azad Jammu and Kashmir,06,"","","","",34.768,74.2806
+PK,10544,Thara,Azad Jammu and Kashmir,06,"","","","",34.2343,73.8304
+PK,10550,Katha Dilawar Khan,Azad Jammu and Kashmir,06,"","","","",34.1831,73.8176
+PK,11010,Sehnsa,Azad Jammu and Kashmir,06,"","","","",33.5137,73.7548
+PK,11014,Potha,Azad Jammu and Kashmir,06,"","","","",33.5333,73.6957
+PK,11020,Seher Mandi,Azad Jammu and Kashmir,06,"","","","",33.4442,73.809
+PK,11030,Gulpur,Azad Jammu and Kashmir,06,"","","","",33.4355,73.8565
+PK,11032,Baratla,Azad Jammu and Kashmir,06,"","","","",33.3441,73.9084
+PK,11040,Nar,Azad Jammu and Kashmir,06,"","","","",33.3947,73.8297
+PK,11100,Kotli Gpo (Ak),Azad Jammu and Kashmir,06,"","","","",33.5654,73.9375
+PK,11110,Sarsawa,Azad Jammu and Kashmir,06,"","","","",33.563,73.848
+PK,11120,Panjera,Azad Jammu and Kashmir,06,"","","","",33.5747,73.8269
+PK,11150,Gunni Malni,Azad Jammu and Kashmir,06,"","","","",33.5654,73.9375
+PK,11160,Tatta Pani,Azad Jammu and Kashmir,06,"","","","",33.6077,73.9499
+PK,11170,Nakial,Azad Jammu and Kashmir,06,"","","","",33.5654,73.9375
+PK,11180,Mohra Sharif Kotli,Azad Jammu and Kashmir,06,"","","","",33.5162,74.1254
+PK,11190,Chowki Mong,Azad Jammu and Kashmir,06,"","","","",33.5654,73.9375
+PK,11200,Khui Ratta (A.K),Azad Jammu and Kashmir,06,"","","","",33.3213,73.9276
+PK,11202,Anderla Kotehra,Azad Jammu and Kashmir,06,"","","","",33.3213,73.9276
+PK,11210,Seri,Azad Jammu and Kashmir,06,"","","","",33.4248,73.9203
+PK,11220,B Al Brahmana,Azad Jammu and Kashmir,06,"","","","",33.3213,73.9276
+PK,11250,Charhoi,Azad Jammu and Kashmir,06,"","","","",33.3018,73.9548
+PK,11260,Kala Dab,Azad Jammu and Kashmir,06,"","","","",33.2374,73.9078
+PK,12000,Azad Pattan,Azad Jammu and Kashmir,06,"","","","",33.5465,73.78
+PK,12010,Palandri Gpo,Azad Jammu and Kashmir,06,"","","","",33.6167,73.7757
+PK,12014,Tahlian,Azad Jammu and Kashmir,06,"","","","",33.6167,73.7757
+PK,12030,Baral,Azad Jammu and Kashmir,06,"","","","",33.6443,73.6889
+PK,12034,Panthal,Azad Jammu and Kashmir,06,"","","","",33.6138,73.7275
+PK,12040,Chachan,Azad Jammu and Kashmir,06,"","","","",32.9709,73.9771
+PK,12060,Dewan Sharif Gorah,Azad Jammu and Kashmir,06,"","","","",33.5465,73.78
+PK,12070,Nalian,Azad Jammu and Kashmir,06,"","","","",33.6824,73.7513
+PK,12080,Tarar Khel,Azad Jammu and Kashmir,06,"","","","",33.6811,73.7639
+PK,12090,Qillan,Azad Jammu and Kashmir,06,"","","","",33.5465,73.78
+PK,12100,Baithak Bazar,Azad Jammu and Kashmir,06,"","","","",33.6955,73.9189
+PK,12110,Rahimabad,Azad Jammu and Kashmir,06,"","","","",33.6955,73.9189
+PK,12120,Baloch,Azad Jammu and Kashmir,06,"","","","",33.6455,73.8158
+PK,12130,Pakhonar,Azad Jammu and Kashmir,06,"","","","",33.6955,73.9189
+PK,12150,Gala Kaniyata,Azad Jammu and Kashmir,06,"","","","",33.6955,73.9189
+PK,12160,Hajeera,Azad Jammu and Kashmir,06,"","","","",33.6955,73.9189
+PK,12164,Dawarandi,Azad Jammu and Kashmir,06,"","","","",33.6955,73.9189
+PK,12170,Maindla,Azad Jammu and Kashmir,06,"","","","",33.7303,73.9545
+PK,12174,Sehira,Azad Jammu and Kashmir,06,"","","","",33.7303,73.9545
+PK,12180,Mandhole,Azad Jammu and Kashmir,06,"","","","",33.676,73.9507
+PK,12200,Abbas Pur,Azad Jammu and Kashmir,06,"","","","",32.1502,73.4257
+PK,12220,Khurshidabad,Azad Jammu and Kashmir,06,"","","","",30.6475,72.3449
+PK,12250,Khaigala,Azad Jammu and Kashmir,06,"","","","",33.8569,73.8431
+PK,12252,Ali Sojal,Azad Jammu and Kashmir,06,"","","","",33.8569,73.8431
+PK,12260,Chotta Gala,Azad Jammu and Kashmir,06,"","","","",32.1502,73.4257
+PK,12262,Banjosa,Azad Jammu and Kashmir,06,"","","","",32.1502,73.4257
+PK,12270,Hussain Kot,Azad Jammu and Kashmir,06,"","","","",30.2393,73.6717
+PK,12300,Mang,Azad Jammu and Kashmir,06,"","","","",33.7987,73.6324
+PK,12304,Nawab Jessi Khan,Azad Jammu and Kashmir,06,"","","","",33.7987,73.6324
+PK,12310,Thorar,Azad Jammu and Kashmir,06,"","","","",33.8474,73.6398
+PK,12320,Rahara,Azad Jammu and Kashmir,06,"","","","",33.8329,73.6781
+PK,12330,Lunjgran,Azad Jammu and Kashmir,06,"","","","",33.8314,73.6977
+PK,12340,Soon Topa,Azad Jammu and Kashmir,06,"","","","",33.8329,73.6781
+PK,12350,Rawalkot Gpo,Azad Jammu and Kashmir,06,"","","","",33.8329,73.6781
+PK,12380,Chak Dhamni,Azad Jammu and Kashmir,06,"","","","",33.8329,73.6781
+PK,12390,Sanghola,Azad Jammu and Kashmir,06,"","","","",33.8881,73.7883
+PK,12400,Mohri Farman Shah,Azad Jammu and Kashmir,06,"","","","",33.9132,73.7273
+PK,12410,Hurnamaira,Azad Jammu and Kashmir,06,"","","","",33.877,73.7021
+PK,12420,Paniola,Azad Jammu and Kashmir,06,"","","","",33.9208,73.688
+PK,12430,Pachiot,Azad Jammu and Kashmir,06,"","","","",33.8342,73.7801
+PK,12440,Datoot,Azad Jammu and Kashmir,06,"","","","",33.4844,74.1275
+PK,12460,Arja,Azad Jammu and Kashmir,06,"","","","",33.9759,73.6554
+PK,12470,Mong Bajri,Azad Jammu and Kashmir,06,"","","","",33.8342,73.7801
+PK,12480,Harighel,Azad Jammu and Kashmir,06,"","","","",33.8342,73.7801
+PK,12500,Bagh Gpo,Azad Jammu and Kashmir,06,"","","","",33.8948,73.0032
+PK,12502,Mallote,Azad Jammu and Kashmir,06,"","","","",33.8948,73.0032
+PK,12504,Upper Suddan Gali,Azad Jammu and Kashmir,06,"","","","",33.8948,73.0032
+PK,12508,Plangi,Azad Jammu and Kashmir,06,"","","","",33.8948,73.0032
+PK,12510,Birpani,Azad Jammu and Kashmir,06,"","","","",34.0518,73.7523
+PK,12520,Kharal Abbasian,Azad Jammu and Kashmir,06,"","","","",33.9871,73.8432
+PK,12550,Reera Bazar,Azad Jammu and Kashmir,06,"","","","",33.8948,73.0032
+PK,12560,Barikot,Azad Jammu and Kashmir,06,"","","","",34.6777,72.223
+PK,12570,Dhulli,Azad Jammu and Kashmir,06,"","","","",32.8627,72.1943
+PK,12600,Dhirkot,Azad Jammu and Kashmir,06,"","","","",34.0392,73.5769
+PK,12610,Rangla,Azad Jammu and Kashmir,06,"","","","",32.0613,74.4948
+PK,12620,Chirala,Azad Jammu and Kashmir,06,"","","","",33.9716,73.5741
+PK,12630,Chamankot,Azad Jammu and Kashmir,06,"","","","",33.3573,73.8819
+PK,13100,Muzaffarabad Gpo,Azad Jammu and Kashmir,06,"","","","",34.2577,73.7082
+PK,13150,Garahi Dupatta,Azad Jammu and Kashmir,06,"","","","",34.2577,73.7082
+PK,13164,Leepa,Azad Jammu and Kashmir,06,"","","","",34.2577,73.7082
+PK,13170,Chikar,Azad Jammu and Kashmir,06,"","","","",34.4429,73.5752
+PK,13180,Hattian Bala,Azad Jammu and Kashmir,06,"","","","",34.1704,73.7338
+PK,13190,Chenari,Azad Jammu and Kashmir,06,"","","","",34.1597,73.8156
+PK,13200,Kahuri,Azad Jammu and Kashmir,06,"","","","",34.5688,73.8307
+PK,13210,Pattika,Azad Jammu and Kashmir,06,"","","","",34.5732,73.9706
+PK,13220,Karnah,Azad Jammu and Kashmir,06,"","","","",34.4124,73.4313
+PK,13224,Jura,Azad Jammu and Kashmir,06,"","","","",34.4884,73.831
+PK,13230,Athmaqam,Azad Jammu and Kashmir,06,"","","","",34.8093,74.2727
+PK,13232,Sharda,Azad Jammu and Kashmir,06,"","","","",34.7932,74.192
+PK,13234,Kel,Azad Jammu and Kashmir,06,"","","","",34.8254,74.3534
+PK,13240,Chakothi,Azad Jammu and Kashmir,06,"","","","",34.115,73.8835
+PK,13250,Rahimkot,Azad Jammu and Kashmir,06,"","","","",34.5732,73.9706
+PK,14100,Chilas (Lsg),Gilgit Baltistan,07,"","","","",35.3399,74.8677
+PK,14150,Jaglot Tangir,Gilgit Baltistan,07,"","","","",35.3399,74.8677
+PK,14200,Bunji,Gilgit Baltistan,07,"","","","",35.6477,74.6305
+PK,14300,Astore,Gilgit Baltistan,07,"","","","",35.3399,74.8677
+PK,14350,Ghorikot,Gilgit Baltistan,07,"","","","",35.3399,74.8677
+PK,14400,Chilam,Gilgit Baltistan,07,"","","","",35.0322,75.1049
+PK,15100,Gilgit Gpo,Gilgit Baltistan,07,"","","","",36.0087,74.1241
+PK,15110,Danyore,Gilgit Baltistan,07,"","","","",36.0087,74.1241
+PK,15120,Sammayar,Gilgit Baltistan,07,"","","","",36.0087,74.1241
+PK,15130,Meenapin,Gilgit Baltistan,07,"","","","",36.0087,74.1241
+PK,15150,Jutial,Gilgit Baltistan,07,"","","","",35.9058,74.3531
+PK,15160,Singal,Gilgit Baltistan,07,"","","","",36.1116,73.8952
+PK,15170,Jablot Sai,Gilgit Baltistan,07,"","","","",36.0087,74.1241
+PK,15200,Gahkooch,Gilgit Baltistan,07,"","","","",36.1461,74.2324
+PK,15210,Chattar Khand,Gilgit Baltistan,07,"","","","",36.1461,74.2324
+PK,15300,Gupis,Gilgit Baltistan,07,"","","","",36.2281,73.4472
+PK,15310,Yasin,Gilgit Baltistan,07,"","","","",36.3729,73.3336
+PK,15350,Teru,Gilgit Baltistan,07,"","","","",36.1803,72.7588
+PK,15400,Sikandarabad,Gilgit Baltistan,07,"","","","",36.2426,74.3752
+PK,15500,Chalt,Gilgit Baltistan,07,"","","","",36.2517,74.3227
+PK,15550,Nasirabad,Gilgit Baltistan,07,"","","","",35.1649,74.7855
+PK,15600,Aliabad,Gilgit Baltistan,07,"","","","",36.3154,74.6527
+PK,15650,Nagar,Gilgit Baltistan,07,"","","","",36.2754,74.7196
+PK,15700,Karimabad,Gilgit Baltistan,07,"","","","",36.3269,74.6614
+PK,15710,Altit,Gilgit Baltistan,07,"","","","",36.3573,74.7629
+PK,15750,Gulmit,Gilgit Baltistan,07,"","","","",36.3876,74.8645
+PK,15800,Sust,Gilgit Baltistan,07,"","","","",36.1461,74.2324
+PK,15900,Misgar,Gilgit Baltistan,07,"","","","",36.6127,74.8637
+PK,16100,Skardu Gpo,Gilgit Baltistan,07,"","","","",35.3615,75.5284
+PK,16110,Astana,Gilgit Baltistan,07,"","","","",35.2823,75.6087
+PK,16150,Kachura,Gilgit Baltistan,07,"","","","",35.4406,75.448
+PK,16160,Thowar,Gilgit Baltistan,07,"","","","",35.3615,75.5284
+PK,16200,Skardu Airport,Gilgit Baltistan,07,"","","","",34.7591,75.7186
+PK,16250,Hussainabad,Gilgit Baltistan,07,"","","","",34.7591,75.7186
+PK,16300,Shigar,Gilgit Baltistan,07,"","","","",35.4238,75.7391
+PK,16310,Gulabpur,Gilgit Baltistan,07,"","","","",32.4903,73.1395
+PK,16320,Achori,Gilgit Baltistan,07,"","","","",34.3716,74.8959
+PK,16350,Sermik,Gilgit Baltistan,07,"","","","",35.2006,75.809
+PK,16400,Mehdiabad,Gilgit Baltistan,07,"","","","",35.6849,75.0198
+PK,16420,Manthokha,Gilgit Baltistan,07,"","","","",35.3566,75.556
+PK,16450,Tolti,Gilgit Baltistan,07,"","","","",35.0282,76.0921
+PK,16500,Baghicha,Gilgit Baltistan,07,"","","","",34.9019,76.1981
+PK,16600,Olding,Gilgit Baltistan,07,"","","","",35.0444,75.7449
+PK,16700,Kiris,Gilgit Baltistan,07,"","","","",35.2305,75.944
+PK,16720,Ghowari,Gilgit Baltistan,07,"","","","",35.2305,75.944
+PK,16750,Daghoni,Gilgit Baltistan,07,"","","","",35.2305,75.944
+PK,16800,Khaplu,Gilgit Baltistan,07,"","","","",35.1622,76.3338
+PK,16810,Pion,Gilgit Baltistan,07,"","","","",35.1622,76.3338
+PK,16900,Thagas,Gilgit Baltistan,07,"","","","",35.2144,76.463
+PK,16910,Damsum,Gilgit Baltistan,07,"","","","",35.18,76.6295
+PK,16920,Goma,Gilgit Baltistan,07,"","","","",35.1456,76.796
+PK,44000,Islamabad Gpo,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44010,Islamabad Primr Minister Sectt.,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44020,Islamabad B-Block Pak Sectt.,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44030,Islamabad National Assembly,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44040,Islamabad Aiwan-E-Saddar,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44050,Islamabad G-5 Foreign Office,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44080,Islamabad G-8/Markaz,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44090,Islamabad G-9/Markaz,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44100,Islamabad G-10 Markaz,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44150,Islamabad G-15 Sector,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44210,Islamabad F-7 Markaz,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44220,Islamabad F-8 Markaz,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44230,Islamabad E-9 (Air Hq),Federal Capital,08,"","","","",33.7215,73.0433
+PK,44310,Islamabad Allama Iqbal Open University,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44320,Islamabad Federal Board,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44790,Islamabad I-8/4,Federal Capital,08,"","","","",33.7215,73.0433
+PK,44800,Islamabad I-10/Markaz,Federal Capital,08,"","","","",33.7215,73.0433
+PK,45200,Golra,Federal Capital,08,"","","","",33.6954,72.9771
+PK,45210,Islamabad Hajj Complex,Federal Capital,08,"","","","",33.6954,72.9771
+PK,45220,Shah Allah Ditta,Federal Capital,08,"","","","",33.6954,72.9771
+PK,45230,Tarnol,Federal Capital,08,"","","","",33.6954,72.9771
+PK,45240,Bagnial,Federal Capital,08,"","","","",33.6954,72.9771
+PK,45250,"Mara Jaffar, Islamabad",Federal Capital,08,"","","","",33.6954,72.9771
+PK,45300,"Noorpur Shahan, Islamabad",Federal Capital,08,"","","","",33.747,73.1128
+PK,45320,Islamabad Quiaid-E-Azam University,Federal Capital,08,"","","","",33.747,73.1128
+PK,45400,Bara Kau,Federal Capital,08,"","","","",33.6573,73.1284
+PK,45410,Saree Chowk,Federal Capital,08,"","","","",33.6573,73.1284
+PK,45500,Islamabad National Health Laboratiories,Federal Capital,08,"","","","",33.6842,73.1489
+PK,45510,"Rawal Town, Islamabad",Federal Capital,08,"","","","",33.6849,73.1178
+PK,45520,"Malpur, Islamabad",Federal Capital,08,"","","","",33.7286,73.146
+PK,45550,Tarlai Kalan,Federal Capital,08,"","","","",33.6425,73.152
+PK,45570,"Kuri, Islamabad",Federal Capital,08,"","","","",33.6807,73.1798
+PK,45600,Ali Pur Frash,Federal Capital,08,"","","","",33.63,73.2381
+PK,45610,"Jagiot, Islamabad",Federal Capital,08,"","","","",33.6736,73.2136
+PK,45624,Pind Malkan,Federal Capital,08,"","","","",33.5935,73.2628
+PK,45640,"Kirpa, Islamabad",Federal Capital,08,"","","","",33.6228,73.238
+PK,45650,"Nilore, Islamabad",Federal Capital,08,"","","","",33.63,73.2381
+PK,45680,Chirah,Federal Capital,08,"","","","",33.63,73.2381
+PK,45700,"Islamabad, Model Town Humak",Federal Capital,08,"","","","",33.5941,73.1579
+PK,45710,"Lohi Bher, Islamabad",Federal Capital,08,"","","","",33.5817,73.1636
+PK,45720,Pakistan Town (Korang Town),Federal Capital,08,"","","","",33.5941,73.1579
+PK,45730,Islamabad Dha Phase-Ii,Federal Capital,08,"","","","",33.5941,73.1579
+PK,45740,Sohan,Federal Capital,08,"","","","",33.6545,73.1017
+PK,45750,Sihala,Federal Capital,08,"","","","",33.5462,73.2085
+PK,45800,Herdogher,Federal Capital,08,"","","","",33.6573,73.1284
+PK,45900,Rewat,Federal Capital,08,"","","","",33.6573,73.1284

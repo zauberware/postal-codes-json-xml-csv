@@ -1,0 +1,41 @@
+[
+  {
+    "country_code": "WF",
+    "zipcode": "98610",
+    "place": "Alo",
+    "state": "Circonscription d'Alo",
+    "state_code": "98611",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "-14.3066",
+    "longitude": "-178.1188"
+  },
+  {
+    "country_code": "WF",
+    "zipcode": "98620",
+    "place": "Sigave",
+    "state": "Circonscription de Sigave",
+    "state_code": "98612",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "-14.2667",
+    "longitude": "-178.1667"
+  },
+  {
+    "country_code": "WF",
+    "zipcode": "98600",
+    "place": "Uvéa",
+    "state": "Circonscription d'Uvéa",
+    "state_code": "98613",
+    "province": "",
+    "province_code": "",
+    "community": "",
+    "community_code": "",
+    "latitude": "-13.2988",
+    "longitude": "-176.2205"
+  }
+]

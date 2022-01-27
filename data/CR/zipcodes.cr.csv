@@ -1,0 +1,474 @@
+country_code,zipcode,place,state,state_code,province,province_code,community,community_code,latitude,longitude
+CR,20101,Alajuela,Provincia de Alajuela,01,Alajuela,201,Alajuela,20101,10.0241,-84.2061
+CR,20102,San José,Provincia de Alajuela,01,Alajuela,201,San José,20102,10.0075,-84.2475
+CR,20103,Carrizal,Provincia de Alajuela,01,Alajuela,201,Carrizal,20103,10.0856,-84.1742
+CR,20104,San Antonio,Provincia de Alajuela,01,Alajuela,201,San Antonio,20104,9.9894,-84.2443
+CR,20105,Guácima,Provincia de Alajuela,01,Alajuela,201,Guácima,20105,9.9593,-84.2606
+CR,20106,San Isidro,Provincia de Alajuela,01,Alajuela,201,San Isidro,20106,10.0882,-84.1937
+CR,20107,Sabanilla,Provincia de Alajuela,01,Alajuela,201,Sabanilla,20107,10.0732,-84.2143
+CR,20108,San Rafael,Provincia de Alajuela,01,Alajuela,201,San Rafael,20108,9.9598,-84.2278
+CR,20109,Río Segundo,Provincia de Alajuela,01,Alajuela,201,Río Segundo,20109,10.0003,-84.1951
+CR,20110,Desamparados,Provincia de Alajuela,01,Alajuela,201,Desamparados,20110,10.0275,-84.185
+CR,20111,Turrúcares,Provincia de Alajuela,01,Alajuela,201,Turrúcares,20111,9.9441,-84.3253
+CR,20112,Tambor,Provincia de Alajuela,01,Alajuela,201,Tambor,20112,10.0281,-84.2573
+CR,20113,Garita,Provincia de Alajuela,01,Alajuela,201,Garita,20113,9.9875,-84.3035
+CR,20114,Sarapiquí,Provincia de Alajuela,01,Alajuela,201,Sarapiquí,20114,10.2655,-84.1878
+CR,20201,San Ramón,Provincia de Alajuela,01,San Ramón,202,San Ramón,20201,10.0873,-84.4699
+CR,20202,Santiago,Provincia de Alajuela,01,San Ramón,202,Santiago,20202,10.0384,-84.5285
+CR,20203,San Juan,Provincia de Alajuela,01,San Ramón,202,San Juan,20203,10.1061,-84.4622
+CR,20204,Piedades Norte,Provincia de Alajuela,01,San Ramón,202,Piedades Norte,20204,10.1473,-84.5373
+CR,20205,Piedades Sur,Provincia de Alajuela,01,San Ramón,202,Piedades Sur,20205,10.0942,-84.5738
+CR,20206,San Rafael,Provincia de Alajuela,01,San Ramón,202,San Rafael,20206,10.0267,-84.4748
+CR,20207,San Isidro,Provincia de Alajuela,01,San Ramón,202,San Isidro,20207,10.0869,-84.4501
+CR,20208,Ángeles,Provincia de Alajuela,01,San Ramón,202,Ángeles,20208,10.2521,-84.5929
+CR,20209,Alfaro,Provincia de Alajuela,01,San Ramón,202,Alfaro,20209,10.0885,-84.503
+CR,20210,Volio,Provincia de Alajuela,01,San Ramón,202,Volio,20210,10.1509,-84.4526
+CR,20211,Concepción,Provincia de Alajuela,01,San Ramón,202,Concepción,20211,10.1279,-84.436
+CR,20212,Zapotal,Provincia de Alajuela,01,San Ramón,202,Zapotal,20212,10.1445,-84.6379
+CR,20213,Peñas Blancas,Provincia de Alajuela,01,San Ramón,202,Peñas Blancas,20213,10.3787,-84.6787
+CR,20301,Grecia,Provincia de Alajuela,01,Grecia,203,Grecia,20301,10.0697,-84.3131
+CR,20302,San Isidro,Provincia de Alajuela,01,Grecia,203,San Isidro,20302,10.1245,-84.2683
+CR,20303,San José,Provincia de Alajuela,01,Grecia,203,San José,20303,10.0887,-84.2758
+CR,20304,San Roque,Provincia de Alajuela,01,Grecia,203,San Roque,20304,10.1229,-84.2876
+CR,20305,Tacares,Provincia de Alajuela,01,Grecia,203,Tacares,20305,10.0276,-84.3094
+CR,20306,Río Cuarto,Provincia de Alajuela,01,Grecia,203,Río Cuarto,20306,10.4085,-84.2094
+CR,20307,Puente de Piedra,Provincia de Alajuela,01,Grecia,203,Puente de Piedra,20307,10.0354,-84.3358
+CR,20308,Bolívar,Provincia de Alajuela,01,Grecia,203,Bolívar,20308,10.1363,-84.2983
+CR,20401,San Mateo,Provincia de Alajuela,01,San Mateo,204,San Mateo,20401,9.9669,-84.5313
+CR,20402,Desmonte,Provincia de Alajuela,01,San Mateo,204,Desmonte,20402,9.9656,-84.4766
+CR,20403,Jesús María,Provincia de Alajuela,01,San Mateo,204,Jesús María,20403,9.9452,-84.6097
+CR,20501,Atenas,Provincia de Alajuela,01,Atenas,205,Atenas,20501,9.9808,-84.3696
+CR,20502,Jesús,Provincia de Alajuela,01,Atenas,205,Jesús,20502,9.97,-84.4342
+CR,20503,Mercedes,Provincia de Alajuela,01,Atenas,205,Mercedes,20503,9.9867,-84.3994
+CR,20504,San Isidro,Provincia de Alajuela,01,Atenas,205,San Isidro,20504,9.9955,-84.4332
+CR,20505,Concepción,Provincia de Alajuela,01,Atenas,205,Concepción,20505,9.9538,-84.3714
+CR,20506,San José,Provincia de Alajuela,01,Atenas,205,San José,20506,10.0146,-84.4042
+CR,20507,Santa Eulalia,Provincia de Alajuela,01,Atenas,205,Santa Eulalia,20507,10.0149,-84.3753
+CR,20508,Escobal,Provincia de Alajuela,01,Atenas,205,Escobal,20508,9.9442,-84.4241
+CR,20601,Naranjo,Provincia de Alajuela,01,Naranjo,206,Naranjo,20601,10.101,-84.3908
+CR,20602,San Miguel,Provincia de Alajuela,01,Naranjo,206,San Miguel,20602,10.0714,-84.395
+CR,20603,San José,Provincia de Alajuela,01,Naranjo,206,San José,20603,10.1517,-84.4044
+CR,20604,Cirrí Sur,Provincia de Alajuela,01,Naranjo,206,Cirrí Sur,20604,10.1524,-84.3657
+CR,20605,San Jerónimo,Provincia de Alajuela,01,Naranjo,206,San Jerónimo,20605,10.1241,-84.355
+CR,20606,San Juan,Provincia de Alajuela,01,Naranjo,206,San Juan,20606,10.1198,-84.4155
+CR,20607,El Rosario,Provincia de Alajuela,01,Naranjo,206,El Rosario,20607,10.0488,-84.3783
+CR,20608,Palmitos,Provincia de Alajuela,01,Naranjo,206,Palmitos,20608,10.0973,-84.4248
+CR,20701,Palmares,Provincia de Alajuela,01,Palmares,207,Palmares,20701,10.0541,-84.4329
+CR,20702,Zaragoza,Provincia de Alajuela,01,Palmares,207,Zaragoza,20702,10.0375,-84.4438
+CR,20703,Buenos Aires,Provincia de Alajuela,01,Palmares,207,Buenos Aires,20703,10.0719,-84.4347
+CR,20704,Santiago,Provincia de Alajuela,01,Palmares,207,Santiago,20704,10.021,-84.4473
+CR,20705,Candelaria,Provincia de Alajuela,01,Palmares,207,Candelaria,20705,10.0283,-84.4231
+CR,20706,Esquipulas,Provincia de Alajuela,01,Palmares,207,Esquipulas,20706,10.0585,-84.4185
+CR,20707,La Granja,Provincia de Alajuela,01,Palmares,207,La Granja,20707,10.0527,-84.4492
+CR,20801,San Pedro,Provincia de Alajuela,01,Poás,208,San Pedro,20801,10.0775,-84.2453
+CR,20802,San Juan,Provincia de Alajuela,01,Poás,208,San Juan,20802,10.1333,-84.2357
+CR,20803,San Rafael,Provincia de Alajuela,01,Poás,208,San Rafael,20803,10.0985,-84.2578
+CR,20804,Carrillos,Provincia de Alajuela,01,Poás,208,Carrillos,20804,10.0363,-84.2732
+CR,20805,Sabana Redonda,Provincia de Alajuela,01,Poás,208,Sabana Redonda,20805,10.1427,-84.2144
+CR,20901,Orotina,Provincia de Alajuela,01,Orotina,209,Orotina,20901,9.904,-84.5274
+CR,20902,El Mastate,Provincia de Alajuela,01,Orotina,209,El Mastate,20902,9.9164,-84.5593
+CR,20903,Hacienda Vieja,Provincia de Alajuela,01,Orotina,209,Hacienda Vieja,20903,9.9261,-84.4882
+CR,20904,Coyolar,Provincia de Alajuela,01,Orotina,209,Coyolar,20904,9.8711,-84.5731
+CR,20905,La Ceiba,Provincia de Alajuela,01,Orotina,209,La Ceiba,20905,9.8975,-84.6268
+CR,21001,Quesada,Provincia de Alajuela,01,San Carlos,210,Quesada,21001,10.3262,-84.4126
+CR,21002,Florencia,Provincia de Alajuela,01,San Carlos,210,Florencia,21002,10.3936,-84.4892
+CR,21003,Buenavista,Provincia de Alajuela,01,San Carlos,210,Buenavista,21003,10.2772,-84.4782
+CR,21004,Aguas Zarcas,Provincia de Alajuela,01,San Carlos,210,Aguas Zarcas,21004,10.4652,-84.3491
+CR,21005,Venecia,Provincia de Alajuela,01,San Carlos,210,Venecia,21005,10.3349,-84.2893
+CR,21006,Pital,Provincia de Alajuela,01,San Carlos,210,Pital,21006,10.5832,-84.2413
+CR,21007,La Fortuna,Provincia de Alajuela,01,San Carlos,210,La Fortuna,21007,10.4666,-84.6639
+CR,21008,La Tigra,Provincia de Alajuela,01,San Carlos,210,La Tigra,21008,10.3501,-84.5882
+CR,21009,La Palmera,Provincia de Alajuela,01,San Carlos,210,La Palmera,21009,10.3982,-84.3844
+CR,21010,Venado,Provincia de Alajuela,01,San Carlos,210,Venado,21010,10.566,-84.7645
+CR,21011,Cutris,Provincia de Alajuela,01,San Carlos,210,Cutris,21011,10.7105,-84.3437
+CR,21012,Monterrey,Provincia de Alajuela,01,San Carlos,210,Monterrey,21012,10.5647,-84.6325
+CR,21013,Pocosol,Provincia de Alajuela,01,San Carlos,210,Pocosol,21013,10.7564,-84.4727
+CR,21101,Zarcero,Provincia de Alajuela,01,Zarcero,211,Zarcero,21101,10.1896,-84.3796
+CR,21102,Laguna,Provincia de Alajuela,01,Zarcero,211,Laguna,21102,10.2131,-84.4446
+CR,21103,Tapesco,Provincia de Alajuela,01,Zarcero,211,Tapesco,21103,10.2188,-84.4062
+CR,21104,Guadalupe,Provincia de Alajuela,01,Zarcero,211,Guadalupe,21104,10.1869,-84.4352
+CR,21105,Palmira,Provincia de Alajuela,01,Zarcero,211,Palmira,21105,10.2103,-84.349
+CR,21106,Zapote,Provincia de Alajuela,01,Zarcero,211,Zapote,21106,10.2435,-84.4519
+CR,21107,Brisas,Provincia de Alajuela,01,Zarcero,211,Brisas,21107,10.2424,-84.3873
+CR,21201,Sarchí Norte,Provincia de Alajuela,01,Valverde Vega,212,Sarchí Norte,21201,10.1403,-84.3273
+CR,21202,Sarchí Sur,Provincia de Alajuela,01,Valverde Vega,212,Sarchí Sur,21202,10.0772,-84.3438
+CR,21203,Toro Amarillo,Provincia de Alajuela,01,Valverde Vega,212,Toro Amarillo,21203,10.2218,-84.2864
+CR,21204,San Pedro,Provincia de Alajuela,01,Valverde Vega,212,San Pedro,21204,10.1102,-84.3288
+CR,21205,Rodríguez,Provincia de Alajuela,01,Valverde Vega,212,Rodríguez,21205,10.1175,-84.3482
+CR,21301,Upala,Provincia de Alajuela,01,Upala,213,Upala,21301,10.8443,-85.0197
+CR,21302,Aguas Claras,Provincia de Alajuela,01,Upala,213,Aguas Claras,21302,10.8486,-85.2413
+CR,21303,San José o Pizote,Provincia de Alajuela,01,Upala,213,San José o Pizote,21303,10.9617,-85.1734
+CR,21304,Bijagua,Provincia de Alajuela,01,Upala,213,Bijagua,21304,10.7494,-85.0459
+CR,21305,Delicias,Provincia de Alajuela,01,Upala,213,Delicias,21305,10.9635,-85.0647
+CR,21306,Dos Ríos,Provincia de Alajuela,01,Upala,213,Dos Ríos,21306,10.9454,-85.3578
+CR,21307,Yolillal,Provincia de Alajuela,01,Upala,213,Yolillal,21307,10.9042,-84.9391
+CR,21401,Los Chiles,Provincia de Alajuela,01,Los Chiles,214,Los Chiles,21401,10.9627,-84.6042
+CR,21402,Caño Negro,Provincia de Alajuela,01,Los Chiles,214,Caño Negro,21402,10.9254,-84.81
+CR,21403,El Amparo,Provincia de Alajuela,01,Los Chiles,214,El Amparo,21403,10.8311,-84.6658
+CR,21404,San Jorge,Provincia de Alajuela,01,Los Chiles,214,San Jorge,21404,10.7187,-84.6101
+CR,21501,San Rafael,Provincia de Alajuela,01,Guatuso,215,San Rafael,21501,10.6806,-84.7883
+CR,21502,Buenavista,Provincia de Alajuela,01,Guatuso,215,Buenavista,21502,10.7759,-84.8158
+CR,21503,Cote,Provincia de Alajuela,01,Guatuso,215,Cote,21503,10.6202,-84.9027
+CR,21504,Katira,Provincia de Alajuela,01,Guatuso,215,Katira,21504,10.7458,-84.9183
+CR,30101,Oriental,Provincia de Cartago,02,Cartago,301,Oriental,30101,9.8618,-83.916
+CR,30102,Occidental,Provincia de Cartago,02,Cartago,301,Occidental,30102,9.8619,-83.9275
+CR,30103,Carmen,Provincia de Cartago,02,Cartago,301,Carmen,30103,9.8794,-83.9145
+CR,30104,San Nicolás,Provincia de Cartago,02,Cartago,301,San Nicolás,30104,9.8953,-83.9403
+CR,30105,Aguacaliente o San Francisco,Provincia de Cartago,02,Cartago,301,Aguacaliente o San Francisco,30105,9.7475,-83.8778
+CR,30106,Guadalupe o Arenilla,Provincia de Cartago,02,Cartago,301,Guadalupe o Arenilla,30106,9.8626,-83.961
+CR,30107,Corralillo,Provincia de Cartago,02,Cartago,301,Corralillo,30107,9.789,-84.0508
+CR,30108,Tierra Blanca,Provincia de Cartago,02,Cartago,301,Tierra Blanca,30108,9.9258,-83.8918
+CR,30109,Dulce Nombre,Provincia de Cartago,02,Cartago,301,Dulce Nombre,30109,9.8116,-83.8864
+CR,30110,Llano Grande,Provincia de Cartago,02,Cartago,301,Llano Grande,30110,9.9405,-83.9176
+CR,30111,Quebradilla,Provincia de Cartago,02,Cartago,301,Quebradilla,30111,9.8492,-84.0012
+CR,30201,Paraíso,Provincia de Cartago,02,Paraíso,302,Paraíso,30201,9.8421,-83.8504
+CR,30202,Santiago,Provincia de Cartago,02,Paraíso,302,Santiago,30202,9.8655,-83.8102
+CR,30203,Orosi,Provincia de Cartago,02,Paraíso,302,Orosi,30203,9.6827,-83.7511
+CR,30204,Cachí,Provincia de Cartago,02,Paraíso,302,Cachí,30204,9.8293,-83.7941
+CR,30205,Llanos de Santa Lucía,Provincia de Cartago,02,Paraíso,302,Llanos de Santa Lucía,30205,9.8479,-83.8802
+CR,30301,Tres Ríos,Provincia de Cartago,02,La Unión,303,Tres Ríos,30301,9.9077,-83.9885
+CR,30302,San Diego,Provincia de Cartago,02,La Unión,303,San Diego,30302,9.8929,-83.9956
+CR,30303,San Juan,Provincia de Cartago,02,La Unión,303,San Juan,30303,9.9116,-84.0063
+CR,30304,San Rafael,Provincia de Cartago,02,La Unión,303,San Rafael,30304,9.9055,-83.9689
+CR,30305,Concepción,Provincia de Cartago,02,La Unión,303,Concepción,30305,9.9264,-83.9925
+CR,30306,Dulce Nombre,Provincia de Cartago,02,La Unión,303,Dulce Nombre,30306,9.9315,-83.9684
+CR,30307,San Ramón,Provincia de Cartago,02,La Unión,303,San Ramón,30307,9.938,-83.9899
+CR,30308,Río Azul,Provincia de Cartago,02,La Unión,303,Río Azul,30308,9.8882,-84.02
+CR,30401,Juan Viñas,Provincia de Cartago,02,Jiménez,304,Juan Viñas,30401,9.9017,-83.7465
+CR,30402,Tucurrique,Provincia de Cartago,02,Jiménez,304,Tucurrique,30402,9.8436,-83.734
+CR,30403,Pejibaye,Provincia de Cartago,02,Jiménez,304,Pejibaye,30403,9.7759,-83.6857
+CR,30501,Turrialba,Provincia de Cartago,02,Turrialba,305,Turrialba,30501,9.8872,-83.6861
+CR,30502,La Suiza,Provincia de Cartago,02,Turrialba,305,La Suiza,30502,9.7881,-83.6166
+CR,30503,Peralta,Provincia de Cartago,02,Turrialba,305,Peralta,30503,9.9668,-83.6224
+CR,30504,Santa Cruz,Provincia de Cartago,02,Turrialba,305,Santa Cruz,30504,10.0086,-83.7555
+CR,30505,Santa Teresita,Provincia de Cartago,02,Turrialba,305,Santa Teresita,30505,9.9879,-83.6658
+CR,30506,Pavones,Provincia de Cartago,02,Turrialba,305,Pavones,30506,9.9157,-83.6198
+CR,30507,Tuis,Provincia de Cartago,02,Turrialba,305,Tuis,30507,9.8528,-83.5663
+CR,30508,Tayutic,Provincia de Cartago,02,Turrialba,305,Tayutic,30508,9.8083,-83.5477
+CR,30509,Santa Rosa,Provincia de Cartago,02,Turrialba,305,Santa Rosa,30509,9.9418,-83.7127
+CR,30510,Tres Equis,Provincia de Cartago,02,Turrialba,305,Tres Equis,30510,9.9547,-83.5737
+CR,30511,La Isabel,Provincia de Cartago,02,Turrialba,305,La Isabel,30511,9.9289,-83.6621
+CR,30512,Chirripó,Provincia de Cartago,02,Turrialba,305,Chirripó,30512,9.772,-83.4831
+CR,30601,Pacayas,Provincia de Cartago,02,Alvarado,306,Pacayas,30601,9.9397,-83.8191
+CR,30602,Cervantes,Provincia de Cartago,02,Alvarado,306,Cervantes,30602,9.8925,-83.804
+CR,30603,Capellades,Provincia de Cartago,02,Alvarado,306,Capellades,30603,9.9555,-83.7929
+CR,30701,San Rafael,Provincia de Cartago,02,Oreamuno,307,San Rafael,30701,9.8713,-83.8958
+CR,30702,Cot,Provincia de Cartago,02,Oreamuno,307,Cot,30702,9.8893,-83.8697
+CR,30703,Potrero Cerrado,Provincia de Cartago,02,Oreamuno,307,Potrero Cerrado,30703,9.9319,-83.8729
+CR,30704,Cipreses,Provincia de Cartago,02,Oreamuno,307,Cipreses,30704,9.893,-83.8422
+CR,30705,Santa Rosa,Provincia de Cartago,02,Oreamuno,307,Santa Rosa,30705,10.0453,-83.864
+CR,30801,El Tejar,Provincia de Cartago,02,El Guarco,308,El Tejar,30801,9.8437,-83.9475
+CR,30802,San Isidro,Provincia de Cartago,02,El Guarco,308,San Isidro,30802,9.7284,-83.9133
+CR,30803,Tobosi,Provincia de Cartago,02,El Guarco,308,Tobosi,30803,9.8218,-83.9942
+CR,30804,Patio de Agua,Provincia de Cartago,02,El Guarco,308,Patio de Agua,30804,9.7901,-84.0106
+CR,50101,Liberia,Provincia de Guanacaste,03,Liberia,501,Liberia,50101,10.5866,-85.4504
+CR,50102,Cañas Dulces,Provincia de Guanacaste,03,Liberia,501,Cañas Dulces,50102,10.7602,-85.4504
+CR,50103,Mayorga,Provincia de Guanacaste,03,Liberia,501,Mayorga,50103,10.8632,-85.4924
+CR,50104,Nacascolo,Provincia de Guanacaste,03,Liberia,501,Nacascolo,50104,10.7228,-85.6001
+CR,50105,Curubandé,Provincia de Guanacaste,03,Liberia,501,Curubandé,50105,10.7016,-85.4362
+CR,50201,Nicoya,Provincia de Guanacaste,03,Nicoya,502,Nicoya,50201,10.1183,-85.5052
+CR,50202,Mansión,Provincia de Guanacaste,03,Nicoya,502,Mansión,50202,10.1082,-85.3183
+CR,50203,San Antonio,Provincia de Guanacaste,03,Nicoya,502,San Antonio,50203,10.2594,-85.4006
+CR,50204,Quebrada Honda,Provincia de Guanacaste,03,Nicoya,502,Quebrada Honda,50204,10.1943,-85.2871
+CR,50205,Sámara,Provincia de Guanacaste,03,Nicoya,502,Sámara,50205,9.9109,-85.538
+CR,50206,Nosara,Provincia de Guanacaste,03,Nicoya,502,Nosara,50206,9.9756,-85.6254
+CR,50207,Belén de Nosarita,Provincia de Guanacaste,03,Nicoya,502,Belén de Nosarita,50207,9.9932,-85.5154
+CR,50301,Santa Cruz,Provincia de Guanacaste,03,Santa Cruz,503,Santa Cruz,50301,10.2388,-85.5991
+CR,50302,Bolsón,Provincia de Guanacaste,03,Santa Cruz,503,Bolsón,50302,10.3485,-85.4534
+CR,50303,Veintisiete de Abril,Provincia de Guanacaste,03,Santa Cruz,503,Veintisiete de Abril,50303,10.2002,-85.722
+CR,50304,Tempate,Provincia de Guanacaste,03,Santa Cruz,503,Tempate,50304,10.3972,-85.7365
+CR,50305,Cartagena,Provincia de Guanacaste,03,Santa Cruz,503,Cartagena,50305,10.3628,-85.6761
+CR,50306,Cuajiniquil,Provincia de Guanacaste,03,Santa Cruz,503,Cuajiniquil,50306,10.0723,-85.6954
+CR,50307,Diriá,Provincia de Guanacaste,03,Santa Cruz,503,Diriá,50307,10.2823,-85.5229
+CR,50308,Cabo Velas,Provincia de Guanacaste,03,Santa Cruz,503,Cabo Velas,50308,10.3734,-85.8143
+CR,50309,Tamarindo,Provincia de Guanacaste,03,Santa Cruz,503,Tamarindo,50309,10.2859,-85.7964
+CR,50401,Bagaces,Provincia de Guanacaste,03,Bagaces,504,Bagaces,50401,10.4655,-85.2828
+CR,50402,La Fortuna,Provincia de Guanacaste,03,Bagaces,504,La Fortuna,50402,10.6614,-85.1688
+CR,50403,Mogote,Provincia de Guanacaste,03,Bagaces,504,Mogote,50403,10.6954,-85.2719
+CR,50404,Río Naranjo,Provincia de Guanacaste,03,Bagaces,504,Río Naranjo,50404,10.6754,-85.106
+CR,50501,Filadelfia,Provincia de Guanacaste,03,Carrillo,505,Filadelfia,50501,10.4075,-85.4681
+CR,50502,Palmira,Provincia de Guanacaste,03,Carrillo,505,Palmira,50502,10.5492,-85.5912
+CR,50503,Sardinal,Provincia de Guanacaste,03,Carrillo,505,Sardinal,50503,10.5179,-85.6751
+CR,50504,Belén,Provincia de Guanacaste,03,Carrillo,505,Belén,50504,10.3974,-85.5921
+CR,50601,Cañas,Provincia de Guanacaste,03,Cañas,506,Cañas,50601,10.4502,-85.0903
+CR,50602,Palmira,Provincia de Guanacaste,03,Cañas,506,Palmira,50602,10.5955,-85.0828
+CR,50603,San Miguel,Provincia de Guanacaste,03,Cañas,506,San Miguel,50603,10.3438,-85.0659
+CR,50604,Bebedero,Provincia de Guanacaste,03,Cañas,506,Bebedero,50604,10.3742,-85.155
+CR,50605,Porozal,Provincia de Guanacaste,03,Cañas,506,Porozal,50605,10.2803,-85.183
+CR,50701,Las Juntas,Provincia de Guanacaste,03,Abangares,507,Las Juntas,50701,10.2486,-84.9969
+CR,50702,Sierra,Provincia de Guanacaste,03,Abangares,507,Sierra,50702,10.3222,-84.8996
+CR,50703,San Juan,Provincia de Guanacaste,03,Abangares,507,San Juan,50703,10.2303,-84.9226
+CR,50704,Colorado,Provincia de Guanacaste,03,Abangares,507,Colorado,50704,10.2141,-85.1173
+CR,50801,Tilarán,Provincia de Guanacaste,03,Tilarán,508,Tilarán,50801,10.4574,-84.9641
+CR,50802,Quebrada Grande,Provincia de Guanacaste,03,Tilarán,508,Quebrada Grande,50802,10.3887,-84.8865
+CR,50803,Tronadora,Provincia de Guanacaste,03,Tilarán,508,Tronadora,50803,10.4243,-84.8356
+CR,50804,Santa Rosa,Provincia de Guanacaste,03,Tilarán,508,Santa Rosa,50804,10.5062,-85.0004
+CR,50805,Líbano,Provincia de Guanacaste,03,Tilarán,508,Líbano,50805,10.4033,-84.9862
+CR,50806,Tierras Morenas,Provincia de Guanacaste,03,Tilarán,508,Tierras Morenas,50806,10.582,-84.9998
+CR,50807,Arenal,Provincia de Guanacaste,03,Tilarán,508,Arenal,50807,10.5203,-84.8519
+CR,50901,Carmona,Provincia de Guanacaste,03,Nandayure,509,Carmona,50901,9.9889,-85.2599
+CR,50902,Santa Rita,Provincia de Guanacaste,03,Nandayure,509,Santa Rita,50902,10.0392,-85.2838
+CR,50903,Zapotal,Provincia de Guanacaste,03,Nandayure,509,Zapotal,50903,9.9959,-85.3018
+CR,50904,San Pablo,Provincia de Guanacaste,03,Nandayure,509,San Pablo,50904,10.018,-85.203
+CR,50905,Porvenir,Provincia de Guanacaste,03,Nandayure,509,Porvenir,50905,9.9168,-85.2797
+CR,50906,Bejuco,Provincia de Guanacaste,03,Nandayure,509,Bejuco,50906,9.8379,-85.2755
+CR,51001,La Cruz,Provincia de Guanacaste,03,La Cruz,510,La Cruz,51001,11.0704,-85.6213
+CR,51002,Santa Cecilia,Provincia de Guanacaste,03,La Cruz,510,Santa Cecilia,51002,11.0489,-85.372
+CR,51003,La Garita,Provincia de Guanacaste,03,La Cruz,510,La Garita,51003,11.0739,-85.5076
+CR,51004,Santa Elena,Provincia de Guanacaste,03,La Cruz,510,Santa Elena,51004,10.8938,-85.6968
+CR,51101,Hojancha,Provincia de Guanacaste,03,Hojancha,511,Hojancha,51101,10.0452,-85.4257
+CR,51102,Monte Romo,Provincia de Guanacaste,03,Hojancha,511,Monte Romo,51102,9.9645,-85.3892
+CR,51103,Puerto Carrillo,Provincia de Guanacaste,03,Hojancha,511,Puerto Carrillo,51103,9.9277,-85.4478
+CR,51104,Huacas,Provincia de Guanacaste,03,Hojancha,511,Huacas,51104,10.0303,-85.3614
+CR,40101,Heredia,Provincia de Heredia,04,Heredia,401,Heredia,40101,9.9981,-84.117
+CR,40102,Mercedes,Provincia de Heredia,04,Heredia,401,Mercedes,40102,10.0052,-84.1318
+CR,40103,San Francisco,Provincia de Heredia,04,Heredia,401,San Francisco,40103,9.9925,-84.1312
+CR,40104,Ulloa,Provincia de Heredia,04,Heredia,401,Ulloa,40104,9.9762,-84.1366
+CR,40105,Varablanca,Provincia de Heredia,04,Heredia,401,Varablanca,40105,10.1654,-84.069
+CR,40201,Barva,Provincia de Heredia,04,Barva,402,Barva,40201,10.0204,-84.1236
+CR,40202,San Pedro,Provincia de Heredia,04,Barva,402,San Pedro,40202,10.0435,-84.1316
+CR,40203,San Pablo,Provincia de Heredia,04,Barva,402,San Pablo,40203,10.0421,-84.1145
+CR,40204,San Roque,Provincia de Heredia,04,Barva,402,San Roque,40204,10.0153,-84.1367
+CR,40205,Santa Lucía,Provincia de Heredia,04,Barva,402,Santa Lucía,40205,10.0237,-84.1129
+CR,40206,San José de la Montaña,Provincia de Heredia,04,Barva,402,San José de la Montaña,40206,10.0955,-84.1106
+CR,40301,Santo Domingo,Provincia de Heredia,04,Santo Domingo,403,Santo Domingo,40301,9.9798,-84.0908
+CR,40302,San Vicente,Provincia de Heredia,04,Santo Domingo,403,San Vicente,40302,9.9899,-84.08
+CR,40303,San Miguel,Provincia de Heredia,04,Santo Domingo,403,San Miguel,40303,9.9812,-84.0549
+CR,40304,Paracito,Provincia de Heredia,04,Santo Domingo,403,Paracito,40304,10.0004,-84.0273
+CR,40305,Santo Tomás,Provincia de Heredia,04,Santo Domingo,403,Santo Tomás,40305,9.9795,-84.0763
+CR,40306,Santa Rosa,Provincia de Heredia,04,Santo Domingo,403,Santa Rosa,40306,9.9707,-84.1002
+CR,40307,Tures,Provincia de Heredia,04,Santo Domingo,403,Tures,40307,9.9933,-84.0568
+CR,40308,Pará,Provincia de Heredia,04,Santo Domingo,403,Pará,40308,10.0048,-84.0346
+CR,40401,Santa Bárbara,Provincia de Heredia,04,Santa Bárbara,404,Santa Bárbara,40401,10.0376,-84.1587
+CR,40402,San Pedro,Provincia de Heredia,04,Santa Bárbara,404,San Pedro,40402,10.032,-84.1682
+CR,40403,San Juan,Provincia de Heredia,04,Santa Bárbara,404,San Juan,40403,10.0213,-84.159
+CR,40404,Jesús,Provincia de Heredia,04,Santa Bárbara,404,Jesús,40404,10.0573,-84.1426
+CR,40405,Santo Domingo,Provincia de Heredia,04,Santa Bárbara,404,Santo Domingo,40405,10.113,-84.1485
+CR,40406,Purabá,Provincia de Heredia,04,Santa Bárbara,404,Purabá,40406,10.0647,-84.1543
+CR,40501,San Rafael,Provincia de Heredia,04,San Rafael,405,San Rafael,40501,10.0161,-84.0994
+CR,40502,San Josecito,Provincia de Heredia,04,San Rafael,405,San Josecito,40502,10.0113,-84.1113
+CR,40503,Santiago,Provincia de Heredia,04,San Rafael,405,Santiago,40503,10.0068,-84.1008
+CR,40504,Ángeles,Provincia de Heredia,04,San Rafael,405,Ángeles,40504,10.06,-84.0874
+CR,40505,Concepción,Provincia de Heredia,04,San Rafael,405,Concepción,40505,10.0442,-84.0664
+CR,40601,San Isidro,Provincia de Heredia,04,San Isidro,406,San Isidro,40601,10.0125,-84.0533
+CR,40602,San José,Provincia de Heredia,04,San Isidro,406,San José,40602,10.0293,-84.0275
+CR,40603,Concepción,Provincia de Heredia,04,San Isidro,406,Concepción,40603,10.0416,-84.0394
+CR,40604,San Francisco,Provincia de Heredia,04,San Isidro,406,San Francisco,40604,10.0091,-84.0661
+CR,40701,San Antonio,Provincia de Heredia,04,Belén,407,San Antonio,40701,9.9782,-84.1861
+CR,40702,La Ribera,Provincia de Heredia,04,Belén,407,La Ribera,40702,9.9932,-84.1815
+CR,40703,La Asunción,Provincia de Heredia,04,Belén,407,La Asunción,40703,9.9778,-84.1669
+CR,40801,San Joaquín,Provincia de Heredia,04,Flores,408,San Joaquín,40801,10.0064,-84.1556
+CR,40802,Barrantes,Provincia de Heredia,04,Flores,408,Barrantes,40802,10.0137,-84.1518
+CR,40803,Llorente,Provincia de Heredia,04,Flores,408,Llorente,40803,9.9983,-84.1612
+CR,40901,San Pablo,Provincia de Heredia,04,San Pablo,409,San Pablo,40901,9.9994,-84.0905
+CR,40902,Rincón de Sabanilla,Provincia de Heredia,04,San Pablo,409,Rincón de Sabanilla,40902,9.9838,-84.1048
+CR,41001,Puerto Viejo,Provincia de Heredia,04,Sarapiquí,410,Puerto Viejo,41001,10.4609,-84.0052
+CR,41002,La Virgen,Provincia de Heredia,04,Sarapiquí,410,La Virgen,41002,10.4385,-84.0914
+CR,41003,Las Horquetas,Provincia de Heredia,04,Sarapiquí,410,Las Horquetas,41003,10.3132,-83.9572
+CR,41004,Llanuras del Gaspar,Provincia de Heredia,04,Sarapiquí,410,Llanuras del Gaspar,41004,10.6766,-83.8432
+CR,41005,Cureña,Provincia de Heredia,04,Sarapiquí,410,Cureña,41005,10.6906,-84.0753
+CR,70101,Limón,Provincia de Limón,06,Limón,701,Limón,70101,9.9803,-83.0708
+CR,70102,Valle La Estrella,Provincia de Limón,06,Limón,701,Valle La Estrella,70102,9.7151,-83.1652
+CR,70103,Río Blanco,Provincia de Limón,06,Limón,701,Río Blanco,70103,9.9754,-83.1565
+CR,70104,Matama,Provincia de Limón,06,Limón,701,Matama,70104,9.869,-83.1211
+CR,70201,Guápiles,Provincia de Limón,06,Pococí,702,Guápiles,70201,10.1917,-83.8467
+CR,70202,Jiménez,Provincia de Limón,06,Pococí,702,Jiménez,70202,10.1869,-83.7573
+CR,70203,Rita,Provincia de Limón,06,Pococí,702,Rita,70203,10.4626,-83.7753
+CR,70204,Roxana,Provincia de Limón,06,Pococí,702,Roxana,70204,10.3665,-83.6588
+CR,70205,Cariari,Provincia de Limón,06,Pococí,702,Cariari,70205,10.4312,-83.6804
+CR,70206,Colorado,Provincia de Limón,06,Pococí,702,Colorado,70206,10.575,-83.5943
+CR,70301,Siquirres,Provincia de Limón,06,Siquirres,703,Siquirres,70301,10.1589,-83.4546
+CR,70302,Pacuarito,Provincia de Limón,06,Siquirres,703,Pacuarito,70302,10.1031,-83.4211
+CR,70303,Florida,Provincia de Limón,06,Siquirres,703,Florida,70303,10.0437,-83.6261
+CR,70304,Germania,Provincia de Limón,06,Siquirres,703,Germania,70304,10.1649,-83.5643
+CR,70305,El Cairo,Provincia de Limón,06,Siquirres,703,El Cairo,70305,10.2005,-83.5076
+CR,70306,Alegría,Provincia de Limón,06,Siquirres,703,Alegría,70306,10.1168,-83.5913
+CR,70401,Bratsi,Provincia de Limón,06,Talamanca,704,Bratsi,70401,9.6054,-82.9595
+CR,70402,Sixaola,Provincia de Limón,06,Talamanca,704,Sixaola,70402,9.5628,-82.6645
+CR,70403,Cahuita,Provincia de Limón,06,Talamanca,704,Cahuita,70403,9.669,-82.8046
+CR,70404,Telire,Provincia de Limón,06,Talamanca,704,Telire,70404,9.4392,-83.1596
+CR,70501,Matina,Provincia de Limón,06,Matina,705,Matina,70501,9.9618,-83.2933
+CR,70502,Batán,Provincia de Limón,06,Matina,705,Batán,70502,10.0929,-83.3516
+CR,70503,Carrandi,Provincia de Limón,06,Matina,705,Carrandi,70503,10.0295,-83.2289
+CR,70601,Guácimo,Provincia de Limón,06,Guácimo,706,Guácimo,70601,10.175,-83.7034
+CR,70602,Mercedes,Provincia de Limón,06,Guácimo,706,Mercedes,70602,10.1401,-83.6549
+CR,70603,Pocora,Provincia de Limón,06,Guácimo,706,Pocora,70603,10.134,-83.6222
+CR,70604,Río Jiménez,Provincia de Limón,06,Guácimo,706,Río Jiménez,70604,10.2613,-83.5624
+CR,70605,Duacarí,Provincia de Limón,06,Guácimo,706,Duacarí,70605,10.3214,-83.6171
+CR,60101,Puntarenas,Provincia de Puntarenas,07,Puntarenas,601,Puntarenas,60101,9.978,-84.8344
+CR,60102,Pitahaya,Provincia de Puntarenas,07,Puntarenas,601,Pitahaya,60102,10.0432,-84.8304
+CR,60103,Chomes,Provincia de Puntarenas,07,Puntarenas,601,Chomes,60103,10.0951,-84.9103
+CR,60104,Lepanto,Provincia de Puntarenas,07,Puntarenas,601,Lepanto,60104,9.9023,-85.1297
+CR,60105,Paquera,Provincia de Puntarenas,07,Puntarenas,601,Paquera,60105,9.8199,-84.9923
+CR,60106,Manzanillo,Provincia de Puntarenas,07,Puntarenas,601,Manzanillo,60106,10.1408,-85.012
+CR,60107,Guacimal,Provincia de Puntarenas,07,Puntarenas,601,Guacimal,60107,10.2191,-84.831
+CR,60108,Barranca,Provincia de Puntarenas,07,Puntarenas,601,Barranca,60108,10.0071,-84.7079
+CR,60109,Monte Verde,Provincia de Puntarenas,07,Puntarenas,601,Monte Verde,60109,10.2914,-84.8248
+CR,60110,Isla Del Coco,Provincia de Puntarenas,07,Puntarenas,601,Isla Del Coco,60110,5.5287,-87.0614
+CR,60111,Cóbano,Provincia de Puntarenas,07,Puntarenas,601,Cóbano,60111,9.6951,-85.1247
+CR,60112,Chacarita,Provincia de Puntarenas,07,Puntarenas,601,Chacarita,60112,9.9843,-84.769
+CR,60113,Chira,Provincia de Puntarenas,07,Puntarenas,601,Chira,60113,10.0988,-85.151
+CR,60114,Acapulco,Provincia de Puntarenas,07,Puntarenas,601,Acapulco,60114,10.1618,-84.8064
+CR,60115,El Roble,Provincia de Puntarenas,07,Puntarenas,601,El Roble,60115,9.9827,-84.7419
+CR,60116,Arancibia,Provincia de Puntarenas,07,Puntarenas,601,Arancibia,60116,10.2312,-84.7184
+CR,60201,Espíritu Santo,Provincia de Puntarenas,07,Esparza,602,Espíritu Santo,60201,9.9682,-84.6977
+CR,60202,San Juan Grande,Provincia de Puntarenas,07,Esparza,602,San Juan Grande,60202,9.9313,-84.6793
+CR,60203,Macacona,Provincia de Puntarenas,07,Esparza,602,Macacona,60203,10.0138,-84.6162
+CR,60204,San Rafael,Provincia de Puntarenas,07,Esparza,602,San Rafael,60204,9.981,-84.6013
+CR,60205,San Jerónimo,Provincia de Puntarenas,07,Esparza,602,San Jerónimo,60205,10.0634,-84.6562
+CR,60301,Buenos Aires,Provincia de Puntarenas,07,Buenos Aires,603,Buenos Aires,60301,9.2025,-83.2772
+CR,60302,Volcán,Provincia de Puntarenas,07,Buenos Aires,603,Volcán,60302,9.2485,-83.4508
+CR,60303,Potrero Grande,Provincia de Puntarenas,07,Buenos Aires,603,Potrero Grande,60303,9.1027,-83.1459
+CR,60304,Boruca,Provincia de Puntarenas,07,Buenos Aires,603,Boruca,60304,9.0109,-83.3253
+CR,60305,Pilas,Provincia de Puntarenas,07,Buenos Aires,603,Pilas,60305,9.0929,-83.4233
+CR,60306,Colinas,Provincia de Puntarenas,07,Buenos Aires,603,Colinas,60306,9.0351,-83.4536
+CR,60307,Chánguena,Provincia de Puntarenas,07,Buenos Aires,603,Chánguena,60307,8.8916,-83.1808
+CR,60308,Biolley,Provincia de Puntarenas,07,Buenos Aires,603,Biolley,60308,9.0454,-83.0362
+CR,60309,Brunka,Provincia de Puntarenas,07,Buenos Aires,603,Brunka,60309,9.2361,-83.3825
+CR,60401,Miramar,Provincia de Puntarenas,07,Montes de Oro,604,Miramar,60401,10.1124,-84.7394
+CR,60402,La Unión,Provincia de Puntarenas,07,Montes de Oro,604,La Unión,60402,10.1909,-84.7058
+CR,60403,San Isidro,Provincia de Puntarenas,07,Montes de Oro,604,San Isidro,60403,10.053,-84.7213
+CR,60501,Puerto Cortés,Provincia de Puntarenas,07,Osa,605,Puerto Cortés,60501,9.0226,-83.5767
+CR,60502,Palmar,Provincia de Puntarenas,07,Osa,605,Palmar,60502,8.95,-83.43
+CR,60503,Sierpe,Provincia de Puntarenas,07,Osa,605,Sierpe,60503,8.75,-83.5377
+CR,60504,Bahía Ballena,Provincia de Puntarenas,07,Osa,605,Bahía Ballena,60504,9.1755,-83.7266
+CR,60505,Piedras Blancas,Provincia de Puntarenas,07,Osa,605,Piedras Blancas,60505,8.8142,-83.2633
+CR,60601,Quepos,Provincia de Puntarenas,07,Quepos,606,Quepos,60601,9.4596,-84.1376
+CR,60602,Savegre,Provincia de Puntarenas,07,Quepos,606,Savegre,60602,9.3562,-83.9455
+CR,60603,Naranjito,Provincia de Puntarenas,07,Quepos,606,Naranjito,60603,9.4787,-84.0812
+CR,60701,Golfito,Provincia de Puntarenas,07,Golfito,607,Golfito,60701,8.6542,-83.1755
+CR,60702,Puerto Jiménez,Provincia de Puntarenas,07,Golfito,607,Puerto Jiménez,60702,8.5182,-83.4477
+CR,60703,Guaycará,Provincia de Puntarenas,07,Golfito,607,Guaycará,60703,8.7126,-83.0762
+CR,60704,Pavón,Provincia de Puntarenas,07,Golfito,607,Pavón,60704,8.3834,-83.0968
+CR,60801,San Vito,Provincia de Puntarenas,07,Coto Brus,608,San Vito,60801,8.8653,-82.95
+CR,60802,Sabalito,Provincia de Puntarenas,07,Coto Brus,608,Sabalito,60802,8.8165,-82.9015
+CR,60803,Aguabuena,Provincia de Puntarenas,07,Coto Brus,608,Aguabuena,60803,8.7379,-82.945
+CR,60804,Limoncito,Provincia de Puntarenas,07,Coto Brus,608,Limoncito,60804,8.8464,-83.0467
+CR,60805,Pittier,Provincia de Puntarenas,07,Coto Brus,608,Pittier,60805,8.9797,-82.9593
+CR,60901,Parrita,Provincia de Puntarenas,07,Parrita,609,Parrita,60901,9.562,-84.317
+CR,61001,Corredor,Provincia de Puntarenas,07,Corredores,610,Corredor,61001,8.6242,-82.9438
+CR,61002,La Cuesta,Provincia de Puntarenas,07,Corredores,610,La Cuesta,61002,8.4794,-82.8681
+CR,61003,Canoas,Provincia de Puntarenas,07,Corredores,610,Canoas,61003,8.5542,-82.8796
+CR,61004,Laurel,Provincia de Puntarenas,07,Corredores,610,Laurel,61004,8.4499,-82.9688
+CR,61101,Jacó,Provincia de Puntarenas,07,Garabito,611,Jacó,61101,9.6275,-84.601
+CR,61102,Tárcoles,Provincia de Puntarenas,07,Garabito,611,Tárcoles,61102,9.7868,-84.6181
+CR,10101,Carmen,Provincia de San José,08,San José,101,Carmen,10101,9.9364,-84.0693
+CR,10102,Merced,Provincia de San José,08,San José,101,Merced,10102,9.9397,-84.0884
+CR,10103,Hospital,Provincia de San José,08,San José,101,Hospital,10103,9.9277,-84.0887
+CR,10104,Catedral,Provincia de San José,08,San José,101,Catedral,10104,9.9262,-84.0731
+CR,10105,Zapote,Provincia de San José,08,San José,101,Zapote,10105,9.9205,-84.0598
+CR,10106,San Francisco de Dos Ríos,Provincia de San José,08,San José,101,San Francisco de Dos Ríos,10106,9.9082,-84.0592
+CR,10107,Uruca,Provincia de San José,08,San José,101,Uruca,10107,9.9567,-84.1229
+CR,10108,Mata Redonda,Provincia de San José,08,San José,101,Mata Redonda,10108,9.9351,-84.1073
+CR,10109,Pavas,Provincia de San José,08,San José,101,Pavas,10109,9.9499,-84.1366
+CR,10110,Hatillo,Provincia de San José,08,San José,101,Hatillo,10110,9.9184,-84.1025
+CR,10111,San Sebastián,Provincia de San José,08,San José,101,San Sebastián,10111,9.9106,-84.0823
+CR,10201,Escazú,Provincia de San José,08,Escazú,102,Escazú,10201,9.9183,-84.1493
+CR,10202,San Antonio,Provincia de San José,08,Escazú,102,San Antonio,10202,9.894,-84.14
+CR,10203,San Rafael,Provincia de San José,08,Escazú,102,San Rafael,10203,9.9405,-84.1507
+CR,10301,Desamparados,Provincia de San José,08,Desamparados,103,Desamparados,10301,9.8974,-84.0705
+CR,10302,San Miguel,Provincia de San José,08,Desamparados,103,San Miguel,10302,9.8393,-84.0517
+CR,10303,San Juan de Dios,Provincia de San José,08,Desamparados,103,San Juan de Dios,10303,9.878,-84.0886
+CR,10304,San Rafael Arriba,Provincia de San José,08,Desamparados,103,San Rafael Arriba,10304,9.8759,-84.0735
+CR,10305,San Antonio,Provincia de San José,08,Desamparados,103,San Antonio,10305,9.899,-84.0464
+CR,10306,Frailes,Provincia de San José,08,Desamparados,103,Frailes,10306,9.7546,-84.0651
+CR,10307,Patarrá,Provincia de San José,08,Desamparados,103,Patarrá,10307,9.8657,-84.025
+CR,10308,San Cristóbal,Provincia de San José,08,Desamparados,103,San Cristóbal,10308,9.7544,-83.9985
+CR,10309,Rosario,Provincia de San José,08,Desamparados,103,Rosario,10309,9.8005,-84.0856
+CR,10310,Damas,Provincia de San José,08,Desamparados,103,Damas,10310,9.8887,-84.045
+CR,10311,San Rafael Abajo,Provincia de San José,08,Desamparados,103,San Rafael Abajo,10311,9.8952,-84.0829
+CR,10312,Gravilias,Provincia de San José,08,Desamparados,103,Gravilias,10312,9.886,-84.0575
+CR,10313,Los Guido,Provincia de San José,08,Desamparados,103,Los Guido,10313,9.8709,-84.0483
+CR,10401,Santiago,Provincia de San José,08,Puriscal,104,Santiago,10401,9.8202,-84.3063
+CR,10402,Mercedes Sur,Provincia de San José,08,Puriscal,104,Mercedes Sur,10402,9.7739,-84.4098
+CR,10403,Barbacoas,Provincia de San José,08,Puriscal,104,Barbacoas,10403,9.8549,-84.3625
+CR,10404,Grifo Alto,Provincia de San José,08,Puriscal,104,Grifo Alto,10404,9.8774,-84.3949
+CR,10405,San Rafael,Provincia de San José,08,Puriscal,104,San Rafael,10405,9.8259,-84.2783
+CR,10406,Candelarita,Provincia de San José,08,Puriscal,104,Candelarita,10406,9.7895,-84.3358
+CR,10407,Desamparaditos,Provincia de San José,08,Puriscal,104,Desamparaditos,10407,9.8798,-84.3407
+CR,10408,San Antonio,Provincia de San José,08,Puriscal,104,San Antonio,10408,9.8636,-84.3015
+CR,10409,Chires,Provincia de San José,08,Puriscal,104,Chires,10409,9.6576,-84.4018
+CR,10501,San Marcos,Provincia de San José,08,Tarrazú,105,San Marcos,10501,9.6724,-84.0048
+CR,10502,San Lorenzo,Provincia de San José,08,Tarrazú,105,San Lorenzo,10502,9.5591,-84.0333
+CR,10503,San Carlos,Provincia de San José,08,Tarrazú,105,San Carlos,10503,9.6097,-84.1129
+CR,10601,Aserrí,Provincia de San José,08,Aserrí,106,Aserrí,10601,9.855,-84.1084
+CR,10602,Tarbaca,Provincia de San José,08,Aserrí,106,Tarbaca,10602,9.8228,-84.1179
+CR,10603,Vuelta de Jorco,Provincia de San José,08,Aserrí,106,Vuelta de Jorco,10603,9.7742,-84.1377
+CR,10604,San Gabriel,Provincia de San José,08,Aserrí,106,San Gabriel,10604,9.7861,-84.1101
+CR,10605,Legua,Provincia de San José,08,Aserrí,106,Legua,10605,9.6767,-84.1625
+CR,10606,Monterrey,Provincia de San José,08,Aserrí,106,Monterrey,10606,9.7568,-84.111
+CR,10607,Salitrillos,Provincia de San José,08,Aserrí,106,Salitrillos,10607,9.8446,-84.0828
+CR,10701,Colón,Provincia de San José,08,Mora,107,Colón,10701,9.9009,-84.256
+CR,10702,Guayabo,Provincia de San José,08,Mora,107,Guayabo,10702,9.8616,-84.2639
+CR,10703,Tabarcia,Provincia de San José,08,Mora,107,Tabarcia,10703,9.8486,-84.2192
+CR,10704,Piedras Negras,Provincia de San José,08,Mora,107,Piedras Negras,10704,9.8976,-84.3115
+CR,10705,Picagres,Provincia de San José,08,Mora,107,Picagres,10705,9.9094,-84.371
+CR,10801,Guadalupe,Provincia de San José,08,Goicoechea,108,Guadalupe,10801,9.9486,-84.0511
+CR,10802,San Francisco,Provincia de San José,08,Goicoechea,108,San Francisco,10802,9.9417,-84.0728
+CR,10803,Calle Blancos,Provincia de San José,08,Goicoechea,108,Calle Blancos,10803,9.9486,-84.0667
+CR,10804,Mata de Plátano,Provincia de San José,08,Goicoechea,108,Mata de Plátano,10804,9.9552,-83.9978
+CR,10805,Ipís,Provincia de San José,08,Goicoechea,108,Ipís,10805,9.9645,-84.0197
+CR,10806,Rancho Redondo,Provincia de San José,08,Goicoechea,108,Rancho Redondo,10806,9.9631,-83.9418
+CR,10807,Purral,Provincia de San José,08,Goicoechea,108,Purral,10807,9.9593,-84.0181
+CR,10901,Santa Ana,Provincia de San José,08,Santa Ana,109,Santa Ana,10901,9.931,-84.1759
+CR,10902,Salitral,Provincia de San José,08,Santa Ana,109,Salitral,10902,9.8922,-84.1705
+CR,10903,Pozos,Provincia de San José,08,Santa Ana,109,Pozos,10903,9.9526,-84.1919
+CR,10904,Uruca,Provincia de San José,08,Santa Ana,109,Uruca,10904,9.9269,-84.1952
+CR,10905,Piedades,Provincia de San José,08,Santa Ana,109,Piedades,10905,9.9174,-84.208
+CR,10906,Brasil,Provincia de San José,08,Santa Ana,109,Brasil,10906,9.9388,-84.2289
+CR,11001,Alajuelita,Provincia de San José,08,Alajuelita,110,Alajuelita,11001,9.9029,-84.1004
+CR,11002,San Josecito,Provincia de San José,08,Alajuelita,110,San Josecito,11002,9.8897,-84.1043
+CR,11003,San Antonio,Provincia de San José,08,Alajuelita,110,San Antonio,11003,9.874,-84.1238
+CR,11004,Concepción,Provincia de San José,08,Alajuelita,110,Concepción,11004,9.8896,-84.093
+CR,11005,San Felipe,Provincia de San José,08,Alajuelita,110,San Felipe,11005,9.9093,-84.1149
+CR,11101,San Isidro,Provincia de San José,08,Vázquez de Coronado,111,San Isidro,11101,9.9726,-83.9922
+CR,11102,San Rafael,Provincia de San José,08,Vázquez de Coronado,111,San Rafael,11102,9.9785,-83.9515
+CR,11103,Dulce Nombre de Jesús,Provincia de San José,08,Vázquez de Coronado,111,Dulce Nombre de Jesús,11103,10.0889,-83.9798
+CR,11104,Patalillo,Provincia de San José,08,Vázquez de Coronado,111,Patalillo,11104,9.9747,-84.0223
+CR,11105,Cascajal,Provincia de San José,08,Vázquez de Coronado,111,Cascajal,11105,10.0324,-83.9289
+CR,11201,San Ignacio,Provincia de San José,08,Acosta,112,San Ignacio,11201,9.7993,-84.1632
+CR,11202,Guaitil,Provincia de San José,08,Acosta,112,Guaitil,11202,9.7895,-84.2375
+CR,11203,Palmichal,Provincia de San José,08,Acosta,112,Palmichal,11203,9.8336,-84.177
+CR,11204,Cangrejal,Provincia de San José,08,Acosta,112,Cangrejal,11204,9.7439,-84.1898
+CR,11205,Sabanillas,Provincia de San José,08,Acosta,112,Sabanillas,11205,9.702,-84.2647
+CR,11301,San Juan,Provincia de San José,08,Tibás,113,San Juan,11301,9.9634,-84.076
+CR,11302,Cinco Esquinas,Provincia de San José,08,Tibás,113,Cinco Esquinas,11302,9.9465,-84.0823
+CR,11303,Anselmo Llorente,Provincia de San José,08,Tibás,113,Anselmo Llorente,11303,9.9567,-84.0704
+CR,11304,León XIII,Provincia de San José,08,Tibás,113,León XIII,11304,9.9599,-84.1007
+CR,11305,Colima,Provincia de San José,08,Tibás,113,Colima,11305,9.9554,-84.0891
+CR,11401,San Vicente,Provincia de San José,08,Moravia,114,San Vicente,11401,9.9636,-84.0486
+CR,11402,San Jerónimo,Provincia de San José,08,Moravia,114,San Jerónimo,11402,10.0313,-84.0055
+CR,11403,La Trinidad,Provincia de San José,08,Moravia,114,La Trinidad,11403,9.9809,-84.0342
+CR,11501,San Pedro,Provincia de San José,08,Montes de Oca,115,San Pedro,11501,9.9337,-84.046
+CR,11502,Sabanilla,Provincia de San José,08,Montes de Oca,115,Sabanilla,11502,9.9442,-84.0319
+CR,11503,Mercedes,Provincia de San José,08,Montes de Oca,115,Mercedes,11503,9.9424,-84.0489
+CR,11504,San Rafael,Provincia de San José,08,Montes de Oca,115,San Rafael,11504,9.9465,-83.9934
+CR,11601,San Pablo,Provincia de San José,08,Turrubares,116,San Pablo,11601,9.9073,-84.4508
+CR,11602,San Pedro,Provincia de San José,08,Turrubares,116,San Pedro,11602,9.8751,-84.4491
+CR,11603,San Juan de Mata,Provincia de San José,08,Turrubares,116,San Juan de Mata,11603,9.8242,-84.5248
+CR,11604,San Luis,Provincia de San José,08,Turrubares,116,San Luis,11604,9.8354,-84.4664
+CR,11605,Carara,Provincia de San José,08,Turrubares,116,Carara,11605,9.6819,-84.5245
+CR,11701,Santa María,Provincia de San José,08,Dota,117,Santa María,11701,9.5874,-83.9699
+CR,11702,Jardín,Provincia de San José,08,Dota,117,Jardín,11702,9.6926,-83.9513
+CR,11703,Copey,Provincia de San José,08,Dota,117,Copey,11703,9.5746,-83.8897
+CR,11801,Curridabat,Provincia de San José,08,Curridabat,118,Curridabat,11801,9.9165,-84.0374
+CR,11802,Granadilla,Provincia de San José,08,Curridabat,118,Granadilla,11802,9.9311,-84.0212
+CR,11803,Sánchez,Provincia de San José,08,Curridabat,118,Sánchez,11803,9.9146,-84.0179
+CR,11804,Tirrases,Provincia de San José,08,Curridabat,118,Tirrases,11804,9.9018,-84.033
+CR,11901,San Isidro de El General,Provincia de San José,08,Pérez Zeledón,119,San Isidro de El General,11901,9.3215,-83.7195
+CR,11902,El General,Provincia de San José,08,Pérez Zeledón,119,El General,11902,9.3721,-83.6273
+CR,11903,Daniel Flores,Provincia de San José,08,Pérez Zeledón,119,Daniel Flores,11903,9.3014,-83.6644
+CR,11904,Rivas,Provincia de San José,08,Pérez Zeledón,119,Rivas,11904,9.4842,-83.6045
+CR,11905,San Pedro,Provincia de San José,08,Pérez Zeledón,119,San Pedro,11905,9.3267,-83.5132
+CR,11906,Platanares,Provincia de San José,08,Pérez Zeledón,119,Platanares,11906,9.1995,-83.638
+CR,11907,Pejibaye,Provincia de San José,08,Pérez Zeledón,119,Pejibaye,11907,9.1542,-83.5492
+CR,11908,Cajón,Provincia de San José,08,Pérez Zeledón,119,Cajón,11908,9.3312,-83.5859
+CR,11909,Barú,Provincia de San José,08,Pérez Zeledón,119,Barú,11909,9.3199,-83.8181
+CR,11910,Río Nuevo,Provincia de San José,08,Pérez Zeledón,119,Río Nuevo,11910,9.4437,-83.8622
+CR,11911,Páramo,Provincia de San José,08,Pérez Zeledón,119,Páramo,11911,9.4984,-83.7561
+CR,12001,San Pablo,Provincia de San José,08,León Cortés,120,San Pablo,12001,9.6847,-84.0464
+CR,12002,San Andrés,Provincia de San José,08,León Cortés,120,San Andrés,12002,9.7223,-84.0782
+CR,12003,Llano Bonito,Provincia de San José,08,León Cortés,120,Llano Bonito,12003,9.6723,-84.1177
+CR,12004,San Isidro,Provincia de San José,08,León Cortés,120,San Isidro,12004,9.6771,-84.082
+CR,12005,Santa Cruz,Provincia de San José,08,León Cortés,120,Santa Cruz,12005,9.7253,-84.0129
+CR,12006,San Antonio,Provincia de San José,08,León Cortés,120,San Antonio,12006,9.7233,-84.0521
