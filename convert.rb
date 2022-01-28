@@ -3,7 +3,7 @@ require 'json'
 require 'fileutils'
 require 'csv'
 require 'builder'
-
+require 'zip'
 
 # download latest allCountries from gronames.org
 file_name = 'allCountries.txt'
@@ -31,47 +31,60 @@ countries = dataset.collect{|d| d[:country_code]}.uniq
 
 countries.each do |country|
   # make sure directory exists
-  FileUtils.mkdir_p "data/#{country}"
+  FileUtils.mkdir_p "data"
 
   # filter to country
   subset = dataset.select{|d| d[:country_code] == country}
 
-  # create json
-  File.open("data/#{country}/zipcodes.#{country.downcase}.json", "w") do |f|
-    f.puts(JSON.pretty_generate(subset))
-  end
+  zipname = "data/#{country}.zip"
+  File.delete(zipname) if File.exists?(zipname) #delete previous version
 
-  # create xml
-  xml_data = Builder::XmlMarkup.new( :indent => 2 )
-  xml_data.instruct! :xml, :encoding => "UTF-8"
-  xml_data.zipcodes do |zip|
-    subset.each do |x|
-      zip.object do |b| 
-        b.country_code(x[:country_code]); 
-        b.zipcode(x[:zipcode]); 
-        b.place(x[:place]); 
-        b.state(x[:state]); 
-        b.state_code(x[:state_code]); 
-        b.province(x[:province]); 
-        b.province_code(x[:province_code]); 
-        b.community(x[:community]); 
-        b.community_code(x[:community_code]); 
-        b.latitude(x[:latitude]); 
-        b.longitude(x[:longitude]); 
+  Zip::File.open(zipname, create: true) do |zipfile|
+    # json
+    zipfile.get_output_stream("zipcodes.#{country.downcase}.json") do |output_entry_stream| #Filename
+      output_entry_stream.write(JSON.pretty_generate(subset))            #generated content
+    end
+
+    # json
+    xml_data = Builder::XmlMarkup.new( :indent => 2 )
+    xml_data.instruct! :xml, :encoding => "UTF-8"
+    xml_data.zipcodes do |zip|
+      subset.each do |x|
+        zip.object do |b| 
+          b.country_code(x[:country_code]); 
+          b.zipcode(x[:zipcode]); 
+          b.place(x[:place]); 
+          b.state(x[:state]); 
+          b.state_code(x[:state_code]); 
+          b.province(x[:province]); 
+          b.province_code(x[:province_code]); 
+          b.community(x[:community]); 
+          b.community_code(x[:community_code]); 
+          b.latitude(x[:latitude]); 
+          b.longitude(x[:longitude]); 
+        end
       end
     end
-  end
-  File.write("data/#{country}/zipcodes.#{country.downcase}.xml", xml_data)
 
-  # create csv
-  column_names = dataset.first.keys
-  csv_data = CSV.generate do |csv|
-    csv << column_names
-    subset.each do |x|
-      csv << x.values
+    zipfile.get_output_stream("zipcodes.#{country.downcase}.xml") do |output_entry_stream| #Filename
+      output_entry_stream.write(xml_data)            #generated content
     end
-  end
-  File.write("data/#{country}/zipcodes.#{country.downcase}.csv", csv_data)
+
+    
+    # csv
+    column_names = dataset.first.keys
+    csv_data = CSV.generate do |csv|
+      csv << column_names
+      subset.each do |x|
+        csv << x.values
+      end
+    end
+
+    zipfile.get_output_stream("zipcodes.#{country.downcase}.csv") do |output_entry_stream| #Filename
+      output_entry_stream.write(csv_data)            #generated content
+    end
+
+  end  
 
   puts "- #{country} (#{subset.length})" 
 end
