@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>MH</country_code>
+    <zipcode>96960</zipcode>
+    <place>Majuro</place>
+    <state>Marshall Islands</state>
+    <state_code>68</state_code>
+    <province>Ailinginae</province>
+    <province_code>007</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>11.1405</latitude>
+    <longitude>166.4103</longitude>
+  </object>
+  <object>
+    <country_code>MH</country_code>
+    <zipcode>96970</zipcode>
+    <place>Ebeye</place>
+    <state>Marshall Islands</state>
+    <state_code>68</state_code>
+    <province>Ailinginae</province>
+    <province_code>007</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>11.1405</latitude>
+    <longitude>166.4103</longitude>
+  </object>
+</zipcodes>
+<to_s/>

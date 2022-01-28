@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>MP</country_code>
+    <zipcode>96951</zipcode>
+    <place>Rota</place>
+    <state>Rota</state>
+    <state_code>100</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>14.154</latitude>
+    <longitude>145.201</longitude>
+  </object>
+  <object>
+    <country_code>MP</country_code>
+    <zipcode>96950</zipcode>
+    <place>Saipan</place>
+    <state>Saipan</state>
+    <state_code>110</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>15.1685</latitude>
+    <longitude>145.7408</longitude>
+  </object>
+  <object>
+    <country_code>MP</country_code>
+    <zipcode>96952</zipcode>
+    <place>Tinian</place>
+    <state>Tinian</state>
+    <state_code>120</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>15.029</latitude>
+    <longitude>145.616</longitude>
+  </object>
+</zipcodes>
+<to_s/>

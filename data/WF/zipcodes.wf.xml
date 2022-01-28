@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>WF</country_code>
+    <zipcode>98610</zipcode>
+    <place>Alo</place>
+    <state>Circonscription d'Alo</state>
+    <state_code>98611</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.3066</latitude>
+    <longitude>-178.1188</longitude>
+  </object>
+  <object>
+    <country_code>WF</country_code>
+    <zipcode>98620</zipcode>
+    <place>Sigave</place>
+    <state>Circonscription de Sigave</state>
+    <state_code>98612</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.2667</latitude>
+    <longitude>-178.1667</longitude>
+  </object>
+  <object>
+    <country_code>WF</country_code>
+    <zipcode>98600</zipcode>
+    <place>Uvéa</place>
+    <state>Circonscription d'Uvéa</state>
+    <state_code>98613</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2988</latitude>
+    <longitude>-176.2205</longitude>
+  </object>
+</zipcodes>
+<to_s/>

@@ -1,0 +1,4502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2340000</zipcode>
+    <place>Valparaíso</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Valparaíso</community>
+    <community_code>05101</community_code>
+    <latitude>-33.1298</latitude>
+    <longitude>-71.5735</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2480000</zipcode>
+    <place>Casablanca</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Casablanca</community>
+    <community_code>05102</community_code>
+    <latitude>-33.3158</latitude>
+    <longitude>-71.4353</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2490000</zipcode>
+    <place>Quintero</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Quintero</community>
+    <community_code>05107</community_code>
+    <latitude>-32.843</latitude>
+    <longitude>-71.4738</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2500000</zipcode>
+    <place>Puchuncaví</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Puchuncaví</community>
+    <community_code>05105</community_code>
+    <latitude>-32.7176</latitude>
+    <longitude>-71.4111</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2510000</zipcode>
+    <place>Concón</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Concón</community>
+    <community_code>05103</community_code>
+    <latitude>-32.9534</latitude>
+    <longitude>-71.4678</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2520000</zipcode>
+    <place>Viña Del Mar</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Viña Del Mar</community>
+    <community_code>05109</community_code>
+    <latitude>-33.0288</latitude>
+    <longitude>-71.5159</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2600000</zipcode>
+    <place>Juan Fernández</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Valparaíso</province>
+    <province_code>51</province_code>
+    <community>Juan Fernández</community>
+    <community_code>05104</community_code>
+    <latitude>-33.6387</latitude>
+    <longitude>-78.8583</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2770000</zipcode>
+    <place>Isla De Pascua</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Isla de Pascua</province>
+    <province_code>52</province_code>
+    <community>Isla De Pascua</community>
+    <community_code>05201</community_code>
+    <latitude>-27.1288</latitude>
+    <longitude>-109.36</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2100000</zipcode>
+    <place>Los Andes</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Los Andes</province>
+    <province_code>53</province_code>
+    <community>Los Andes</community>
+    <community_code>05301</community_code>
+    <latitude>-32.9503</latitude>
+    <longitude>-70.2398</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2120000</zipcode>
+    <place>San Esteban</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Los Andes</province>
+    <province_code>53</province_code>
+    <community>San Esteban</community>
+    <community_code>05304</community_code>
+    <latitude>-32.6859</latitude>
+    <longitude>-70.3484</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2130000</zipcode>
+    <place>Calle Larga</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Los Andes</province>
+    <province_code>53</province_code>
+    <community>Calle Larga</community>
+    <community_code>05302</community_code>
+    <latitude>-32.9504</latitude>
+    <longitude>-70.545</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2140000</zipcode>
+    <place>Rinconada</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Los Andes</province>
+    <province_code>53</province_code>
+    <community>Rinconada</community>
+    <community_code>05303</community_code>
+    <latitude>-32.876</latitude>
+    <longitude>-70.7068</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2030000</zipcode>
+    <place>La Ligua</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Petorca Province</province>
+    <province_code>54</province_code>
+    <community>La Ligua</community>
+    <community_code>05401</community_code>
+    <latitude>-32.3537</latitude>
+    <longitude>-71.2721</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2040000</zipcode>
+    <place>Petorca</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Petorca Province</province>
+    <province_code>54</province_code>
+    <community>Petorca</community>
+    <community_code>05404</community_code>
+    <latitude>-32.1903</latitude>
+    <longitude>-70.8704</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2050000</zipcode>
+    <place>Cabildo</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Petorca Province</province>
+    <province_code>54</province_code>
+    <community>Cabildo</community>
+    <community_code>05402</community_code>
+    <latitude>-32.4174</latitude>
+    <longitude>-70.8243</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2060000</zipcode>
+    <place>Zapallar</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Petorca Province</province>
+    <province_code>54</province_code>
+    <community>Zapallar</community>
+    <community_code>05405</community_code>
+    <latitude>-32.5549</latitude>
+    <longitude>-71.4547</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2070000</zipcode>
+    <place>Papudo</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Petorca Province</province>
+    <province_code>54</province_code>
+    <community>Papudo</community>
+    <community_code>05403</community_code>
+    <latitude>-32.5075</latitude>
+    <longitude>-71.4431</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2260000</zipcode>
+    <place>Quillota</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Quillota</province>
+    <province_code>55</province_code>
+    <community>Quillota</community>
+    <community_code>05501</community_code>
+    <latitude>-32.9046</latitude>
+    <longitude>-71.273</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2280000</zipcode>
+    <place>La Cruz</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Quillota</province>
+    <province_code>55</province_code>
+    <community>La Cruz</community>
+    <community_code>05504</community_code>
+    <latitude>-32.8251</latitude>
+    <longitude>-71.2413</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2290000</zipcode>
+    <place>Calera</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Quillota</province>
+    <province_code>55</province_code>
+    <community>Calera</community>
+    <community_code>05502</community_code>
+    <latitude>-32.8077</latitude>
+    <longitude>-71.1881</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2300000</zipcode>
+    <place>Nogales</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Quillota</province>
+    <province_code>55</province_code>
+    <community>Nogales</community>
+    <community_code>05506</community_code>
+    <latitude>-32.6915</latitude>
+    <longitude>-71.1768</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2310000</zipcode>
+    <place>Hijuelas</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Quillota</province>
+    <province_code>55</province_code>
+    <community>Hijuelas</community>
+    <community_code>05503</community_code>
+    <latitude>-32.8693</latitude>
+    <longitude>-71.0816</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2660000</zipcode>
+    <place>San Antonio</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>San Antonio Province</province>
+    <province_code>56</province_code>
+    <community>San Antonio</community>
+    <community_code>05601</community_code>
+    <latitude>-33.571</latitude>
+    <longitude>-71.6096</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2680000</zipcode>
+    <place>Cartagena</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>San Antonio Province</province>
+    <province_code>56</province_code>
+    <community>Cartagena</community>
+    <community_code>05603</community_code>
+    <latitude>-33.5338</latitude>
+    <longitude>-71.4424</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2690000</zipcode>
+    <place>El Tabo</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>San Antonio Province</province>
+    <province_code>56</province_code>
+    <community>El Tabo</community>
+    <community_code>05605</community_code>
+    <latitude>-33.4586</latitude>
+    <longitude>-71.6619</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2700000</zipcode>
+    <place>El Quisco</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>San Antonio Province</province>
+    <province_code>56</province_code>
+    <community>El Quisco</community>
+    <community_code>05604</community_code>
+    <latitude>-33.4161</latitude>
+    <longitude>-71.6512</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2710000</zipcode>
+    <place>Algarrobo</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>San Antonio Province</province>
+    <province_code>56</province_code>
+    <community>Algarrobo</community>
+    <community_code>05602</community_code>
+    <latitude>-33.33</latitude>
+    <longitude>-71.6005</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2720000</zipcode>
+    <place>Santo Domingo</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>San Antonio Province</province>
+    <province_code>56</province_code>
+    <community>Santo Domingo</community>
+    <community_code>05606</community_code>
+    <latitude>-33.8093</latitude>
+    <longitude>-71.6766</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2170000</zipcode>
+    <place>San Felipe</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de San Felipe de Aconcagua</province>
+    <province_code>57</province_code>
+    <community>San Felipe</community>
+    <community_code>05701</community_code>
+    <latitude>-32.7364</latitude>
+    <longitude>-70.7537</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2190000</zipcode>
+    <place>Putaendo</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de San Felipe de Aconcagua</province>
+    <province_code>57</province_code>
+    <community>Putaendo</community>
+    <community_code>05705</community_code>
+    <latitude>-32.4808</latitude>
+    <longitude>-70.5214</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2200000</zipcode>
+    <place>Santa María</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de San Felipe de Aconcagua</province>
+    <province_code>57</province_code>
+    <community>Santa María</community>
+    <community_code>05706</community_code>
+    <latitude>-32.6855</latitude>
+    <longitude>-70.6103</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2210000</zipcode>
+    <place>Panquehue</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de San Felipe de Aconcagua</province>
+    <province_code>57</province_code>
+    <community>Panquehue</community>
+    <community_code>05704</community_code>
+    <latitude>-32.7938</latitude>
+    <longitude>-70.829</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2220000</zipcode>
+    <place>Llaillay</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de San Felipe de Aconcagua</province>
+    <province_code>57</province_code>
+    <community>Llaillay</community>
+    <community_code>05703</community_code>
+    <latitude>-32.8879</latitude>
+    <longitude>-70.9024</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2230000</zipcode>
+    <place>Catemu</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de San Felipe de Aconcagua</province>
+    <province_code>57</province_code>
+    <community>Catemu</community>
+    <community_code>05702</community_code>
+    <latitude>-32.7073</latitude>
+    <longitude>-70.9452</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2240000</zipcode>
+    <place>Limache</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Marga Marga</province>
+    <province_code>58</province_code>
+    <community>Limache</community>
+    <community_code>05802</community_code>
+    <latitude>-33.0309</latitude>
+    <longitude>-71.2793</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2330000</zipcode>
+    <place>Olmué</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Marga Marga</province>
+    <province_code>58</province_code>
+    <community>Olmué</community>
+    <community_code>05803</community_code>
+    <latitude>-33.0358</latitude>
+    <longitude>-71.1107</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2430000</zipcode>
+    <place>Quilpue</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Marga Marga</province>
+    <province_code>58</province_code>
+    <community>Quilpue</community>
+    <community_code>05801</community_code>
+    <latitude>-33.1473</latitude>
+    <longitude>-71.2543</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6500000</zipcode>
+    <place>Villa Alemana</place>
+    <state>Región de Valparaíso</state>
+    <state_code>01</state_code>
+    <province>Provincia de Marga Marga</province>
+    <province_code>58</province_code>
+    <community>Villa Alemana</community>
+    <community_code>05804</community_code>
+    <latitude>-33.0679</latitude>
+    <longitude>-71.3305</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5950000</zipcode>
+    <place>Coyhaique</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia de Coyhaique</province>
+    <province_code>111</province_code>
+    <community>Coyhaique</community>
+    <community_code>11101</community_code>
+    <latitude>-45.5539</latitude>
+    <longitude>-71.9913</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5960000</zipcode>
+    <place>Lago Verde</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia de Coyhaique</province>
+    <province_code>111</province_code>
+    <community>Lago Verde</community>
+    <community_code>11102</community_code>
+    <latitude>-44.4923</latitude>
+    <longitude>-71.8323</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6000000</zipcode>
+    <place>Aysén</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia de Aisén</province>
+    <province_code>112</province_code>
+    <community>Aysén</community>
+    <community_code>11201</community_code>
+    <latitude>-45.9887</latitude>
+    <longitude>-73.7735</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6010000</zipcode>
+    <place>Cisnes</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia de Aisén</province>
+    <province_code>112</province_code>
+    <community>Cisnes</community>
+    <community_code>11202</community_code>
+    <latitude>-44.4577</latitude>
+    <longitude>-73.1374</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6020000</zipcode>
+    <place>Guaitecas</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia de Aisén</province>
+    <province_code>112</province_code>
+    <community>Guaitecas</community>
+    <community_code>11203</community_code>
+    <latitude>-43.8665</latitude>
+    <longitude>-74.0516</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6100000</zipcode>
+    <place>Cochrane</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia Capitán Prat</province>
+    <province_code>113</province_code>
+    <community>Cochrane</community>
+    <community_code>11301</community_code>
+    <latitude>-47.3601</latitude>
+    <longitude>-72.7418</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6110000</zipcode>
+    <place>O’Higgins</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia Capitán Prat</province>
+    <province_code>113</province_code>
+    <community>O’Higgins</community>
+    <community_code>11302</community_code>
+    <latitude>-48.4862</latitude>
+    <longitude>-72.9106</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6120000</zipcode>
+    <place>Tortel</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia Capitán Prat</province>
+    <province_code>113</province_code>
+    <community>Tortel</community>
+    <community_code>11303</community_code>
+    <latitude>-48.0271</latitude>
+    <longitude>-74.1592</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6050000</zipcode>
+    <place>Chile Chico</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia General Carrera</province>
+    <province_code>114</province_code>
+    <community>Chile Chico</community>
+    <community_code>11401</community_code>
+    <latitude>-46.7668</latitude>
+    <longitude>-72.5847</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6060000</zipcode>
+    <place>Río Ibanez</place>
+    <state>Región Aysén</state>
+    <state_code>02</state_code>
+    <province>Provincia General Carrera</province>
+    <province_code>114</province_code>
+    <community>Río Ibanez</community>
+    <community_code>11402</community_code>
+    <latitude>-46.2993</latitude>
+    <longitude>-72.4866</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1240000</zipcode>
+    <place>Antofagasta</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de Antofagasta</province>
+    <province_code>21</province_code>
+    <community>Antofagasta</community>
+    <community_code>02101</community_code>
+    <latitude>-24.2739</latitude>
+    <longitude>-69.4097</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1300000</zipcode>
+    <place>Taltal</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de Antofagasta</province>
+    <province_code>21</province_code>
+    <community>Taltal</community>
+    <community_code>02104</community_code>
+    <latitude>-25.3136</latitude>
+    <longitude>-69.8657</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1310000</zipcode>
+    <place>Mejillones</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de Antofagasta</province>
+    <province_code>21</province_code>
+    <community>Mejillones</community>
+    <community_code>02102</community_code>
+    <latitude>-22.936</latitude>
+    <longitude>-70.1986</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1320000</zipcode>
+    <place>Sierra Gorda</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de Antofagasta</province>
+    <province_code>21</province_code>
+    <community>Sierra Gorda</community>
+    <community_code>02103</community_code>
+    <latitude>-23.2542</latitude>
+    <longitude>-69.3072</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1390000</zipcode>
+    <place>Calama</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de El Loa</province>
+    <province_code>22</province_code>
+    <community>Calama</community>
+    <community_code>02201</community_code>
+    <latitude>-22.1639</latitude>
+    <longitude>-68.6295</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1410000</zipcode>
+    <place>San Pedro De Atacama</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de El Loa</province>
+    <province_code>22</province_code>
+    <community>San Pedro De Atacama</community>
+    <community_code>02203</community_code>
+    <latitude>-23.4011</latitude>
+    <longitude>-67.9111</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1420000</zipcode>
+    <place>Ollague</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de El Loa</province>
+    <province_code>22</province_code>
+    <community>Ollague</community>
+    <community_code>02202</community_code>
+    <latitude>-21.4566</latitude>
+    <longitude>-68.3134</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1340000</zipcode>
+    <place>Tocopilla</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de Tocopilla</province>
+    <province_code>23</province_code>
+    <community>Tocopilla</community>
+    <community_code>02301</community_code>
+    <latitude>-22.002</latitude>
+    <longitude>-70.0146</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1360000</zipcode>
+    <place>María Elena</place>
+    <state>Región de Antofagasta</state>
+    <state_code>03</state_code>
+    <province>Provincia de Tocopilla</province>
+    <province_code>23</province_code>
+    <community>María Elena</community>
+    <community_code>02302</community_code>
+    <latitude>-22.0904</latitude>
+    <longitude>-69.4613</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4780000</zipcode>
+    <place>Temuco</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Temuco</community>
+    <community_code>09101</community_code>
+    <latitude>-38.6731</latitude>
+    <longitude>-72.6633</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4850000</zipcode>
+    <place>Padre Las Casas</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Padre Las Casas</community>
+    <community_code>09112</community_code>
+    <latitude>-38.792</latitude>
+    <longitude>-72.5792</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4860000</zipcode>
+    <place>Lautaro</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Lautaro</community>
+    <community_code>09108</community_code>
+    <latitude>-38.5432</latitude>
+    <longitude>-72.2894</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4870000</zipcode>
+    <place>Perquenco</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Perquenco</community>
+    <community_code>09113</community_code>
+    <latitude>-38.4283</latitude>
+    <longitude>-72.4365</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4880000</zipcode>
+    <place>Vilcún</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Vilcún</community>
+    <community_code>09119</community_code>
+    <latitude>-38.7047</latitude>
+    <longitude>-72.1136</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4890000</zipcode>
+    <place>Cunco</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Cunco</community>
+    <community_code>09103</community_code>
+    <latitude>-38.977</latitude>
+    <longitude>-71.9917</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4900000</zipcode>
+    <place>Melipeuco</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Melipeuco</community>
+    <community_code>09110</community_code>
+    <latitude>-38.8248</latitude>
+    <longitude>-71.611</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4910000</zipcode>
+    <place>Curarrehue</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Curarrehue</community>
+    <community_code>09104</community_code>
+    <latitude>-39.3358</latitude>
+    <longitude>-71.5393</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4920000</zipcode>
+    <place>Pucón</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Pucón</community>
+    <community_code>09115</community_code>
+    <latitude>-39.2702</latitude>
+    <longitude>-71.7905</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4930000</zipcode>
+    <place>Villarrica</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Villarrica</community>
+    <community_code>09120</community_code>
+    <latitude>-39.3009</latitude>
+    <longitude>-72.1822</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4940000</zipcode>
+    <place>Freire</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Freire</community>
+    <community_code>09105</community_code>
+    <latitude>-38.9496</latitude>
+    <longitude>-72.5758</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4950000</zipcode>
+    <place>Pitrufquén</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Pitrufquén</community>
+    <community_code>09114</community_code>
+    <latitude>-39.105</latitude>
+    <longitude>-72.9019</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4960000</zipcode>
+    <place>Gorbea</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Gorbea</community>
+    <community_code>09107</community_code>
+    <latitude>-39.1717</latitude>
+    <longitude>-72.6692</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4970000</zipcode>
+    <place>Loncoche</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Loncoche</community>
+    <community_code>09109</community_code>
+    <latitude>-39.3561</latitude>
+    <longitude>-72.5825</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4980000</zipcode>
+    <place>Toltén</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Toltén</community>
+    <community_code>09118</community_code>
+    <latitude>-39.2121</latitude>
+    <longitude>-73.0784</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4990000</zipcode>
+    <place>Teodoro Schmidt</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Teodoro Schmidt</community>
+    <community_code>09117</community_code>
+    <latitude>-38.9848</latitude>
+    <longitude>-73.1147</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5000000</zipcode>
+    <place>Saavedra</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Saavedra</community>
+    <community_code>09116</community_code>
+    <latitude>-38.8325</latitude>
+    <longitude>-73.2955</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5010000</zipcode>
+    <place>Carahue</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Carahue</community>
+    <community_code>09102</community_code>
+    <latitude>-38.6109</latitude>
+    <longitude>-73.2698</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5020000</zipcode>
+    <place>Nueva Imperial</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Nueva Imperial</community>
+    <community_code>09111</community_code>
+    <latitude>-38.7509</latitude>
+    <longitude>-72.9725</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5030000</zipcode>
+    <place>Galvarino</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Galvarino</community>
+    <community_code>09106</community_code>
+    <latitude>-38.4479</latitude>
+    <longitude>-72.7912</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5040000</zipcode>
+    <place>Chol Chol</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Cautín</province>
+    <province_code>91</province_code>
+    <community>Chol Chol</community>
+    <community_code>09121</community_code>
+    <latitude>-38.5832</latitude>
+    <longitude>-72.9019</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4650000</zipcode>
+    <place>Angol</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Angol</community>
+    <community_code>09201</community_code>
+    <latitude>-37.769</latitude>
+    <longitude>-72.7954</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4670000</zipcode>
+    <place>Renaico</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Renaico</community>
+    <community_code>09209</community_code>
+    <latitude>-37.7178</latitude>
+    <longitude>-72.5757</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4680000</zipcode>
+    <place>Collipulli</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Collipulli</community>
+    <community_code>09202</community_code>
+    <latitude>-38.0318</latitude>
+    <longitude>-72.1152</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4690000</zipcode>
+    <place>Lonquimay</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Lonquimay</community>
+    <community_code>09205</community_code>
+    <latitude>-38.4747</latitude>
+    <longitude>-71.2392</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4700000</zipcode>
+    <place>Curacautín</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Curacautín</community>
+    <community_code>09203</community_code>
+    <latitude>-38.4326</latitude>
+    <longitude>-71.7711</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4710000</zipcode>
+    <place>Ercilla</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Ercilla</community>
+    <community_code>09204</community_code>
+    <latitude>-38.0828</latitude>
+    <longitude>-72.3535</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4720000</zipcode>
+    <place>Victoria</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Victoria</community>
+    <community_code>09211</community_code>
+    <latitude>-38.2805</latitude>
+    <longitude>-72.234</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4730000</zipcode>
+    <place>Traiguén</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Traiguén</community>
+    <community_code>09210</community_code>
+    <latitude>-38.2471</latitude>
+    <longitude>-72.6551</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4740000</zipcode>
+    <place>Lumaco</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Lumaco</community>
+    <community_code>09207</community_code>
+    <latitude>-38.2871</latitude>
+    <longitude>-73.0459</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4750000</zipcode>
+    <place>Purén</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Purén</community>
+    <community_code>09208</community_code>
+    <latitude>-38.0121</latitude>
+    <longitude>-73.0504</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4760000</zipcode>
+    <place>Los Sauces</place>
+    <state>Región de la Araucanía</state>
+    <state_code>04</state_code>
+    <province>Provincia de Malleco</province>
+    <province_code>92</province_code>
+    <community>Los Sauces</community>
+    <community_code>09206</community_code>
+    <latitude>-37.9831</latitude>
+    <longitude>-72.7968</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1530000</zipcode>
+    <place>Copiapó</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Copiapó</province>
+    <province_code>31</province_code>
+    <community>Copiapó</community>
+    <community_code>03101</community_code>
+    <latitude>-27.3202</latitude>
+    <longitude>-69.8277</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1570000</zipcode>
+    <place>Caldera</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Copiapó</province>
+    <province_code>31</province_code>
+    <community>Caldera</community>
+    <community_code>03102</community_code>
+    <latitude>-27.1423</latitude>
+    <longitude>-70.6837</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1580000</zipcode>
+    <place>Tierra Amarilla</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Copiapó</province>
+    <province_code>31</province_code>
+    <community>Tierra Amarilla</community>
+    <community_code>03103</community_code>
+    <latitude>-27.8657</latitude>
+    <longitude>-69.672</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1490000</zipcode>
+    <place>Chañaral</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Chañaral</province>
+    <province_code>32</province_code>
+    <community>Chañaral</community>
+    <community_code>03201</community_code>
+    <latitude>-26.3737</latitude>
+    <longitude>-70.3383</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1500000</zipcode>
+    <place>Diego De Almagro</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Chañaral</province>
+    <province_code>32</province_code>
+    <community>Diego De Almagro</community>
+    <community_code>03202</community_code>
+    <latitude>-26.2373</latitude>
+    <longitude>-69.1873</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1610000</zipcode>
+    <place>Vallenar</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Huasco</province>
+    <province_code>33</province_code>
+    <community>Vallenar</community>
+    <community_code>03301</community_code>
+    <latitude>-28.5948</latitude>
+    <longitude>-70.6025</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1630000</zipcode>
+    <place>Freirina</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Huasco</province>
+    <province_code>33</province_code>
+    <community>Freirina</community>
+    <community_code>03303</community_code>
+    <latitude>-28.8442</latitude>
+    <longitude>-71.1954</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1640000</zipcode>
+    <place>Huasco</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Huasco</province>
+    <province_code>33</province_code>
+    <community>Huasco</community>
+    <community_code>03304</community_code>
+    <latitude>-28.2584</latitude>
+    <longitude>-71.0178</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1650000</zipcode>
+    <place>Alto Del Carmen</place>
+    <state>Región de Atacama</state>
+    <state_code>05</state_code>
+    <province>Provincia de Huasco</province>
+    <province_code>33</province_code>
+    <community>Alto Del Carmen</community>
+    <community_code>03302</community_code>
+    <latitude>-28.9936</latitude>
+    <longitude>-70.153</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4030000</zipcode>
+    <place>Concepción</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Concepción</community>
+    <community_code>08101</community_code>
+    <latitude>-36.82</latitude>
+    <longitude>-73.0445</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4100000</zipcode>
+    <place>Chiguayante</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Chiguayante</community>
+    <community_code>08103</community_code>
+    <latitude>-36.9008</latitude>
+    <longitude>-73.005</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4130000</zipcode>
+    <place>San Pedro De La Paz</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>San Pedro De La Paz</community>
+    <community_code>08108</community_code>
+    <latitude>-36.8408</latitude>
+    <longitude>-73.1031</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4150000</zipcode>
+    <place>Penco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Penco</community>
+    <community_code>08107</community_code>
+    <latitude>-36.7484</latitude>
+    <longitude>-72.9437</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4160000</zipcode>
+    <place>Tomé</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Tomé</community>
+    <community_code>08111</community_code>
+    <latitude>-36.6171</latitude>
+    <longitude>-72.858</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4170000</zipcode>
+    <place>Florida</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Florida</community>
+    <community_code>08104</community_code>
+    <latitude>-36.8224</latitude>
+    <longitude>-72.7177</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4180000</zipcode>
+    <place>Hualqui</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Hualqui</community>
+    <community_code>08105</community_code>
+    <latitude>-37.0447</latitude>
+    <longitude>-72.8704</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4190000</zipcode>
+    <place>Coronel</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Coronel</community>
+    <community_code>08102</community_code>
+    <latitude>-37.007</latitude>
+    <longitude>-73.1252</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4210000</zipcode>
+    <place>Lota</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Lota</community>
+    <community_code>08106</community_code>
+    <latitude>-37.1195</latitude>
+    <longitude>-73.1049</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4230000</zipcode>
+    <place>Santa Juana</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Santa Juana</community>
+    <community_code>08109</community_code>
+    <latitude>-37.2764</latitude>
+    <longitude>-72.9598</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4260000</zipcode>
+    <place>Talcahuano</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Talcahuano</community>
+    <community_code>08110</community_code>
+    <latitude>-36.7434</latitude>
+    <longitude>-73.0982</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4600000</zipcode>
+    <place>Hualpén</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Concepción</province>
+    <province_code>81</province_code>
+    <community>Hualpén</community>
+    <community_code>08112</community_code>
+    <latitude>-36.7869</latitude>
+    <longitude>-73.1052</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4350000</zipcode>
+    <place>Lebu</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Lebu</community>
+    <community_code>08201</community_code>
+    <latitude>-37.6778</latitude>
+    <longitude>-73.5906</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4360000</zipcode>
+    <place>Arauco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Arauco</community>
+    <community_code>08202</community_code>
+    <latitude>-37.2886</latitude>
+    <longitude>-73.3994</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4370000</zipcode>
+    <place>Curanilahue</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Curanilahue</community>
+    <community_code>08205</community_code>
+    <latitude>-37.483</latitude>
+    <longitude>-73.2351</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4380000</zipcode>
+    <place>Los Alamos</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Los Alamos</community>
+    <community_code>08206</community_code>
+    <latitude>-37.6736</latitude>
+    <longitude>-73.3569</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4390000</zipcode>
+    <place>Canete</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Canete</community>
+    <community_code>08203</community_code>
+    <latitude>-37.8741</latitude>
+    <longitude>-73.3177</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4400000</zipcode>
+    <place>Contulmo</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Contulmo</community>
+    <community_code>08204</community_code>
+    <latitude>-38.0527</latitude>
+    <longitude>-73.2124</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4410000</zipcode>
+    <place>Tirua</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Arauco</province>
+    <province_code>82</province_code>
+    <community>Tirua</community>
+    <community_code>08207</community_code>
+    <latitude>-38.2975</latitude>
+    <longitude>-73.3957</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4440000</zipcode>
+    <place>Los Angeles</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Los Angeles</community>
+    <community_code>08301</community_code>
+    <latitude>-37.4079</latitude>
+    <longitude>-72.3277</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4470000</zipcode>
+    <place>Cabrero</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Cabrero</community>
+    <community_code>08303</community_code>
+    <latitude>-37.0621</latitude>
+    <longitude>-72.3814</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4480000</zipcode>
+    <place>Tucapel</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Tucapel</community>
+    <community_code>08312</community_code>
+    <latitude>-37.2253</latitude>
+    <longitude>-71.7455</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4490000</zipcode>
+    <place>Antuco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Antuco</community>
+    <community_code>08302</community_code>
+    <latitude>-37.3277</latitude>
+    <longitude>-71.3666</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4500000</zipcode>
+    <place>Quilleco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Quilleco</community>
+    <community_code>08309</community_code>
+    <latitude>-37.4368</latitude>
+    <longitude>-71.8614</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4510000</zipcode>
+    <place>Santa Bárbara</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Santa Bárbara</community>
+    <community_code>08311</community_code>
+    <latitude>-37.623</latitude>
+    <longitude>-71.7492</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4520000</zipcode>
+    <place>Quilaco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Quilaco</community>
+    <community_code>08308</community_code>
+    <latitude>-37.982</latitude>
+    <longitude>-71.5973</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4530000</zipcode>
+    <place>Mulchén</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Mulchén</community>
+    <community_code>08305</community_code>
+    <latitude>-37.8384</latitude>
+    <longitude>-72.0972</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4540000</zipcode>
+    <place>Negrete</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Negrete</community>
+    <community_code>08307</community_code>
+    <latitude>-37.6083</latitude>
+    <longitude>-72.5766</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4550000</zipcode>
+    <place>Nacimiento</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Nacimiento</community>
+    <community_code>08306</community_code>
+    <latitude>-37.4856</latitude>
+    <longitude>-72.8236</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4560000</zipcode>
+    <place>Laja</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Laja</community>
+    <community_code>08304</community_code>
+    <latitude>-37.3125</latitude>
+    <longitude>-72.5825</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4570000</zipcode>
+    <place>San Rosendo</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>San Rosendo</community>
+    <community_code>08310</community_code>
+    <latitude>-37.213</latitude>
+    <longitude>-72.7211</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4580000</zipcode>
+    <place>Yumbel</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Yumbel</community>
+    <community_code>08313</community_code>
+    <latitude>-37.0884</latitude>
+    <longitude>-72.616</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4590000</zipcode>
+    <place>Alto Biobío</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Biobío</province>
+    <province_code>83</province_code>
+    <community>Alto Biobío</community>
+    <community_code>08314</community_code>
+    <latitude>-37.8654</latitude>
+    <longitude>-71.3474</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3780000</zipcode>
+    <place>Chillán</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Chillán</community>
+    <community_code>08401</community_code>
+    <latitude>-36.6288</latitude>
+    <longitude>-72.0496</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3820000</zipcode>
+    <place>Chillán Viejo</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Chillán Viejo</community>
+    <community_code>08406</community_code>
+    <latitude>-36.6803</latitude>
+    <longitude>-72.199</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3840000</zipcode>
+    <place>San Carlos</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>San Carlos</community>
+    <community_code>08416</community_code>
+    <latitude>-36.3856</latitude>
+    <longitude>-72.0186</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3850000</zipcode>
+    <place>Niquén</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Niquén</community>
+    <community_code>08409</community_code>
+    <latitude>-36.3024</latitude>
+    <longitude>-71.8974</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3860000</zipcode>
+    <place>San Fabián</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>San Fabián</community>
+    <community_code>08417</community_code>
+    <latitude>-36.5799</latitude>
+    <longitude>-71.2874</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3870000</zipcode>
+    <place>Coihueco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Coihueco</community>
+    <community_code>08405</community_code>
+    <latitude>-36.7021</latitude>
+    <longitude>-71.5811</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3880000</zipcode>
+    <place>Pinto</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Pinto</community>
+    <community_code>08411</community_code>
+    <latitude>-36.9214</latitude>
+    <longitude>-71.4994</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3890000</zipcode>
+    <place>San Ignacio</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>San Ignacio</community>
+    <community_code>08418</community_code>
+    <latitude>-36.8225</latitude>
+    <longitude>-72.0298</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3900000</zipcode>
+    <place>El Carmen</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>El Carmen</community>
+    <community_code>08407</community_code>
+    <latitude>-36.9251</latitude>
+    <longitude>-71.8469</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3910000</zipcode>
+    <place>Pemuco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Pemuco</community>
+    <community_code>08410</community_code>
+    <latitude>-36.9829</latitude>
+    <longitude>-72.0675</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3920000</zipcode>
+    <place>Yungay</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Yungay</community>
+    <community_code>08421</community_code>
+    <latitude>-37.1044</latitude>
+    <longitude>-71.9308</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3930000</zipcode>
+    <place>Bulnes</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Bulnes</community>
+    <community_code>08402</community_code>
+    <latitude>-36.7905</latitude>
+    <longitude>-72.2901</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3940000</zipcode>
+    <place>Quillón</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Quillón</community>
+    <community_code>08413</community_code>
+    <latitude>-36.8186</latitude>
+    <longitude>-72.5017</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3950000</zipcode>
+    <place>Ranquil</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Ranquil</community>
+    <community_code>08415</community_code>
+    <latitude>-36.6406</latitude>
+    <longitude>-72.5878</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3960000</zipcode>
+    <place>Portezuelo</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Portezuelo</community>
+    <community_code>08412</community_code>
+    <latitude>-36.5464</latitude>
+    <longitude>-72.4665</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3970000</zipcode>
+    <place>Coelemu</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Coelemu</community>
+    <community_code>08404</community_code>
+    <latitude>-36.5051</latitude>
+    <longitude>-72.7503</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3980000</zipcode>
+    <place>Treguaco</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Treguaco</community>
+    <community_code>08420</community_code>
+    <latitude>-36.4281</latitude>
+    <longitude>-72.6595</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3990000</zipcode>
+    <place>Cobquecura</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Cobquecura</community>
+    <community_code>08403</community_code>
+    <latitude>-36.1811</latitude>
+    <longitude>-72.721</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4000000</zipcode>
+    <place>Quirihue</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Quirihue</community>
+    <community_code>08414</community_code>
+    <latitude>-36.2819</latitude>
+    <longitude>-72.5441</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4010000</zipcode>
+    <place>Ninhue</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>Ninhue</community>
+    <community_code>08408</community_code>
+    <latitude>-36.3568</latitude>
+    <longitude>-72.4097</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>4020000</zipcode>
+    <place>San Nicolás</place>
+    <state>Región del Biobío</state>
+    <state_code>06</state_code>
+    <province>Provincia de Ñuble</province>
+    <province_code>84</province_code>
+    <community>San Nicolás</community>
+    <community_code>08419</community_code>
+    <latitude>-36.4798</latitude>
+    <longitude>-72.2282</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1700000</zipcode>
+    <place>La Serena</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Elqui</province>
+    <province_code>41</province_code>
+    <community>La Serena</community>
+    <community_code>04101</community_code>
+    <latitude>-29.7892</latitude>
+    <longitude>-71.0612</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1740000</zipcode>
+    <place>La Higuera</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Elqui</province>
+    <province_code>41</province_code>
+    <community>La Higuera</community>
+    <community_code>04104</community_code>
+    <latitude>-29.3749</latitude>
+    <longitude>-70.9014</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1750000</zipcode>
+    <place>Andacollo</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Elqui</province>
+    <province_code>41</province_code>
+    <community>Andacollo</community>
+    <community_code>04103</community_code>
+    <latitude>-30.2606</latitude>
+    <longitude>-71.1005</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1760000</zipcode>
+    <place>Vicuña</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Elqui</province>
+    <province_code>41</province_code>
+    <community>Vicuña</community>
+    <community_code>04106</community_code>
+    <latitude>-29.892</latitude>
+    <longitude>-70.3827</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1770000</zipcode>
+    <place>Paiguano</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Elqui</province>
+    <province_code>41</province_code>
+    <community>Paiguano</community>
+    <community_code>04105</community_code>
+    <latitude>-30.2384</latitude>
+    <longitude>-70.3707</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1780000</zipcode>
+    <place>Coquimbo</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Elqui</province>
+    <province_code>41</province_code>
+    <community>Coquimbo</community>
+    <community_code>04102</community_code>
+    <latitude>-30.2288</latitude>
+    <longitude>-71.3598</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1930000</zipcode>
+    <place>Illapel</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Choapa</province>
+    <province_code>42</province_code>
+    <community>Illapel</community>
+    <community_code>04201</community_code>
+    <latitude>-31.5493</latitude>
+    <longitude>-70.9706</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1940000</zipcode>
+    <place>Los Vilos</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Choapa</province>
+    <province_code>42</province_code>
+    <community>Los Vilos</community>
+    <community_code>04203</community_code>
+    <latitude>-31.9778</latitude>
+    <longitude>-71.3041</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1950000</zipcode>
+    <place>Salamanca</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Choapa</province>
+    <province_code>42</province_code>
+    <community>Salamanca</community>
+    <community_code>04204</community_code>
+    <latitude>-31.8931</latitude>
+    <longitude>-70.6608</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1960000</zipcode>
+    <place>Canela</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Choapa</province>
+    <province_code>42</province_code>
+    <community>Canela</community>
+    <community_code>04202</community_code>
+    <latitude>-31.4019</latitude>
+    <longitude>-71.3944</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1840000</zipcode>
+    <place>Ovalle</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Limarí</province>
+    <province_code>43</province_code>
+    <community>Ovalle</community>
+    <community_code>04301</community_code>
+    <latitude>-30.674</latitude>
+    <longitude>-71.4062</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1870000</zipcode>
+    <place>Río Hurtado</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Limarí</province>
+    <province_code>43</province_code>
+    <community>Río Hurtado</community>
+    <community_code>04305</community_code>
+    <latitude>-30.2667</latitude>
+    <longitude>-70.6667</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1880000</zipcode>
+    <place>Monte Patria</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Limarí</province>
+    <province_code>43</province_code>
+    <community>Monte Patria</community>
+    <community_code>04303</community_code>
+    <latitude>-30.8352</latitude>
+    <longitude>-70.6509</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1890000</zipcode>
+    <place>Combarbalá</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Limarí</province>
+    <province_code>43</province_code>
+    <community>Combarbalá</community>
+    <community_code>04302</community_code>
+    <latitude>-31.1469</latitude>
+    <longitude>-70.9657</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1900000</zipcode>
+    <place>Punitaqui</place>
+    <state>Región de Coquimbo</state>
+    <state_code>07</state_code>
+    <province>Provincia de Limarí</province>
+    <province_code>43</province_code>
+    <community>Punitaqui</community>
+    <community_code>04304</community_code>
+    <latitude>-30.9464</latitude>
+    <longitude>-71.3331</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2820000</zipcode>
+    <place>Rancagua</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Rancagua</community>
+    <community_code>06101</community_code>
+    <latitude>-34.1261</latitude>
+    <longitude>-70.8166</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2880000</zipcode>
+    <place>Graneros</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Graneros</community>
+    <community_code>06106</community_code>
+    <latitude>-34.0657</latitude>
+    <longitude>-70.747</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2890000</zipcode>
+    <place>Mostazal</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Mostazal</community>
+    <community_code>06110</community_code>
+    <latitude>-33.956</latitude>
+    <longitude>-70.5694</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2900000</zipcode>
+    <place>Codegua</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Codegua</community>
+    <community_code>06102</community_code>
+    <latitude>-34.0574</latitude>
+    <longitude>-70.5471</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2910000</zipcode>
+    <place>Machalí</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Machalí</community>
+    <community_code>06108</community_code>
+    <latitude>-34.3207</latitude>
+    <longitude>-70.3196</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2920000</zipcode>
+    <place>Olivar</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Olivar</community>
+    <community_code>06111</community_code>
+    <latitude>-34.2116</latitude>
+    <longitude>-70.8201</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2930000</zipcode>
+    <place>Requinoa</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Requinoa</community>
+    <community_code>06116</community_code>
+    <latitude>-34.335</latitude>
+    <longitude>-70.6591</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2940000</zipcode>
+    <place>Rengo</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Rengo</community>
+    <community_code>06115</community_code>
+    <latitude>-34.4547</latitude>
+    <longitude>-70.7185</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2950000</zipcode>
+    <place>Malloa</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Malloa</community>
+    <community_code>06109</community_code>
+    <latitude>-34.4762</latitude>
+    <longitude>-70.8734</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2960000</zipcode>
+    <place>Quinta De Tilcoco</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Quinta De Tilcoco</community>
+    <community_code>06114</community_code>
+    <latitude>-34.3592</latitude>
+    <longitude>-70.9982</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2970000</zipcode>
+    <place>San Vicente</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>San Vicente</community>
+    <community_code>06117</community_code>
+    <latitude>-34.4778</latitude>
+    <longitude>-71.1233</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2980000</zipcode>
+    <place>Pichidegua</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Pichidegua</community>
+    <community_code>06113</community_code>
+    <latitude>-34.3712</latitude>
+    <longitude>-71.3394</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>2990000</zipcode>
+    <place>Peumo</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Peumo</community>
+    <community_code>06112</community_code>
+    <latitude>-34.3294</latitude>
+    <longitude>-71.2219</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3000000</zipcode>
+    <place>Coltauco</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Coltauco</community>
+    <community_code>06104</community_code>
+    <latitude>-34.26</latitude>
+    <longitude>-71.0779</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3010000</zipcode>
+    <place>Coinco</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Coinco</community>
+    <community_code>06103</community_code>
+    <latitude>-34.2822</latitude>
+    <longitude>-70.9711</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3020000</zipcode>
+    <place>Doñihue</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Doñihue</community>
+    <community_code>06105</community_code>
+    <latitude>-34.197</latitude>
+    <longitude>-70.9236</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3030000</zipcode>
+    <place>Las Cabras</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cachapoal</province>
+    <province_code>61</province_code>
+    <community>Las Cabras</community>
+    <community_code>06107</community_code>
+    <latitude>-34.165</latitude>
+    <longitude>-71.3327</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3220000</zipcode>
+    <place>Pichilemu</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cardenal Caro</province>
+    <province_code>62</province_code>
+    <community>Pichilemu</community>
+    <community_code>06201</community_code>
+    <latitude>-34.3841</latitude>
+    <longitude>-71.9106</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3230000</zipcode>
+    <place>Navidad</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cardenal Caro</province>
+    <province_code>62</province_code>
+    <community>Navidad</community>
+    <community_code>06205</community_code>
+    <latitude>-34.0123</latitude>
+    <longitude>-71.8203</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3240000</zipcode>
+    <place>Litueche</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cardenal Caro</province>
+    <province_code>62</province_code>
+    <community>Litueche</community>
+    <community_code>06203</community_code>
+    <latitude>-34.1074</latitude>
+    <longitude>-71.7336</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3250000</zipcode>
+    <place>La Estrella</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cardenal Caro</province>
+    <province_code>62</province_code>
+    <community>La Estrella</community>
+    <community_code>06202</community_code>
+    <latitude>-34.2233</latitude>
+    <longitude>-71.6026</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3260000</zipcode>
+    <place>Marchihue</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cardenal Caro</province>
+    <province_code>62</province_code>
+    <community>Marchihue</community>
+    <community_code>06204</community_code>
+    <latitude>-34.3727</latitude>
+    <longitude>-71.6716</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3270000</zipcode>
+    <place>Paredones</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Cardenal Caro</province>
+    <province_code>62</province_code>
+    <community>Paredones</community>
+    <community_code>06206</community_code>
+    <latitude>-34.6733</latitude>
+    <longitude>-71.9112</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3070000</zipcode>
+    <place>San Fernando</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>San Fernando</community>
+    <community_code>06301</community_code>
+    <latitude>-34.7433</latitude>
+    <longitude>-70.6033</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3090000</zipcode>
+    <place>Chimbarongo</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Chimbarongo</community>
+    <community_code>06303</community_code>
+    <latitude>-34.7517</latitude>
+    <longitude>-70.9811</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3100000</zipcode>
+    <place>Placilla</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Placilla</community>
+    <community_code>06308</community_code>
+    <latitude>-34.6192</latitude>
+    <longitude>-71.0862</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3110000</zipcode>
+    <place>Nancagua</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Nancagua</community>
+    <community_code>06305</community_code>
+    <latitude>-34.6678</latitude>
+    <longitude>-71.1919</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3120000</zipcode>
+    <place>Chépica</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Chépica</community>
+    <community_code>06302</community_code>
+    <latitude>-34.7913</latitude>
+    <longitude>-71.3593</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3130000</zipcode>
+    <place>Santa Cruz</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Santa Cruz</community>
+    <community_code>06310</community_code>
+    <latitude>-34.6432</latitude>
+    <longitude>-71.4025</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3140000</zipcode>
+    <place>Lolol</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Lolol</community>
+    <community_code>06304</community_code>
+    <latitude>-34.7684</latitude>
+    <longitude>-71.6484</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3150000</zipcode>
+    <place>Pumanque</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Pumanque</community>
+    <community_code>06309</community_code>
+    <latitude>-34.5962</latitude>
+    <longitude>-71.6915</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3160000</zipcode>
+    <place>Palmilla</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Palmilla</community>
+    <community_code>06306</community_code>
+    <latitude>-34.5282</latitude>
+    <longitude>-71.3529</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3170000</zipcode>
+    <place>Peralillo</place>
+    <state>Región del Libertador General Bernardo O’Higgins</state>
+    <state_code>08</state_code>
+    <province>Provincia de Colchagua</province>
+    <province_code>63</province_code>
+    <community>Peralillo</community>
+    <community_code>06307</community_code>
+    <latitude>-34.4662</latitude>
+    <longitude>-71.4967</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6200000</zipcode>
+    <place>Punta Arenas</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Magallanes</province>
+    <province_code>121</province_code>
+    <community>Punta Arenas</community>
+    <community_code>12101</community_code>
+    <latitude>-53.6415</latitude>
+    <longitude>-72.0385</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6240000</zipcode>
+    <place>Río Verde</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Magallanes</province>
+    <province_code>121</province_code>
+    <community>Río Verde</community>
+    <community_code>12103</community_code>
+    <latitude>-52.8467</latitude>
+    <longitude>-72.4633</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6250000</zipcode>
+    <place>Laguna Blanca</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Magallanes</province>
+    <province_code>121</province_code>
+    <community>Laguna Blanca</community>
+    <community_code>12102</community_code>
+    <latitude>-52.3294</latitude>
+    <longitude>-71.2398</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6260000</zipcode>
+    <place>San Gregorio</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Magallanes</province>
+    <province_code>121</province_code>
+    <community>San Gregorio</community>
+    <community_code>12104</community_code>
+    <latitude>-52.3223</latitude>
+    <longitude>-70.2272</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6350000</zipcode>
+    <place>Cabo De Hornos</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia Antártica Chilena</province>
+    <province_code>122</province_code>
+    <community>Cabo De Hornos</community>
+    <community_code>12201</community_code>
+    <latitude>-55.0225</latitude>
+    <longitude>-69.2283</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6360000</zipcode>
+    <place>Antártica</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia Antártica Chilena</province>
+    <province_code>122</province_code>
+    <community>Antártica</community>
+    <community_code>12202</community_code>
+    <latitude>-75.0009</latitude>
+    <longitude>-71.5931</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6300000</zipcode>
+    <place>Porvenir</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Tierra del Fuego</province>
+    <province_code>123</province_code>
+    <community>Porvenir</community>
+    <community_code>12301</community_code>
+    <latitude>-53.304</latitude>
+    <longitude>-69.3928</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6310000</zipcode>
+    <place>Primavera</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Tierra del Fuego</province>
+    <province_code>123</province_code>
+    <community>Primavera</community>
+    <community_code>12302</community_code>
+    <latitude>-52.8202</latitude>
+    <longitude>-69.3335</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6320000</zipcode>
+    <place>Timaukel</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Tierra del Fuego</province>
+    <province_code>123</province_code>
+    <community>Timaukel</community>
+    <community_code>12303</community_code>
+    <latitude>-54.195</latitude>
+    <longitude>-69.5323</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6160000</zipcode>
+    <place>Natales</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Última Esperanza</province>
+    <province_code>124</province_code>
+    <community>Natales</community>
+    <community_code>12401</community_code>
+    <latitude>-50.6742</latitude>
+    <longitude>-73.9259</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>6170000</zipcode>
+    <place>Torres Del Paine</place>
+    <state>Región de Magallanes y Antártica Chilena</state>
+    <state_code>10</state_code>
+    <province>Provincia de Última Esperanza</province>
+    <province_code>124</province_code>
+    <community>Torres Del Paine</community>
+    <community_code>12402</community_code>
+    <latitude>-51.0503</latitude>
+    <longitude>-72.8295</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3460000</zipcode>
+    <place>Talca</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Talca</community>
+    <community_code>07101</community_code>
+    <latitude>-35.428</latitude>
+    <longitude>-71.6028</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3490000</zipcode>
+    <place>San Rafael</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>San Rafael</community>
+    <community_code>07110</community_code>
+    <latitude>-35.3019</latitude>
+    <longitude>-71.5011</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3500000</zipcode>
+    <place>Pelarco</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Pelarco</community>
+    <community_code>07106</community_code>
+    <latitude>-35.3832</latitude>
+    <longitude>-71.3506</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3510000</zipcode>
+    <place>Río Claro</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Río Claro</community>
+    <community_code>07108</community_code>
+    <latitude>-35.2609</latitude>
+    <longitude>-71.2695</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3520000</zipcode>
+    <place>San Clemente</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>San Clemente</community>
+    <community_code>07109</community_code>
+    <latitude>-35.7121</latitude>
+    <longitude>-70.8485</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3530000</zipcode>
+    <place>Maule</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Maule</community>
+    <community_code>07105</community_code>
+    <latitude>-35.5085</latitude>
+    <longitude>-71.7126</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3540000</zipcode>
+    <place>Empedrado</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Empedrado</community>
+    <community_code>07104</community_code>
+    <latitude>-35.6135</latitude>
+    <longitude>-72.2843</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3550000</zipcode>
+    <place>Pencahue</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Pencahue</community>
+    <community_code>07107</community_code>
+    <latitude>-35.3277</latitude>
+    <longitude>-71.8171</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3560000</zipcode>
+    <place>Constitución</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Constitución</community>
+    <community_code>07102</community_code>
+    <latitude>-35.3631</latitude>
+    <longitude>-72.2762</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3570000</zipcode>
+    <place>Curepto</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Talca</province>
+    <province_code>71</province_code>
+    <community>Curepto</community>
+    <community_code>07103</community_code>
+    <latitude>-35.1297</latitude>
+    <longitude>-71.9533</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3690000</zipcode>
+    <place>Cauquenes</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Cauquenes</province>
+    <province_code>72</province_code>
+    <community>Cauquenes</community>
+    <community_code>07201</community_code>
+    <latitude>-35.9713</latitude>
+    <longitude>-72.28</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3710000</zipcode>
+    <place>Pelluhue</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Cauquenes</province>
+    <province_code>72</province_code>
+    <community>Pelluhue</community>
+    <community_code>07203</community_code>
+    <latitude>-35.9115</latitude>
+    <longitude>-72.6076</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3720000</zipcode>
+    <place>Chanco</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Cauquenes</province>
+    <province_code>72</province_code>
+    <community>Chanco</community>
+    <community_code>07202</community_code>
+    <latitude>-35.6988</latitude>
+    <longitude>-72.4849</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3340000</zipcode>
+    <place>Curicó</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Curicó</community>
+    <community_code>07301</community_code>
+    <latitude>-35.1991</latitude>
+    <longitude>-70.8957</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3360000</zipcode>
+    <place>Teno</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Teno</community>
+    <community_code>07308</community_code>
+    <latitude>-34.8879</latitude>
+    <longitude>-71.0224</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3370000</zipcode>
+    <place>Romeral</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Romeral</community>
+    <community_code>07306</community_code>
+    <latitude>-35.0683</latitude>
+    <longitude>-70.7112</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3380000</zipcode>
+    <place>Molina</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Molina</community>
+    <community_code>07304</community_code>
+    <latitude>-35.3534</latitude>
+    <longitude>-70.9095</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3390000</zipcode>
+    <place>Sagrada Familia</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Sagrada Familia</community>
+    <community_code>07307</community_code>
+    <latitude>-35.1043</latitude>
+    <longitude>-71.4959</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3400000</zipcode>
+    <place>Hualañé</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Hualañé</community>
+    <community_code>07302</community_code>
+    <latitude>-34.9525</latitude>
+    <longitude>-71.709</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3410000</zipcode>
+    <place>Licantén</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Licantén</community>
+    <community_code>07303</community_code>
+    <latitude>-34.9743</latitude>
+    <longitude>-72.0604</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3420000</zipcode>
+    <place>Vichuquén</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Vichuquén</community>
+    <community_code>07309</community_code>
+    <latitude>-34.841</latitude>
+    <longitude>-72.0228</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3430000</zipcode>
+    <place>Rauco</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Curicó</province>
+    <province_code>73</province_code>
+    <community>Rauco</community>
+    <community_code>07305</community_code>
+    <latitude>-34.9382</latitude>
+    <longitude>-71.4264</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3580000</zipcode>
+    <place>Linares</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Linares</community>
+    <community_code>07401</community_code>
+    <latitude>-35.9581</latitude>
+    <longitude>-71.3321</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3600000</zipcode>
+    <place>Yerbas Buenas</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Yerbas Buenas</community>
+    <community_code>07408</community_code>
+    <latitude>-35.6892</latitude>
+    <longitude>-71.5444</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3610000</zipcode>
+    <place>Colbún</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Colbún</community>
+    <community_code>07402</community_code>
+    <latitude>-36.0777</latitude>
+    <longitude>-70.9783</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3620000</zipcode>
+    <place>Longaví</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Longaví</community>
+    <community_code>07403</community_code>
+    <latitude>-36.1107</latitude>
+    <longitude>-71.4412</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3630000</zipcode>
+    <place>Parral</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Parral</community>
+    <community_code>07404</community_code>
+    <latitude>-36.2623</latitude>
+    <longitude>-71.645</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3640000</zipcode>
+    <place>Retiro</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Retiro</community>
+    <community_code>07405</community_code>
+    <latitude>-36.0023</latitude>
+    <longitude>-71.8293</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3650000</zipcode>
+    <place>Villa Alegre</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>Villa Alegre</community>
+    <community_code>07407</community_code>
+    <latitude>-35.6853</latitude>
+    <longitude>-71.6829</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>3660000</zipcode>
+    <place>San Javier</place>
+    <state>Región del Maule</state>
+    <state_code>11</state_code>
+    <province>Provincia de Linares</province>
+    <province_code>74</province_code>
+    <community>San Javier</community>
+    <community_code>07406</community_code>
+    <latitude>-35.629</latitude>
+    <longitude>-71.9271</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7500000</zipcode>
+    <place>Providencia</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Providencia</community>
+    <community_code>13123</community_code>
+    <latitude>-33.4362</latitude>
+    <longitude>-70.609</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7550000</zipcode>
+    <place>Las Condes</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Las Condes</community>
+    <community_code>13114</community_code>
+    <latitude>-33.4207</latitude>
+    <longitude>-70.5019</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7630000</zipcode>
+    <place>Vitacura</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Vitacura</community>
+    <community_code>13132</community_code>
+    <latitude>-33.3799</latitude>
+    <longitude>-70.5724</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7690000</zipcode>
+    <place>Lo Barnechea</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Lo Barnechea</community>
+    <community_code>13115</community_code>
+    <latitude>-33.2991</latitude>
+    <longitude>-70.3687</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7750000</zipcode>
+    <place>Ñuñoa</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Ñuñoa</community>
+    <community_code>13120</community_code>
+    <latitude>-33.4593</latitude>
+    <longitude>-70.6003</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7810000</zipcode>
+    <place>Macul</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Macul</community>
+    <community_code>13118</community_code>
+    <latitude>-33.4902</latitude>
+    <longitude>-70.6011</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7850000</zipcode>
+    <place>La Reina</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>La Reina</community>
+    <community_code>13113</community_code>
+    <latitude>-33.4486</latitude>
+    <longitude>-70.5358</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7910000</zipcode>
+    <place>Penalolén</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Penalolén</community>
+    <community_code>13122</community_code>
+    <latitude>-33.4862</latitude>
+    <longitude>-70.5249</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>7970000</zipcode>
+    <place>La Cisterna</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>La Cisterna</community>
+    <community_code>13109</community_code>
+    <latitude>-33.5302</latitude>
+    <longitude>-70.6641</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8010000</zipcode>
+    <place>El Bosque</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>El Bosque</community>
+    <community_code>13105</community_code>
+    <latitude>-33.5629</latitude>
+    <longitude>-70.6764</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8240000</zipcode>
+    <place>La Florida</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>La Florida</community>
+    <community_code>13110</community_code>
+    <latitude>-33.5286</latitude>
+    <longitude>-70.5396</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8320000</zipcode>
+    <place>Santiago</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Santiago</community>
+    <community_code>13101</community_code>
+    <latitude>-33.4541</latitude>
+    <longitude>-70.656</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8380000</zipcode>
+    <place>Independencia</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Independencia</community>
+    <community_code>13108</community_code>
+    <latitude>-33.4151</latitude>
+    <longitude>-70.6657</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8420000</zipcode>
+    <place>Recoleta</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Recoleta</community>
+    <community_code>13127</community_code>
+    <latitude>-33.4088</latitude>
+    <longitude>-70.6364</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8460000</zipcode>
+    <place>Pedro Aguirre Cerda</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Pedro Aguirre Cerda</community>
+    <community_code>13121</community_code>
+    <latitude>-33.4919</latitude>
+    <longitude>-70.6762</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8500000</zipcode>
+    <place>Quinta Normal</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Quinta Normal</community>
+    <community_code>13126</community_code>
+    <latitude>-33.4284</latitude>
+    <longitude>-70.7008</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8540000</zipcode>
+    <place>Conchalí</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Conchalí</community>
+    <community_code>13104</community_code>
+    <latitude>-33.3837</latitude>
+    <longitude>-70.6774</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8580000</zipcode>
+    <place>Huechuraba</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Huechuraba</community>
+    <community_code>13107</community_code>
+    <latitude>-33.3603</latitude>
+    <longitude>-70.6375</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8640000</zipcode>
+    <place>Renca</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Renca</community>
+    <community_code>13128</community_code>
+    <latitude>-33.4021</latitude>
+    <longitude>-70.7279</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8700000</zipcode>
+    <place>Quilicura</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Quilicura</community>
+    <community_code>13125</community_code>
+    <latitude>-33.3554</latitude>
+    <longitude>-70.7361</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8780000</zipcode>
+    <place>La Granja</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>La Granja</community>
+    <community_code>13111</community_code>
+    <latitude>-33.5354</latitude>
+    <longitude>-70.6223</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8820000</zipcode>
+    <place>La Pintana</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>La Pintana</community>
+    <community_code>13112</community_code>
+    <latitude>-33.5843</latitude>
+    <longitude>-70.6376</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8860000</zipcode>
+    <place>San Ramón</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>San Ramón</community>
+    <community_code>13131</community_code>
+    <latitude>-33.5314</latitude>
+    <longitude>-70.6422</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8900000</zipcode>
+    <place>San Miguel</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>San Miguel</community>
+    <community_code>13130</community_code>
+    <latitude>-33.4991</latitude>
+    <longitude>-70.6517</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8940000</zipcode>
+    <place>San Joaquín</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>San Joaquín</community>
+    <community_code>13129</community_code>
+    <latitude>-33.4963</latitude>
+    <longitude>-70.6288</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8980000</zipcode>
+    <place>Lo Prado</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Lo Prado</community>
+    <community_code>13117</community_code>
+    <latitude>-33.4473</latitude>
+    <longitude>-70.7235</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9020000</zipcode>
+    <place>Pudahuel</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Pudahuel</community>
+    <community_code>13124</community_code>
+    <latitude>-33.424</latitude>
+    <longitude>-70.8549</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9080000</zipcode>
+    <place>Cerro Navia</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Cerro Navia</community>
+    <community_code>13103</community_code>
+    <latitude>-33.4228</latitude>
+    <longitude>-70.745</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9120000</zipcode>
+    <place>Lo Espejo</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Lo Espejo</community>
+    <community_code>13116</community_code>
+    <latitude>-33.5209</latitude>
+    <longitude>-70.6901</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9160000</zipcode>
+    <place>Estación Central</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Estación Central</community>
+    <community_code>13106</community_code>
+    <latitude>-33.4645</latitude>
+    <longitude>-70.6986</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9200000</zipcode>
+    <place>Cerrillos</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Cerrillos</community>
+    <community_code>13102</community_code>
+    <latitude>-33.5003</latitude>
+    <longitude>-70.7174</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9250000</zipcode>
+    <place>Maipu</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Santiago</province>
+    <province_code>131</province_code>
+    <community>Maipu</community>
+    <community_code>13119</community_code>
+    <latitude>-33.5066</latitude>
+    <longitude>-70.8123</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8150000</zipcode>
+    <place>Puente Alto</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Cordillera</province>
+    <province_code>132</province_code>
+    <community>Puente Alto</community>
+    <community_code>13201</community_code>
+    <latitude>-33.591</latitude>
+    <longitude>-70.5575</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9460000</zipcode>
+    <place>San Jose De Maipo</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Cordillera</province>
+    <province_code>132</province_code>
+    <community>San Jose De Maipo</community>
+    <community_code>13203</community_code>
+    <latitude>-33.7048</latitude>
+    <longitude>-70.0969</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9480000</zipcode>
+    <place>Pirque</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Cordillera</province>
+    <province_code>132</province_code>
+    <community>Pirque</community>
+    <community_code>13202</community_code>
+    <latitude>-33.7187</latitude>
+    <longitude>-70.5066</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9340000</zipcode>
+    <place>Colina</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Chacabuco</province>
+    <province_code>133</province_code>
+    <community>Colina</community>
+    <community_code>13301</community_code>
+    <latitude>-33.1342</latitude>
+    <longitude>-70.6157</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9380000</zipcode>
+    <place>Lampa</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Chacabuco</province>
+    <province_code>133</province_code>
+    <community>Lampa</community>
+    <community_code>13302</community_code>
+    <latitude>-33.2778</latitude>
+    <longitude>-70.8748</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9420000</zipcode>
+    <place>Tiltil</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Chacabuco</province>
+    <province_code>133</province_code>
+    <community>Tiltil</community>
+    <community_code>13303</community_code>
+    <latitude>-33.0624</latitude>
+    <longitude>-70.876</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>8050000</zipcode>
+    <place>San Bernardo</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Maipo</province>
+    <province_code>134</province_code>
+    <community>San Bernardo</community>
+    <community_code>13401</community_code>
+    <latitude>-33.6289</latitude>
+    <longitude>-70.7243</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9500000</zipcode>
+    <place>Buin</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Maipo</province>
+    <province_code>134</province_code>
+    <community>Buin</community>
+    <community_code>13402</community_code>
+    <latitude>-33.7481</latitude>
+    <longitude>-70.7393</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9540000</zipcode>
+    <place>Paine</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Maipo</province>
+    <province_code>134</province_code>
+    <community>Paine</community>
+    <community_code>13404</community_code>
+    <latitude>-33.8637</latitude>
+    <longitude>-70.7581</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9560000</zipcode>
+    <place>Calera De Tango</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Maipo</province>
+    <province_code>134</province_code>
+    <community>Calera De Tango</community>
+    <community_code>13403</community_code>
+    <latitude>-33.6234</latitude>
+    <longitude>-70.7904</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9580000</zipcode>
+    <place>Melipilla</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Melipilla</province>
+    <province_code>135</province_code>
+    <community>Melipilla</community>
+    <community_code>13501</community_code>
+    <latitude>-33.7439</latitude>
+    <longitude>-71.194</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9620000</zipcode>
+    <place>María Pinto</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Melipilla</province>
+    <province_code>135</province_code>
+    <community>María Pinto</community>
+    <community_code>13504</community_code>
+    <latitude>-33.4981</latitude>
+    <longitude>-71.2108</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9630000</zipcode>
+    <place>Curacaví</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Melipilla</province>
+    <province_code>135</province_code>
+    <community>Curacaví</community>
+    <community_code>13503</community_code>
+    <latitude>-33.3664</latitude>
+    <longitude>-71.0802</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9650000</zipcode>
+    <place>Alhue</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Melipilla</province>
+    <province_code>135</province_code>
+    <community>Alhue</community>
+    <community_code>13502</community_code>
+    <latitude>-34.043</latitude>
+    <longitude>-71.0566</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9660000</zipcode>
+    <place>San Pedro</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Melipilla</province>
+    <province_code>135</province_code>
+    <community>San Pedro</community>
+    <community_code>13505</community_code>
+    <latitude>-33.9318</latitude>
+    <longitude>-71.4529</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9670000</zipcode>
+    <place>Talagante</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Talagante</province>
+    <province_code>136</province_code>
+    <community>Talagante</community>
+    <community_code>13601</community_code>
+    <latitude>-33.6823</latitude>
+    <longitude>-70.8951</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9710000</zipcode>
+    <place>Padre Hurtado</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Talagante</province>
+    <province_code>136</province_code>
+    <community>Padre Hurtado</community>
+    <community_code>13604</community_code>
+    <latitude>-33.5572</latitude>
+    <longitude>-70.8708</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9750000</zipcode>
+    <place>Peñaflor</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Talagante</province>
+    <province_code>136</province_code>
+    <community>Peñaflor</community>
+    <community_code>13605</community_code>
+    <latitude>-33.6109</latitude>
+    <longitude>-70.894</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9790000</zipcode>
+    <place>Isla De Maipo</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Talagante</province>
+    <province_code>136</province_code>
+    <community>Isla De Maipo</community>
+    <community_code>13603</community_code>
+    <latitude>-33.7485</latitude>
+    <longitude>-70.9457</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>9810000</zipcode>
+    <place>El Monte</place>
+    <state>Región Metropolitana</state>
+    <state_code>12</state_code>
+    <province>Provincia de Talagante</province>
+    <province_code>136</province_code>
+    <community>El Monte</community>
+    <community_code>13602</community_code>
+    <latitude>-33.6671</latitude>
+    <longitude>-71.0324</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5480000</zipcode>
+    <place>Puerto Montt</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Puerto Montt</community>
+    <community_code>10101</community_code>
+    <latitude>-41.4892</latitude>
+    <longitude>-72.7953</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5550000</zipcode>
+    <place>Puerto Varas</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Puerto Varas</community>
+    <community_code>10109</community_code>
+    <latitude>-41.1914</latitude>
+    <longitude>-72.3881</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5560000</zipcode>
+    <place>Cochamo</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Cochamo</community>
+    <community_code>10103</community_code>
+    <latitude>-41.7611</latitude>
+    <longitude>-72.0929</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5570000</zipcode>
+    <place>Calbuco</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Calbuco</community>
+    <community_code>10102</community_code>
+    <latitude>-41.7231</latitude>
+    <longitude>-73.1951</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5580000</zipcode>
+    <place>Maullín</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Maullín</community>
+    <community_code>10108</community_code>
+    <latitude>-41.6324</latitude>
+    <longitude>-73.5083</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5590000</zipcode>
+    <place>Los Muermos</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Los Muermos</community>
+    <community_code>10106</community_code>
+    <latitude>-41.398</latitude>
+    <longitude>-73.5826</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5600000</zipcode>
+    <place>Fresia</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Fresia</community>
+    <community_code>10104</community_code>
+    <latitude>-41.1544</latitude>
+    <longitude>-73.6065</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5610000</zipcode>
+    <place>Llanquihue</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Llanquihue</community>
+    <community_code>10107</community_code>
+    <latitude>-41.2381</latitude>
+    <longitude>-73.1396</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5620000</zipcode>
+    <place>Frutillar</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Llanquihue</province>
+    <province_code>101</province_code>
+    <community>Frutillar</community>
+    <community_code>10105</community_code>
+    <latitude>-41.0872</latitude>
+    <longitude>-73.0956</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5700000</zipcode>
+    <place>Castro</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Castro</community>
+    <community_code>10201</community_code>
+    <latitude>-42.4741</latitude>
+    <longitude>-73.8041</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5710000</zipcode>
+    <place>Ancud</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Ancud</community>
+    <community_code>10202</community_code>
+    <latitude>-42.0176</latitude>
+    <longitude>-73.8022</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5720000</zipcode>
+    <place>Quemchi</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Quemchi</community>
+    <community_code>10209</community_code>
+    <latitude>-42.1338</latitude>
+    <longitude>-73.5172</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5730000</zipcode>
+    <place>Dalcahue</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Dalcahue</community>
+    <community_code>10205</community_code>
+    <latitude>-42.309</latitude>
+    <longitude>-73.8338</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5740000</zipcode>
+    <place>Curaco De Vélez</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Curaco De Vélez</community>
+    <community_code>10204</community_code>
+    <latitude>-42.4268</latitude>
+    <longitude>-73.5787</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5750000</zipcode>
+    <place>Quinchao</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Quinchao</community>
+    <community_code>10210</community_code>
+    <latitude>-42.6446</latitude>
+    <longitude>-73.2776</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5760000</zipcode>
+    <place>Puqueldón</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Puqueldón</community>
+    <community_code>10206</community_code>
+    <latitude>-42.627</latitude>
+    <longitude>-73.6369</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5770000</zipcode>
+    <place>Chonchi</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Chonchi</community>
+    <community_code>10203</community_code>
+    <latitude>-42.6821</latitude>
+    <longitude>-73.9306</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5780000</zipcode>
+    <place>Queilen</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Queilen</community>
+    <community_code>10207</community_code>
+    <latitude>-42.8557</latitude>
+    <longitude>-73.5644</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5790000</zipcode>
+    <place>Quellón</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Chiloé</province>
+    <province_code>102</province_code>
+    <community>Quellón</community>
+    <community_code>10208</community_code>
+    <latitude>-43.1518</latitude>
+    <longitude>-73.9954</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5290000</zipcode>
+    <place>Osorno</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>Osorno</community>
+    <community_code>10301</community_code>
+    <latitude>-40.6108</latitude>
+    <longitude>-73.0877</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5350000</zipcode>
+    <place>San Pablo</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>San Pablo</community>
+    <community_code>10307</community_code>
+    <latitude>-40.4267</latitude>
+    <longitude>-73.1621</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5360000</zipcode>
+    <place>Puyehue</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>Puyehue</community>
+    <community_code>10304</community_code>
+    <latitude>-40.7255</latitude>
+    <longitude>-72.3841</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5370000</zipcode>
+    <place>Puerto Octay</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>Puerto Octay</community>
+    <community_code>10302</community_code>
+    <latitude>-40.9336</latitude>
+    <longitude>-72.5994</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5380000</zipcode>
+    <place>Purranque</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>Purranque</community>
+    <community_code>10303</community_code>
+    <latitude>-40.9351</latitude>
+    <longitude>-73.4583</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5390000</zipcode>
+    <place>Río Negro</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>Río Negro</community>
+    <community_code>10305</community_code>
+    <latitude>-40.7702</latitude>
+    <longitude>-73.4175</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5400000</zipcode>
+    <place>San Juan De La Costa</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Osorno</province>
+    <province_code>103</province_code>
+    <community>San Juan De La Costa</community>
+    <community_code>10306</community_code>
+    <latitude>-40.5086</latitude>
+    <longitude>-73.5594</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5850000</zipcode>
+    <place>Chaitén</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Palena</province>
+    <province_code>104</province_code>
+    <community>Chaitén</community>
+    <community_code>10401</community_code>
+    <latitude>-43.0941</latitude>
+    <longitude>-72.5759</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5860000</zipcode>
+    <place>Hualaihue</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Palena</province>
+    <province_code>104</province_code>
+    <community>Hualaihue</community>
+    <community_code>10403</community_code>
+    <latitude>-42.1772</latitude>
+    <longitude>-72.377</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5870000</zipcode>
+    <place>Futaleufú</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Palena</province>
+    <province_code>104</province_code>
+    <community>Futaleufú</community>
+    <community_code>10402</community_code>
+    <latitude>-43.1811</latitude>
+    <longitude>-72.0071</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5880000</zipcode>
+    <place>Palena</place>
+    <state>Región de los Lagos</state>
+    <state_code>14</state_code>
+    <province>Provincia de Palena</province>
+    <province_code>104</province_code>
+    <community>Palena</community>
+    <community_code>10404</community_code>
+    <latitude>-43.6824</latitude>
+    <longitude>-71.9833</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1100000</zipcode>
+    <place>Iquique</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia de Iquique</province>
+    <province_code>11</province_code>
+    <community>Iquique</community>
+    <community_code>01101</community_code>
+    <latitude>-20.9409</latitude>
+    <longitude>-70.0412</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1130000</zipcode>
+    <place>Alto Hospicio</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia de Iquique</province>
+    <province_code>11</province_code>
+    <community>Alto Hospicio</community>
+    <community_code>01107</community_code>
+    <latitude>-20.1913</latitude>
+    <longitude>-70.0119</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1140000</zipcode>
+    <place>Huara</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia del Tamarugal</province>
+    <province_code>14</province_code>
+    <community>Huara</community>
+    <community_code>01404</community_code>
+    <latitude>-19.5359</latitude>
+    <longitude>-69.9848</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1150000</zipcode>
+    <place>Camina</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia del Tamarugal</province>
+    <province_code>14</province_code>
+    <community>Camina</community>
+    <community_code>01402</community_code>
+    <latitude>-19.3737</latitude>
+    <longitude>-69.5056</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1160000</zipcode>
+    <place>Colchane</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia del Tamarugal</province>
+    <province_code>14</province_code>
+    <community>Colchane</community>
+    <community_code>01403</community_code>
+    <latitude>-19.3531</latitude>
+    <longitude>-68.847</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1170000</zipcode>
+    <place>Pica</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia del Tamarugal</province>
+    <province_code>14</province_code>
+    <community>Pica</community>
+    <community_code>01405</community_code>
+    <latitude>-20.4796</latitude>
+    <longitude>-68.9119</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1180000</zipcode>
+    <place>Pozo Almonte</place>
+    <state>Región de Tarapacá</state>
+    <state_code>15</state_code>
+    <province>Provincia del Tamarugal</province>
+    <province_code>14</province_code>
+    <community>Pozo Almonte</community>
+    <community_code>01401</community_code>
+    <latitude>-20.7702</latitude>
+    <longitude>-69.5045</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1000000</zipcode>
+    <place>Arica</place>
+    <state>Región de Arica y Parinacota</state>
+    <state_code>16</state_code>
+    <province>Provincia de Arica</province>
+    <province_code>151</province_code>
+    <community>Arica</community>
+    <community_code>15101</community_code>
+    <latitude>-18.5377</latitude>
+    <longitude>-69.9746</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1040000</zipcode>
+    <place>Camarones</place>
+    <state>Región de Arica y Parinacota</state>
+    <state_code>16</state_code>
+    <province>Provincia de Arica</province>
+    <province_code>151</province_code>
+    <community>Camarones</community>
+    <community_code>15102</community_code>
+    <latitude>-18.93</latitude>
+    <longitude>-69.6991</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1070000</zipcode>
+    <place>Putre</place>
+    <state>Región de Arica y Parinacota</state>
+    <state_code>16</state_code>
+    <province>Provincia de Parinacota</province>
+    <province_code>152</province_code>
+    <community>Putre</community>
+    <community_code>15201</community_code>
+    <latitude>-18.4287</latitude>
+    <longitude>-69.3116</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>1080000</zipcode>
+    <place>General Lagos</place>
+    <state>Región de Arica y Parinacota</state>
+    <state_code>16</state_code>
+    <province>Provincia de Parinacota</province>
+    <province_code>152</province_code>
+    <community>General Lagos</community>
+    <community_code>15202</community_code>
+    <latitude>-17.8286</latitude>
+    <longitude>-69.5749</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5090000</zipcode>
+    <place>Valdivia</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Valdivia</community>
+    <community_code>14101</community_code>
+    <latitude>-39.8178</latitude>
+    <longitude>-73.1751</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5150000</zipcode>
+    <place>Mariquina</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Mariquina</community>
+    <community_code>14106</community_code>
+    <latitude>-39.5131</latitude>
+    <longitude>-73.0196</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5160000</zipcode>
+    <place>Lanco</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Lanco</community>
+    <community_code>14103</community_code>
+    <latitude>-39.5121</latitude>
+    <longitude>-72.6215</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5170000</zipcode>
+    <place>Los Lagos</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Los Lagos</community>
+    <community_code>14104</community_code>
+    <latitude>-39.8784</latitude>
+    <longitude>-72.5546</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5190000</zipcode>
+    <place>Corral</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Corral</community>
+    <community_code>14102</community_code>
+    <latitude>-39.9849</latitude>
+    <longitude>-73.3715</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5200000</zipcode>
+    <place>Mafil</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Mafil</community>
+    <community_code>14105</community_code>
+    <latitude>-39.692</latitude>
+    <longitude>-72.8638</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5210000</zipcode>
+    <place>Panguipulli</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Panguipulli</community>
+    <community_code>14108</community_code>
+    <latitude>-39.7146</latitude>
+    <longitude>-72.0299</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5230000</zipcode>
+    <place>Paillaco</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia de Valdivia</province>
+    <province_code>141</province_code>
+    <community>Paillaco</community>
+    <community_code>14107</community_code>
+    <latitude>-40.0741</latitude>
+    <longitude>-72.8436</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5180000</zipcode>
+    <place>Futrono</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia del Ranco</province>
+    <province_code>142</province_code>
+    <community>Futrono</community>
+    <community_code>14202</community_code>
+    <latitude>-40.1189</latitude>
+    <longitude>-72.1154</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5220000</zipcode>
+    <place>La Unión</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia del Ranco</province>
+    <province_code>142</province_code>
+    <community>La Unión</community>
+    <community_code>14201</community_code>
+    <latitude>-40.2013</latitude>
+    <longitude>-73.2223</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5240000</zipcode>
+    <place>Río Bueno</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia del Ranco</province>
+    <province_code>142</province_code>
+    <community>Río Bueno</community>
+    <community_code>14204</community_code>
+    <latitude>-40.4959</latitude>
+    <longitude>-72.5357</longitude>
+  </object>
+  <object>
+    <country_code>CL</country_code>
+    <zipcode>5250000</zipcode>
+    <place>Lago Ranco</place>
+    <state>Región de los Ríos</state>
+    <state_code>17</state_code>
+    <province>Provincia del Ranco</province>
+    <province_code>142</province_code>
+    <community>Lago Ranco</community>
+    <community_code>14203</community_code>
+    <latitude>-40.3732</latitude>
+    <longitude>-72.1658</longitude>
+  </object>
+</zipcodes>
+<to_s/>

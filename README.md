@@ -1,14 +1,14 @@
-# Postal Codes in JSON and CSV format
+# Postal Codes in JSON, XML and CSV format
 
-Postal codes for German speaking countries.
+Postal codes/ zipcodes from geonames.org converted to JSON, XML and JSON.
 
-## Countries
+## Countries (number of postal codes)
 
-- DE Germany (16478 total)
-- AT Austria (18957 total)
-- CH Switzerland (4521 total)
-- LI Liechtenstein (13 total)
-- LU Luxembourg (4483 total)
+- DE Germany (16478)
+- AT Austria (18957)
+- CH Switzerland (4521)
+- LI Liechtenstein (13)
+- LU Luxembourg (4483)
 - AD (7)
 - AR (20260)
 - AS (1)
@@ -101,7 +101,7 @@ Postal codes for German speaking countries.
 
 ## Format
 
-Ready to go files in JSON and CSV format.
+Ready to go files in JSON, XML and CSV format.
 
 ### JSON
 
@@ -130,10 +130,30 @@ Ready to go files in JSON and CSV format.
 
 ```
 
+### XML
+
+```
+  <object>
+    <country_code>DE</country-code>
+    <zipcode>01945</zipcode>
+    <place>Grünewald</place>
+    <state>Brandenburg</state>
+    <state_code>BB</state-code>
+    <province></province>
+    <province_code>00</province-code>
+    <community>Landkreis Oberspreewald-Lausitz</community>
+    <community_code>12066</community-code>
+    <latitude>51.4</latitude>
+    <longitude>14</longitude>
+  </object>
+```
+
+### CSV
+
 ## License
 
 - Original creator: Data comes from http://www.geonames.org/
-- Modifications: Transformed dataset into JSON and CSV
+- Modifications: Transformed dataset into JSON, XML and CSV
 
 - Type: This work is licensed under a Creative Commons Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/
 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD100</zipcode>
+    <place>Canillo</place>
+    <state>Canillo</state>
+    <state_code>02</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.5833</latitude>
+    <longitude>1.6667</longitude>
+  </object>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD200</zipcode>
+    <place>Encamp</place>
+    <state>Encamp</state>
+    <state_code>03</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.5333</latitude>
+    <longitude>1.6333</longitude>
+  </object>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD400</zipcode>
+    <place>La Massana</place>
+    <state>La Massana</state>
+    <state_code>04</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.5667</latitude>
+    <longitude>1.4833</longitude>
+  </object>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD300</zipcode>
+    <place>Ordino</place>
+    <state>Ordino</state>
+    <state_code>05</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.6</latitude>
+    <longitude>1.55</longitude>
+  </object>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD600</zipcode>
+    <place>Sant Julià de Lòria</place>
+    <state>Sant Julià de Lòria</state>
+    <state_code>06</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.4667</latitude>
+    <longitude>1.5</longitude>
+  </object>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD500</zipcode>
+    <place>Andorra la Vella</place>
+    <state>Andorra la Vella</state>
+    <state_code>07</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.5</latitude>
+    <longitude>1.5</longitude>
+  </object>
+  <object>
+    <country_code>AD</country_code>
+    <zipcode>AD700</zipcode>
+    <place>Escaldes-Engordany</place>
+    <state>Escaldes-Engordany</state>
+    <state_code>08</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>42.5</latitude>
+    <longitude>1.5667</longitude>
+  </object>
+</zipcodes>
+<to_s/>

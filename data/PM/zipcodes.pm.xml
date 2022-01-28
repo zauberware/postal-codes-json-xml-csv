@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>PM</country_code>
+    <zipcode>97500</zipcode>
+    <place>Miquelon</place>
+    <state>Miquelon-Langlade</state>
+    <state_code>97501</state_code>
+    <province>Miquelon-Langlade</province>
+    <province_code>97501</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>47.0975</latitude>
+    <longitude>-56.3814</longitude>
+  </object>
+  <object>
+    <country_code>PM</country_code>
+    <zipcode>97500</zipcode>
+    <place>Saint-Pierre</place>
+    <state>Saint-Pierre</state>
+    <state_code>97502</state_code>
+    <province></province>
+    <province_code></province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>46.7809</latitude>
+    <longitude>-56.172</longitude>
+  </object>
+</zipcodes>
+<to_s/>

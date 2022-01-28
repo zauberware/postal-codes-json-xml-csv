@@ -1,0 +1,6387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209100</zipcode>
+    <place>Dedza Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.2627</latitude>
+    <longitude>34.1856</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209101</zipcode>
+    <place>Tambala</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0333</latitude>
+    <longitude>34.2333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209102</zipcode>
+    <place>Chauma</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.2627</latitude>
+    <longitude>34.1856</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209103</zipcode>
+    <place>Kasumbu</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.3</latitude>
+    <longitude>34.35</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209104</zipcode>
+    <place>Kachindamoto</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.3606</latitude>
+    <longitude>34.2637</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209105</zipcode>
+    <place>Kamenya Gwaza</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.3667</latitude>
+    <longitude>34.45</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209106</zipcode>
+    <place>Kaphuka</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.15</latitude>
+    <longitude>34.1667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209107</zipcode>
+    <place>Chilikumwendo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.2167</latitude>
+    <longitude>33.95</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>209108</zipcode>
+    <place>Kachere</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dedza</province>
+    <province_code>06</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.4167</latitude>
+    <longitude>34.1167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204100</zipcode>
+    <place>Dowa BOMA</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.601</latitude>
+    <longitude>33.8238</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204101</zipcode>
+    <place>Chakhaza</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.65</latitude>
+    <longitude>33.7333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204102</zipcode>
+    <place>Dzoole</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5791</latitude>
+    <longitude>33.6588</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204103</zipcode>
+    <place>Kayembe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.6331</latitude>
+    <longitude>33.6001</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204104</zipcode>
+    <place>Mponela</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5319</latitude>
+    <longitude>33.7401</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204105</zipcode>
+    <place>Mponela Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.601</latitude>
+    <longitude>33.8238</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204106</zipcode>
+    <place>Msakambewa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5357</latitude>
+    <longitude>33.9178</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204107</zipcode>
+    <place>Mkukula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7545</latitude>
+    <longitude>33.8265</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204108</zipcode>
+    <place>Lumbadzi Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.601</latitude>
+    <longitude>33.8238</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>204109</zipcode>
+    <place>Chiwere</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Dowa</province>
+    <province_code>07</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7667</latitude>
+    <longitude>34.1333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201100</zipcode>
+    <place>Chisikwa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14</latitude>
+    <longitude>33.4833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201101</zipcode>
+    <place>Kaluluma</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.5783</latitude>
+    <longitude>33.5196</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201102</zipcode>
+    <place>Chisinga</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201103</zipcode>
+    <place>Chisemphere</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2333</latitude>
+    <longitude>33.4667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201104</zipcode>
+    <place>Chulu</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.82</latitude>
+    <longitude>33.3086</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201105</zipcode>
+    <place>M’nyanja</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201106</zipcode>
+    <place>Simlemba</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.7444</latitude>
+    <longitude>33.6745</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201107</zipcode>
+    <place>Mphomwa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8075</latitude>
+    <longitude>33.4334</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201108</zipcode>
+    <place>Kaphaizi</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201109</zipcode>
+    <place>Mwase</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.0667</latitude>
+    <longitude>33.4333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201110</zipcode>
+    <place>Kaomba</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.1</latitude>
+    <longitude>33.5</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201111</zipcode>
+    <place>Wimbe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.9765</latitude>
+    <longitude>33.6837</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201112</zipcode>
+    <place>Kapelula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.9062</latitude>
+    <longitude>33.8019</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201113</zipcode>
+    <place>Kapichira</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8833</latitude>
+    <longitude>33.9333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201114</zipcode>
+    <place>Mdunga</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.9863</latitude>
+    <longitude>33.8332</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201115</zipcode>
+    <place>Chilowamatambe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201116</zipcode>
+    <place>Chambwe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2</latitude>
+    <longitude>33.65</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201117</zipcode>
+    <place>Mangwazu</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201118</zipcode>
+    <place>Mawawa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.1</latitude>
+    <longitude>33.3833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201119</zipcode>
+    <place>Lukwa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.1</latitude>
+    <longitude>33.45</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201120</zipcode>
+    <place>Njombwa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.3</latitude>
+    <longitude>33.5167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201121</zipcode>
+    <place>Kawamba</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2969</latitude>
+    <longitude>33.341</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201122</zipcode>
+    <place>Nthunduwala</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201123</zipcode>
+    <place>Chaima</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.3167</latitude>
+    <longitude>33.4833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201124</zipcode>
+    <place>Chidzuma</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201125</zipcode>
+    <place>Santhe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.467</latitude>
+    <longitude>33.3838</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201126</zipcode>
+    <place>Kasungu National Park</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Rural</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201300</zipcode>
+    <place>Kasungu Central Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201301</zipcode>
+    <place>Chipala</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201302</zipcode>
+    <place>Mponda</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.6333</latitude>
+    <longitude>33.45</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201303</zipcode>
+    <place>Bunda</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201304</zipcode>
+    <place>Belele</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201305</zipcode>
+    <place>Chankhanga</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201306</zipcode>
+    <place>Kasalika</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.0333</latitude>
+    <longitude>33.5</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201307</zipcode>
+    <place>Kapalankhwazi</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201308</zipcode>
+    <place>Chitete</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.4167</latitude>
+    <longitude>33.8333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201309</zipcode>
+    <place>Kamvunguti</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201310</zipcode>
+    <place>Chimbuna</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>201311</zipcode>
+    <place>Gundani</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Kasungu Municipality</province>
+    <province_code>09</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.05</latitude>
+    <longitude>33.5</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206101</zipcode>
+    <place>Khongoni</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8528</latitude>
+    <longitude>33.3737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206102</zipcode>
+    <place>Kabudula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.6667</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206103</zipcode>
+    <place>Mtema</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8167</latitude>
+    <longitude>33.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206104</zipcode>
+    <place>Mbang’ombe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206105</zipcode>
+    <place>Chitukula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7819</latitude>
+    <longitude>33.7493</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206106</zipcode>
+    <place>Chimutu</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0667</latitude>
+    <longitude>33.8167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206107</zipcode>
+    <place>Chitekwele</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206108</zipcode>
+    <place>Mazengera</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0667</latitude>
+    <longitude>33.9667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206109</zipcode>
+    <place>Kalumbu</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.1351</latitude>
+    <longitude>33.9471</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206110</zipcode>
+    <place>Chadza</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.157</latitude>
+    <longitude>33.8429</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206111</zipcode>
+    <place>Kalumba</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0833</latitude>
+    <longitude>33.8167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206112</zipcode>
+    <place>Tsabango</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206113</zipcode>
+    <place>Njewa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9833</latitude>
+    <longitude>33.7167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206114</zipcode>
+    <place>Malili</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0784</latitude>
+    <longitude>33.6959</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206115</zipcode>
+    <place>Kalolo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14</latitude>
+    <longitude>33.3833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206116</zipcode>
+    <place>Masumbankhunda</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206117</zipcode>
+    <place>Chiseka</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>206118</zipcode>
+    <place>Masula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Rural</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.1597</latitude>
+    <longitude>33.6943</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207201</zipcode>
+    <place>Area 1</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0012</latitude>
+    <longitude>33.7727</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207202</zipcode>
+    <place>Area 2</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207203</zipcode>
+    <place>Area 3</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207204</zipcode>
+    <place>Area 4</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207205</zipcode>
+    <place>Area 5</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207206</zipcode>
+    <place>Area 6</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207207</zipcode>
+    <place>Area 7</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.987</latitude>
+    <longitude>33.798</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207208</zipcode>
+    <place>Area 8</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207209</zipcode>
+    <place>Area 9</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207210</zipcode>
+    <place>Area 10</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207211</zipcode>
+    <place>Area 11</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207212</zipcode>
+    <place>Area 12</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207213</zipcode>
+    <place>Area 13</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207214</zipcode>
+    <place>Area 14</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207215</zipcode>
+    <place>Area 15</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207216</zipcode>
+    <place>Area 16</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207217</zipcode>
+    <place>Area 17</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207218</zipcode>
+    <place>Area 18</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9417</latitude>
+    <longitude>33.766</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207219</zipcode>
+    <place>Area 19</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207220</zipcode>
+    <place>Area 20</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207221</zipcode>
+    <place>Area 21</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9937</latitude>
+    <longitude>33.8112</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207222</zipcode>
+    <place>Area 22</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0116</latitude>
+    <longitude>33.7991</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207223</zipcode>
+    <place>Area 23</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0168</latitude>
+    <longitude>33.7941</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207224</zipcode>
+    <place>Area 24</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.026</latitude>
+    <longitude>33.7956</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207225</zipcode>
+    <place>Area 25</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8795</latitude>
+    <longitude>33.7242</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207226</zipcode>
+    <place>Area 26</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207227</zipcode>
+    <place>Area 27</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207228</zipcode>
+    <place>Area 28</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207229</zipcode>
+    <place>Area 29</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207230</zipcode>
+    <place>Area 30</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207231</zipcode>
+    <place>Area 31</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207232</zipcode>
+    <place>Area 32</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207233</zipcode>
+    <place>Area 33</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207234</zipcode>
+    <place>Area 34</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207235</zipcode>
+    <place>Area 35</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207236</zipcode>
+    <place>Area 36</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0226</latitude>
+    <longitude>33.7847</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207237</zipcode>
+    <place>Area 37</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207238</zipcode>
+    <place>Area 38</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207239</zipcode>
+    <place>Area 39</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207240</zipcode>
+    <place>Area 40</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207241</zipcode>
+    <place>Area 41</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207242</zipcode>
+    <place>Area 42</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207243</zipcode>
+    <place>Area 43</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207244</zipcode>
+    <place>Area 44</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9607</latitude>
+    <longitude>33.8526</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207245</zipcode>
+    <place>Area 45</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207246</zipcode>
+    <place>Area 46</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207247</zipcode>
+    <place>Area 47</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9581</latitude>
+    <longitude>33.7548</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207248</zipcode>
+    <place>Area 48</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207249</zipcode>
+    <place>Area 49</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9209</latitude>
+    <longitude>33.7467</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207250</zipcode>
+    <place>Area 50</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9096</latitude>
+    <longitude>33.7701</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207251</zipcode>
+    <place>Area 51</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207252</zipcode>
+    <place>Area 52</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207253</zipcode>
+    <place>Area 53</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207254</zipcode>
+    <place>Area 54</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207255</zipcode>
+    <place>Area 55</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8343</latitude>
+    <longitude>33.7631</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207256</zipcode>
+    <place>Area 56</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207257</zipcode>
+    <place>Area 57</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0106</latitude>
+    <longitude>33.7022</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>207258</zipcode>
+    <place>Area 58</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Lilongwe Urban</province>
+    <province_code>11</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.0196</latitude>
+    <longitude>33.6841</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205100</zipcode>
+    <place>Mchinji BOMA</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7623</latitude>
+    <longitude>33.08</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205101</zipcode>
+    <place>Gumba</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.424</latitude>
+    <longitude>33.1102</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205102</zipcode>
+    <place>Mkanda</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5147</latitude>
+    <longitude>32.9597</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205103</zipcode>
+    <place>Dambe</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7623</latitude>
+    <longitude>33.08</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205104</zipcode>
+    <place>Pitala</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7623</latitude>
+    <longitude>33.08</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205105</zipcode>
+    <place>Kazyozyo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5676</latitude>
+    <longitude>32.8613</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205106</zipcode>
+    <place>Kapunula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5874</latitude>
+    <longitude>32.7819</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205107</zipcode>
+    <place>Kapondo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7623</latitude>
+    <longitude>33.08</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205108</zipcode>
+    <place>Mduwa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7211</latitude>
+    <longitude>33.0853</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205109</zipcode>
+    <place>Nyoka</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7004</latitude>
+    <longitude>32.9056</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205110</zipcode>
+    <place>Mlonyeni</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8582</latitude>
+    <longitude>33.026</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205111</zipcode>
+    <place>Zulu</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8147</latitude>
+    <longitude>32.9688</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205112</zipcode>
+    <place>Simphasi</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7623</latitude>
+    <longitude>33.08</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>205113</zipcode>
+    <place>Mavwere</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Mchinji</province>
+    <province_code>13</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7623</latitude>
+    <longitude>33.08</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210100</zipcode>
+    <place>Ntcheu BOMA</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.75</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210101</zipcode>
+    <place>Masasa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.4359</latitude>
+    <longitude>34.4332</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210102</zipcode>
+    <place>Chakhumbira</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.5667</latitude>
+    <longitude>34.7</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210103</zipcode>
+    <place>Goodson Ganya</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.75</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210104</zipcode>
+    <place>Njolomole</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.6493</latitude>
+    <longitude>34.5579</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210105</zipcode>
+    <place>Kwataine</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.8333</latitude>
+    <longitude>34.6833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210106</zipcode>
+    <place>Makwangwala</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.8</latitude>
+    <longitude>34.7667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210107</zipcode>
+    <place>Mkutumula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.846</latitude>
+    <longitude>34.8927</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210108</zipcode>
+    <place>Champiti</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.75</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210109</zipcode>
+    <place>Mpando</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.4333</latitude>
+    <longitude>33.85</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210110</zipcode>
+    <place>Phambala</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.1167</latitude>
+    <longitude>33.9667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>210111</zipcode>
+    <place>Tsikulamowa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntcheu</province>
+    <province_code>16</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.75</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202100</zipcode>
+    <place>Nkhotakota BOMA</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8042</latitude>
+    <longitude>34.083</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202101</zipcode>
+    <place>Kafuzila</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.3</latitude>
+    <longitude>34.0333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202102</zipcode>
+    <place>Kanyenda</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.4676</latitude>
+    <longitude>34.0893</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202103</zipcode>
+    <place>Dwangwa Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8042</latitude>
+    <longitude>34.083</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202104</zipcode>
+    <place>Mphonde</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8011</latitude>
+    <longitude>34.2245</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202105</zipcode>
+    <place>Malenga Chanzi</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8042</latitude>
+    <longitude>34.083</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202106</zipcode>
+    <place>Kalimanjira</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8042</latitude>
+    <longitude>34.083</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202107</zipcode>
+    <place>Mwadzama</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.4116</latitude>
+    <longitude>34.2848</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202108</zipcode>
+    <place>Mwansambo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.3093</latitude>
+    <longitude>34.1178</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>202109</zipcode>
+    <place>Nkhotakota Game Reserve</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Nkhota Kota</province>
+    <province_code>18</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.8042</latitude>
+    <longitude>34.083</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203100</zipcode>
+    <place>Ntchisi BOMA</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.5277</latitude>
+    <longitude>33.9149</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203101</zipcode>
+    <place>Chilooko</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2957</latitude>
+    <longitude>33.908</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203102</zipcode>
+    <place>Nthondo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.25</latitude>
+    <longitude>34.0167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203103</zipcode>
+    <place>Malenga</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.3337</latitude>
+    <longitude>33.8904</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203104</zipcode>
+    <place>Kasakula</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.35</latitude>
+    <longitude>34.0833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203105</zipcode>
+    <place>Kalumo</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2957</latitude>
+    <longitude>33.908</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203106</zipcode>
+    <place>Vuso Jere</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.2957</latitude>
+    <longitude>33.908</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>203107</zipcode>
+    <place>Chikho</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Ntchisi</province>
+    <province_code>20</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.3839</latitude>
+    <longitude>34.0834</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208100</zipcode>
+    <place>Salima Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7196</latitude>
+    <longitude>34.4018</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208101</zipcode>
+    <place>Msosa</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7196</latitude>
+    <longitude>34.4018</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208102</zipcode>
+    <place>Khombedza</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7196</latitude>
+    <longitude>34.4018</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208103</zipcode>
+    <place>Mwanza</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.6</latitude>
+    <longitude>33.4667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208104</zipcode>
+    <place>Kuluunda</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7196</latitude>
+    <longitude>34.4018</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208105</zipcode>
+    <place>Karonga</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7707</latitude>
+    <longitude>34.4405</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208106</zipcode>
+    <place>Maganga</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.875</latitude>
+    <longitude>34.5778</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208107</zipcode>
+    <place>Kambwiri</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7955</latitude>
+    <longitude>34.4081</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208108</zipcode>
+    <place>Pemba</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.8199</latitude>
+    <longitude>34.5126</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208109</zipcode>
+    <place>Ndindi</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.9725</latitude>
+    <longitude>34.5132</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208110</zipcode>
+    <place>Chipoka Township</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7196</latitude>
+    <longitude>34.4018</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>208111</zipcode>
+    <place>Kambalame</place>
+    <state>Central Region</state>
+    <state_code>C</state_code>
+    <province>Salima</province>
+    <province_code>22</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7196</latitude>
+    <longitude>34.4018</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101100</zipcode>
+    <place>Chitipa BOMA</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101101</zipcode>
+    <place>Kameme</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.5667</latitude>
+    <longitude>33.0833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101102</zipcode>
+    <place>Bulambya Songwe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101103</zipcode>
+    <place>Mwabulambya</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101104</zipcode>
+    <place>Mwenemisuku</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101105</zipcode>
+    <place>Lwangwa</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101106</zipcode>
+    <place>Mwenewenya</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1121</latitude>
+    <longitude>33.5742</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101107</zipcode>
+    <place>Nthengatenga</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101108</zipcode>
+    <place>Nthalire</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.3349</latitude>
+    <longitude>33.6257</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>101109</zipcode>
+    <place>Wavikaza</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Chitipa</province>
+    <province_code>04</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9273</latitude>
+    <longitude>33.4254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102100</zipcode>
+    <place>Karonga</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-9.9333</latitude>
+    <longitude>33.9333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102101</zipcode>
+    <place>Songwe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1115</latitude>
+    <longitude>33.8815</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102102</zipcode>
+    <place>Mwakaboko</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1115</latitude>
+    <longitude>33.8815</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102103</zipcode>
+    <place>Kilupula</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1115</latitude>
+    <longitude>33.8815</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102104</zipcode>
+    <place>Kyungu</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1115</latitude>
+    <longitude>33.8815</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102105</zipcode>
+    <place>Mwirang’ombe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1115</latitude>
+    <longitude>33.8815</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>102106</zipcode>
+    <place>Wasambo</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Karonga</province>
+    <province_code>08</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.1115</latitude>
+    <longitude>33.8815</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104100</zipcode>
+    <place>Mzimba BOMA</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104101</zipcode>
+    <place>Jaravikuba Munthali</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104102</zipcode>
+    <place>Mtwalo</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.3833</latitude>
+    <longitude>33.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104103</zipcode>
+    <place>Ekwendeni Township</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104104</zipcode>
+    <place>Mpherembe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.2833</latitude>
+    <longitude>33.6</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104105</zipcode>
+    <place>Chindi</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.45</latitude>
+    <longitude>33.4167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104106</zipcode>
+    <place>Kampingo Sibande</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.4833</latitude>
+    <longitude>33.8</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104107</zipcode>
+    <place>M’mbelwa</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.6264</latitude>
+    <longitude>33.6159</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104108</zipcode>
+    <place>Mzukuzuku</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104109</zipcode>
+    <place>Mzikubola</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104110</zipcode>
+    <place>Levi Jere</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.351</latitude>
+    <longitude>33.5664</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104111</zipcode>
+    <place>Jenda Township</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104112</zipcode>
+    <place>Mabulabo</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.5954</latitude>
+    <longitude>33.6011</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104113</zipcode>
+    <place>Khosolo Gwaza Jere</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>104114</zipcode>
+    <place>Vwaza Marsh Reserve</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzimba</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105200</zipcode>
+    <place>Mzuzu CBD</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105201</zipcode>
+    <place>Khorongo</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105202</zipcode>
+    <place>Lupaso</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105203</zipcode>
+    <place>Luwinga</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105204</zipcode>
+    <place>Mchengautuwa</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105205</zipcode>
+    <place>Chibanja</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105206</zipcode>
+    <place>Katoto</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.4592</latitude>
+    <longitude>34.0096</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105207</zipcode>
+    <place>Zolozolo</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105208</zipcode>
+    <place>Hilltop</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105209</zipcode>
+    <place>Chiputula</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.4415</latitude>
+    <longitude>34.0165</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105210</zipcode>
+    <place>Mzilawaingwe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105211</zipcode>
+    <place>Katawa</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.9333</latitude>
+    <longitude>34.0167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105212</zipcode>
+    <place>Chasefu</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105213</zipcode>
+    <place>Lunyangwa</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105214</zipcode>
+    <place>Kaningína</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.4656</latitude>
+    <longitude>34.0207</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105215</zipcode>
+    <place>Masasa</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.0167</latitude>
+    <longitude>34.6167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>105216</zipcode>
+    <place>Msongwe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Mzuzu</province>
+    <province_code>15</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8543</latitude>
+    <longitude>33.6078</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106100</zipcode>
+    <place>Nkhata Bay BOMA</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.653</latitude>
+    <longitude>34.0532</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106101</zipcode>
+    <place>Mkondowe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.0417</latitude>
+    <longitude>34.2127</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106102</zipcode>
+    <place>Boghoyo</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.1023</latitude>
+    <longitude>34.2252</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106103</zipcode>
+    <place>M’bwana</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.653</latitude>
+    <longitude>34.0532</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106104</zipcode>
+    <place>Nyaluwanga</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.653</latitude>
+    <longitude>34.0532</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106105</zipcode>
+    <place>Timbiri</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.5428</latitude>
+    <longitude>34.192</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106106</zipcode>
+    <place>Mkumbira</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.653</latitude>
+    <longitude>34.0532</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106107</zipcode>
+    <place>Mankhambira</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.7206</latitude>
+    <longitude>34.2958</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106108</zipcode>
+    <place>Fukamalaza</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.75</latitude>
+    <longitude>34.2333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106109</zipcode>
+    <place>Malanda</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.8667</latitude>
+    <longitude>34.1667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106110</zipcode>
+    <place>Kabunduli</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.7333</latitude>
+    <longitude>34.0667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106111</zipcode>
+    <place>Malenga Mzoma</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.9323</latitude>
+    <longitude>34.1334</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106112</zipcode>
+    <place>Fukamapiri</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.952</latitude>
+    <longitude>34.1163</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>106113</zipcode>
+    <place>Zilakoma</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Nkhata Bay</province>
+    <province_code>17</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.0905</latitude>
+    <longitude>34.0557</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103100</zipcode>
+    <place>Rumphi BOMA</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-11.0186</latitude>
+    <longitude>33.8575</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103101</zipcode>
+    <place>Mwalweni</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103102</zipcode>
+    <place>Kachulu</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103103</zipcode>
+    <place>Njikula</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103104</zipcode>
+    <place>Mwamlowe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103105</zipcode>
+    <place>Chapinduka</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103106</zipcode>
+    <place>Mwankhunikira</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103107</zipcode>
+    <place>Mwahenga</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.9167</latitude>
+    <longitude>33.9833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103108</zipcode>
+    <place>Chisovya</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103109</zipcode>
+    <place>Chikulamayembe</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103110</zipcode>
+    <place>Katumbi</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8125</latitude>
+    <longitude>33.5227</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103111</zipcode>
+    <place>Zolekere</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>103112</zipcode>
+    <place>Nyika National Park</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Rumphi</province>
+    <province_code>21</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-10.8029</latitude>
+    <longitude>33.8052</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>107100</zipcode>
+    <place>Likoma BOMA</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Likoma</province>
+    <province_code>27</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.0607</latitude>
+    <longitude>34.7361</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>107101</zipcode>
+    <place>Mkumpha</place>
+    <state>Northern Region</state>
+    <state_code>N</state_code>
+    <province>Likoma</province>
+    <province_code>27</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-12.0607</latitude>
+    <longitude>34.7361</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315100</zipcode>
+    <place>Chikwawa BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315101</zipcode>
+    <place>Chapananga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.0528</latitude>
+    <longitude>34.7777</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315102</zipcode>
+    <place>Kasisi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9577</latitude>
+    <longitude>34.7718</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315103</zipcode>
+    <place>Mlilima</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315104</zipcode>
+    <place>Katunga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.073</latitude>
+    <longitude>34.8196</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315105</zipcode>
+    <place>Maseya</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315106</zipcode>
+    <place>Ndakwela</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315107</zipcode>
+    <place>Lundu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9841</latitude>
+    <longitude>34.4487</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315108</zipcode>
+    <place>Nchalo Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315109</zipcode>
+    <place>Makhwira</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315110</zipcode>
+    <place>Ngabu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.4943</latitude>
+    <longitude>34.9115</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315111</zipcode>
+    <place>Ngabu Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315112</zipcode>
+    <place>Ngowe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315113</zipcode>
+    <place>Masache</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.5667</latitude>
+    <longitude>34.95</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315114</zipcode>
+    <place>Lengwe National Park</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>315115</zipcode>
+    <place>Majete Game Reserve</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chikwawa</province>
+    <province_code>02</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1667</latitude>
+    <longitude>34.75</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306100</zipcode>
+    <place>Chiradzulu BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6746</latitude>
+    <longitude>35.1407</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306101</zipcode>
+    <place>Chitera</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7527</latitude>
+    <longitude>35.2158</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306102</zipcode>
+    <place>Mpama</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.6077</latitude>
+    <longitude>35.469</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306103</zipcode>
+    <place>Nchema</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7527</latitude>
+    <longitude>35.2158</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306104</zipcode>
+    <place>Sandaraki</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7527</latitude>
+    <longitude>35.2158</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306105</zipcode>
+    <place>Kadewere</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.5</latitude>
+    <longitude>35.3833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306106</zipcode>
+    <place>Onga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.35</latitude>
+    <longitude>35.3833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306107</zipcode>
+    <place>Likoswe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7527</latitude>
+    <longitude>35.2158</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306108</zipcode>
+    <place>Mpunga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.8</latitude>
+    <longitude>35.5833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>306109</zipcode>
+    <place>Nkalo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Chiradzulu</province>
+    <province_code>03</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7527</latitude>
+    <longitude>35.2158</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>309300</zipcode>
+    <place>Luchenza Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Luchenza Municipality</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310100</zipcode>
+    <place>Thyolo BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310101</zipcode>
+    <place>Bvumbwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9167</latitude>
+    <longitude>35.0667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310102</zipcode>
+    <place>Thomas</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.0833</latitude>
+    <longitude>34.55</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310103</zipcode>
+    <place>Mphuka</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.2333</latitude>
+    <longitude>34.6833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310104</zipcode>
+    <place>Boyidi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310105</zipcode>
+    <place>Chimaliro</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310106</zipcode>
+    <place>Ngolongoliwa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310107</zipcode>
+    <place>Nanseta</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310108</zipcode>
+    <place>Ndalama</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310109</zipcode>
+    <place>Nchilamwela</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310110</zipcode>
+    <place>Kapichi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310111</zipcode>
+    <place>Kwethemule</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310112</zipcode>
+    <place>Changata</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310113</zipcode>
+    <place>Mbawela</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310114</zipcode>
+    <place>Nsabwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.3333</latitude>
+    <longitude>35.2167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>310115</zipcode>
+    <place>Thukuta</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Thyolo</province>
+    <province_code>05</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.1058</latitude>
+    <longitude>35.1506</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301100</zipcode>
+    <place>Lulanga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7833</latitude>
+    <longitude>35.6833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301101</zipcode>
+    <place>Makanjila</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-13.7088</latitude>
+    <longitude>35.0448</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301102</zipcode>
+    <place>Namabvi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301103</zipcode>
+    <place>Katuli</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301104</zipcode>
+    <place>Chowe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301105</zipcode>
+    <place>Jalasi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.3635</latitude>
+    <longitude>35.4454</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301106</zipcode>
+    <place>Mbwana Nyambi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301107</zipcode>
+    <place>Chiunda</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7595</latitude>
+    <longitude>35.3817</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301108</zipcode>
+    <place>Nankumba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.3645</latitude>
+    <longitude>34.8227</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301109</zipcode>
+    <place>Monkey Bay Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301110</zipcode>
+    <place>Mponda</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.4781</latitude>
+    <longitude>35.2645</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301111</zipcode>
+    <place>Ntonda</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.5239</latitude>
+    <longitude>35.3744</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301112</zipcode>
+    <place>Chilipa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.698</latitude>
+    <longitude>34.9779</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301113</zipcode>
+    <place>Chimwala</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.6386</latitude>
+    <longitude>35.1833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301114</zipcode>
+    <place>Lake Malawi National Park</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Rural</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301400</zipcode>
+    <place>Mangochi Central Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301401</zipcode>
+    <place>Koche</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301402</zipcode>
+    <place>Thundu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301403</zipcode>
+    <place>Chigawe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301404</zipcode>
+    <place>Mikomwa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301405</zipcode>
+    <place>Nkanamwano</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301406</zipcode>
+    <place>Kalungu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301407</zipcode>
+    <place>Msukamwere</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301408</zipcode>
+    <place>Mtumbwasi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301409</zipcode>
+    <place>Mwasa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301410</zipcode>
+    <place>Ndege</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301411</zipcode>
+    <place>Chikole</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>301412</zipcode>
+    <place>Msikisi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mangochi Town</province>
+    <province_code>12</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.393</latitude>
+    <longitude>35.3466</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316100</zipcode>
+    <place>Nsanje BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.75</latitude>
+    <longitude>35.1667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316101</zipcode>
+    <place>Mlolo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.75</latitude>
+    <longitude>35.1667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316102</zipcode>
+    <place>Mbenje</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.9804</latitude>
+    <longitude>35.2135</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316103</zipcode>
+    <place>Bangula Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.75</latitude>
+    <longitude>35.1667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316104</zipcode>
+    <place>Tengani</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.7333</latitude>
+    <longitude>35.2667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316105</zipcode>
+    <place>Malemia</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.45</latitude>
+    <longitude>34.8833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316106</zipcode>
+    <place>Ngabu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.9654</latitude>
+    <longitude>35.2166</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316107</zipcode>
+    <place>Makoko</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-17.0022</latitude>
+    <longitude>35.1912</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316108</zipcode>
+    <place>Chimombo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-17.0167</latitude>
+    <longitude>35.2333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316109</zipcode>
+    <place>Nyachikadza</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-17.1167</latitude>
+    <longitude>35.3</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316110</zipcode>
+    <place>Ndamera</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-17.0958</latitude>
+    <longitude>35.219</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>316111</zipcode>
+    <place>Mwabvi Game Reserve</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Nsanje</province>
+    <province_code>19</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.75</latitude>
+    <longitude>35.1667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304101</zipcode>
+    <place>Nkapita</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304102</zipcode>
+    <place>Malemia</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.2667</latitude>
+    <longitude>35.3667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304103</zipcode>
+    <place>Kuntumanji</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304104</zipcode>
+    <place>Mkumbira</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304105</zipcode>
+    <place>Nkagula</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304106</zipcode>
+    <place>Mlumbe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304107</zipcode>
+    <place>Ntholowa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304108</zipcode>
+    <place>Chikowi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4167</latitude>
+    <longitude>35.3</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304109</zipcode>
+    <place>Mwambo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4356</latitude>
+    <longitude>35.5144</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304110</zipcode>
+    <place>Ngwelero</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304111</zipcode>
+    <place>Mbiza</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>304112</zipcode>
+    <place>Zomba Mountain Reserve</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Rural</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305200</zipcode>
+    <place>Zomba CBD</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305201</zipcode>
+    <place>Ndola</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305202</zipcode>
+    <place>Zakazaka</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305203</zipcode>
+    <place>St Mary</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305204</zipcode>
+    <place>Nandolo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305205</zipcode>
+    <place>Chirunga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305206</zipcode>
+    <place>Masongola</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305207</zipcode>
+    <place>Mangasanja</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305208</zipcode>
+    <place>Mulunguzi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305209</zipcode>
+    <place>Old Naisi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305210</zipcode>
+    <place>Malonje</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.3667</latitude>
+    <longitude>35.35</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305211</zipcode>
+    <place>Chinamwali</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305212</zipcode>
+    <place>Matawale</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305213</zipcode>
+    <place>Thom Allan</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305214</zipcode>
+    <place>Mpunga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.8</latitude>
+    <longitude>35.5833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305215</zipcode>
+    <place>Sadzi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305216</zipcode>
+    <place>Mponda Bwino</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305217</zipcode>
+    <place>Three Miles</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305218</zipcode>
+    <place>Mtiya</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>305219</zipcode>
+    <place>Cobbe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Zomba Urban</province>
+    <province_code>23</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4301</latitude>
+    <longitude>35.4183</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311101</zipcode>
+    <place>Chigaru</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.3626</latitude>
+    <longitude>34.9397</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311102</zipcode>
+    <place>Lundu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.3833</latitude>
+    <longitude>34.9833</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311103</zipcode>
+    <place>Kunthembwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311104</zipcode>
+    <place>Kuntaja</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.513</latitude>
+    <longitude>34.4933</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311105</zipcode>
+    <place>Chileka</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6679</latitude>
+    <longitude>34.9376</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311106</zipcode>
+    <place>Kapeni</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.785</latitude>
+    <longitude>35.0085</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311107</zipcode>
+    <place>Lunzu Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311108</zipcode>
+    <place>Makata</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7872</latitude>
+    <longitude>35.0305</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311109</zipcode>
+    <place>Machinjiri</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.2325</latitude>
+    <longitude>35.4146</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311110</zipcode>
+    <place>Somba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8667</latitude>
+    <longitude>34.9667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>311111</zipcode>
+    <place>Mpemba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Rural</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8833</latitude>
+    <longitude>34.95</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312200</zipcode>
+    <place>Blantyre CBD</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312201</zipcode>
+    <place>Mapanga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312202</zipcode>
+    <place>Kachere</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8074</latitude>
+    <longitude>35.0233</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312203</zipcode>
+    <place>Maone</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312204</zipcode>
+    <place>Nkolokoti</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312205</zipcode>
+    <place>Ndirande</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7697</latitude>
+    <longitude>35.0416</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312206</zipcode>
+    <place>South Lunzu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312207</zipcode>
+    <place>Kameza</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312208</zipcode>
+    <place>Chirimba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312209</zipcode>
+    <place>Chemusa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312210</zipcode>
+    <place>Mbayani</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7717</latitude>
+    <longitude>35.003</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312211</zipcode>
+    <place>Nyambadwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7737</latitude>
+    <longitude>35.022</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312212</zipcode>
+    <place>Chilomoni</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7793</latitude>
+    <longitude>34.9824</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312213</zipcode>
+    <place>Namiwawa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312214</zipcode>
+    <place>Sunnyside</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7973</latitude>
+    <longitude>34.9955</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312215</zipcode>
+    <place>Nancholi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312216</zipcode>
+    <place>Zingwangwa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8186</latitude>
+    <longitude>35.0154</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312217</zipcode>
+    <place>Chilobwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8301</latitude>
+    <longitude>35.0069</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312218</zipcode>
+    <place>Chimwankhunda</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312219</zipcode>
+    <place>Manja</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312220</zipcode>
+    <place>Nkolokosa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8143</latitude>
+    <longitude>35.0031</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312221</zipcode>
+    <place>Chitawira</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312222</zipcode>
+    <place>Naperi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312223</zipcode>
+    <place>Mount Pleasant</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7984</latitude>
+    <longitude>35.0149</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312224</zipcode>
+    <place>Mandala</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.7937</latitude>
+    <longitude>35.0059</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312225</zipcode>
+    <place>Chichiri</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8025</latitude>
+    <longitude>35.0475</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312226</zipcode>
+    <place>Chinyonga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312227</zipcode>
+    <place>Kanjedza</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8175</latitude>
+    <longitude>35.0474</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312228</zipcode>
+    <place>Mudi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8012</latitude>
+    <longitude>35.0727</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312229</zipcode>
+    <place>Limbe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.809</latitude>
+    <longitude>35.0602</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312230</zipcode>
+    <place>Mpingwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8106</latitude>
+    <longitude>35.0713</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312231</zipcode>
+    <place>Bangwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8226</latitude>
+    <longitude>35.1006</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312232</zipcode>
+    <place>Namiyango</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312233</zipcode>
+    <place>BCA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312234</zipcode>
+    <place>Misesa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312235</zipcode>
+    <place>Chiwembe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.8344</latitude>
+    <longitude>35.0509</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312236</zipcode>
+    <place>Angelogothere</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312237</zipcode>
+    <place>Che Somba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6473</latitude>
+    <longitude>34.9396</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>312238</zipcode>
+    <place>Chigumula</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Blantyre Urban</province>
+    <province_code>24</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.916</latitude>
+    <longitude>35.0554</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>314100</zipcode>
+    <place>Mwanza BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mwanza</province>
+    <province_code>25</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6334</latitude>
+    <longitude>34.5168</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>314101</zipcode>
+    <place>Kanduku</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mwanza</province>
+    <province_code>25</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.5617</latitude>
+    <longitude>34.5026</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>314102</zipcode>
+    <place>Nthache</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mwanza</province>
+    <province_code>25</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6334</latitude>
+    <longitude>34.5168</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>314103</zipcode>
+    <place>Govati</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mwanza</province>
+    <province_code>25</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6334</latitude>
+    <longitude>34.5168</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302100</zipcode>
+    <place>Balaka</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9793</latitude>
+    <longitude>34.9557</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302101</zipcode>
+    <place>Kachenga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0484</latitude>
+    <longitude>35.0591</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302102</zipcode>
+    <place>Kalembo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.8446</latitude>
+    <longitude>35.1692</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302103</zipcode>
+    <place>Amidu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0484</latitude>
+    <longitude>35.0591</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302104</zipcode>
+    <place>Toleza</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9319</latitude>
+    <longitude>35.0084</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302105</zipcode>
+    <place>Matola</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9473</latitude>
+    <longitude>34.965</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302106</zipcode>
+    <place>Sawali</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0484</latitude>
+    <longitude>35.0591</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302107</zipcode>
+    <place>Msamala</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0484</latitude>
+    <longitude>35.0591</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302108</zipcode>
+    <place>Chanthunya</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0484</latitude>
+    <longitude>35.0591</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302109</zipcode>
+    <place>Phalula</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.2244</latitude>
+    <longitude>34.8903</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>302110</zipcode>
+    <place>Nkaya</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Balaka</province>
+    <province_code>26</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.1282</latitude>
+    <longitude>35.0298</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303100</zipcode>
+    <place>Machinja BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303101</zipcode>
+    <place>Liwonde Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303102</zipcode>
+    <place>Nyambi</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.6597</latitude>
+    <longitude>35.6276</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303103</zipcode>
+    <place>Chesale</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303104</zipcode>
+    <place>Ngokwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.75</latitude>
+    <longitude>35.6167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303105</zipcode>
+    <place>Chikweo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7648</latitude>
+    <longitude>35.6691</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303106</zipcode>
+    <place>Nchinguza</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303107</zipcode>
+    <place>Kapoloma</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7333</latitude>
+    <longitude>35.5667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303108</zipcode>
+    <place>Nkoola</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303109</zipcode>
+    <place>Chiwalo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7333</latitude>
+    <longitude>35.5333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303110</zipcode>
+    <place>Liwonde</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0667</latitude>
+    <longitude>35.2254</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303111</zipcode>
+    <place>Kawinga</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.85</latitude>
+    <longitude>35.55</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303112</zipcode>
+    <place>Mlomba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.0379</latitude>
+    <longitude>35.4639</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303113</zipcode>
+    <place>Nsanama</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9667</latitude>
+    <longitude>35.5167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303114</zipcode>
+    <place>Mposa</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.1667</latitude>
+    <longitude>35.5167</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303115</zipcode>
+    <place>Chamba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7775</latitude>
+    <longitude>35.3963</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303116</zipcode>
+    <place>Sitola</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303117</zipcode>
+    <place>Mkula</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.1723</latitude>
+    <longitude>35.3115</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>303118</zipcode>
+    <place>Liwonde National Park</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Machinga</province>
+    <province_code>28</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.9458</latitude>
+    <longitude>35.5737</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308100</zipcode>
+    <place>Mulanje BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-16.0316</latitude>
+    <longitude>35.5</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308101</zipcode>
+    <place>Juma</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.6167</latitude>
+    <longitude>35.6</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308102</zipcode>
+    <place>Nkanda</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308103</zipcode>
+    <place>Nthiramanja</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308104</zipcode>
+    <place>Chikumbu</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4667</latitude>
+    <longitude>35.35</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308105</zipcode>
+    <place>Tombondiya</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308106</zipcode>
+    <place>Mabuka</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308107</zipcode>
+    <place>Sunganinzeru</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308108</zipcode>
+    <place>Laston Njema</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>308109</zipcode>
+    <place>Mulanje Mountain Reserve</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Mulanje</province>
+    <province_code>29</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.9344</latitude>
+    <longitude>35.4999</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307100</zipcode>
+    <place>Phalombe BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307101</zipcode>
+    <place>Migowi Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307102</zipcode>
+    <place>Chiwalo</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-14.7333</latitude>
+    <longitude>35.5333</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307103</zipcode>
+    <place>Jenala</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307104</zipcode>
+    <place>Mkhumba</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307105</zipcode>
+    <place>Kaduya</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307106</zipcode>
+    <place>Nazombe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>307107</zipcode>
+    <place>Nkhulambe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Phalombe</province>
+    <province_code>30</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.6667</latitude>
+    <longitude>35.6667</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>313100</zipcode>
+    <place>Neno BOMA</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Neno</province>
+    <province_code>31</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4505</latitude>
+    <longitude>34.7003</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>313101</zipcode>
+    <place>Dambe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Neno</province>
+    <province_code>31</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.3819</latitude>
+    <longitude>34.5709</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>313102</zipcode>
+    <place>Chekucheku</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Neno</province>
+    <province_code>31</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4505</latitude>
+    <longitude>34.7003</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>313103</zipcode>
+    <place>Symon Likongwe</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Neno</province>
+    <province_code>31</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4505</latitude>
+    <longitude>34.7003</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>313104</zipcode>
+    <place>Zalewa Township</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Neno</province>
+    <province_code>31</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4505</latitude>
+    <longitude>34.7003</longitude>
+  </object>
+  <object>
+    <country_code>MW</country_code>
+    <zipcode>313105</zipcode>
+    <place>Mlauli</place>
+    <state>Southern Region</state>
+    <state_code>S</state_code>
+    <province>Neno</province>
+    <province_code>31</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-15.4761</latitude>
+    <longitude>34.6363</longitude>
+  </object>
+</zipcodes>
+<to_s/>

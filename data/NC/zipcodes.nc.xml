@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipcodes>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98811</zipcode>
+    <place>Bélep</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Bélep</province>
+    <province_code>98801</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-19.7333</latitude>
+    <longitude>163.6667</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98813</zipcode>
+    <place>Canala</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Canala</province>
+    <province_code>98804</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.517</latitude>
+    <longitude>165.9629</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98815</zipcode>
+    <place>Hienghéne</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Hienghéne</province>
+    <province_code>98807</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.6874</latitude>
+    <longitude>164.9377</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98816</zipcode>
+    <place>Houaïlou</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Houaïlou</province>
+    <province_code>98808</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.2865</latitude>
+    <longitude>165.6343</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98838</zipcode>
+    <place>Poro</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Houaïlou</province>
+    <province_code>98808</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.3167</latitude>
+    <longitude>165.6333</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98817</zipcode>
+    <place>Kaala-Gomén</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Kaala-Gomén</province>
+    <province_code>98810</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.6694</latitude>
+    <longitude>164.3977</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98859</zipcode>
+    <place>Koné</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Koné</province>
+    <province_code>98811</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.0595</latitude>
+    <longitude>164.8658</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98860</zipcode>
+    <place>Koné</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Koné</province>
+    <province_code>98811</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.0569</latitude>
+    <longitude>164.8663</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98850</zipcode>
+    <place>Koumac</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Koumac</province>
+    <province_code>98812</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.555</latitude>
+    <longitude>164.2717</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98821</zipcode>
+    <place>Ouégoa</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Ouégoa</province>
+    <province_code>98819</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.3485</latitude>
+    <longitude>164.4262</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98822</zipcode>
+    <place>Poindimié</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Poindimié</province>
+    <province_code>98822</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.9505</latitude>
+    <longitude>165.3415</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98823</zipcode>
+    <place>Ponérihouen</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Ponérihouen</province>
+    <province_code>98823</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.0765</latitude>
+    <longitude>165.4005</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98824</zipcode>
+    <place>Pouébo</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Pouébo</province>
+    <province_code>98824</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.3929</latitude>
+    <longitude>164.5827</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98825</zipcode>
+    <place>Pouembout</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Pouembout</province>
+    <province_code>98825</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.1076</latitude>
+    <longitude>164.9834</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98826</zipcode>
+    <place>Poum</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Poum</province>
+    <province_code>98826</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.2368</latitude>
+    <longitude>164.0292</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98827</zipcode>
+    <place>Poya</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Poya</province>
+    <province_code>98827</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.3449</latitude>
+    <longitude>165.164</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98877</zipcode>
+    <place>Népoui</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Poya</province>
+    <province_code>98827</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.3283</latitude>
+    <longitude>164.9985</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98831</zipcode>
+    <place>Touho</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Touho</province>
+    <province_code>98830</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.786</latitude>
+    <longitude>165.2423</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98833</zipcode>
+    <place>Voh</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Voh</province>
+    <province_code>98831</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.9467</latitude>
+    <longitude>164.6854</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98883</zipcode>
+    <place>Ouåco</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Voh</province>
+    <province_code>98831</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.8353</latitude>
+    <longitude>164.4694</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98818</zipcode>
+    <place>Kouaoua</place>
+    <state>Province Nord</state>
+    <state_code>01</state_code>
+    <province>Kouaoua</province>
+    <province_code>98833</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.3957</latitude>
+    <longitude>165.8283</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98812</zipcode>
+    <place>Bouloupari</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Bouloupari</province>
+    <province_code>98802</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.8607</latitude>
+    <longitude>166.0513</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98870</zipcode>
+    <place>Bourail</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Bourail</province>
+    <province_code>98803</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.5667</latitude>
+    <longitude>165.4667</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98830</zipcode>
+    <place>Dumbéa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Dumbéa</province>
+    <province_code>98805</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.1496</latitude>
+    <longitude>166.4473</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98835</zipcode>
+    <place>Dumbéa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Dumbéa</province>
+    <province_code>98805</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.1496</latitude>
+    <longitude>166.4473</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98836</zipcode>
+    <place>Dumbéa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Dumbéa</province>
+    <province_code>98805</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.1496</latitude>
+    <longitude>166.4473</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98837</zipcode>
+    <place>Dumbéa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Dumbéa</province>
+    <province_code>98805</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.1496</latitude>
+    <longitude>166.4473</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98839</zipcode>
+    <place>Dumbéa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Dumbéa</province>
+    <province_code>98805</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.1496</latitude>
+    <longitude>166.4473</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98880</zipcode>
+    <place>Farino</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Farino</province>
+    <province_code>98806</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.6651</latitude>
+    <longitude>165.776</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98881</zipcode>
+    <place>Farino</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Farino</province>
+    <province_code>98806</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.6667</latitude>
+    <longitude>165.7667</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98832</zipcode>
+    <place>L’Île des Pins</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>L’Île des Pins</province>
+    <province_code>98809</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.6167</latitude>
+    <longitude>167.4833</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98880</zipcode>
+    <place>La Foa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>La Foa</province>
+    <province_code>98813</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.7079</latitude>
+    <longitude>165.8252</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98819</zipcode>
+    <place>Moindou</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Moindou</province>
+    <province_code>98816</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.6986</latitude>
+    <longitude>165.6804</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98809</zipcode>
+    <place>Le Mont-Dore</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Le Mont-Dore</province>
+    <province_code>98817</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.2799</latitude>
+    <longitude>166.5805</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98810</zipcode>
+    <place>Mont-Dore</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Le Mont-Dore</province>
+    <province_code>98817</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.2626</latitude>
+    <longitude>166.5662</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98874</zipcode>
+    <place>Pont des Français</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Le Mont-Dore</province>
+    <province_code>98817</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.2167</latitude>
+    <longitude>166.4833</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98875</zipcode>
+    <place>Plum</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Le Mont-Dore</province>
+    <province_code>98817</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.2723</latitude>
+    <longitude>166.6144</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98876</zipcode>
+    <place>La Coulée</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Le Mont-Dore</province>
+    <province_code>98817</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.2313</latitude>
+    <longitude>166.5758</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98800</zipcode>
+    <place>Nouméa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Nouméa</province>
+    <province_code>98818</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.2667</latitude>
+    <longitude>166.4667</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98840</zipcode>
+    <place>La Tontouta</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Païta</province>
+    <province_code>98821</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.0128</latitude>
+    <longitude>166.2237</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98889</zipcode>
+    <place>Païta</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Païta</province>
+    <province_code>98821</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.131</latitude>
+    <longitude>166.3572</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98890</zipcode>
+    <place>Païta</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Païta</province>
+    <province_code>98821</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.1299</latitude>
+    <longitude>166.3639</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98880</zipcode>
+    <place>Sarraméa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Sarraméa</province>
+    <province_code>98828</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.6421</latitude>
+    <longitude>165.8451</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98882</zipcode>
+    <place>Sarraméa</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Sarraméa</province>
+    <province_code>98828</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.65</latitude>
+    <longitude>165.85</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98829</zipcode>
+    <place>Thio</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Thio</province>
+    <province_code>98829</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.6057</latitude>
+    <longitude>166.2146</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98834</zipcode>
+    <place>Yaté</place>
+    <state>Province Sud</state>
+    <state_code>02</state_code>
+    <province>Yaté</province>
+    <province_code>98832</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-22.0833</latitude>
+    <longitude>166.75</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98820</zipcode>
+    <place>Wé</place>
+    <state>Îles Loyauté</state>
+    <state_code>03</state_code>
+    <province>Lifou</province>
+    <province_code>98814</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.9169</latitude>
+    <longitude>167.2646</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98884</zipcode>
+    <place>Chépénéhé</place>
+    <state>Îles Loyauté</state>
+    <state_code>03</state_code>
+    <province>Lifou</province>
+    <province_code>98814</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.7833</latitude>
+    <longitude>167.15</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98885</zipcode>
+    <place>Mou</place>
+    <state>Îles Loyauté</state>
+    <state_code>03</state_code>
+    <province>Lifou</province>
+    <province_code>98814</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.0936</latitude>
+    <longitude>167.399</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98828</zipcode>
+    <place>Tadine</place>
+    <state>Îles Loyauté</state>
+    <state_code>03</state_code>
+    <province>Maré</province>
+    <province_code>98815</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.55</latitude>
+    <longitude>167.8833</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98878</zipcode>
+    <place>La Roche</place>
+    <state>Îles Loyauté</state>
+    <state_code>03</state_code>
+    <province>Maré</province>
+    <province_code>98815</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-21.478</latitude>
+    <longitude>168.0259</longitude>
+  </object>
+  <object>
+    <country_code>NC</country_code>
+    <zipcode>98814</zipcode>
+    <place>Fayaoué</place>
+    <state>Îles Loyauté</state>
+    <state_code>03</state_code>
+    <province>Ouvéa</province>
+    <province_code>98820</province_code>
+    <community></community>
+    <community_code></community_code>
+    <latitude>-20.6528</latitude>
+    <longitude>166.5364</longitude>
+  </object>
+</zipcodes>
+<to_s/>
