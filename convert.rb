@@ -3,7 +3,7 @@ require 'json'
 require 'fileutils'
 require 'csv'
 require 'builder'
-require 'zip'
+require 'zip' # rubyzip
 
 # download latest allCountries from gronames.org
 file_name = 'allCountries.txt'
