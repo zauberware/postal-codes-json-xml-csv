@@ -5,6 +5,7 @@
 Your search for postal-codes and geo data ends here 🎉🎉 This repository offers a comprehensive list of postal codes from around the globe in JSON, XML, and CSV formats. Ideal for applications that need simple postal code verification, data analysis, or any project that benefits from geolocation data, this repository simplifies the integration of postal code data across different software environments. Access this universal dataset today to enhance the geographical functionality of your projects with ease.
 
 ## Countries (number of postal codes)
+Last update: 2024-06-18
 
 - DE (16477) - Germany
 - AT (18957) - Austria
