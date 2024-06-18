@@ -1,6 +1,6 @@
 # Postal Codes in JSON, XML and CSV format
 
-**Postal codes/ zipcodes with geo data from geonames.org converted to JSON, XML and JSON.**
+**Postal codes/ zipcodes with geo data from geonames.org converted to JSON, XML and CSV.**
 
 Your search for postal-codes and geo data ends here 🎉🎉 This repository offers a comprehensive list of postal codes from around the globe in JSON, XML, and CSV formats. Ideal for applications that need simple postal code verification, data analysis, or any project that benefits from geolocation data, this repository simplifies the integration of postal code data across different software environments. Access this universal dataset today to enhance the geographical functionality of your projects with ease.
 
