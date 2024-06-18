@@ -1,103 +1,112 @@
 # Postal Codes in JSON, XML and CSV format
 
-Postal codes/ zipcodes from geonames.org converted to JSON, XML and JSON.
+**Postal codes/ zipcodes with geo data from geonames.org converted to JSON, XML and JSON.**
+
+Your search for postal-codes and geo data ends here 🎉🎉 This repository offers a comprehensive list of postal codes from around the globe in JSON, XML, and CSV formats. Ideal for applications that need simple postal code verification, data analysis, or any project that benefits from geolocation data, this repository simplifies the integration of postal code data across different software environments. Access this universal dataset today to enhance the geographical functionality of your projects with ease.
 
 ## Countries (number of postal codes)
 
-- DE Germany (16478)
-- AT Austria (18957)
-- CH Switzerland (4521)
-- LI Liechtenstein (13)
-- LU Luxembourg (4483)
-- AD (7)
-- AR (20260)
-- AS (1)
-- AU (16873)
-- AX (37)
-- AZ (1186)
-- BD (1349)
-- BE (2781)
-- BG (5304)
-- BM (112)
-- BR (5525)
-- BY (3133)
-- CA (1655)
-- CL (346)
-- CO (3681)
-- CR (473)
-- CY (1127)
-- CZ (15507)
-- DK (1471)
-- DO (544)
-- DZ (15951)
-- EE (5398)
-- ES (37867)
-- FI (3576)
-- FM (4)
-- FO (130)
-- FR (51671)
-- GB (27430)
-- GF (77)
-- GG (14)
-- GL (33)
-- GP (105)
-- GT (548)
-- GU (21)
-- HR (6774)
-- HU (3571)
-- IE (139)
-- IM (87)
-- IN (155570)
-- IS (147)
-- IT (18358)
-- JE (4)
-- JP (146916)
-- KR (35583)
-- LK (1837)
-- LT (21870)
-- LV (6101)
-- MC (29)
-- MD (1753)
-- MH (2)
-- MK (220)
-- MP (3)
-- MQ (100)
-- MT (73)
-- MW (491)
-- MX (144655)
-- MY (2818)
-- NC (52)
-- NL (4182)
-- NO (5079)
-- NZ (1738)
-- PE (96943)
-- PH (2231)
-- PK (2563)
-- PL (72900)
-- PM (2)
-- PR (177)
-- PT (206942)
-- PW (1)
-- RE (152)
-- RO (37915)
-- RS (1155)
-- RU (43538)
-- SE (16862)
-- SG (121154)
-- SI (556)
-- SJ (8)
-- SK (4231)
-- SM (26)
-- TH (903)
-- TR (36307)
-- UA (29571)
-- US (41483)
-- UY (1964)
-- VA (1)
-- VI (16)
-- WF (3)
-- YT (21)
-- ZA (3920)
+- DE (16477) - Germany
+- AT (18957) - Austria
+- CH (4521) - Switzerland
+- LI (13) - Liechtenstein
+- LU (4519) - Luxembourg
+
+- AD (7) - Andorra
+- AR (20260) - Argentina
+- AS (1) - American Samoa
+- AU (16873) - Australia
+- AX (37) - Åland Islands
+- AZ (1186) - Azerbaijan
+- BD (1349) - Bangladesh
+- BE (2781) - Belgium
+- BG (5304) - Bulgaria
+- BM (112) - Bermuda
+- BR (5525) - Brazil
+- BY (3133) - Belarus
+- CA (1655) - Canada
+- CL (346) - Chile
+- CN (2352) - China
+- CO (3681) - Colombia
+- CR (473) - Costa Rica
+- CY (1127) - Cyprus
+- CZ (15507) - Czech Republic
+- DK (1159) - Denmark
+- DO (544) - Dominican Republic
+- DZ (15951) - Algeria
+- EC (1225) - Ecuador
+- EE (5398) - Estonia
+- ES (37867) - Spain
+- FI (3576) - Finland
+- FM (4) - Federated States of Micronesia
+- FO (130) - Faroe Islands
+- FR (51677) - France
+- GB (27450) - United Kingdom
+- GF (77) - French Guiana
+- GG (14) - Guernsey
+- GL (33) - Greenland
+- GP (105) - Guadeloupe
+- GT (548) - Guatemala
+- GU (21) - Guam
+- HR (6774) - Croatia
+- HT (236) - Haiti
+- HU (3571) - Hungary
+- IE (139) - Ireland
+- IM (87) - Isle of Man
+- IN (155570) - India
+- IS (147) - Iceland
+- IT (18415) - Italy
+- JE (5) - Jersey
+- JP (146883) - Japan
+- KR (35583) - South Korea
+- LK (1837) - Sri Lanka
+- LT (21870) - Lithuania
+- LV (6101) - Latvia
+- MA (1325) - Morocco
+- MC (29) - Monaco
+- MD (1753) - Moldova
+- MH (2) - Marshall Islands
+- MK (220) - North Macedonia
+- MP (3) - Northern Mariana Islands
+- MQ (100) - Martinique
+- MT (73) - Malta
+- MW (491) - Malawi
+- MX (144655) - Mexico
+- MY (2818) - Malaysia
+- NC (52) - New Caledonia
+- NL (4334) - Netherlands
+- NO (5132) - Norway
+- NZ (1738) - New Zealand
+- PA (729) - Panama
+- PE (96943) - Peru
+- PF (207) - French Polynesia
+- PH (2317) - Philippines
+- PK (2563) - Pakistan
+- PL (72900) - Poland
+- PM (2) - Saint Pierre and Miquelon
+- PR (177) - Puerto Rico
+- PT (206942) - Portugal
+- PW (1) - Palau
+- RE (152) - Réunion
+- RO (37915) - Romania
+- RS (1155) - Serbia
+- RU (43538) - Russia
+- SE (18815) - Sweden
+- SG (121154) - Singapore
+- SI (556) - Slovenia
+- SJ (8) - Svalbard and Jan Mayen
+- SK (5233) - Slovakia
+- SM (26) - San Marino
+- TH (903) - Thailand
+- TR (36307) - Turkey
+- UA (29571) - Ukraine
+- US (41483) - United States
+- UY (1964) - Uruguay
+- VA (1) - Vatican City
+- VI (16) - U.S. Virgin Islands
+- WF (3) - Wallis and Futuna
+- YT (21) - Mayotte
+- ZA (3920) - South Africa
 
 ## Format
 
@@ -153,7 +162,7 @@ Ready to go files in JSON, XML and CSV format.
 ## License
 
 - Original creator: Data comes from http://www.geonames.org/
-- Modifications: Transformed dataset into JSON, XML and CSV
+- Modifications: Transformed dataset into JSON, XML and CSV (see convert.rb)
 
 - Type: This work is licensed under a Creative Commons Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/
 
