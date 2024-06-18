@@ -157,7 +157,8 @@ Ready to go files in JSON, XML and CSV format.
   </object>
 ```
 
-### CSV
+### Missing data?
+Please contact geonames or ask in geonames forum https://forum.geonames.org/ for missing data. This repository is just a conversion of the original data. 
 
 ## License
 
