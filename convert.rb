@@ -5,7 +5,7 @@ require 'csv'
 require 'builder'
 require 'zip' # rubyzip
 
-# download latest allCountries from gronames.org
+# download latest allCountries from geonames.org
 file_name = 'allCountries.txt'
 data = File.open(file_name).read.split("\n")
 
