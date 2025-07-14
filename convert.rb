@@ -45,7 +45,7 @@ countries.each do |country|
       output_entry_stream.write(JSON.pretty_generate(subset)) # generated content
     end
 
-    # json
+    # xml
     xml_data = Builder::XmlMarkup.new(indent: 2)
     xml_data.instruct! :xml, encoding: 'UTF-8'
     xml_data.zipcodes do |zip|
