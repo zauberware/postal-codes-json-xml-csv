@@ -5,7 +5,7 @@ require 'csv'
 require 'builder'
 require 'zip' # rubyzip
 
-# download latest allCountries from gronames.org
+# download latest allCountries from geonames.org
 file_name = 'allCountries.txt'
 data = File.open(file_name).read.split("\n")
 
@@ -45,7 +45,7 @@ countries.each do |country|
       output_entry_stream.write(JSON.pretty_generate(subset)) # generated content
     end
 
-    # json
+    # xml
     xml_data = Builder::XmlMarkup.new(indent: 2)
     xml_data.instruct! :xml, encoding: 'UTF-8'
     xml_data.zipcodes do |zip|
