@@ -5,19 +5,22 @@
 Your search for postal-codes and geo data ends here 🎉🎉 This repository offers a comprehensive list of postal codes from around the globe in JSON, XML, and CSV formats. Ideal for applications that need simple postal code verification, data analysis, or any project that benefits from geolocation data, this repository simplifies the integration of postal code data across different software environments. Access this universal dataset today to enhance the geographical functionality of your projects with ease.
 
 ## Countries (number of postal codes)
-Last update: 2025-08-05
+Last update: 2026-03-30
 
-- DE (16477) - Germany
+- DE (23297) - Germany
 - AT (18957) - Austria
-- CH (4521) - Switzerland
+- CH (4520) - Switzerland
 - LI (13) - Liechtenstein
 - LU (4519) - Luxembourg
 
 - AD (7) - Andorra
+- AE (178171) - United Arab Emirates
+- AI (1) - Anguilla
+- AL (494) - Albania
 - AR (20260) - Argentina
 - AS (1) - American Samoa
-- AU (16873) - Australia
-- AX (37) - Åland Islands
+- AU (18521) - Australia
+- AX (37) - Åland
 - AZ (1186) - Azerbaijan
 - BD (1349) - Bangladesh
 - BE (2781) - Belgium
@@ -25,13 +28,15 @@ Last update: 2025-08-05
 - BM (112) - Bermuda
 - BR (5525) - Brazil
 - BY (3133) - Belarus
-- CA (1655) - Canada
+- CA (1657) - Canada
+- CC (1) - Cocos (Keeling) Islands
 - CL (346) - Chile
 - CN (2352) - China
 - CO (3681) - Colombia
 - CR (473) - Costa Rica
+- CX (1) - Christmas Island
 - CY (1127) - Cyprus
-- CZ (15507) - Czech Republic
+- CZ (15507) - Czechia
 - DK (1159) - Denmark
 - DO (544) - Dominican Republic
 - DZ (15951) - Algeria
@@ -39,26 +44,35 @@ Last update: 2025-08-05
 - EE (5398) - Estonia
 - ES (37867) - Spain
 - FI (3576) - Finland
-- FM (4) - Federated States of Micronesia
+- FK (1) - Falkland Islands
+- FM (4) - Micronesia
 - FO (130) - Faroe Islands
-- FR (51677) - France
+- FR (51611) - France
 - GB (27450) - United Kingdom
 - GF (77) - French Guiana
 - GG (14) - Guernsey
+- GI (1) - Gibraltar
 - GL (33) - Greenland
 - GP (105) - Guadeloupe
+- GS (1) - South Georgia and South Sandwich Islands
 - GT (548) - Guatemala
 - GU (21) - Guam
+- HK (1) - Hong Kong
+- HM (1) - Heard and McDonald Islands
+- HN (38) - Honduras
 - HR (6774) - Croatia
 - HT (236) - Haiti
 - HU (3571) - Hungary
+- ID (81058) - Indonesia
 - IE (139) - Ireland
 - IM (87) - Isle of Man
 - IN (155570) - India
-- IS (147) - Iceland
+- IO (1) - British Indian Ocean Territory
+- IS (195) - Iceland
 - IT (18415) - Italy
 - JE (5) - Jersey
 - JP (146883) - Japan
+- KE (890) - Kenya
 - KR (35583) - South Korea
 - LK (1837) - Sri Lanka
 - LT (21870) - Lithuania
@@ -68,6 +82,7 @@ Last update: 2025-08-05
 - MD (1753) - Moldova
 - MH (2) - Marshall Islands
 - MK (220) - North Macedonia
+- MO (1) - Macao
 - MP (3) - Northern Mariana Islands
 - MQ (100) - Martinique
 - MT (73) - Malta
@@ -75,16 +90,20 @@ Last update: 2025-08-05
 - MX (144655) - Mexico
 - MY (2818) - Malaysia
 - NC (52) - New Caledonia
-- NL (4334) - Netherlands
+- NF (1) - Norfolk Island
+- NL (4334) - The Netherlands
 - NO (5132) - Norway
+- NR (1) - Nauru
+- NU (1) - Niue
 - NZ (1738) - New Zealand
 - PA (729) - Panama
 - PE (96943) - Peru
 - PF (207) - French Polynesia
 - PH (2317) - Philippines
 - PK (2563) - Pakistan
-- PL (72900) - Poland
+- PL (72899) - Poland
 - PM (2) - Saint Pierre and Miquelon
+- PN (1) - Pitcairn Islands
 - PR (177) - Puerto Rico
 - PT (206942) - Portugal
 - PW (1) - Palau
@@ -92,20 +111,22 @@ Last update: 2025-08-05
 - RO (37915) - Romania
 - RS (1155) - Serbia
 - RU (43538) - Russia
-- SE (18815) - Sweden
+- SE (18870) - Sweden
 - SG (121154) - Singapore
 - SI (556) - Slovenia
 - SJ (8) - Svalbard and Jan Mayen
 - SK (5233) - Slovakia
 - SM (26) - San Marino
+- TC (1) - Turks and Caicos Islands
 - TH (903) - Thailand
-- TR (36307) - Turkey
+- TR (36307) - Türkiye
 - UA (29571) - Ukraine
-- US (41483) - United States
+- US (41490) - United States
 - UY (1964) - Uruguay
 - VA (1) - Vatican City
 - VI (16) - U.S. Virgin Islands
 - WF (3) - Wallis and Futuna
+- WS (1) - Samoa
 - YT (21) - Mayotte
 - ZA (3920) - South Africa
 
