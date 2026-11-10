@@ -5,9 +5,9 @@
 Your search for postal-codes and geo data ends here 🎉🎉 This repository offers a comprehensive list of postal codes from around the globe in JSON, XML, and CSV formats. Ideal for applications that need simple postal code verification, data analysis, or any project that benefits from geolocation data, this repository simplifies the integration of postal code data across different software environments. Access this universal dataset today to enhance the geographical functionality of your projects with ease.
 
 ## Countries (number of postal codes)
-Last update: 2026-07-31
+Last update: 2026-11-10
 
-- DE (23297) - Germany
+- DE (23296) - Germany
 - AT (19225) - Austria
 - CH (4520) - Switzerland
 - LI (13) - Liechtenstein
@@ -17,13 +17,14 @@ Last update: 2026-07-31
 - AE (178171) - United Arab Emirates
 - AI (1) - Anguilla
 - AL (494) - Albania
+- AM (772) - Armenia
 - AR (20260) - Argentina
 - AS (1) - American Samoa
-- AU (18521) - Australia
+- AU (18566) - Australia
 - AX (37) - Åland
 - AZ (1186) - Azerbaijan
 - BD (1349) - Bangladesh
-- BE (2781) - Belgium
+- BE (2785) - Belgium
 - BG (5304) - Bulgaria
 - BM (112) - Bermuda
 - BR (5525) - Brazil
@@ -82,6 +83,7 @@ Last update: 2026-07-31
 - MD (1753) - Moldova
 - MH (2) - Marshall Islands
 - MK (220) - North Macedonia
+- MN (354) - Mongolia
 - MO (1) - Macao
 - MP (3) - Northern Mariana Islands
 - MQ (100) - Martinique
@@ -107,11 +109,12 @@ Last update: 2026-07-31
 - PR (177) - Puerto Rico
 - PT (206942) - Portugal
 - PW (1) - Palau
+- PY (8644) - Paraguay
 - RE (152) - Réunion
 - RO (37915) - Romania
 - RS (1155) - Serbia
 - RU (43538) - Russia
-- SE (18870) - Sweden
+- SE (18887) - Sweden
 - SG (121154) - Singapore
 - SI (556) - Slovenia
 - SJ (8) - Svalbard and Jan Mayen
